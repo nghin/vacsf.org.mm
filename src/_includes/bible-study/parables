@@ -1,0 +1,6 @@
+<ul class="side-nav" style="padding-top: 10px;">
+      <li><a href="{{ site.projectname }}/bible-topics/parables/sower/">Parable of the sower</a><p style="font-weight: normal;">Fruitful soil is who you can be</p></li>
+      <li><a href="{{ site.projectname }}/bible-topics/parables/talents/">Parable of the talents</a><p style="font-weight: normal;">Produce all the talents you need</p></li>
+      <li><a href="{{ site.projectname }}/bible-topics/parables/evil-steward/">Parable of the evil steward</a><p style="font-weight: normal;">Buy God's kingdom with <span class="red-letter">faith</span></p></li>
+      <li><a href="{{ site.projectname }}/bible-topics/parables/the-net/">Parable of the net</a><p style="font-weight: normal;">A new and living way</p></li>
+</ul>

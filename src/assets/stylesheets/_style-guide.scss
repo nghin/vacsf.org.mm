@@ -1,0 +1,131 @@
+/* ==========================================================================
+   WEBSITE STYLE GUIDE
+   ========================================================================== */
+
+.component {
+  margin-bottom: 1em;
+  background-color: $white;
+  padding: 1em;
+  border-radius: $border-radius;
+  border: 1px solid $border-color;
+
+  div.highlighter-rouge,
+  figure.highlight {
+    margin: 0;
+    padding: 1em;
+  }
+}
+
+.component__header {
+
+  h3 {
+    margin-top: 0 !important;
+  }
+
+  p {
+    margin-top: 0;
+    font-family: $sans-serif;
+    font-size: 0.8rem;
+
+    a {
+      border-bottom-width: 0;
+    }
+
+    &.entry--last {
+      margin-bottom: 1em;
+    }
+  }
+}
+
+.component__rendered {
+
+  &--color {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+
+    @include breakpoint($medium) {
+      flex-wrap: nowrap;
+    }
+  }
+}
+
+.component__code {
+  clear: both;
+  position: relative;
+  padding-top: 3em;
+
+  &:before {
+    content: "HTML";
+    position: absolute;
+    top: 1.5em;
+    font-family: $sans-serif;
+    font-size: 0.8rem;
+    font-weight: bold;
+    text-transform: uppercase;
+  }
+}
+
+#component-select {
+  min-height: 32px;
+}
+
+
+/*
+   Color swatches
+   ========================================================================== */
+
+.color__tile {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 1%;
+  margin-bottom: 1%;
+  width: 98%;
+  height: 100px;
+  text-align: center;
+  border-radius: $border-radius;
+  border: 1px solid $border-color;
+}
+
+.color__name {
+  font-size: 0.64rem;
+  color: $text-color;
+  white-space: nowrap;
+  margin: 0 2px;
+  padding: 0 5px;
+  border: 1px solid $code-border-color;
+  background-color: $inline-code-background;
+  border-radius: $code-border-radius;
+  white-space: normal;
+}
+
+/*
+   Background colors
+   ========================================================================== */
+
+$color:
+(white-bg, $white),
+(black-bg, $black),
+(gray-bg, $gray),
+(background, $background-color),
+(text, $text-color),
+(headline, $headline-color),
+(highlighter, $highlighter-color),
+(primary, $primary-color),
+(success, $success-color),
+(warning, $warning-color),
+(danger, $danger-color),
+(info, $info-color),
+(border, $border-color),
+(link, $link-color),
+(link--hover, $link-color-hover),
+(facebook, $facebook-color),
+(twitter, $twitter-color);
+
+@each $name, $bgcolor in $color {
+
+  .color__tile--#{$name} {
+    background-color: $bgcolor;
+  }
+}

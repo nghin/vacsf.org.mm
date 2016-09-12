@@ -1,0 +1,6 @@
+<ul class="side-nav" style="padding-top: 10px;">
+      <li><a href="{{ site.projectname }}/hoc-kinh-thanh/ngu-ngon/gieo-giong/">Ngụ Ngôn Người Đi Gieo Giống</a><p style="font-weight: normal;">Bạn có thể trở nên mảnh đất tốt</p></li>
+      <li><a href="{{ site.projectname }}/hoc-kinh-thanh/ngu-ngon/ta-lang/">Ngụ Ngôn Về Các Ta Lâng</a><p style="font-weight: normal;">Gầy dựng được tất cả các ta-lâng cần thiết</p></li>
+      <li><a href="{{ site.projectname }}/hoc-kinh-thanh/ngu-ngon/quan-gia/">Ngụ Ngôn Người Quản Gia Bất nghĩa</a><p style="font-weight: normal;">Mua nước Trời bằng đức tin</p></li>
+      <li><a href="{{ site.projectname }}/hoc-kinh-thanh/ngu-ngon/luoi-ca/">Ngụ Ngôn Lưới Cá</a><p style="font-weight: normal;">Một Con Đường Mới Và Sống</p></li>
+</ul>

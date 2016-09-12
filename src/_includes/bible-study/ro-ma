@@ -1,0 +1,13 @@
+<ul class="side-nav" style="padding-top: 10px;">
+      <li><a href="{{ site.projectname }}/hoc-kinh-thanh/sach-ro-ma/01/">Chương 1</a><p style="font-weight: normal;">Sự Vâng Phục Qua Đức Tin</p></li>
+      <li><a href="{{ site.projectname }}/hoc-kinh-thanh/sach-ro-ma/02/">Chương 2</a><p style="font-weight: normal;">Sự Ăn Năn Thật</p></li>
+      <li><a href="{{ site.projectname }}/hoc-kinh-thanh/sach-ro-ma/03/">Chương 3</a><p style="font-weight: normal;">Sự Công Bình Của Đức Chúa Trời Cho Mọi Kẻ Tin</p></li>
+      <li><a href="{{ site.projectname }}/hoc-kinh-thanh/sach-ro-ma/04/">Chương 4</a><p style="font-weight: normal;">Luật Pháp Đem Lại Sự Rủa Xả</p></li>
+      <li><a href="{{ site.projectname }}/hoc-kinh-thanh/sach-ro-ma/05/">Chương 5</a><p style="font-weight: normal;">Món Quà Của Ân Điển</p></li>
+      <li><a href="{{ site.projectname }}/hoc-kinh-thanh/sach-ro-ma/06/">Chương 6</a><p style="font-weight: normal;">Chết Trong Chúa, Sống Trong Chúa</p></li>
+      <li><a href="{{ site.projectname }}/hoc-kinh-thanh/sach-ro-ma/07/">Chương 7</a><p style="font-weight: normal;">Để Có Kết Quả Cho Chúa: Hãy Chết Về Luật Pháp</p></li>
+      <li><a href="{{ site.projectname }}/hoc-kinh-thanh/sach-ro-ma/08/">Chương 8</a><p style="font-weight: normal;">Không Còn Sự Đoán Phạt</p></li>
+      <li><a href="{{ site.projectname }}/hoc-kinh-thanh/sach-ro-ma/09/">Chương 9</a><p style="font-weight: normal;">Quyền Tể Trị Của Chúa</p></li>
+      <li><a href="{{ site.projectname }}/hoc-kinh-thanh/sach-ro-ma/10/">Chương 10</a><p style="font-weight: normal;">Đừng Tìm Sự Công Bình Của Chính Mình</p></li>
+      <li><a href="{{ site.projectname }}/hoc-kinh-thanh/sach-ro-ma/11/">Chương 11</a><p style="font-weight: normal;">Cứu Rỗi Bởi Ân Điển</p></li>
+</ul>

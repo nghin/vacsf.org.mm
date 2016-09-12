@@ -1,0 +1,13 @@
+<p style="font-style: italic;"><a style="color: #ff0000;" href="{{ site.projectname }}/hoc-kinh-thanh/suy-gam/bap-tem/">(Bấm vào đây để đọc tiếng Việt)</a></p>
+<ul class="side-nav" style="padding-top: 10px;">
+      <li style="padding: 5px; border-top: 1px solid #cccccc;"><a href="{{ site.projectname }}/bible-topics/meditations/baptism/history/">History</a> - The History of Baptism</li>
+      <li style="padding: 5px; border-top: 1px solid #cccccc;"><a href="{{ site.projectname }}/bible-topics/meditations/baptism/purposes/">Purpose</a> - Baptizing for Different Purposes</li>
+<ul style="margin-bottom: 0px;">
+      <li style="padding: 5px; border-top: 1px solid #cccccc;"><a href="{{ site.projectname }}/bible-topics/meditations/baptism/purposes/john/">John's Baptism</a> - John Identified the Messiah to Israel</li>
+      <li style="padding: 5px; border-top: 1px solid #cccccc;"><a href="{{ site.projectname }}/bible-topics/meditations/baptism/purposes/jesus/">Jesus's Baptism</a> - Jesus baptized by fire and the Holy Spirit</li>
+      <li style="padding: 5px; border-top: 1px solid #cccccc;"><a href="{{ site.projectname }}/bible-topics/meditations/baptism/purposes/apostle/">The Apostle's Baptism</a> - Peter and the Other Apostles Were Marking the End of Legalism</li>
+      <li style="padding: 5px; border-top: 1px solid #cccccc;"><a href="{{ site.projectname }}/bible-topics/meditations/baptism/purposes/paul/">Paul's Baptism</a> - Paul’s Baptism Was About New Life</li></ul>
+      <li style="padding: 5px; border-top: 1px solid #cccccc;"><a href="{{ site.projectname }}/bible-topics/meditations/baptism/salvation/">Salvation</a> - Is Water Baptism Essential to Salvation</li>
+      <li style="padding: 5px; border-top: 1px solid #cccccc;"><a href="{{ site.projectname }}/bible-topics/meditations/baptism/in-whose-name/">In Whose Name ...</a> - Baptizing in One Name or All Three?</li>
+      <li style="padding: 5px; border-top: 1px solid #cccccc;"><a href="{{ site.projectname }}/bible-topics/meditations/baptism/summary/">Summary</a> - Baptism deserves serious consideration</li>
+</ul>

@@ -1,0 +1,99 @@
+# Primary home navigation links
+
+home-primary:
+  - title: "Bible Studies"
+    url: /bible-studies/
+  - title: "Home"
+    url: /
+
+
+# Secondary home navigation links
+
+home-secondary:
+  - title: "About"
+    url: /about/
+  - title: "Contact"
+    url: /contact/
+  - title: "FAQs"
+    url: /faqs/
+
+
+# Masthead navigation links
+
+masthead:
+  - title: "About"
+    url: /about/
+  - title: "Contact"
+    url: /contact/
+  - title: "Bible Studies"
+    url: /bible-studies/
+  - title: "Blog Articles"
+    url: /
+
+
+# Primary site navigation links (overlay)
+
+primary:
+  - title: "Bible Studies"
+    url: /bible-studies/
+    img: bible-studies-menu-image.jpg
+    excerpt: "Studies of a few of Paul's great epistles"
+  - title: "Blog Articles"
+    url: /
+    img: blog-articles-menu-thumb.jpg
+    excerpt: "Course correction for several often misinterpreted biblical concepts"
+  - title: "Vietnamese Articles"
+    url: /viet-studies/
+    img: bible-studies-menu-image.jpg
+    excerpt: "Các ý niệm phổ thông trong Kinh Thánh"
+
+
+# Secondary site navigation links (overlay)
+
+secondary:
+  - title: "About"
+    url: /about/
+  - title: "Contact"
+    url: /contact/
+  - title: "Keywords"
+    url: /tag/
+  - title: "Sitemap"
+    url: /sitemap/
+  - title: "Styles"
+    url: /styling-elements/
+
+
+# Footer navigation links
+
+colophon-menu:
+  - title: "Home"
+    url: /
+  - title: "About"
+    url: /about/
+  - title: "Contact"
+    url: /contact/
+  - title: "Bible Studies"
+    url: /bible-studies/
+
+colophon-social:
+  - title: "Twitter"
+    url: https://twitter.com/mmistakes
+    icon: icon-twitter
+  - title: "Instagram"
+    url: https://instagram.com/mmistakes
+    icon: icon-instagram
+  - title: "Tumblr"
+    url: http://mademistakes.tumblr.com/
+    icon: icon-tumblr
+  - title: "Facebook"
+    url: https://facebook.com/michaelrose
+    icon: icon-facebook
+  - title: "YouTube"
+    url: https://www.youtube.com/user/anotherjpeg
+    icon: icon-youtube
+  - title: "GitHub"
+    url: https://github.com/mmistakes
+    icon: icon-github
+  - title: "Google+"
+    url: https://plus.google.com/+MichaelRoseDesign/posts
+    icon: icon-google-plus

@@ -1,0 +1,8 @@
+<ul class="side-nav" style="padding-top: 10px">
+      <li><a href="{{ site.projectname }}/hoc-kinh-thanh/sach-ga-la-ti/01/">Chương 1</a><p style="font-weight: normal;">Sự Làm Sai Lạc Tin Lành</p></li>
+      <li><a href="{{ site.projectname }}/hoc-kinh-thanh/sach-ga-la-ti/02/">Chương 2</a><p style="font-weight: normal;">Sự Cậy Vào Luật Pháp Là Nghịch Lại Với Sự Xưng Công Binh Bởi Đức Tin</p></li>
+      <li><a href="{{ site.projectname }}/hoc-kinh-thanh/sach-ga-la-ti/03/">Chương 3</a><p style="font-weight: normal;">Luật Pháp Không Thể Dẫn Đến Sự Công Bình</p></li>
+      <li><a href="{{ site.projectname }}/hoc-kinh-thanh/sach-ga-la-ti/04/">Chương 4</a><p style="font-weight: normal;">Sự Lệ Thuộc Vào Luật Pháp Được Chấm Dứt Khi Đấng Christ Đến</p></li>
+      <li><a href="{{ site.projectname }}/hoc-kinh-thanh/sach-ga-la-ti/05/">Chương 5</a><p style="font-weight: normal;">Bước Đi Trong Thánh Linh Đối Với Sự Cậy Vào Luật Pháp</p></li>
+      <li><a href="{{ site.projectname }}/hoc-kinh-thanh/sach-ga-la-ti/06/">Chương 6</a><p style="font-weight: normal;">Gánh Nặng Của Sự Lệ Thuộc Vào Luật Pháp</p></li>
+</ul>

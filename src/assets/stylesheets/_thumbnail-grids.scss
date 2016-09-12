@@ -1,0 +1,53 @@
+/* ==========================================================================
+   THUMBNAIL GRIDS
+   ========================================================================== */
+
+/* Thumbnail image grid (default content width) */
+
+/**
+ *
+ * Example usage:
+ *  <ul class="th-grid">
+ *    <li><a href="#"><img src="image.jpg" alt=""></a></li>
+ *    <li><a href="#"><img src="image.jpg" alt=""></a></li>
+ *    <li><a href="#"><img src="image.jpg" alt=""></a></li>
+ *  </ul>
+ *
+ */
+
+.th-grid {
+  display: flex;
+  margin-left: -0.5vw;
+  margin-right: -0.5vw;
+  padding-left: 0; // reset
+  flex-wrap: wrap;
+
+  li {
+    list-style: none;
+    flex: auto;
+    margin: 0.5vw !important; // override
+    width: 100px;
+
+    @include breakpoint($small) {
+      max-width: 250px;
+    }
+  }
+
+  a {
+    border-bottom-width: 0 !important; // override
+
+    img {
+
+      /* hover state */
+      &:hover {
+        box-shadow: 0 0 10px rgba(#000, 0.5);
+      }
+    }
+  }
+
+  img {
+    width: 100%;
+    height: auto;
+    border-radius: $border-radius;
+  }
+}

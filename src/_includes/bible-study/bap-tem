@@ -1,0 +1,12 @@
+<ul class="side-nav" style="padding-top: 10px;">
+      <li style="padding: 5px; border-top: 1px solid #cccccc;"><a href="{{ site.projectname }}/hoc-kinh-thanh/suy-gam/bap-tem/lich-su/">Lịch Sử</a> - Lịch Sử Phép Báp-têm</li>
+      <li style="padding: 5px; border-top: 1px solid #cccccc;"><a href="{{ site.projectname }}/hoc-kinh-thanh/suy-gam/bap-tem/muc-dich/">Mục Đích</a> - Phép Báp-têm cho những mục đích khác nhau</li>
+<ul style="margin-bottom: 0px;">
+      <li style="padding: 5px; border-top: 1px solid #cccccc;"><a href="{{ site.projectname }}/hoc-kinh-thanh/suy-gam/bap-tem/muc-dich/giang/">Phép Báp-têm của Giăng</a> - Giăng chỉ cho Israel Đấng Mê-si</li>
+      <li style="padding: 5px; border-top: 1px solid #cccccc;"><a href="{{ site.projectname }}/hoc-kinh-thanh/suy-gam/bap-tem/muc-dich/chua-gie-su/">Phép Báp-têm của Chúa Giê-su</a> - Chúa Giê-su làm phép bằng lửa và Thánh Linh</li>
+      <li style="padding: 5px; border-top: 1px solid #cccccc;"><a href="{{ site.projectname }}/hoc-kinh-thanh/suy-gam/bap-tem/muc-dich/su-do/">Phép Báp-têm của các Sứ Đồ</a> - Phi-e-rơ và các Sứ Đồ khác đánh dấu sự cuối cùng của luật pháp</li>
+      <li style="padding: 5px; border-top: 1px solid #cccccc;"><a href="{{ site.projectname }}/hoc-kinh-thanh/suy-gam/bap-tem/muc-dich/phao-lo/">Phép Báp-têm của Phao-lô</a> - Phép Báp-têm của Phao-lô nói về Sự Sống Mới</li></ul>
+      <li style="padding: 5px; border-top: 1px solid #cccccc;"><a href="{{ site.projectname }}/hoc-kinh-thanh/suy-gam/bap-tem/cuu-roi/">Phép Báp-têm và sự cứu rỗi</a> - Phép Báp-têm có cần thiết cho sự cứu rỗi không?</li>
+      <li style="padding: 5px; border-top: 1px solid #cccccc;"><a href="{{ site.projectname }}/hoc-kinh-thanh/suy-gam/bap-tem/trong-danh/">Nhân Danh Ai...</a> - Làm phép Báp-têm nhân danh một hoặc cả ba Ngôi Đức Chúa Trời?</li>
+      <li style="padding: 5px; border-top: 1px solid #cccccc;"><a href="{{ site.projectname }}/hoc-kinh-thanh/suy-gam/bap-tem/ket-luan/">Kết Luận</a> - Sự quan trọng của phép báp-têm</li>
+</ul>

@@ -1,0 +1,10 @@
+<footer id="colophon" class="colophon">
+  <nav class="container">
+    <ul class="colophon__menu">
+      {% for link in site.data.navigation.colophon-menu %}
+        <li class="colophon__menu-item"><a href="{{ site.url }}{{ link.url }}">{{ link.title }}</a></li>
+      {% endfor %}
+    </ul>
+    <p class="colophon__copyright">Created with &hearts; by {{ site.owner.name }} with <a href="http://jekyllrb.com/" rel="nofollow">Jekyll</a> based on <a href="http://mademistakes.com/">MADE MISTAKES</a>&nbsp;&mdash;&nbsp;Thank You.</p>
+  </nav>
+</footer>
