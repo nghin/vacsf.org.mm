@@ -17,6 +17,8 @@ comments: true
 
 This article will show that the very idea is a worldly one, but it is at the core of work-based religion.
 
+[(<u><em>Bấm vào đây để đọc tiếng Việt</em></u>)]({{ site.url }}{% post_url 2015-10-19-Phan-thuong-tren-troi %})`
+
 > The one who plants and the one who waters work as one, but each will receive his reward according to his work. (I Corinthians 3:8)
 
 <div>
