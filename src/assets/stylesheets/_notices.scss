@@ -12,7 +12,7 @@
 
 @mixin notice($notice-color) {
   margin: 2em 0;
-  padding: 1em;
+  padding: 0 1em 1em 1em;
   background-color: mix(#fff, $notice-color, 90%);
   border-top: 0.25em solid mix(#fff, $notice-color, 50%);
   border-bottom: 0.25em solid mix(#fff, $notice-color, 50%);

@@ -1,7 +1,7 @@
 ---
 title: "Can Man Love God?"
 headline: "Can Man Love God?"
-excerpt: '<em>"Love the Lord your God with all your heart and with all your soul and with all your strength and with all your mind" (Luke_10:27)"</em>'
+excerpt: "<em>Love the Lord your God with all your heart and with all your soul and with all your strength and with all your mind (Luke_10:27)</em>"
 modified: 2016-08-08T12:14:45-04:00
 image: 
   feature: loving-God-feature.jpg

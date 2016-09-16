@@ -1,8 +1,7 @@
 ---
-title: "Galatians Chapter 1"
-excerpt: "Paul starts out with an assertion of his apostleship. His greeting of grace and peace though typical of his writing, is a direct challenge or reminder to the Galatians that they need God's grace, not works, and they cannot have peace if they revert back to the law."
+title: "Galatians Chapter 2"
+excerpt: "His co-ordinate authority as apostle of the circumcision recognized by the apostles. Proved by his rebuking Peter for temporizing at Antioch: his reasoning as to the inconsistency of Judaizing with justification by faith."
 image: 
-  feature: galatians-chapter-feature.jpg
   teaser: galatians-chapter-teaser.png
 tags: [galatians, bible-studies]
 featured: false
@@ -17,125 +16,84 @@ comments_locked: false
 
 {{ page.excerpt | markdownify }}
 
-He was so shocked the Galatians so quickly returned to the Mosaic law system, and he calls that the perversion of the gospel: the mixing of works with grace. He warned them of anathema, translated as eternal damnation in some translation, if they pursue a gospel that is not based on grace alone.
-
 <em>(Bấm vào đây để đọc tiếng Việt)</em>
 
-> <sup>1</sup>From Paul, an apostle (not from men, nor by human agency, but by Jesus Christ and God the Father who raised him from the dead) <sup>2</sup>and all the brothers with me, to the churches of Galatia. <u><sup>3</sup>Grace and peace</u> to you from God the Father and our Lord Jesus Christ,
+## Paul's attempt in preserving the gospel
+
+> <sup>1</sup>Then after fourteen years I went up to Jerusalem again with Barnabas, taking Titus along too. <sup>2</sup>I went there because of a revelation and presented to them the gospel that I preach among the Gentiles. But I did so only in a <u>private meeting</u> with the influential people, to make sure that I was not running—or had not <u>run—in vain</u>.
 
 <div>
 <p>
 <img alt src="{{ site.url }}/assets/images/different-gospel.jpg" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 136px; padding: 0px; float: left;">
-At this point in time, Jerusalem and Judaism were still prominent in the very young Christian church. Hence arose a question of Paul’s authority and apostleship. Much of Paul’s teaching in this letter has to do with steering them from the Old Covenant’s way of relating to God. Once again, Paul greeted them with the “<u>Grace and peace</u>” salutation. But grace didn’t mean much to a Jew. For thousands of years they related to Him through a system of law, and wherever there was law, there could be neither grace, nor peace.
+After fourteen years, since his conversion, Paul visited Jerusalem (also mentioned in Acts 15:1-4) at the same time when the church and apostles council met to decide that Gentile Christians didn’t need to be circumcised.
 </p>
 </div>
 
-What do grace and peace mean to us? Do we only pay lip service to them, or do we live our Christian lives in a relationship with God that is consistent with these characteristics that are supposed to be ours?
+The council’s decision did not go as far as to show that the Mosaic institution itself is at an end. The important point here is: The Galatians were Judaizing, not because the Jewish law was imposed by authority of the Church as necessary to Christianity, but because they thought it necessary to be observed by those who aspired to higher perfection (Jamieson, Fausset, and Brown).
 
-What makes us afraid of God? What system of theology that perpetuates a fear of God that He moved heaven and earth to dispel, including sending His own Son to the cross for us?
+Paul came to Jerusalem to meet with the apostles to communicate with them the gospel he preached to the Gentiles. He wanted to make sure this gospel would not be perverted, by the imposing of Mosaic laws upon Gentile Christians, and that would have made all his effort to run about to preach the gospel of Jesus Christ become wasted, and <u>his toiling in vain</u>.
 
-> who gave himself for our sins to <u>rescue</u> us from this present evil age according to the will of our God and Father,
+So though the council made a decision to spare the Gentiles from Mosaic law, it did not achieve what was in Paul’s mind concerning the Jewish Christians; the decree did not at all disapprove of their view—that the Jewish law would bring them to a higher state of spiritual perfection (we talked about this "being made perfect" business in the last chapter). We modern Christians fall into a more subtle trap of this legalism, since we don't have clearly spelled out rules of conducts, we create vague laws that effectively undermine the all-sufficiency of the cross of Christ; or we simply reduce the assurance of salvation to the theoretical, academic realm.
 
-To be <u>rescued</u> means to be completely unable to do anything to save ourselves. This requires a simple childlike faith. When a Christian, knowingly or unknowingly, engage in some actions to make himself acceptable to God, he’s indulging in his spiritual pride. If he was so helpless he couldn’t save himself, how is he now able to do what he couldn’t do before? Galatians 3:3, a few chapters later, discounts this notion beautifully: <em>“Are you so foolish? Although you began with the Spirit, are you now trying to <u>finish</u> by human effort?”</em>
+There is a law outside of the Jewish realm that is yet even more sinister: God may have forgiven you but He's not entirely pleased with you until ... (you have done this or done that). I'm always of a belief that a Christian only knows of his salvation as far as he knows how God accepts him. If he feels he's still somehow not godly enough, not sanctified enough, not holy enough, that God is still not satisfied with him, salvation is just a nice word without a reality. So for the past many decades, the weary Christian was always searching for that elusive place where he can be completely at ease with his Savior, or to realize the rest that Paul advised him to make every effort to enter (Hebrews 4:11). And if preachers believe it, they must also make every effort to preach that rest.
 
-Let's take a look at some other translations:
+## Legal bondage
 
-King James Version: <em>"Are ye so foolish? having begun in the Spirit, are ye now <u>made perfect</u> by the flesh?"</em>
+> <sup>3</sup>Yet not even Titus, who was with me, was compelled to be circumcised, although he was a Greek. <sup>4</sup>Now this matter arose because of the false brothers with false pretenses who slipped in unnoticed <u>to spy on our freedom</u> that we have in Christ Jesus, to <u>make us slaves</u>. <sup>5</sup>But we did not surrender to them even for a moment, <u>in order that the truth of the gospel would remain with you.</u>
 
-New International Version: <em>"After beginning with the Spirit, are you now trying to <u>attain your goal</u> by human effort?"</em>
+Paul must have brought Titus along for a purpose: to show that God is saving him, a Gentile, just fine without circumcision. Titus is to be set free from these legal bondage. Had Paul given in, letting Titus be circumcised, the faith of the whole section of Christ’s body, the Gentile believers, might be in jeopardy.
 
-We notice these keywords: "finish," "made perfect," and "attain your goal."
+Paul speaks of the freedom in Christ which Jesus promised long ago in John 8:32, "... you will know the truth, and the truth will set you free.” And the spies who tried to bring the Galatian Christian back to slavery, the slavery under "precept upon precept," are alive and well today in our churches, in books, radio, and the internet. It's incredible but true that many Christians actually preach against this freedom.
 
-All these words imply something is unfinished, something not yet perfect, or some goal not yet realized. I hope we see the danger lurking here, the tiny bit of the yeast of the Pharisee lurks in pious sounding words but empty of content, or worse, can lead Christians down the wrong path.
+To surrender, to let Titus be circumcised, runs the risk of the truth of <u>the gospel might not remain</u> with the Galatians, because this truth runs against the grain of legalism.
 
-To begin with the Spirit must mean to end with our fleshly effort, to walk by faith, and nothing else, not even the least amount of work (to get on God’s good side). A rescued person continues to need rescueing until the Lord takes him home. To attain the goal, as stated in the verse above, is to walk the rest of the way until we put on the crown of glory. Some ... foolish Christians believe there is something they can do as they try to finish what Christ started but not yet finished, as if this goal, this crown of glory, this righteousness, depends on what they do since the day they’re saved.
+## The yeast of the Pharisees
 
-This is expressly forbidden. Begin with the Spirit, so end with the Spirit. Begin with grace, end with grace.
+> <sup>6</sup>But from those who were <u>influential</u> (whatever they were makes no difference to me; God shows no favoritism between people)—those influential leaders <u>added nothing to my message</u>. <sup>7</sup>On the contrary, when they saw that I was entrusted with the gospel to the uncircumcised just as Peter was entrusted with the gospel to the circumcised <sup>8</sup>(for he who empowered Peter for his apostleship to the circumcised also empowered me for my apostleship to the Gentiles) <sup>9</sup>and when James, Cephas, and John, who had a reputation as pillars, recognized the grace that had been given to me, they gave to Barnabas and me the right hand of fellowship, agreeing that we would go to the Gentiles and they to the circumcised. <sup>10</sup>They requested only that we remember the poor, the very thing I also was eager to do.
 
-There is yet another verse that speaks of the same thing: <em>“For the righteousness of God is revealed in the gospel from faith to faith, just as it is written, “The righteous by faith will live.” (Romans 1:17—NET)”</em> Some will inevitably say: "But your work will have to accompany your faith." To this I will answer: If there is a work the Lord has prepared for you to do, do it with all your heart, but if what you do, or not do, become the basis for your salvation, or your fellowship with God, you're walking by the flesh, not faith.
+There is not much to add to what Paul is saying here, except that he officially declared that he's endorsed by the other apostles who were before him, and perhaps more importantly that they "<u>added nothing to his message</u>."
 
-I took a long detour to hopefully setup the stage for the rest of this Pauline discourse to show the various signs, or markers, of legalism that always try to undermine the centrality of the cross, the all-sufficiency of the Lamb that was slain for our salvation.
+To Paul's contemporary, the council's decision of not requiring circumcision of Gentile believers was a major event, but to Paul it was inconsequential, or perhaps even borders on damaging the gospel message that he took time to explain to the "<u>influential</u>" people in a "<u>private meeting</u>," a meeting of pillars which Paul hoped to influence to get them back on the right path, so that they won't undo and make vain all his running all over to share this great news that he couldn't contain. As a matter of fact, Paul didn't even mention the council's decree in this epistle.
 
+If the blood of the Lamb was sufficient for mankind for salvation and for perfect holiness so they may be presented before the throne of grace, why this circumcision business, or anything like it for that matter? Unless they think otherwise, that Christ's finished work on the cross wasn't really finished, and they must add to it, to "<u>attain their goal</u>," to "<u>bring it to completion</u>", as Paul cynically talked of it in Galatians 3:3.
 
-> <sup>5</sup>to whom be glory forever and ever! Amen.
+So what has the council's decision added to Paul's gospel message? Nothing.
 
-When work, even in the least amount, is introduced into our Christian life, much like yeast added to dough, we are robbing God of some of His glory. No yeast is allowed, because a tiny bit of it will spoil the whole batch of dough, a tiny bit of work will spoil your faith. This is why the bread we receive at communion is a yeast-free bread, just like the bread used in the Hebrews’ Passover.
+## Paul Rebukes Peter
 
-When work is introduced, there will be praise of men, awards and recognition, but in one of Jesus’ parables, he stated that a servant only does his job, and should expect no reward. <u>When we relate to God through the law, God’s glory becomes a fearful thing</u>, much like the scene around Sinai when God in His glory was about to hand down the ever-condemning document called “The Ten Commandments.” Having it delivered to mankind and letting them try it out for a time, He declared: all of you must acknowledge you have sinned and fallen short of my glory. Being the all-knowing God, He knew this already, but he had to use the law to make them realize their wretched condition.
+> <sup>11</sup>But when Cephas came to Antioch, I opposed him to his face, because he had clearly done wrong. <sup>12</sup>Until certain people came from James, he had been eating with the Gentiles. But when they arrived, he stopped doing this and separated himself because he was afraid of those who were pro-circumcision. <sup>13</sup>And the rest of the Jews also joined with him in this hypocrisy, so that even Barnabas was led astray with them by their hypocrisy. <sup>14</sup>But when I saw that they were not behaving consistently with the truth of the gospel, I said to Cephas in front of them all, “If you, although you are a Jew, live like a Gentile and not like a Jew, how can you try to force the Gentiles to live like Jews?”
 
-If we however choose to <u>relate to God through grace</u>, we will be covered in the blood of the Lamb, with full measure of God’s righteousness given to us freely, <u>we can bask in His glory</u> and see Him with unveiled faces.
+If the legalists were powerful during Jesus' time, still they are at the time of this epistle; powerful enough to threaten the mighty Peter, and the mature Barnabas; and even now.
 
-Paul seemed to be in a hurry to get to the heart of the matter, he forgot to give the usual thanks for their faith and love, etc. Perhaps he felt such zeal for God’s glory being expressed in verse 5 above. He felt the pure gospel of the “grace” of God he worked so hard to teach these Galatians, was being abandoned for some other false gospel. Watch his astonishment of how quickly they are going astray:
+According to Jamieson, Fausset, and Brown, but we don't need them to know this, that Paul's contemporary thought the Jewish law and ordinances would make them more spiritual, attain a higher level of perfection. This drive for higher perfection is prevalent throughout Christiandom and through all the ages. But this begs the question: What part of us that Christ's blood missed that demanded sacrifices from fallen flesh?
 
-> <sup>6</sup>I am astonished that you are so quickly deserting the one who called you by the grace of Christ and are following a different gospel— <sup>7</sup>not that there really is another gospel, but there are some who are disturbing (or confusing) you and wanting to distort the gospel of Christ.
+## Jews and Gentiles Are Justified by Faith
 
-<u>How quickly</u> were they abandoning the grace of Christ? According to some sources, they might have been lured away by the Jewish seducers anywhere from one to three years after Paul left them.
+> <sup>15</sup>We are Jews by birth and not Gentile sinners, <sup>16</sup>yet we know that no one is justified by the works of the law but by the faithfulness of Jesus Christ. And we have come to believe in Christ Jesus, so that we may be justified by the faithfulness of Christ and not by the works of the law, because by the works of the law no one will be justified.
 
-The Greek used in <em><u>“you are so quickly deserting,”</em></u> or in <em><u>“ye are so soon removed from him (KJV)”</em></u> might have meant they shifted their ground, or changed their foundation. The accusation of their following a different gospel is a serious one, as we shall see later that this different gospel has to do with their going back to the law.
+Note Paul's rhetorical statement calling himself and his Jewish counterparts "<u>not Gentile sinners</u>." Paul knows all too well "all have sinned and fallen short of God's glory." Remember the gospel passage where the religious man beat his chest calling himself not a sinner like some others? The law, or the use of the law, to appear righteous before God, does nothing but give its adherers a false sense of security, a self-righteousness that blinds them to their need of God's grace.
 
-The <em><u>“grace of Christ”<em></u> is the only instrument by which God calls us to salvation, and beyond, as it commands us to live in it, to live in the grace of Christ.
+We are justified by "the faithfulness of Christ," but frequently hear from my fellow believers that we are justified by our faithfulness. No, we have faith in Christ, because He's faithful until the point of death on the cross. We didn't sing the hymn "How great is the saved sinners' faithfulness," but we sing of God's faithfulness.
 
-<em><u>“Confusion”</em></u> is evident when those that are under our leadership are confused whether they’re saved or not. Confusion is inevitable when we don’t make the assurance of salvation the main focus of our ministries. And if Christians are not sure of their salvation, what quality is the work they will be doing for God? Will God accept what they do, or what they purport to do, for Him? If they are not sure of their salvation, what then is the relationship between them and the One they think they’re serving? Who is God to them? What motivates them to do what they do? Fear, or the joy of salvation?
+And finally this beautiful declaration from the revelation Paul received: "<em><u>by the works of the law no one will be justified.</u></em>"
 
-I hope these questions help strengthen my argument that the Utmost Service For His Highest (Thomas A. Kempis might learn something from this lesson) would be to help Christians become so grounded in Christ and in what He did for them. The Galatians though acknowledging Christ, they insisted on circumcision and Jewish ordinances. We modern Christians must be careful not to add anything to the gospel of the PURE grace of Christ, or add anything that puts doubt of a perfect salvation in the heart of a child of God.
+## Christ encourages sin? Absolutely not!
 
-> <sup>8</sup>But even if we (or an angel from heaven) should preach a gospel contrary to the one we preached to you, let him be condemned to hell!
+> <sup>17</sup>But if while seeking to be justified in Christ we ourselves have also been found to be sinners, is Christ then one who encourages sin? Absolutely not! <sup>18</sup>But if I build up again those things I once destroyed, I demonstrate that I am one who breaks God’s law.
 
-“We” includes all the apostles, and even an angel from heaven, no one, absolutely no one, is allowed to preach “another” gospel.
+As we know, the Jews don't consider themselves sinners, saved for the Gentiles, so if they seek to be justified by Christ, they admit that they are sinners. To them this is a strange dilemma: I'm a Jews therefore I'm not a sinner, but now I want to trust Christ, I become a sinner, so they question whether Christ is promoting sins. Paul was trying to explain to them that this is not the case. And the rhetorical phrase Paul said here "But if I build up again those things I once destroy," he was speaking as if he was Peter. This can be paraphrased like this: Peter, you worked hard to proclaim the Perfect Sacrifice that would abolish the Jewish sacrificial system, now are you trying to bring it back by observing circumcision again? You, Peter, then become a law breaker, you break the new law that says: only your faith in the Lamb of God can justify those that believe. 
 
-The true gospel is this: John 3:16, <em>“For God so loved the world ... whosoever believes ... will have eternal life.”</em> The period at the end of the verse means there is nothing else required for this salvation.
+## Die to the law to live to God
 
-Paul warned us of “<u>God’s curse</u>,” or “<u>anathema</u>,” which means “<u>eternally condemned</u>,” if we undermine the gospel of pure grace.
+> <sup>19</sup>For through the law I died to the law so that I may live to God. <sup>20</sup>I have been crucified with Christ, and it is no longer I who live, but Christ lives in me. So the life I now live in the body, I live because of the faithfulness of the Son of God, who loved me and gave himself for me.
 
-Jesus fulfilled all the requirements of the law by dying once for all, so the return to the law would require that He must die again, and again, for believers, because they will still be sinning. God gave us a forewarning in Exodus when Moses struck the rock, the foreshadow of our Redeemer, twice. God forbade Moses from entering the Promised Land to show how serious he is about the danger of this false gospel (another reason might be that the forbidding of Moses, the deliverer of the law, to enter the Promised Land is to show it has no role in God’s kingdom, as all of the law deals with our fallen nature, and not the one born from above). There is no place for the law in the heart of one born by the Spirit.
+If you refuse to die to the law, you cannot live to God. It's no longer I who try to lead a perfect Christian life, but it's the Perfect Son of God who's doing it for me, just as He did on the cross. So now how do I live? I live by continuing to believe, to receive what Christ did and will be doing through me until the day I die, to rely on His faithfulness and not mine, on His love and sacrifice, and not anything this flesh can offer, because it is no longer I who live, but Christ in me, the hope of glory. Besides what can a dead man do?  (how's this for a paraphrase  :)
 
-> <sup>9</sup>As we have said before, and now I say again, if any one is preaching to you a gospel contrary to what you received, let him be condemned to hell! <sup>10</sup>Am I now trying to gain the approval of people, or of God? Or am I trying to please people? If I were still trying to please people, I would not be a slave of Christ!
+## It's God's grace or Christ died for nothing
 
-Paul was not concerned about the unbelieving world, or even the enemy of Christ, but about a more dangerous type: those that professed Christ but are now trying to promote another gospel from within.
+> <sup>21</sup>I do not set aside God’s grace, because if righteousness could come through the law, then <u>Christ died for nothing!</u>
 
-### Paul Called by God
-
-> <sup>11</sup>Now I want you to know, brothers and sisters, that the gospel I preached is not of human origin. <sup>12</sup>For I did not receive it or learn it from any human source; instead I received it by a revelation of Jesus Christ.
-
-Not of human origin. Not taught. But by <u>revelation</u>. When something is taught, it is implied that it can be communicated from a man to another man; or in other words: it is of human origin. But what Paul received is none of the above. Therefore he cannot teach it to us; what he received, he can only relay back to us, exactly as God intended it.
-
-But we must know what the gospel is, and the entire Bible is not the gospel, only a part, a very miniscule part of it is the gospel. The gospel is Jesus, the Christ, and everything else, from Samson and Delilah to David and Bathsheba, is the backdrop against which God brings about His salvation plan for mankind.
-
-We make the fatal mistake of thinking the gospel is of human origin when we focus on thousands of other events recorded in the Bible, and make them virtually equal, or even superior, to the core of the gospel: “For God so loved the world ...” We relegate the gospel to Billy Graham, and we focus on everything else but ... saved for Christmas.
-
-> <sup>13</sup>For you have heard of my former way of life in Judaism, how I was savagely persecuting the church of God and trying to destroy it. <sup>14</sup>I was advancing in Judaism beyond many of my contemporaries in my nation, and was extremely zealous for the traditions of my ancestors. <sup>15</sup>But when the one who set me apart from birth and called me by his grace was pleased ...
-
-If God had already set Paul apart from his <u>mother’s womb</u>, Paul couldn’t have had initiated anything toward his calling; there was no obedience involved, nor any struggles, or whatsoever that may give us reasons to use him as an example to follow. He was busy persecuting Christians.
-
-As we shall see later in this book that Paul emphasized the important truth of our salvation being based on the God's promise hundreds of years before the given of the law, much like Him calling Paul from his mother's womb, so no merit can be given to any man, so no one can boast about himself concerning his salvation.
-
-This is why it is also fitting here that Paul said <u>God called him by his grace</u>; and if He does so to Paul, so will He do to us: calling us by His grace. And if this is how God saves and calls us, the typical exhortation to other believers: “Therefore, you should ...” becomes not only irrelevant, but also unbiblical. The gospel is not of human origin, it cannot be taught, but it must be revealed, and subsequently preached, not taught.
-
-> <sup>16</sup>to reveal his Son in me so that I could preach him among the Gentiles, I did not go to ask advice from any human being.
-
-Before God called Paul by his grace, Paul’s identification was one who upheld the Mosaic laws to obtain a degree of righteousness—but we know from Scriptures that he could not achieve the righteousness required by God this way—, now Jesus is revealed in him, this means he is now identified with God’s Son, that he gets his righteousness from Him.
-
-Why did Paul not find it necessary to consult or seek advice from other people, namely the other apostles? Wouldn't it make sense to collaborate with the ones who used to walk with Jesus before he was crucified? Weren't they the most qualified to collaborate with Paul on this important salvation plan? Perhaps the key answer to these questions were already given by Paul when he emphasized that the message he received was revealed to him from God; this is in great contrast with rudimentary human teaching that he will address at length in chapter 4.
-
-The gospel is God's gift to each and every person who will by faith receive it, un-altered in any shape or form, God's letter of reconciliation must be sent without any modification. But if we take a look back in time to see how God's message is "revealed" initially to Paul, and subsequently "taught" by a progression of institutions through the ages to mankind, and see how the glorious message is now covered by many thick layers of human wisdom and rudimentary teachings. The joy of salvation has now been replaced by a burden of law keeping worse than the ten commandments, they are worse because most of them tend to be ambiguous, each according to the whim of the person excercising it.
-
-No one knew this better than Paul. So it shouldn't come as a surprise that Paul knew he couldn't collaborate with other apostles or church leaders, because he knew full well they would add more clauses, more conditions, rivaling modern legal documents. The outcome of such collaboration will effectively prevent earnest seekers from believing God's pure gospel of grace, because they would be presented with something looking more like law than God's unconditional love.
-
-> <sup>17</sup>nor did I go up to Jerusalem to see those who were apostles before me, but right away I departed to Arabia, and then returned to Damascus. <sup>18</sup>Then after three years I went up to Jerusalem to visit Cephas and get information from him, and I stayed with him fifteen days. <sup>19</sup>But I saw none of the other apostles except James the Lord’s brother. <sup>20</sup>I assure you that, before God, I am not lying about what I am writing to you!
-
-There appears to be a reason for Paul to explain certain details of his journeys which seem irrelevant to the core of this epistle. According to Jamieson, Fausset and Brown (commentary), Paul expressed the independence of his apostleship from the other (super) apostles. As he said before that the gospel he received is not of human origin, and he didn’t need to consult any human beings.
-
-So these details he shared concerning his whereabouts those years are to show he didn’t get the gospel from those other apostles, never taught by any of them, but directly from God.  How significant is this? As we shall see later that Paul confronted Peter about his hypocrisy, and the issue of forcible circumcision that the “other” apostles failed to deal with in a way God intended. Perhaps he wanted them to decide whether they listen to him, or to others who might be promoting another gospel.
-
-> <sup>21</sup>Afterward I went to the regions of Syria and Cilicia. <sup>22</sup> But I was personally unknown to the churches of Judea that are in Christ. <sup>23</sup>They were only hearing, “The one who once persecuted us is now proclaiming the good news of the faith he once tried to destroy.” <sup>24</sup>So they glorified God because of me.
-
-God is to have all the glory, and let no man be praised in this heavenly task of saving men’s souls. Not even the smallest amount of merit can be counted toward the greatest of human beings.
-
-Paul, the unlikeliest of God’s ambassador, the persecutor of the church, chief of the Pharisees, who never even thought of glorifying Christ, and yet here he is. Moses, given up of all his dreams of saving his people and now leading a contented life in the desert among the heathens; delivering God’s people from Egypt was the furthest thing from his mind. Jonah, oh how he hated the people of Nineveh.  
-
-Yet these are greatest evangelists in the Bible. What are their merits? What exhortations about serving God that they adhere to? Are we concocting lessons to learn from these great (or simply ordinary) people, or to be amazed at God’s grace and mercies? Oh only if we stop praising men, them or us, and focus instead on “How can it be that thou my God shouldst die for me?”
-
-God called Paul to point the world to His Son, and the world kept their eyes fixed on the highly exalted Paul, hoping one day they will be called like him. God called one Paul, and He never did again. Our job is to fix our eyes on the One at the heart of this Pauline epistle. This epistle is not about Paul, but about the One Paul is begging us to fix our eyes on. Don’t learn from Paul. But learn of Him who died for us.
+If I but try to get even a tiny amount of righteousness by something other than the simple faith in Christ, namely the law, or anything that resembles something that undermines the all-sufficiency of Christ, <u>Christ died for nothing</u>! Before He died He said: It's finished, the work to restore man is finished, why are you still trying to act like my death is not enough? What can you do that can add to what your Creator has done, you prideful little man?
 
 {% include bible-study/bible-study-footer %}
 

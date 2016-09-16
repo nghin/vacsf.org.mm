@@ -1894,7 +1894,7 @@ tr, td, th {
 /* default notice */
 .notice {
   margin: 2em 0;
-  padding: 1em;
+  padding: 0 1em 1em 1em;
   background-color: #eaeaea;
   border-top: 0.25em solid #989898;
   border-bottom: 0.25em solid #989898; }
@@ -1926,7 +1926,7 @@ tr, td, th {
 /* info notice */
 .notice--info {
   margin: 2em 0;
-  padding: 1em;
+  padding: 0 1em 1em 1em;
   background-color: #ecf1f6;
   border-top: 0.25em solid #a2b9d4;
   border-bottom: 0.25em solid #a2b9d4; }
@@ -1958,7 +1958,7 @@ tr, td, th {
 /* warning notice */
 .notice--warning {
   margin: 2em 0;
-  padding: 1em;
+  padding: 0 1em 1em 1em;
   background-color: #fbf7e8;
   border-top: 0.25em solid #edd58e;
   border-bottom: 0.25em solid #edd58e; }
@@ -1990,7 +1990,7 @@ tr, td, th {
 /* success notice */
 .notice--success {
   margin: 2em 0;
-  padding: 1em;
+  padding: 0 1em 1em 1em;
   background-color: #ebf8f0;
   border-top: 0.25em solid #99dcb5;
   border-bottom: 0.25em solid #99dcb5; }
@@ -2022,7 +2022,7 @@ tr, td, th {
 /* danger notice */
 .notice--danger {
   margin: 2em 0;
-  padding: 1em;
+  padding: 0 1em 1em 1em;
   background-color: #f9e7e9;
   border-top: 0.25em solid #e38992;
   border-bottom: 0.25em solid #e38992; }

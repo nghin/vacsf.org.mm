@@ -1,7 +1,7 @@
 ---
 title: "Remaining In Sin"
 headline: "Remaining In Sin"
-excerpt: "<em>\"<sup>1</sup>What shall we say then? Are we to remain in sin so that grace may increase? <sup>2</sup>Absolutely not! How can we who died to sin still live in it? (Romans_6:1—NET)\"</em>"
+excerpt: "<em>&#34;<sup>1</sup>What shall we say then? Are we to remain in sin so that grace may increase? <sup>2</sup>Absolutely not! How can we who died to sin still live in it? (Romans_6:1—NET)&#34;</em>"
 modified: 2016-08-08T12:14:45-04:00
 image: 
   feature: vacsf-home-banner-02.jpg

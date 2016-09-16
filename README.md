@@ -1,23 +1,6 @@
-# [Made Mistakes](http://mademistakes.com) Source Code
+# [VACSF](http://vacsf.org) Source Code
 
-This is the source code of Made Mistakes, a personal blog and portfolio built with [Jekyll](http://jekyllrb.com) and a starter I call [Skinny Bones](https://github.com/mmistakes/skinny-bones-jekyll).
-
-*Please note: Made Mistakes hasn't been "themed" like some of my other [Jekyll repos](https://mademistakes.com/work/jekyll-themes/) and isn't compatible with the "default" GitHub Pages workflow without substantial alterations.*
-
-### Plugins Used
-
-* [Jekyll Sitemap](https://github.com/jekyll/jekyll-sitemap) (GitHub Pages supported)
-* [Jekyll Archives](https://github.com/jekyll/jekyll-archives)
-* [Jekyll Related Posts](https://github.com/jumanji27/related_posts-jekyll_plugin)
-* [Jemoji](https://github.com/jekyll/jemoji)
-
-### Images
-
-[Made Mistakes](https://mademistakes.com) has a lot of image assets. `src/assets/images/` has been split into its [own repo](https://github.com/mmistakes/made-mistakes-images) and included as a Git submodule.
-
-`page.feature.images` should be placed in `src/assets/images/feature`. These `feature` images will be converted into various sizes to be responsively served by browsers that support [`srcset` attribute](https://responsiveimages.org/).
-
-### Local Development
+This is the source code of VACSF.ORG, a church blog with [Jekyll](http://jekyllrb.com) based on [Made Mistakes](https://github.com/mmistakes/made-mistakes-jekyll.git).
 
 Let Jekyll do what it does best and transform your content into HTML. Asset management is handled by Gulp:
 

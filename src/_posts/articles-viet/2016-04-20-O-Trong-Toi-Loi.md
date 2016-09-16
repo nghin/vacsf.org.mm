@@ -1,6 +1,6 @@
 ---
 title: "Ở Trong Tội Lỗi"
-excerpt: "<em><sup>1</sup>Vậy chúng ta sẽ nói làm sao? Chúng ta phải cứ ở trong tội lỗi, hầu cho ân điển được dư dật chăng?  <sup>2</sup>Chẳng hề như vậy! Chúng ta đã chết về tội lỗi, lẽ nào còn sống trong tội lỗi nữa? (Romans<span style=\"color: rgba(0,0,0,0);\">_</span>6:1&mdash;NET)\"</em>."
+excerpt: "<em><sup>1</sup>Vậy chúng ta sẽ nói làm sao? Chúng ta phải cứ ở trong tội lỗi, hầu cho ân điển được dư dật chăng?  <sup>2</sup>Chẳng hề như vậy! Chúng ta đã chết về tội lỗi, lẽ nào còn sống trong tội lỗi nữa? (Romans<span style=&#34;color: rgba(0,0,0,0);&#34;>_</span>6:1&mdash;NET)</em>."
 image: 
   feature: art-of-surrender-feature.jpg
   teaser: surrender.jpg

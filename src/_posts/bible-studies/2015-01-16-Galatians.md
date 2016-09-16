@@ -27,23 +27,23 @@ Martin Luther said, "the little book of Galatians is my letter; I have betrothed
 
 Paul starts out with an assertion of his apostleship. His greeting of "grace and peace" though typical of his writing, is a direct challenge or reminder to the Galatians that they need God's grace, not works, and they cannot have peace if they revert back to the law. He was so shocked the Galatians so quickly returned to the Mosaic law system, and he calls that the perversion of the gospel: the mixing of works with grace. He warned them of "anathema," translated as eternal damnation in some translation, if they pursue a gospel that is not based on grace alone.
 
-## Chapter 2
+##  [<u>Chapter 2</u>]({{ site.url }}{% post_url 2015-05-19-Galatians-Chapter-02 %})
 
 His co-ordinate authority as apostle of the circumcision recognized by the apostles. Proved by his rebuking Peter for temporizing at Antioch: his reasoning as to the inconsistency of Judaizing with justification by faith.
 
-## Chapter 3
+##  [<u>Chapter 3</u>]({{ site.url }}{% post_url 2015-05-18-Galatians-Chapter-03 %})
 
 Paul scolded the Galatians for abandoning faith to follow legalism. He continues to try to convince them that justification can only be by faith, and that God's promise to save believers was given hundreds of years before the law was delivered, and God's promise cannot be broken under any circumstances. The law was given to make people realize their need of the Savior, but not for justification.
 
-## Chapter 4
+##  [<u>Chapter 4</u>]({{ site.url }}{% post_url 2015-05-17-Galatians-Chapter-04 %})
 
 Paul continued to prove to the Galatians that our subjection to the law ends at the arrival of Christ. He used the illustration of an heir's subjection to a guardian until he is of age. The Galatians's desire to be under the law is shown by the allegory of Isaac and Ishmael and therefore is inconsistent with their gospel liberty.
 
-## Chapter 5
+##  [<u>Chapter 5</u>]({{ site.url }}{% post_url 2015-05-16-Galatians-Chapter-05 %})
 
 Paul calls the Galatians to stand fast in their freedom in Christ, to stand firm against the pressure to go back to the law via circumcision (or justification based on observance of the law). To walk in the Spirit, as opposed to the keeping of the law, that they might be able to love one another, and to beaar fruit of the Spirit.
 
-## Chapter 6
+##  [<u>Chapter 6</u>]({{ site.url }}{% post_url 2015-05-15-Galatians-Chapter-06 %})
 
 Gentleness toward a weak brother. The burden of law observances. Continued warning against circumcision and legalism. Benediction.
 

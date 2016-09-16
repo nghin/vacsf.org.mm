@@ -2,7 +2,6 @@
 title: "Galatians Chapter 1"
 excerpt: "Paul starts out with an assertion of his apostleship. His greeting of grace and peace though typical of his writing, is a direct challenge or reminder to the Galatians that they need God's grace, not works, and they cannot have peace if they revert back to the law."
 image: 
-  feature: galatians-chapter-feature.jpg
   teaser: galatians-chapter-teaser.png
 tags: [galatians, bible-studies]
 featured: false
@@ -21,6 +20,8 @@ He was so shocked the Galatians so quickly returned to the Mosaic law system, an
 
 <em>(Bấm vào đây để đọc tiếng Việt)</em>
 
+## Grace and Peace
+
 > <sup>1</sup>From Paul, an apostle (not from men, nor by human agency, but by Jesus Christ and God the Father who raised him from the dead) <sup>2</sup>and all the brothers with me, to the churches of Galatia. <u><sup>3</sup>Grace and peace</u> to you from God the Father and our Lord Jesus Christ,
 
 <div>
@@ -33,6 +34,8 @@ At this point in time, Jerusalem and Judaism were still prominent in the very yo
 What do grace and peace mean to us? Do we only pay lip service to them, or do we live our Christian lives in a relationship with God that is consistent with these characteristics that are supposed to be ours?
 
 What makes us afraid of God? What system of theology that perpetuates a fear of God that He moved heaven and earth to dispel, including sending His own Son to the cross for us?
+
+## To be Rescued vs. Self Effort
 
 > who gave himself for our sins to <u>rescue</u> us from this present evil age according to the will of our God and Father,
 
@@ -56,6 +59,7 @@ There is yet another verse that speaks of the same thing: <em>“For the righteo
 
 I took a long detour to hopefully setup the stage for the rest of this Pauline discourse to show the various signs, or markers, of legalism that always try to undermine the centrality of the cross, the all-sufficiency of the Lamb that was slain for our salvation.
 
+## Work and glory
 
 > <sup>5</sup>to whom be glory forever and ever! Amen.
 
@@ -66,6 +70,8 @@ When work is introduced, there will be praise of men, awards and recognition, bu
 If we however choose to <u>relate to God through grace</u>, we will be covered in the blood of the Lamb, with full measure of God’s righteousness given to us freely, <u>we can bask in His glory</u> and see Him with unveiled faces.
 
 Paul seemed to be in a hurry to get to the heart of the matter, he forgot to give the usual thanks for their faith and love, etc. Perhaps he felt such zeal for God’s glory being expressed in verse 5 above. He felt the pure gospel of the “grace” of God he worked so hard to teach these Galatians, was being abandoned for some other false gospel. Watch his astonishment of how quickly they are going astray:
+
+## Deserting the call of grace
 
 > <sup>6</sup>I am astonished that you are so quickly deserting the one who called you by the grace of Christ and are following a different gospel— <sup>7</sup>not that there really is another gospel, but there are some who are disturbing (or confusing) you and wanting to distort the gospel of Christ.
 
@@ -79,6 +85,8 @@ The <em><u>“grace of Christ”<em></u> is the only instrument by which God cal
 
 I hope these questions help strengthen my argument that the Utmost Service For His Highest (Thomas A. Kempis might learn something from this lesson) would be to help Christians become so grounded in Christ and in what He did for them. The Galatians though acknowledging Christ, they insisted on circumcision and Jewish ordinances. We modern Christians must be careful not to add anything to the gospel of the PURE grace of Christ, or add anything that puts doubt of a perfect salvation in the heart of a child of God.
 
+## The true gospel: grace
+
 > <sup>8</sup>But even if we (or an angel from heaven) should preach a gospel contrary to the one we preached to you, let him be condemned to hell!
 
 “We” includes all the apostles, and even an angel from heaven, no one, absolutely no one, is allowed to preach “another” gospel.
@@ -89,11 +97,13 @@ Paul warned us of “<u>God’s curse</u>,” or “<u>anathema</u>,” which me
 
 Jesus fulfilled all the requirements of the law by dying once for all, so the return to the law would require that He must die again, and again, for believers, because they will still be sinning. God gave us a forewarning in Exodus when Moses struck the rock, the foreshadow of our Redeemer, twice. God forbade Moses from entering the Promised Land to show how serious he is about the danger of this false gospel (another reason might be that the forbidding of Moses, the deliverer of the law, to enter the Promised Land is to show it has no role in God’s kingdom, as all of the law deals with our fallen nature, and not the one born from above). There is no place for the law in the heart of one born by the Spirit.
 
+## Another gospel
+
 > <sup>9</sup>As we have said before, and now I say again, if any one is preaching to you a gospel contrary to what you received, let him be condemned to hell! <sup>10</sup>Am I now trying to gain the approval of people, or of God? Or am I trying to please people? If I were still trying to please people, I would not be a slave of Christ!
 
 Paul was not concerned about the unbelieving world, or even the enemy of Christ, but about a more dangerous type: those that professed Christ but are now trying to promote another gospel from within.
 
-### Paul Called by God
+## Paul Called by God
 
 > <sup>11</sup>Now I want you to know, brothers and sisters, that the gospel I preached is not of human origin. <sup>12</sup>For I did not receive it or learn it from any human source; instead I received it by a revelation of Jesus Christ.
 
@@ -103,6 +113,8 @@ But we must know what the gospel is, and the entire Bible is not the gospel, onl
 
 We make the fatal mistake of thinking the gospel is of human origin when we focus on thousands of other events recorded in the Bible, and make them virtually equal, or even superior, to the core of the gospel: “For God so loved the world ...” We relegate the gospel to Billy Graham, and we focus on everything else but ... saved for Christmas.
 
+## How Paul was called by God
+
 > <sup>13</sup>For you have heard of my former way of life in Judaism, how I was savagely persecuting the church of God and trying to destroy it. <sup>14</sup>I was advancing in Judaism beyond many of my contemporaries in my nation, and was extremely zealous for the traditions of my ancestors. <sup>15</sup>But when the one who set me apart from birth and called me by his grace was pleased ...
 
 If God had already set Paul apart from his <u>mother’s womb</u>, Paul couldn’t have had initiated anything toward his calling; there was no obedience involved, nor any struggles, or whatsoever that may give us reasons to use him as an example to follow. He was busy persecuting Christians.
@@ -110,6 +122,8 @@ If God had already set Paul apart from his <u>mother’s womb</u>, Paul couldn�
 As we shall see later in this book that Paul emphasized the important truth of our salvation being based on the God's promise hundreds of years before the given of the law, much like Him calling Paul from his mother's womb, so no merit can be given to any man, so no one can boast about himself concerning his salvation.
 
 This is why it is also fitting here that Paul said <u>God called him by his grace</u>; and if He does so to Paul, so will He do to us: calling us by His grace. And if this is how God saves and calls us, the typical exhortation to other believers: “Therefore, you should ...” becomes not only irrelevant, but also unbiblical. The gospel is not of human origin, it cannot be taught, but it must be revealed, and subsequently preached, not taught.
+
+## Paul as an apostle to the Gentiles
 
 > <sup>16</sup>to reveal his Son in me so that I could preach him among the Gentiles, I did not go to ask advice from any human being.
 
@@ -121,11 +135,15 @@ The gospel is God's gift to each and every person who will by faith receive it, 
 
 No one knew this better than Paul. So it shouldn't come as a surprise that Paul knew he couldn't collaborate with other apostles or church leaders, because he knew full well they would add more clauses, more conditions, rivaling modern legal documents. The outcome of such collaboration will effectively prevent earnest seekers from believing God's pure gospel of grace, because they would be presented with something looking more like law than God's unconditional love.
 
+## The independence of Paul's apostleship
+
 > <sup>17</sup>nor did I go up to Jerusalem to see those who were apostles before me, but right away I departed to Arabia, and then returned to Damascus. <sup>18</sup>Then after three years I went up to Jerusalem to visit Cephas and get information from him, and I stayed with him fifteen days. <sup>19</sup>But I saw none of the other apostles except James the Lord’s brother. <sup>20</sup>I assure you that, before God, I am not lying about what I am writing to you!
 
 There appears to be a reason for Paul to explain certain details of his journeys which seem irrelevant to the core of this epistle. According to Jamieson, Fausset and Brown (commentary), Paul expressed the independence of his apostleship from the other (super) apostles. As he said before that the gospel he received is not of human origin, and he didn’t need to consult any human beings.
 
 So these details he shared concerning his whereabouts those years are to show he didn’t get the gospel from those other apostles, never taught by any of them, but directly from God.  How significant is this? As we shall see later that Paul confronted Peter about his hypocrisy, and the issue of forcible circumcision that the “other” apostles failed to deal with in a way God intended. Perhaps he wanted them to decide whether they listen to him, or to others who might be promoting another gospel.
+
+## Paul as an unlikely evangelist
 
 > <sup>21</sup>Afterward I went to the regions of Syria and Cilicia. <sup>22</sup> But I was personally unknown to the churches of Judea that are in Christ. <sup>23</sup>They were only hearing, “The one who once persecuted us is now proclaiming the good news of the faith he once tried to destroy.” <sup>24</sup>So they glorified God because of me.
 
