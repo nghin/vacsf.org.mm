@@ -2,7 +2,6 @@
 title: "Romans Chapter 9"
 excerpt: "Israel, the chosen people. Born of flesh / Born of the promise. The sovereignty of God through Jacob and Esau. The sovereignty of God through Pharaoh. The sovereignty of God shown through the clay and the potter illustration. God's sovereign choice in wrath or mercy. Many are chosen but few are saved. God's righteousness is only available through faith."
 image: 
-  feature: romans-chapter-feature.jpg
   teaser: romans-chapter-teaser.png
 tags: [romans, bible-studies]
 featured: false

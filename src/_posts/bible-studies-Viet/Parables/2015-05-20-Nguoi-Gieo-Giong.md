@@ -1,0 +1,118 @@
+---
+title: "Ngụ Ngôn Người Gieo Giống"
+excerpt: "A proper understanding of this parable will relieve the believers of the confusion of which type of soil they belong to. Conventional interpretation of this parable leaves many to wonder if they're saved at all, let alone being fruitful (Matthew 13:1-23)."
+image: 
+  teaser: parable-sower-teaser.png
+tags: [parable, bible-studies]
+featured: false
+modified:
+comments: true
+feature:
+  category: ngu-ngon
+---
+
+{% include toc.html %}
+
+{{ page.excerpt | markdownify }}
+
+<em>(Bấm vào đây để đọc tiếng Việt)</em>
+
+<div>
+<p>
+<img alt src="{{ site.url }}/assets/images/TheSower-200x150.jpg" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 136px; padding: 0px; float: left;">
+I thank God for an opportunity to present a message to Pastor Robert Boston's congregation this coming Sunday December 28th, 2014. In this message, I hope to clarify, to help folks make sense of, the parable of the sower. A parable that puzzled me for decades since I became a Christian, and I wouldn't be surprise that it confounds the mind of most, if not all, Christians, too. Here's a set of slides I will use in the presentation.
+</p>
+</div>
+
+## The parable
+
+> <strong>Matthew 13:1-9</strong><br /><sup>1</sup>That same day Jesus went out of the house and sat by the lake. <sup>2</sup>Such large crowds gathered around him that he got into a boat and sat in it, while all the people stood on the shore. <sup>3</sup>Then he told them many things in parables, saying: "A farmer went out to sow his seed. <sup>4</sup>As he was scattering the seed, some fell along the path, and the birds came and ate it up. <sup>5</sup>Some fell on rocky places, where it did not have much soil. It sprang up quickly, because the soil was shallow. <sup>6</sup>But when the sun came up, the plants were scorched, and they withered because they had no root. <sup>7</sup>Other seed fell among thorns, which grew up and choked the plants. <sup>8</sup>Still other seed fell on good soil, where it produced a crop—a hundred, sixty or thirty times what was sown.<br /><sup>9</sup>Whoever has ears, let them hear.<br />...<br />
+<strong>Matthew 13:18-23</strong><br /><sup>18</sup>“Listen then to what the parable of the sower means: <sup>19</sup>When anyone hears the message about the kingdom and does not understand it, the evil one comes and snatches away what was sown in their heart. This is the seed sown along the path. <sup>20</sup>The seed falling on rocky ground refers to someone who hears the word and at once receives it with joy. <sup>21</sup>But since they have no root, they last only a short time. When trouble or persecution comes because of the word, they quickly fall away. <sup>22</sup>The seed falling among the thorns refers to someone who hears the word, but the worries of this life and the deceitfulness of wealth choke the word, making it unfruitful. <sup>23</sup>But the seed falling on good soil refers to someone who <span style="red-letter">hears the word and understands it</span>. This is the one who produces a crop, yielding a hundred, sixty or thirty times what was sown."
+
+## What type of soil are you?
+
+This parable leaves many people perplexed. How can they find out which type of soil they are? How do you judge which type a person belongs to?
+
+The traditional response is we judge a Christian by his fruit. But under what standard is the judgement based on? There is a story of a young man who took a piece of gum from the table of the house he and his father were visiting. For years afterwards, he became so tortured by this act of taking the gum from the owner without asking. And then there are others that the Bible says their conscience is seared with a hot iron. These two types of people probably cover almost entire spectrum of mankind in relation to their conscience. From which point in this spectrum is the standard derived from?
+
+### Judging by fruit is not enough
+
+According to I Corinthians 13, even folks who go as far as giving all they have to the poor, sacrifice themselves on the burning stakes, cannot base their fruitfulness on these seemingly good deeds. Jesus said the same thing of men who traveled over lands and seas to evangelize, that they might not belong to Him. Surely God's standard is different. In Luke 17:10, when people asked Jesus for a sign of the coming of the Kingdom of God, He said: "<span class="green-letter">The kingdom of God is not coming with signs to be observed.</span>" (NET) And because He also told us that the Kingdom of God is in our hearts. While a life may be considered fruitful by one person, it may not be by another, or even by himself.
+
+### Self judgement is inaccurate
+
+The person cannot judge himself for many reasons, one is his own assessment will be subjective, secondly he's advised not to lean on his own understanding, so he should let the Lord be the judge. Should he let another judge him? Same problem, the other person is equally vulnerable to faulty assessment. So the most obvious and right choice is to let the Lord be the judge. But being the most wise and loving God, will He make us guess how we can avoid being an unfruitful soil? No, He will put the cookies where the kid can reach; He will make it clear and available to anyone who wants it, because He said: seek and you shall find, knock and it shall be opened. The God of the universe is not like the heathen gods, so we should not treat Him as such. With Him there will be no guesswork, no shifting standard.
+
+## Setup a frame of reference
+
+To truly understand, and properly interpret this parable we have to setup a right frame of reference, a set of rules upon which we base our understanding. And these rules must be derived from the absolute truth of Scriptures, without regard to what you or I think.
+
+- Rule #1: All are equally dead in sin and trespasses
+- Rule #2: All are equally unable to do God's will
+- Rule #3: Based on Rule #1 and Rule #2, all Christians are bad soil, or cannot be good soil; No good vs. bad Christian, only believer vs. unbeliever
+- Rule #4: People cannot bear fruit, only Christ can
+
+### Rule #1: All are equally dead in sin and trespasses
+
+- “Just as it is written: "There is no one righteous, not even one, there is no one who understands; there is no one who seeks God.” (Rom 3:10-11)
+- “For all have sinned and fall short of the glory of God.” (Romans 3:23)
+- “If we claim to be without sin, we deceive ourselves and the truth is not in us.” (I Jn 1:8)
+
+### Rule #2: All are equally unable to do God's will
+
+- “Flesh gives birth to flesh, but the Spirit gives birth to spirit.” (Jn 3:6)
+- “For I know that good itself does not dwell in me, that is, in my sinful nature. For I have the desire to do what is good, but I cannot carry it out.” (Romans 7:18)
+- “I declare to you, brothers and sisters, that flesh and blood cannot inherit the kingdom of God, nor does the perishable inherit the imperishable.” (1 Corinthians 15:50)
+
+### Rule #3: No good vs. bad Christian, only believer vs. unbeliever
+
+- “... Call the laborers and pay them their wages, beginning with the last group to the first. … So the last shall be first, and the first last.” (Mat 20:8)--All are paid equally, even the ones that did not lift a finger, and more than that, they get paid first
+- “For the one who obeys the whole law but fails in one point has become guilty of all of it.” (James 2:10--Surely we all have failed in many more than one point of the law, so all are considered to be guilty of the whole law. Which one of us is then less carnal than the other?)
+- Jesus being Almighty God never says anything that we can take lightly. If He says this is how the Kingdom of God works, that's is how it works, and you and I cannot escape its rule: no one is paid more than another, this means YOUR WORK DON'T COUNT, so NO ONE IS BETTER THAN ANOTHER. We're all paid by God's grace.
+- Therefore the only ticket into the vineyard is your belief, or faith: <span class="green-letter">“Whoever believes in him is not condemned, but whoever does not believe stands condemned already because they have not believed in the name of God's one and only Son.” (John 3:18)</span>
+
+### Rule #4: People cannot bear fruit, only Christ can
+
+- According to Rule #2, no one is able to do God's will, it follows that neither can they bear fruit for God.<span class="green-letter">"I am the vine; you are the branches. The one who remains in me--and I in him--bears much fruit, because apart from me you can accomplish nothing.” (Jn 15:5), “For the fruit of the Spirit ...” (Gal 5:22)
+
+## Come unto Me & Remain in Me
+
+There is one thing we need to know about the meaning of "remains in me." God had given the Hebrews a time to be His people based on an old contract called the Old Covenant. In this covenant, to deal with the problem of sins, He allowed them to give burnt offerings in the form of doves, sheep, or goats, etc. But when Christ came, He gave them a new contract, called the New Covenant, a contract since that time for all eternity. Those Hebrews that want to "remain" being God's people must leave the old ways, but live according to the new covenant, no more burnt offerings, but accept the once-for-all perfect sacrifice which is Christ Himself.
+
+To gentiles like us, Jesus called: "Come unto me." But to the Hebrews, He invited them: "Remain in me," because to them there is a transition from the Old to the New, and they can indeed remain in Him by no longer offering dead sacrifices, but now offering their living bodies which is the temple of the living God, by faith. They themselves are by no means sacrifices--because they would have more blemishes than the worst of sheep and goats--, but by God's grace Christ becomes the perpetual living sacrifice in their hearts by the virtue of their believing in Him. It is Christ in you, the hope of glory. Anyone who thinks his body is a sacrifice to God is downright ... he thinks of himself to be something but really is nothing (Galatians 6:3).
+
+The result is any Gentiles who is in Christ, or any Hebrew who remains in Him, will bear fruit, because that is a proclamation of the Lord Jesus. What happens to a tree planted by a nourishing water stream, so does it to the one who is in Christ. The bearing of fruit is not an advice, neither is it a commandment, but the divine outcome afforded by God the Holy Spirit.
+
+## Back to the parable
+
+Let's get back to the parable of the sower. Using these rules, especially the rule that states that there is only one dividing line, between those that believe and those that do not believe, we arrive at the conclusion that there is only one difference: a fruitful soil, or a completely dead soil; in Christ or out of Christ, dead or alive, no walking dead. For these very reasons: all have sinned, ll failed to do God's will, all are equally sinners, except those that believe.
+
+So there are only these shifts in foundation:
+- From unbelief to belief
+- From sinners to children of God
+- From being out of Christ to being in Christ
+- and finally ...
+- From unfruitful soil to fruitful soil
+
+If you can answer you are a Christian, you can answer that you are a child of God, that you will be in heaven, that you are FRUITFUL SOIL, all because of God's promise to those that believe in His Son (Jn 3:16). If God did not spare His own Son, but gave Him up for us all, won't He give us everything along with Him, including making us fruitful for His kingdom? (Romans 8:23)
+
+Without establishing this framework, involving the set of 4 rules, or rather foundational truths, no one will have an idea which soil they belong to, and all of their lives will be guesswork, not knowing where they stand with God. This is not what God wants for us. Faith is substance of things hoped for, the evidence of things not seen (Heb 11:1). Without faith it's impossible to please God (Heb 11:6).
+
+The different soils are just different circumstances upon which each and everyone must choose to believe, or not to believe God. In the end, only the believer, who are in Christ, will become fruitful, because of a new law: the law of the Spirit of Life, not the law of sin and death. The law of sin and death asserts that: the soul that sins, it shall die (Ezekiel 18:20). The law of the Spirit of Life states that: Whoever in Christ will bear much fruit (John 15:5). If you know how to read the Scriptures, you will find that everything that Jesus proposes is a golden but humanly impossible rule, he wants his hearer to realize their wretchedness and embrace him as the only WAY to God, the only TRUTH of God, and the only LIFE in God.
+
+## The incorrect frame of reference
+
+The root of the problem is the thinking of different grades of soil, or different grades of Christians. If Christianity is lived according to this mindset, they try to change from "bad" soil to "good" soil, and inevitably they have to use their own effort, their flesh. Traditionally, many Christians call those that are somewhere between good and bad soil: carnal, like a carnal Christian is someone who are worldly, still fall into sins, having sinful tendencies, etc.. Herein lies the dilemma for those that hold such views: aren't they that call others carnal also carnal themselves? Maybe they're only a little carnal? But in God's standard, being a little carnal is no difference from being much carnal, a sinner that sins a little is still a sinner deserving hell. And using their subjective and transitory standard, when and how do they completely remove their carnality? How can they help others if they cannot remove their own carnality? If "For by one sacrifice he has made perfect forever those who are being made holy (Hebrews 10:14)," then in which way are you "carnal?" Or are you saying the blood that shed for you on the cross is insufficient?
+
+The parable of the vineyard workers is a perfect example of why there is no such thing as a carnal, a somewhere-in-between, half-hearted, lukewarm, worldly Christian. There is either someone who took the leap of faith to enter the vineyard, or someone who remained outside. Someone who entered, no matter how late, no matter how little he contributed to the vineyard work, no matter how undeserving, gets full payment, full redemption. Jesus came to address a single sin: the sin of unbelief (Jn 16:8). Hebrews 3:19 says the people did not enter the promised land because of unbelief, the difference between the entering of the promised land and the walk of death in the desert is based on just one thing that God requires: belief. More than 600,000 Hebrews died in the desert because they listened to the 10 spies who discouraged them with news of the giants in the promised land; just as today some place heavy emphasis on the issue of sins and the obedience to the law as represented by the giants in the story. They should have listened to Joshua and Caleb to see milk and honey, to see God's love and forgiveness. What preoccupies you? Are you fighting the giants, or are you enjoying milk and honey? So there is only one thin dividing line: to believe on the Son of God, or otherwise.
+
+I frequently hear people praise someone for his true heart toward God, they forgot that the Bible says that the heart of men is deceitful above all things (Jeremiah 17:9). Jesus said he would not trust men no matter what they say (John 2:24). So if the hearts of men are so deceitful, how can they properly guide themselves in the way of God? How can they properly tell where they stand in terms of what soil type they belong to?
+
+The misunderstanding of this parable is profound. But perhaps it is not a misunderstanding, it's more likely a decision to choose falsehood, especially on the side of those who are given the task of the handling of Scriptures, they're more guilty than most, because more is given, more is asked. If they're only honest in admitting that they can never be the good soil of God, perhaps they will understand the gospel, and by faith that they receive this fullness in Christ they will be the fruitful soil, because Jesus promise that if they are in Him, they will bear much fruit.
+
+This is how we should understand this parable. The only way which is filled with hope and expectation of our heavenly inheritance. And this understanding is what that will make you fruitful, truly fruitful, for God. And this fruitfulness is yours, because you are a child of God.
+
+God has chosen to make known among the Gentiles the glorious riches of this mystery, which is Christ in you, the hope of glory. (Colossians 1:27)
+
+{% include bible-study/bible-study-footer %}
+

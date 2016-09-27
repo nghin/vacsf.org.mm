@@ -2,7 +2,6 @@
 title: "Romans Chapter 1"
 excerpt: "Obedience of faith is the willingness to base one's salvation entirely on Christ."
 image: 
-  feature: romans-chapter-feature.jpg
   teaser: romans-chapter-teaser.png
 tags: [romans, bible-studies]
 featured: false

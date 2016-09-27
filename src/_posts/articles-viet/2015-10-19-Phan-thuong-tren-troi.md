@@ -2,7 +2,6 @@
 title: "Phần Thưởng Trên Trời"
 excerpt: "Bài viết này sẽ cho thấy đây là một cái nhìn trần tục, nhưng chính là nền tảng của các tôn giáo trên thế gian."
 image: 
-  feature: rewards-feature.jpg
   teaser: Rewards.jpg
 tags: [sin, tiengviet]
 featured: false
@@ -15,6 +14,8 @@ comments: true
 ---
 
 {% include toc-viet.html %}
+{% include toc_spacer.html %}
+{% include bible-study/suy-gam %}
 
 Bài viết này sẽ cho thấy đây là một cái nhìn trần tục, nhưng chính là nền tảng của các tôn giáo trên thế gian.
 
@@ -22,7 +23,7 @@ Bài viết này sẽ cho thấy đây là một cái nhìn trần tục, nhưng
 
 <div>
 <p>
-<img alt src="{{ site.url }}/assets/images/rewards-207x136.jpg" style="border: 1px solid #cccccc; margin: 7px 15px 0px 0px; max-width: 100%; height: 136px; padding: 0px; float: left;">
+<img alt src="{{ site.url }}/assets/images/Rewards.jpg" style="border: 1px solid #cccccc; margin: 7px 15px 0px 0px; max-width: 100%; height: 136px; padding: 0px; float: left;">
 Đoạn Kinh thánh này thường được hiểu là Chúa sẽ ban thưởng cho mỗi người tùy theo những việc lành họ đã làm khi còn trong xác thịt. Nhưng sự suy nghĩ này đi ngược với ít nhất một chân lý căn bản về Tin Lành, về nền tảng của sự cứu rỗi, là bởi đức tin nơi Đấng Cứu Thế, bởi ân điển chứ không phải việc làm. Phải chăng câu Kinh thánh này không nói về mức độ của sự ban thưởng, nhưng nói rằng: ai gieo giống chi lại gặt giống ấy (Galatians 6:7).
 </p>
 </div>

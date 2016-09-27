@@ -4,7 +4,6 @@ headline: "The Ambassador"
 excerpt: "Parable of the Ambassador. Message of reconciliation."
 modified: 2016-08-08T12:14:45-04:00
 image: 
-  feature: the-ambassador-feature.jpg
   teaser: Ambassador.jpg
 tags: [gospel, reconciliation]
 featured: false
@@ -20,7 +19,7 @@ A warning to Christ's Ambassadors: Don't change your Lord's message of reconcili
 
 {% include bible-study/meditations %}
 
-<em>(Bấm vào đây để đọc tiếng Việt)</em>
+[(<em>Bấm vào đây để đọc tiếng Việt</em>)]({{ site.url }}{% post_url 2015-11-30-Quan-Kham-Sai %})
 
 <div>
 <p>

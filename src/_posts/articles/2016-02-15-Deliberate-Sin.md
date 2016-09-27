@@ -4,7 +4,6 @@ headline: "Deliberate Sin"
 excerpt: "Deliberate sin. Is it about sins in general, or a specific sin that that has eternal implication?"
 modified: 2016-08-08T12:14:45-04:00
 image: 
-  feature: deliberate-sinning-feature.jpg
   teaser: deliberate-sinning.jpg
 tags: [sin]
 featured: false
@@ -21,7 +20,7 @@ What sin is written about in Hebrews 10:26-27? The common transgressions that go
 {% include toc_spacer.html %}
 {% include bible-study/meditations %}
 
-<em>(Bấm vào đây để đọc tiếng Việt)</em>
+[(<em>Bấm vào đây để đọc tiếng Việt</em>)]({{ site.url }}{% post_url 2016-02-15-Co-y-pham-toi %})
 
 ><sup>26</sup>For if we <u><strong>deliberately keep on sinning</strong></u> after receiving the <u><strong>knowledge of the truth</strong></u>, <u><strong>no further sacrifice</strong></u> for sins is left for us, <sup>27</sup>but only a certain fearful expectation of <u><strong>judgment</strong></u> and a fury of fire that will consume <u><strong>God's enemies</strong></u> <cite>Hebrews 10:26-27)</cite>.
 

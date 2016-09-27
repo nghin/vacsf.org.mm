@@ -2,7 +2,6 @@
 title: "Romans Chapter 8"
 excerpt: "No more condemnation. The new law sets us free from the old law. True meaning of walking after the flesh. Where is the focus of your faith? Who walks after the flesh? The spirit lives but the flesh is dead. The Spirit gives life. The debt of the flesh is fully paid. Do not rely on the flesh to achieve God's righteousness. Sealed by the Spirit. Peace in Christ. Suffering with Christ--the true meaning. Waiting for the day of deliverance from the bondage of decay. The Spirit prays for us. Those who are called by God. God's love is undefeatable."
 image: 
-  feature: romans-chapter-feature.jpg
   teaser: romans-chapter-teaser.png
 tags: [romans, bible-studies]
 featured: false

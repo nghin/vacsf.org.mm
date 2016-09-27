@@ -19,7 +19,7 @@ comments_locked: true
 
 {{ page.excerpt | markdownify }}
 
-<em><u><a href="{{ site.projectname }}/hoc-kinh-thanh/sach-ro-ma/">(Bấm vào đây để đọc tiếng Việt)</a></u></em>
+[(<em>Bấm vào đây để đọc tiếng Việt</em>)]({{ site.url }}{% post_url 2015-01-16-Ga-la-ti %})
 
 Martin Luther said, "the little book of Galatians is my letter; I have betrothed myself to it; it is my wife.". In the same manner with the writing of the study notes on Romans, these notes were written using nothing but the Bible itself to be its own commentary.
 
@@ -41,7 +41,7 @@ Paul continued to prove to the Galatians that our subjection to the law ends at 
 
 ##  [<u>Chapter 5</u>]({{ site.url }}{% post_url 2015-05-16-Galatians-Chapter-05 %})
 
-Paul calls the Galatians to stand fast in their freedom in Christ, to stand firm against the pressure to go back to the law via circumcision (or justification based on observance of the law). To walk in the Spirit, as opposed to the keeping of the law, that they might be able to love one another, and to beaar fruit of the Spirit.
+Paul calls the Galatians to stand fast in their freedom in Christ, to stand firm against the pressure to go back to the law via circumcision (or justification based on observance of the law). To walk in the Spirit, as opposed to the keeping of the law, that they might be able to love one another, and to bear fruit of the Spirit.
 
 ##  [<u>Chapter 6</u>]({{ site.url }}{% post_url 2015-05-15-Galatians-Chapter-06 %})
 

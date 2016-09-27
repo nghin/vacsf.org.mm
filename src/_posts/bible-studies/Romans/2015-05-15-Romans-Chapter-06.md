@@ -2,7 +2,6 @@
 title: "Romans Chapter 6"
 excerpt: "We already died to sin. Old self already crucified with Christ. Died through Christ, now live through Christ. Sin is powerless because you're not under law, but under grace."
 image: 
-  feature: romans-chapter-feature.jpg
   teaser: romans-chapter-teaser.png
 tags: [romans, bible-studies]
 featured: false
@@ -102,7 +101,7 @@ Understanding this death and being buried with Christ is the key to understandin
 
 Another key thing about this passage is the concept of slavery, the exchange of slavery to sin for slavery to righteousness. Slavery to  sin is easy to understand, you are compelled to do the things you don't want to do, and you are unable to do the good things you want to do. But slavery to righteousness is more difficult to comprehend. This second kind of slavery though sound negative, but an amazing relief to anyone who longs to serve God, to lead a victorious life but doesn't know how. From this point on let's talk about this slavery to righteousness.
 
-It's like you're strapped to a hang glider and soar high in the clouds, exhilerating, like you have mounted up with wings like eagles. Bound to the glider, you're like a slave, forced to experience something incredible, and yet you do not have to exert a single muscle, you simply rest and enjoy the ride. This is what Paul is talking about. You slave to righteousness, or slave to God, like that. All the good things, noble things, kingdom works, testimonies, ministries, and countless other things, are like that hang gliding experience, because it is the Holy Spirit who initiates and empower you for whatever He has in store for you. You simply rest.
+It's like you're strapped to a hang glider and soar high in the clouds, exhilerating, like you have mounted up with wings like eagles. Bound to the glider, you're like a slave, forced to experience something incredible, and yet you do not have to exert a single muscle, you simply rest and enjoy the ride. This is what Paul is talking about. Your slave to righteousness, or slave to God, like that. All the good things, noble things, kingdom works, testimonies, ministries, and countless other things, are like that hang gliding experience, because it is the Holy Spirit who initiates and empower you for whatever He has in store for you. You simply rest.
 
 Can a slave tell his master "do this," or "do that?" Or can he even tell his master "I want to do this," or "I want to do that?" No, because the Lord said: trust in me and lean not on your own understanding (Proverbs 3:5). Be a slave to righteousness. It's ok to wait upon him (Isaiah 30:18).
 

@@ -4,7 +4,6 @@ headline: "Abusing God's Grace"
 excerpt: "Grace can be just a word to fill a part of a theology, or it can be something so precious that most are blind to it until when the eyes are opened to its wondrous life transforming power..."
 modified: 2016-08-08T12:14:45-04:00
 image: 
-  feature: abusing-grace-feature.jpg
   teaser: break-the-chains.jpg
 tags: [grace]
 featured: false
@@ -21,7 +20,7 @@ Grace can be just a word to fill a part of a theology, or it can be something so
 {% include toc_spacer.html %}
 {% include bible-study/meditations %}
 
-<em>(Bấm vào đây để đọc tiếng Việt)</em>
+[(<em>Bấm vào đây để đọc tiếng Việt</em>)]({{ site.url }}{% post_url 2016-03-21-Lam-dung-an-dien %})
 
 ## Introduction
 

@@ -4,7 +4,6 @@ headline: "The Art of Surrender"
 excerpt: "Surrender. Rest. Peace. Letting go. But if the Bible says that the flesh desires what is contrary to the Spirit, then how can you surrender to God?"
 modified: 2016-07-22T12:14:45-04:00
 image: 
-  feature: art-of-surrender-feature.jpg
   thumb: art-of-surrender-thumb-250x250.png
   teaser: surrender.jpg
 tags: [Rest, Peace, Surrender]
@@ -21,7 +20,7 @@ comments: true
 {% include toc_spacer.html %}
 {% include bible-study/meditations %}
 
-<em><a href="{{ site.url }}/viet-articles/dau-phuc-Chua/">(Bấm vào đây để đọc tiếng Việt)</a></em>
+[(<em>Bấm vào đây để đọc tiếng Việt</em>)]({{ site.url }}{% post_url 2016-07-22-Dau-Phuc-Chua %})
 
 ## The dilemma
 

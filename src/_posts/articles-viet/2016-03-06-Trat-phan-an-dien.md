@@ -2,7 +2,6 @@
 title: "Trật Phần Ân Điển"
 excerpt: "Bạn vẫn thường sống đời tin kính như một người đi trên giây? Trật một bước là rơi xuống?"
 image: 
-  feature: missing-grace-feature.jpg
   teaser: FallingFromGrace.jpg
 tags: [sin, tiengviet]
 featured: false
@@ -15,6 +14,8 @@ comments: true
 ---
 
 {% include toc-viet.html %}
+{% include toc_spacer.html %}
+{% include bible-study/suy-gam %}
 
 Bạn vẫn thường sống đời tin kính như một người đi trên giây? Trật một bước là rơi xuống. Dù bạn có được diễm phúc có niềm tin rằng Chúa Giê-su sẽ chẳng hề để bạn rơi vào sự chết, nhưng sự thường xuyên sợ bị rơi xuống khiến đoạn đường hành trình vào vĩnh cửu của bạn đầy mệt mỏi và bất lực. Khi bạn biết rõ nguyên nhân nào một người có thể bị trật phần ân điển bạn sẽ kinh nghiệm được sự bình an vượt quá sự suy tưởng mà Chúa Giê-su đã hứa ban.
 

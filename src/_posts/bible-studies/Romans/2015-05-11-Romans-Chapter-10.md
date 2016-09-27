@@ -2,7 +2,6 @@
 title: "Romans Chapter 10"
 excerpt: "Do not seek own righteousness. Seeking righteousness through the law is a vain pursuit. Righteousness through Christ is very near. The good news, preaching, and belief. The forgotten gospel."
 image: 
-  feature: romans-chapter-feature.jpg
   teaser: romans-chapter-teaser.png
 tags: [romans, bible-studies]
 featured: false

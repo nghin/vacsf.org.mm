@@ -4,7 +4,6 @@ headline: "Serving God"
 excerpt: "Thousands of books have been written on the topic of serving God. Those who seem to be doing something in some ministries believe that they're serving God..."
 modified: 2016-08-08T12:14:45-04:00
 image: 
-  feature: serving-God-feature.jpg
   teaser: serving-God.jpg
 tags: [love, luke, sin]
 featured: false
@@ -21,7 +20,7 @@ comments: true
 
 Thousands of books have been written on the topic of serving God. Those who seem to be doing something in some ministries believe that they're serving God. Those who write books on serving God believe that they served God. What about the rest of those who are at the receiving ends of the various teachings, how do they know what to do?
 
-<em>(Bấm vào đây để đọc tiếng Việt)</em>
+[(<em>Bấm vào đây để đọc tiếng Việt</em>)]({{ site.url }}{% post_url 2016-04-17-Hau-Viec-Chua %})
 
 ## Introduction
 

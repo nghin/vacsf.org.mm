@@ -2,7 +2,6 @@
 title: "Romans Chapter 5"
 excerpt: "Faith: access to God's grace and peace. Rejoice in sufferings. God demonstrates His love for us. Reconciliation with God. Saved by Christ's life. Death spreads to all. The Gift by the Grace of God. The reigns of sin vs. grace."
 image: 
-  feature: romans-chapter-feature.jpg
   teaser: romans-chapter-teaser.png
 tags: [romans, bible-studies]
 featured: false

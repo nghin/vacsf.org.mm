@@ -4,7 +4,6 @@ headline: "Can Man Love God?"
 excerpt: "<em>Love the Lord your God with all your heart and with all your soul and with all your strength and with all your mind (Luke_10:27)</em>"
 modified: 2016-08-08T12:14:45-04:00
 image: 
-  feature: loving-God-feature.jpg
   teaser: loving-God.jpg
 tags: [love, luke, sin]
 featured: true
@@ -22,7 +21,7 @@ comments: true
 {% include toc_spacer.html %}
 {% include bible-study/meditations %}
 
-<em>(Bấm vào đây để đọc tiếng Việt)</em>
+[(<em>Bấm vào đây để đọc tiếng Việt</em>)]({{ site.url }}{% post_url 2016-04-18-Yeu-Chua %})
 
 ## The Love Commandment
 

@@ -2,7 +2,6 @@
 title: "Romans Chapter 11"
 excerpt: "The remnant - God's way of selection. Saved by grace. The law ensnares those who rely on it."
 image: 
-  feature: romans-chapter-feature.jpg
   teaser: romans-chapter-teaser.png
 tags: [romans, bible-studies]
 featured: false

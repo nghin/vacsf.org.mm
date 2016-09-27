@@ -4,7 +4,6 @@ headline: "Resist Unto Blood"
 excerpt: "Hebrews 12:4. What is the meaning of &#34;You have not yet resisted unto blood, striving against sin&#34;? Is the goal of Christians to avoid sinning at all cost?"
 modified: 2016-08-08T12:14:45-04:00
 image: 
-  feature: resist-unto-blood-feature.jpg
   teaser: resist-unto-blood.jpg
 tags: [bible-studies, sin]
 featured: true

@@ -2,7 +2,6 @@
 title: "Romans Chapter 4"
 excerpt: "Boasting is the characteristic of those that rely on the law. Those that do not work, but believe in Christ is considered righteous. Rightousness is credited apart from works. God will never count the sins of those that believe ever again. Abraham was called righteous even before he was circumcised. Dead faith belongs to the one who relies on the law to get right with God. God's promise is only voided if you rely on the law to get right with Him. The law only brings wrath. In conclusion, righteousness is by grace through faith only."
 image: 
-  feature: romans-chapter-feature.jpg
   teaser: romans-chapter-teaser.png
 tags: [romans, bible-studies]
 featured: false

@@ -4,7 +4,6 @@ headline: "Grieving the Holy Spirit"
 excerpt: "Do you lose your salvation if you grieve the Holy Spirit?"
 modified: 2016-08-08T12:14:45-04:00
 image: 
-  feature: grieving-Spirit-feature.jpg
   teaser: lose-salvation.jpg
 tags: [sin]
 featured: false
@@ -17,7 +16,7 @@ comments: true
 
 A very common mis-interpretation of a familiar Bible verse. It is not taught in seminary, but widely preached and accepted by many Christians. What is the impact of this interpretation on a Christian's relationship with God? Is it in harmony with the rest of Scriptures? Let us explore.
 
-[(<u><em>Bấm vào đây để đọc tiếng Việt</em></u>)]({{ site.url }}{% post_url 2015-11-19-Lam-Buon-Thanh-Linh %})
+[(<em>Bấm vào đây để đọc tiếng Việt</em>)]({{ site.url }}{% post_url 2015-11-19-Lam-Buon-Thanh-Linh %})
 
 ## Where is this verse which states such theology?
 

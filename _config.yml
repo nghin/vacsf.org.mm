@@ -161,6 +161,17 @@ defaults:
         - label: "Bible Studies"
           url: /bible-studies/
 
+  # Bible Studies Viet
+  - scope:
+      path: _posts/bible-studies-Viet
+      type: posts
+    values:
+      layout: article
+      category: bible-studies-Viet
+      breadcrumbs:
+        - label: "Học Kinh Thánh"
+          url: /bible-studies-viet/
+
   # Romans Study
   - scope:
       path: _posts/bible-studies/Romans
@@ -171,6 +182,17 @@ defaults:
       breadcrumbs:
         - label: "Romans Study"
           url: /bible-studies/Romans/
+
+  # Ro-ma Study
+  - scope:
+      path: _posts/bible-studies-Viet/Romans
+      type: posts
+    values:
+      layout: article
+      category: Romans-Viet
+      breadcrumbs:
+        - label: "Sách Rô-ma"
+          url: /bible-studies-viet/Ro-ma/
 
   # Galatians Study
   - scope:
@@ -183,6 +205,17 @@ defaults:
         - label: "Galatians Study"
           url: /bible-studies/Galatians/
 
+  # Galatians Study Viet
+  - scope:
+      path: _posts/bible-studies-Viet/Galatians
+      type: posts
+    values:
+      layout: article
+      category: Galatians-Viet
+      breadcrumbs:
+        - label: "Sách Ga-la-ti"
+          url: /bible-studies-viet/Ga-la-ti/
+
   # Parables
   - scope:
       path: _posts/bible-studies/Parables
@@ -192,7 +225,62 @@ defaults:
       category: parable
       breadcrumbs:
         - label: "Jesus' Parables"
-          url: /parables/
+          url: /bible-studies/Parables/
+
+  # Parables Viet
+  - scope:
+      path: _posts/bible-studies-Viet/Parables
+      type: posts
+    values:
+      layout: article
+      category: ngu-ngon
+      breadcrumbs:
+        - label: "Ngụ Ngôn"
+          url: /bible-studies-viet/Ngu-Ngon/
+
+  # Baptism
+  - scope:
+      path: _pages/bible-studies/baptism
+      type: pages
+    values:
+      layout: article
+      category: baptism
+      breadcrumbs:
+        - label: "Baptism"
+          url: /bible-studies/Baptism/
+
+  # Baptism Viet
+  - scope:
+      path: _pages/bible-studies-Viet/baptism
+      type: pages
+    values:
+      layout: article
+      category: baptism-Viet
+      breadcrumbs:
+        - label: "Phép Báp-têm"
+          url: /bible-studies-viet/Bap-tem/
+
+  # Baptism Purposes
+  - scope:
+      path: _pages/bible-studies/baptism/purposes
+      type: pages
+    values:
+      layout: article
+      category: baptism
+      breadcrumbs:
+        - label: "Baptism Purposes"
+          url: /baptism/purposes/
+
+  # Baptism Purposes Viet
+  - scope:
+      path: _pages/bible-studies-Viet/baptism/purposes
+      type: pages
+    values:
+      layout: article
+      category: baptism-Viet
+      breadcrumbs:
+        - label: "Mục Đích Phép Báp-têm"
+          url: /baptism-purposes-Viet/
 
   # Pages
   - scope:

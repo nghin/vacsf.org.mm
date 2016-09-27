@@ -2,7 +2,6 @@
 title: "Làm Chết Các Việc Của Chi Thể"
 excerpt: "Thoạt nhìn, hầu như không cần ai dạy bảo, hầu như ai cũng đi đến kết luận rằng làm chết các việc của chi thể nghĩa là chiến thắng được mọi cám dỗ của xác thịt. Nhưng từ tiết của thư Rô-ma có cho chúng ta đi đến kết luận đó hay không?"
 image: 
-  feature: death-deeds-feature.jpg
   teaser: death-deeds.jpg
 tags: [sin, tiengviet]
 featured: false
@@ -15,6 +14,8 @@ comments: true
 ---
 
 {% include toc-viet.html %}
+{% include toc_spacer.html %}
+{% include bible-study/suy-gam %}
 
 Thoạt nhìn, hầu như không cần ai dạy bảo, hầu như ai cũng đi đến kết luận rằng làm chết các việc của chi thể nghĩa là chiến thắng được mọi cám dỗ của xác thịt. Nhưng từ tiết của thư Rô-ma có cho chúng ta đi đến kết luận đó hay không? Kinh Thánh cho nhiều người dùng xác thịt mình không phải làm những việc tội lỗi thường tình của loài người, nhưng để được thông công với Đức Chúa Trời; những việc làm đó chính là đối tượng của những bài viết của Phao-lô. Tôi hy vọng rằng bài viết này giúp đỡ những người đang chiến đấu xác thịt theo cách nhìn phổ thông tìm được sự khuây khoả trong cách nhìn thuộc bối cảnh đề xướng trong bài viết này, và đi theo Chúa với những bước nhẹ nhàng hơn cho đến ngày của Cứu Chúa Giê-su Christ.
 

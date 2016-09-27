@@ -2,7 +2,6 @@
 title: "Cố Ý Phạm Tội"
 excerpt: "Hebrews 10:26-27 viết về tội gì? Những tội thông thường mà người tin Chúa nên tránh bằng mọi giá? Hoặc một điều gì đó đặc biệt khiến tác giả phải viết lời cảnh cáo nghiêm trọng?"
 image: 
-  feature: deliberate-sinning-feature.jpg
   teaser: deliberate-sinning.jpg
 tags: [sin, tiengviet]
 featured: false
@@ -15,6 +14,8 @@ comments: true
 ---
 
 {% include toc-viet.html %}
+{% include toc_spacer.html %}
+{% include bible-study/suy-gam %}
 
 Hebrews 10:26-27 viết về tội gì? Những tội thông thường mà người tin Chúa nên tránh bằng mọi giá? Hoặc một điều gì đó đặc biệt khiến tác giả phải viết lời cảnh cáo nghiêm trọng? Bài viết này đề nghị rằng tội cố ý trong đoạn Kinh thánh này không nói về những vi phạm thông thường, nhưng về một vi phạm đặc biệt đến nỗi phải chịu sự phán xét của Chúa, đe doạ về lửa hừng, một tội khiến người phạm trở nên kẻ thù của Đức Chúa Trời.
 

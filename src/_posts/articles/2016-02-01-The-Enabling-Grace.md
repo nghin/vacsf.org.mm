@@ -4,7 +4,6 @@ headline: "Enabling Grace"
 excerpt: "Grace gives you a license to sin, or enables you to serve God?"
 modified: 2016-08-08T12:14:45-04:00
 image: 
-  feature: enabling-grace-feature.jpg
   teaser: rock-climbing.jpg
 tags: [grace]
 featured: false
@@ -22,7 +21,7 @@ An amazing real life illustration of how God's grace enables us to do what we co
 {% include toc_spacer.html %}
 {% include bible-study/meditations %}
 
-<em>(Bấm vào đây để đọc tiếng Việt)</em>
+[(<em>Bấm vào đây để đọc tiếng Việt</em>)]({{ site.url }}{% post_url 2016-02-01-Quyen-nang-an-dien %})
 
 ## Moaning Cave in Jackson, CA
 

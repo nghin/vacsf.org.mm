@@ -2,7 +2,6 @@
 title: "Ông Đại Sứ"
 excerpt: "Đây không phải là một ngụ ngôn của Chúa Giê-su, nhưng được viết trong dạng một ngụ ngôn để thúc dục người đọc làm trọn vẹn vai trò quan khâm sai của Đức Chúa Trời: rao truyền tin mừng cứu rỗi y như Chúa đã giao cho, đừng thêm hoặc bớt gì."
 image: 
-  feature: the-ambassador-feature.jpg
   teaser: Ambassador.jpg
 tags: [sin, tiengviet]
 featured: false
@@ -13,6 +12,8 @@ feature:
 work: "Ý Niệm Phổ Thông"
 comments: true
 ---
+
+{% include bible-study/suy-gam %}
 
 Đây không phải là một ngụ ngôn của Chúa Giê-su, nhưng được viết trong dạng một ngụ ngôn để thúc dục người đọc làm trọn vẹn vai trò quan khâm sai của Đức Chúa Trời: rao truyền tin mừng cứu rỗi y như Chúa đã giao cho, đừng thêm hoặc bớt gì.
 

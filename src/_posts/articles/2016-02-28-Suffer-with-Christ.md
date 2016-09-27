@@ -4,7 +4,6 @@ headline: "Suffering with Christ"
 excerpt: "Romans 8:17 &mdash; What does it mean to suffer with Christ? STRONGS's definition: Suffering&mdash;συμπάσχω = to endure with Christ in exactly the same manner. Do you meet all the requirements?"
 modified: 2016-08-08T12:14:45-04:00
 image: 
-  feature: suffer-with-Christ-feature.jpg
   teaser: sufferingChrist.jpg
 tags: [suffering]
 featured: false
@@ -21,7 +20,7 @@ Christianity does not have a monopoly when it comes to suffering as a means for 
 {% include toc_spacer.html %}
 {% include bible-study/meditations %}
 
-<em>(Bấm vào đây để đọc tiếng Việt)</em>
+[(<em>Bấm vào đây để đọc tiếng Việt</em>)]({{ site.url }}{% post_url 2016-02-28-Chiu-kho-voi-Chua %})
 
 > <sup>16</sup>The Spirit himself bears witness to our spirit that we are God's children.  <sup>17</sup>And if children, then heirs (namely, heirs of God and also fellow heirs with Christ) - <u><strong>if indeed we suffer with him</strong></u> so we may also be glorified with him (Romans 8:16-17).
 

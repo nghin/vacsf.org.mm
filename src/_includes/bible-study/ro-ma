@@ -1,13 +1,16 @@
-<ul class="side-nav" style="padding-top: 10px;">
-      <li><a href="{{ site.projectname }}/hoc-kinh-thanh/sach-ro-ma/01/">Chương 1</a><p style="font-weight: normal;">Sự Vâng Phục Qua Đức Tin</p></li>
-      <li><a href="{{ site.projectname }}/hoc-kinh-thanh/sach-ro-ma/02/">Chương 2</a><p style="font-weight: normal;">Sự Ăn Năn Thật</p></li>
-      <li><a href="{{ site.projectname }}/hoc-kinh-thanh/sach-ro-ma/03/">Chương 3</a><p style="font-weight: normal;">Sự Công Bình Của Đức Chúa Trời Cho Mọi Kẻ Tin</p></li>
-      <li><a href="{{ site.projectname }}/hoc-kinh-thanh/sach-ro-ma/04/">Chương 4</a><p style="font-weight: normal;">Luật Pháp Đem Lại Sự Rủa Xả</p></li>
-      <li><a href="{{ site.projectname }}/hoc-kinh-thanh/sach-ro-ma/05/">Chương 5</a><p style="font-weight: normal;">Món Quà Của Ân Điển</p></li>
-      <li><a href="{{ site.projectname }}/hoc-kinh-thanh/sach-ro-ma/06/">Chương 6</a><p style="font-weight: normal;">Chết Trong Chúa, Sống Trong Chúa</p></li>
-      <li><a href="{{ site.projectname }}/hoc-kinh-thanh/sach-ro-ma/07/">Chương 7</a><p style="font-weight: normal;">Để Có Kết Quả Cho Chúa: Hãy Chết Về Luật Pháp</p></li>
-      <li><a href="{{ site.projectname }}/hoc-kinh-thanh/sach-ro-ma/08/">Chương 8</a><p style="font-weight: normal;">Không Còn Sự Đoán Phạt</p></li>
-      <li><a href="{{ site.projectname }}/hoc-kinh-thanh/sach-ro-ma/09/">Chương 9</a><p style="font-weight: normal;">Quyền Tể Trị Của Chúa</p></li>
-      <li><a href="{{ site.projectname }}/hoc-kinh-thanh/sach-ro-ma/10/">Chương 10</a><p style="font-weight: normal;">Đừng Tìm Sự Công Bình Của Chính Mình</p></li>
-      <li><a href="{{ site.projectname }}/hoc-kinh-thanh/sach-ro-ma/11/">Chương 11</a><p style="font-weight: normal;">Cứu Rỗi Bởi Ân Điển</p></li>
+<nav class="js-toc toc" markdown="1">
+<h4 class="toc__title">Romans Chapters</h4>
+<ul class="toc__menu" id="markdown-toc">
+      <li><a href="{{ site.url }}/romans-viet/Ro-ma-Chuong-01/">Chương 1</a><span style="font-weight: normal; margin-left: 1em;">Sự Vâng Phục Qua Đức Tin</span></li>
+      <li><a href="{{ site.url }}/romans-viet/Ro-ma-Chuong-02/">Chương 2</a><span style="font-weight: normal; margin-left: 1em;">Sự Ăn Năn Thật</span></li>
+      <li><a href="{{ site.url }}/romans-viet/Ro-ma-Chuong-03/">Chương 3</a><span style="font-weight: normal; margin-left: 1em;">Sự Công Bình Của Đức Chúa Trời Cho Mọi Kẻ Tin</span></li>
+      <li><a href="{{ site.url }}/romans-viet/Ro-ma-Chuong-04/">Chương 4</a><span style="font-weight: normal; margin-left: 1em;">Luật Pháp Đem Lại Sự Rủa Xả</span></li>
+      <li><a href="{{ site.url }}/romans-viet/Ro-ma-Chuong-05/">Chương 5</a><span style="font-weight: normal; margin-left: 1em;">Món Quà Của Ân Điển</span></li>
+      <li><a href="{{ site.url }}/romans-viet/Ro-ma-Chuong-06/">Chương 6</a><span style="font-weight: normal; margin-left: 1em;">Chết Trong Chúa, Sống Trong Chúa</span></li>
+      <li><a href="{{ site.url }}/romans-viet/Ro-ma-Chuong-07/">Chương 7</a><span style="font-weight: normal; margin-left: 1em;">Để Có Kết Quả Cho Chúa: Hãy Chết Về Luật Pháp</span></li>
+      <li><a href="{{ site.url }}/romans-viet/Ro-ma-Chuong-08/">Chương 8</a><span style="font-weight: normal; margin-left: 1em;">Không Còn Sự Đoán Phạt</span></li>
+      <li><a href="{{ site.url }}/romans-viet/Ro-ma-Chuong-09/">Chương 9</a><span style="font-weight: normal; margin-left: 1em;">Quyền Tể Trị Của Chúa</span></li>
+      <li><a href="{{ site.url }}/romans-viet/Ro-ma-Chuong-10/">Chương 10</a><span style="font-weight: normal; margin-left: 1em;">Đừng Tìm Sự Công Bình Của Chính Mình</span></li>
+      <li><a href="{{ site.url }}/romans-viet/Ro-ma-Chuong-11/">Chương 11</a><span style="font-weight: normal; margin-left: 1em;">Cứu Rỗi Bởi Ân Điển</span></li>
 </ul>
+</nav>

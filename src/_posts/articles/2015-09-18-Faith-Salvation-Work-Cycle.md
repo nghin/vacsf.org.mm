@@ -4,7 +4,6 @@ headline: "Rewards in Heaven?"
 excerpt: "Faith Salvation Works Cycle of Frustration"
 modified: 2016-08-08T12:14:45-04:00
 image: 
-  feature: FSW-cycle-feature.jpg
   teaser: dog-chasing-tail.jpg
 tags: [circular-reasoning]
 featured: false

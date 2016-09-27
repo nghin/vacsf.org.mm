@@ -2,7 +2,6 @@
 title: "Lạm Dụng Ân Điển"
 excerpt: "Ân điển có thể chỉ là một từ được dùng để nói lên một khía cạnh của thần học, hay là nó có thể là một điều quí báu mà hầu như đa số đều mù loà về nó cho đến khi mắt họ mở ra để nhìn thấy quyền năng thay đổi đời sống."
 image: 
-  feature: abusing-grace-feature.jpg
   teaser: break-the-chains.jpg
 tags: [sin, tiengviet]
 featured: false
@@ -15,6 +14,8 @@ comments: true
 ---
 
 {% include toc-viet.html %}
+{% include toc_spacer.html %}
+{% include bible-study/suy-gam %}
 
 Ân điển có thể chỉ là một từ được dùng để nói lên một khía cạnh của thần học, hay là nó có thể là một điều quí báu mà hầu như đa số đều mù loà về nó cho đến khi mắt họ mở ra để nhìn thấy quyền năng thay đổi đời sống. Một người tín hữu đâm rễ sâu vào ân điển và sự nhận biết Đấng Christ (2 Peter 3:18) vẫn mãi là một dòng dõi hiếm có, thế mà nay chúng ta phải nói về đề tài "chớ lạm dụng ân điển."
 

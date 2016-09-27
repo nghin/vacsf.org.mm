@@ -4,7 +4,6 @@ headline: "Abraham's Prayer"
 excerpt: "<em>And when you pray, do not keep on babbling like pagans, for they think they will be heard because of their many words (Matthew 6:7)...</em>"
 modified: 2016-08-08T12:14:45-04:00
 image: 
-  feature: abraham-prayer-feature.jpg
   teaser: candle-prayer.jpg
 tags: [prayer]
 featured: false
@@ -23,7 +22,7 @@ comments: true
 
 <em>"And when you pray, do not keep on babbling like pagans, for they think they will be heard because of their many words (Matthew 6:7). Do not be quick with your mouth, do not be hasty in your heart to utter anything before God. God is in heaven and you are on earth, so let your words be few (Ecclesiastes 5:2). Then the LORD answered Job out of the whirlwind and said, \"Who is this that darkens counsel by words without knowledge?\" (Job 38:1-2)"</em>
 
-<em>(Bấm vào đây để đọc tiếng Việt)</em>
+[(<em>Bấm vào đây để đọc tiếng Việt</em>)]({{ site.url }}{% post_url 2016-04-16-Loi-Cau-Nguyen-cua-Abraham %})
 
 ## Introduction
 

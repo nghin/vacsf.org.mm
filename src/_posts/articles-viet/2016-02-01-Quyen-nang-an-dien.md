@@ -2,7 +2,6 @@
 title: "Quyền Năng của Ân Điển"
 excerpt: "Một dẫn chứng thực tế trong đời sống cho thấy ân điển Chúa có quyền năng khiến chúng ta làm được những điều mà trước kia chúng ta không làm được vì kiệt quệ trong sợ hãi."
 image: 
-  feature: enabling-grace-feature.jpg
   teaser: rock-climbing.jpg
 tags: [sin, tiengviet]
 featured: false
@@ -15,6 +14,8 @@ comments: true
 ---
 
 {% include toc-viet.html %}
+{% include toc_spacer.html %}
+{% include bible-study/suy-gam %}
 
 Một dẫn chứng thực tế trong đời sống cho thấy ân điển Chúa có quyền năng khiến chúng ta làm được những điều mà trước kia chúng ta không làm được vì kiệt quệ trong sợ hãi. Chẳng người tín hữu nào được tránh khỏi nỗi sợ khi họ đang tìm cách sống sao cho đẹp lòng Chúa, là một điều còn khó vạn lần hơn là bài học leo núi mà bài viết này dùng làm dẫn chứng. Điều mà chúng ta học được từ câu chuyện leo núi này có thể dẫn đến một thay đổi lớn lao trong đời sống đức tin.
 

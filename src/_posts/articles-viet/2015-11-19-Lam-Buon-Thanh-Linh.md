@@ -2,7 +2,6 @@
 title: "Làm Buồn Lòng Thánh Linh?"
 excerpt: "Một câu Kinh Thánh quen thuộc nhưng rất thường bị giải thích sai. Trường Thần Học không dạy điều này nhưng thường được lồng trong những bài giảng và được nhiều người chấp nhận. Sự hiểu và ứng dụng sai lầm này sẽ ..."
 image: 
-  feature: grieving-Spirit-feature.jpg
   teaser: lose-salvation.jpg
 tags: [sin, tiengviet]
 featured: false
@@ -15,6 +14,8 @@ comments: true
 ---
 
 {% include toc-viet.html %}
+{% include toc_spacer.html %}
+{% include bible-study/suy-gam %}
 
 Một câu Kinh Thánh quen thuộc nhưng rất thường bị giải thích sai. Trường Thần Học không dạy điều này nhưng thường được lồng trong những bài giảng và được nhiều người chấp nhận. Sự hiểu và ứng dụng sai lầm này sẽ ảnh hưởng đến đời sống tâm linh như thế nào? Có phù hợp với những chân lý căn bản khác trong Kinh Thánh Không? Chúng ta hãy cùng nhau nghiên cứu.
 

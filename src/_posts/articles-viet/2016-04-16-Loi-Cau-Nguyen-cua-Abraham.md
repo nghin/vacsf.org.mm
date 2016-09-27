@@ -2,7 +2,6 @@
 title: "Lời Cầu Nguyện của Áp-ra-ham"
 excerpt: "Vả, khi các ngươi cầu nguyện, đừng dùng những lời lặp vô ích như người ngoại; vì họ tưởng vì cớ lời mình nói nhiều thì được nhậm (<cite>Matthew 6:7</cite>)."
 image: 
-  feature: abraham-prayer-feature.jpg
   teaser: candle-prayer.jpg
 tags: [sin, tiengviet]
 featured: false
@@ -15,94 +14,101 @@ comments: true
 ---
 
 {% include toc-viet.html %}
+{% include toc_spacer.html %}
+{% include bible-study/suy-gam %}
 
 <em>Vả, khi các ngươi cầu nguyện, đừng dùng những lời lặp vô ích như người ngoại; vì họ tưởng vì cớ lời mình nói nhiều thì được nhậm (<cite>Matthew 6:7</cite>). Chớ vội mở miệng ra, và lòng ngươi chớ lật đật nói lời trước mặt Ðức Chúa Trời; vì Ðức Chúa Trời ở trên trời, còn ngươi ở dưới đất. Vậy nên ngươi khá ít lời (<cite>Ecclesiastes 5:2</cite>). Bấy giờ, từ giữa cơn gió trốt, Ðức Chúa Trời đáp cùng Gióp rằng:  Kẻ nầy là ai dám dùng các lời không tri thức, Mà làm cho mờ ám các mưu định ta? (<cite>Job 38:1-2</cite>)</em>
 
-Martin Luther khẳng định rằng: <span style="color: #8e4503;"><em>"Trước hết, chúng ta phải quen thuộc với cách dùng chữ trong thơ Rô-ma và biết ý của Phao-lô khi ông dùng những chữ như luật pháp, tội lỗi, ân điển, đức tin, công bình, xác thịt, thần linh, v.v. Vì nếu không thì có đọc cũng vô ích. ... Bạn không thể hiểu chữ luật pháp theo cách thường của loài người, chẳng hạn như lề luật về những điều cần làm hoặc những điều bị ngăn cấm."</em></span> Chữ "tội lỗi" trong bối cảnh của Rô-ma là chữ bị hiểu lầm nhiều nhất.
-
-## Theo cái nhìn phổ thông
+## Giả định phổ thông
 
 <div>
 <p>
-<img alt src="{{ site.url }}/assets/images/serving-God.jpg" style="border: 1px solid #cccccc; margin: 7px 15px 0px 0px; max-width: 100%; height: 136px; padding: 0px; float: left;">
-Vậy bạn phải hầu việc Chúa như thế nào? Chữ "hầu việc" hàm ý một điều gì đó thuộc linh, phụng sự tha nhân, đòi hỏi lòng vị tha, một mức độ xả thân nào đó. Khi nói về một người nào đó hầu việc Chúa, chúng ta ngụ ý việc họ làm bắt nguồn từ chính họ. Nó bắt nguồn từ chính họ vì những việc làm này đỏi hỏi một sự hi sinh của chính bản thân. Chúng ta cũng hàm ý họ xứng đáng được ban thưởng vì những hành động hy sinh đó.
+<img alt src="{{ site.url }}/assets/images/candle-prayer.jpg" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 136px; padding: 0px; float: left;">
+Mặc dầu bài viết này nói về sự cầu nguyện, mục đích chính là chuyển cái nhìn của người đang cầu nguyện khỏi chính mình, khỏi vấn đề mình đang cầu nguyện, và khỏi cả những cách thức của chính sự cầu nguyện, nhưng hướng về Đấng mà người đó đang cầu nguyện.
 </p>
-
 </div>
-<!-- ##################### PLACEHOLDER ###################-->
 
-Nhưng ý niệm về sự hầu việc Chúa đó có phù hợp với lời Kinh Thánh viết về việc làm cho nước Đức Chúa Trời?
+Dường như có một sự thoả thuận rằng sự xảy đến của những điều tốt lành, chẳng hạn như một người nào đó được chữa lành, một tai nạn được tránh khỏi, là nhờ có một người nào đó đang cầu nguyện. Trong nhà chúng tôi có một bảng gỗ có khắc hàng chữ: "Lời cầu nguyện thay đổi mọi sự." Nhiều sách vở đã được viết với những mẩu chuyện kể lại những phép lạ đã xảy ra vì lời cầu nguyện. Những mẩu chuyện này trở nên những đỉnh cao của kinh nghiệm sống dường như còn tồn tại lâu dài hơn cả những người mà đời sống họ đem đến những câu chuyện đó.
 
-## Theo Thánh Kinh
+Một giả định nữa dường như phổ thông trong vòng các tín hữu của các tôn giáo là thần mà họ tôn thờ có vẻ thụ động, thờ ơ, cho đến khi được khơi động bởi sự cầu khẩn của tín hữu. Thường thì những tín hữu này đã phải khẩn cầu tha thiết để lay chuyển cánh tay của đấng họ tin.
+ 
+## Những lời chứng về quyền năng của sự cầu nguyện
 
-Chúng ta hãy đọc đoạn Kinh Thánh Luke 17:7-10 dưới đây:
+Chúng ta đã thường được nghe những lời kể lại của những cha mẹ cầu nguyện cho con cái mình trong nhiều thập niên cho đến một ngày kia khi tin mừng đến, đứa con hoang đàng đã về nhà và mọi ngợi khen được dâng lên Chúa. Và những lời thuật lại về những nhóm tín hữu họp lại để cầu nguyện cho một người nào đó đã bị lâm một bệnh tình trầm trọng. Và nhiều mẩu chuyện khác đã được viết lại qua nhiều thế hệ.`
 
-> <sup>7</sup>Ai trong các ngươi có đầy tớ đi cày hoặc đi chăn, khi ở ngoài đồng về, biểu nó rằng: Hãy đến ngay mà ngồi ăn, hay sao? <sup>8</sup>Trái lại, há không biểu nó rằng: Hãy dọn cho ta ăn, thắt lưng hầu ta, cho đến chừng nào ta ăn uống xong, rồi sau ngươi sẽ ăn uống sao? <sup>9</sup>Đầy tớ vâng lịnh mà làm, thì chủ có biết ơn gì nó chăng? <sup>10</sup>Các ngươi cũng vậy, khi làm xong việc truyền phải làm, thì hãy nói rằng: Chúng tôi là đầy tớ vô ích; điều chúng tôi đã làm là điều chắc phải làm (Luke 17:7-10).
+Chắc chắn Đức Chúa Trời chữa lành và tham dự vào đời sống con người, và Ngài quý báu lời cầu nguyện của những kẻ tin Ngài. Chúa cảm nhận mọi tấm lòng đau thương đang tìm cầu sự giải cứu, nhưng phải chăng Ngài phải đợi cho đến khi có người cầu nguyện? Chúa yêu thương một tội nhân hơn bất kỳ ai có thể biết đến và cầu nguyện cho người đó, nhất là những người đơn chiếc không ai biết đến để cầu thay.
 
-Thông thường chúng ta nghĩ rằng hầu việc Chúa là một việc làm tự nguyện và tuỳ tâm, chẳng hạn như phục vụ cộng đồng qua sự tình nguyện làm việc ở một trung tâm thiện nguyện nào đó. Nhưng việc làm trong đoạn Kinh Thánh này không mang ý nghĩa "tuỳ lòng hảo tâm," nhưng hình dung một trách nhiệm, của người nô lệ, hoặc tôi tớ, đối với chủ. Người "nô lệ" này phải làm công việc họ được giao phó. Do đó họ không có quyền trông đợi một phần thưởng, hoặc một lời khen ngợi. Và vì đây là một công việc mà người tôi tớ phải làm, nên nó mang một ý nghĩa khác với việc làm cao thượng mà chúng ta thường nói đến trong những bài học Kinh Thánh.
+## Abraham,  Lót, và Sô-đôm
 
-Chúng ta hãy đọc qua một hình ảnh nữa trong ngụ ngôn người làm việc trong vườn nho.
+Các đoạn 18 và 19 của Sáng Thế Ký ghi lại một biến cố mà trong đó lửa xuống từ trời để huỷ diệt hai thành lớn: Sô-đôm và Gô-mô-rơ. Chúng ta đặc biệt chú ý tới Sô-đôm vì đó là nơi cư ngụ của cháu ông Lót. Trong đoạn Kinh thánh này chúng ta thấy Áp-ra-ham cầu nguyện với Chúa về thành Sô-đôm khác với cung cách chúng ta thường thấy trong vòng những kẻ cầu nguyện. Bài viết này không nói về cách thức cầu nguyện, nhưng nghiên cứu về những dữ kiện dẫn đến sự cầu nguyện của Áp-ra-ham, cũng như nội dung của lời cầu nguyện của ông.
 
-> <sup>1</sup>Vả, nước thiên đàng, giống như người chủ nhà kia, tảng sáng đi ra, để mướn người làm công cho vườn nho mình. <sup>2</sup>Khi người chủ đã định giá với người làm công, mỗi ngày một đơ-ni-ê, thì sai họ vào vườn nho mình.  <sup>3</sup>Ước chừng giờ thứ ba, người chủ lại ra, thấy những kẻ khác rảnh việc đứng trong chợ, <sup>4</sup>thì nói cùng họ rằng: Các ngươi hãy đi vào vườn nho ta, và ta sẽ trả tiền công phải cho.  <sup>5</sup>Họ liền đi. Ước chừng giờ thứ sáu và giờ thứ chín, người chủ lại ra, cũng làm như vậy.  <sup>6</sup>Ước chừng giờ thứ mười một, chủ ra, lại thấy những kẻ khác đứng trong chợ, thì hỏi rằng: Sao các ngươi đứng đây cả ngày không làm gì hết?  <sup>7</sup>Họ trả lời rằng: Vì không ai mướn chúng tôi. Người chủ nói với họ rằng: Các ngươi cũng hãy đi vào vườn nho ta.<br /><br />
-<sup>8</sup>Đến tối, chủ vườn nho nói với người giữ việc rằng: Hãy gọi những người làm công mà trả tiền công cho họ, khởi từ người rốt cho đến người đầu.  <sup>9</sup>Những người làm công mướn từ giờ thứ mười một đến, lãnh mỗi người được một đơ-ni-ê.  <sup>10</sup>Rồi tới phiên những người đầu đến, tưởng lãnh được nhiều hơn; song họ cũng lãnh mỗi người một đơ-ni-ê.<br /><br />
-<sup>11</sup>Khi lãnh rồi, lằm bằm cùng chủ nhà, <sup>12</sup>mà rằng: Những người rốt ấy chỉ làm một giờ, mà chủ đãi cũng như chúng tôi, là kẻ đã chịu mệt nhọc cả ngày và giang nắng.  <sup>13</sup>Song chủ trả lời cho một người trong bọn rằng: Bạn ơi, ta không xử tệ với ngươi đâu; ngươi há chẳng đã định với ta một đơ-ni-ê sao?  <sup>14</sup>Hãy lấy của ngươi mà đi đi; ta muốn trả cho kẻ rốt nầy bằng như đã trả cho ngươi vậy.  <sup>15</sup>Ta há không có phép dùng của cải ta theo ý muốn ta sao? Hay là ngươi thấy ta ở tử tế mà lấy mắt ganh sao?  <sup>16</sup>Đó, những kẻ rốt sẽ nên đầu và kẻ đầu sẽ nên rốt là như vậy.
-(Matthew 20:1-16)
+Câu chuyện khởi đầu với lời độc thoại của Đức Chúa Trời: <em>"Lẽ nào ta giấu Áp-ra-ham điều chi ta sẽ làm sao?"</em> Đó là chính Chúa đã chọn để bày tỏ dự tính của Ngài cho Áp-ra-ham. Áp-ra-ham có lẽ đang bận rộn với những công việc thường ngày với đôi lúc nghĩ đến không biết khi nào ông và vợ dấu yêu có được đứa con thừa tự. Mặc dầu hai ông bà đã có một con qua người tớ gái A-ga, họ chắc thường suy gẫm phải chăng dòng dõi mà Chúa hứa với họ vẫn còn nằm trong chương trình của Đức Chúa Trời vẫn còn tiếp diễn, mặc dầu đã lâu lắm rồi kể từ khi lần đầu họ nghe lời Chúa hứa.
 
-Cũng cùng một Chúa Giê-su là Đấng kể ngụ ngôn này với câu chuyện trong Lu-ca 17, chúng ta phải nhìn nhận rằng đây cũng là những công việc thuộc cùng một loại: công việc mà người tôi tớ làm cho chủ. Cách trả lương của người chủ vườn nho cho thấy sự tương đồng với mối liên hệ chủ/tớ. Trong mối liên hệ đó cũng không có sự ban thưởng và ngợi khen. Tiền công trong ngụ ngôn này cũng không mang ý nghĩa lương bổng, vì lương bổng thì phải cân xứng với công sức của người làm việc. Vậy thì tiền công đó là gì nếu không phải là tiền thưởng hay lương bổng? Có lẽ là những gì người làm việc cần để làm công việc mà chủ giao phó.
+Cho đến giờ phút này, Áp-ra-ham đã không cầu nguyện về thành Sô-đôm, và cũng chẳng cầu nguyện về cháu của mình là Lót, ít nhất là cho đến khi Chúa bày tỏ cho ông chương trình của Ngài. Rồi cho đến khi ông bắt đầu cầu nguyện, lời cầu nguyện của ông không giống với những gì chúng ta quen thuộc.
 
-Nếu chúng ta kết hợp hai câu chuyện này làm một, ý nghĩa của sự hầu việc Chúa có thể được viết như sau: không có sự hầu việc Chúa bởi sự tự nguyện hoặc từ lòng hảo tâm&mdash;vì mối liên hệ chủ/tớ, nhưng mỗi người đều có công việc được ban cho bởi ý muốn của Chúa, và vì không bởi sự tình nguyện, nên cũng không có sự ban thưởng, hoặc lương bổng.
+Áp-ra-ham đã không cầu nguyện về Lót. Nhưng khi được nghe Chúa nói về dự định huỷ diệt thành Sô-đôm, ông hỏi Ngài:
 
-Có một điều cần phải giải thích ở đây. Hiện nay mặc dầu chúng ta liên hệ với Đức Chúa Trời qua Đấng Christ trong địa vị con cái của Ngài, ý nghĩa của sự hầu việc vẫn là giữa chủ và người nô lệ nếu ân điển là nền tảng trong mọi khía cạnh của đời sống tin kính. Để sự hầu việc được đặt nền tảng trên ân điển, nó không thể đến bởi sự tự nguyện hoặc tuỳ thích, nhưng là điều Chúa đã sắm sẵn cho mỗi người tuỳ theo sự giàu có của ân điển Ngài. Điều này khiến mọi người đang làm một công việc gì đó cho nước Trời, hoặc những người dường như có vẻ không đóng một vai trò gì, đều đứng trên cùng một địa vị như nhau (ngụ ngôn người làm việc trong vườn nho&mdash;Matthew 20:1-16). Chúa sẽ ban cho mỗi người công việc tuỳ theo ý tưởng cao diệu của Ngài. Điều này cũng khiến sự thúc giục hầu việc Chúa trở nên không cần thiết, vì nếu Chúa đã sắm sẵn, và "áp đặt" công việc trên kẻ tôi-tớ/nô-lệ&mdash;theo nghĩa bóng, thì cần gì đến sự thúc giục? Có thể nào chúng ta không làm việc mà Chúa đã sắm sẵn? Có thể nào Môi-se, Giô-na, hoặc Phao-lô cưỡng lại được công việc mà Chúa đã sắm sẵn cho họ?
+> “Chúa sẽ diệt người công bình luôn với người độc ác sao?  24 Ngộ trong thành có năm mươi người công bình, Chúa cũng sẽ diệt họ hết sao? Há chẳng tha thứ cho thành đó vì cớ năm mươi người công bình ở trong sao? Không lẽ nào Chúa làm điều như vậy, diệt người công bình luôn với kẻ độc ác; đến đỗi kể người công bình cũng như người độc ác. Không, Chúa chẳng làm điều như vậy bao giờ! Ðấng đoán xét toàn thế gian, há lại không làm sự công bình sao?”
 
-Vậy chúng ta có thể nói rằng mọi công việc tự nguyện, đến từ chính bản thân, thì không thể được chấp nhận trong nước Trời? Câu trả lời cho câu hỏi này là chìa khoá để hiểu được ý nghĩa của sự hầu việc Chúa, mục vụ, hay bất cứ điều gì được làm trong danh Chúa.
+Chúa trả lời với ông:
 
-## Sự hầu việc Chúa theo ân điển
+> Nếu ta tìm được trong Sô-đôm năm mươi người công bình, vì tình thương bấy nhiêu người đó ta sẽ tha hết cả thành.
 
-Chúng ta hãy ôn lại đoạn Kinh Thánh quen thuộc Ephesians 2:8-10.
+Rồi Áp-ra-ham tiếp tục dò xét tấm lòng của Chúa về số người công bình tối thiểu khiến Chúa có thể vì họ mà dừng cơn nóng giận. Bốn mươi lăm người công bình? Bốn mươi? Ba mươi? Hai mươi? Và cuối cùng là mười? Cho mỗi câu hỏi Ngài trả lời rằng sẽ không huỷ thành vì số người công bình trong đó.
 
-> <sup>8</sup>Vả, ấy là nhờ ân điển, bởi đức tin, mà anh em được cứu, điều đó không phải đến từ anh em, bèn là sự ban cho của Ðức Chúa Trời.  <sup>9</sup>Ấy chẳng phải bởi việc làm đâu, hầu cho không ai khoe mình;  <sup>10</sup>vì chúng ta là việc Ngài làm ra, đã được dựng nên trong Ðức Chúa Jêsus Christ để làm việc lành mà Ðức Chúa Trời đã <u>sắm sẵn</u> trước cho chúng ta làm theo (Ephesians 2:8-10).
+## Điều quan trọng nhất
 
-Chúng ta thường ngừng lại ở câu 9, nhưng câu 10 cho một định nghĩa về sự hầu việc đến từ ân điển. Những việc lành đã được sắm sẵn trước bởi Đức Chúa Trời cho những kẻ được chọn nhờ ân điển. Như đã được nhấn mạnh ở trên, để những việc làm được đặt trên nền tảng của ân điển, chúng không thể nào đến từ sự tình nguyện hoặc tuỳ thích, và vì thế cũng không có phần thưởng hay sự khen ngợi. Điều này loại bỏ mọi sự khoe mình về đức độ cá nhân. Sự "áp đặt" của việc làm mà Chúa đã sắm sẵn cho kẻ tin thực ra đúng là một việc lạ lùng của ân điển Chúa, vì nó cất khỏi người tín hữu sự hoang mang vì phải cố tìm biết điều gì mình phải làm cho Chúa, nhưng thay vào đó nó cho người đó được sự bình an chờ đợi Chúa bày tỏ điều gì họ phải làm. Không cần phải được thúc giục.
+Tại sao Áp-ra-ham đã không cầu nguyện đặc biệt cho Lót? Dĩ nhiên có nhiều điều quan trọng trong đời sống ông mà Lót là một phần trong đó (Genesis 13:8-9), nhưng có một điều gì đó quan trọng hơn nhiều: bản tính của Đức Chúa Trời. Sau khi mỗi câu hỏi được nêu lên với Chúa với con số người công bình từ từ giảm xuống, Áp-ra-ham cảm nhận ông biết Chúa nhiều hơn. Đối với ông, mọi điều khác, kể cả Lót và thành Sô-đôm, và ngay cả những nghi vấn trong lòng ông về lời hứa của Đức Chúa Trời về hậu tự của ông, và mọi điều khác trong trần thế, phai mờ khi so sánh với sự nhận biết về bản tính của Đức Chúa Trời.
 
-## Nô lệ của sự công bình
+Áp-ra-ham mang một ấn tượng về Đức Chúa Trời của vũ trụ: "Không lẽ nào Chúa làm điều như vậy, diệt người công bình luôn với kẻ độc ác." Áp-ra-ham không cần phải thương lượng với Chúa thêm nữa. Vì bây giờ ông biết, dù chỉ có một người công bình trong thành, Chúa cũng không huỷ diệt chỉ vì một người đó. Đó là Đức Chúa Trời mà Áp-ra-ham muốn biết, và tin cậy. Ông tin Chúa về số mệnh của Sô-đôm. Từ đây trở đi, dù có điều gì xảy ra chăng nữa ông biết mọi sự sẽ tốt đẹp. Ông hoàn toàn an tâm về Chúa.
 
-Có một đoạn Kinh Thánh rất kỳ diệu trong Rô-ma đoạn 6 mà trong đó Phao-lô dùng hình ảnh của người nô lệ để bày tỏ sự chuyển từ địa vị tội lỗi đến sự công bình mà chúng ta có thể dùng để giải thích rằng sự hầu việc Chúa không phải là sự tự nguyện hoặc tuỳ thích.
+## Trước hết tìm kiếm nước Đức Chúa Trời.
 
-> <sup>17</sup>Nhưng, tạ ơn Ðức Chúa Trời, vì sau khi anh em làm tôi mọi tội lỗi, thì đã từ lòng vâng phục đạo lý là sự đã ban làm mực thước cho mình!  <sup>18</sup>Vậy, anh em đã được buông tha khỏi tội lỗi, trở nên <u>tôi mọi của sự công bình</u> rồi (Romans 6:17-18).
+> <sup>31</sup>Ấy vậy, các ngươi chớ lo lắng mà nói rằng: Chúng ta sẽ ăn gì? uống gì? mặc gì?  <sup>32</sup>Vì mọi điều đó, các dân ngoại vẫn thường tìm, và Cha các ngươi ở trên trời vốn biết các ngươi cần dùng những điều đó rồi.  <sup>33</sup>Nhưng <span style="font-weight: bold">trước hết, hãy tìm kiếm nước Ðức Chúa Trời và sự công bình của Ngài</span>, thì Ngài sẽ cho thêm các ngươi mọi điều ấy nữa.  <sup>34</sup>Vậy, chớ lo lắng chi về ngày mai; vì ngày mai sẽ lo về việc ngày mai. Sự khó nhọc ngày nào đủ cho ngày ấy (Matthew 6:31-34).
 
-Xin theo dõi sự chuyển từ địa vị nô lệ tội lỗi sang sự nô lệ của sự công bình.
+Trước hết tìm kiếm nước Đức Chúa Trời và sự công bình của Ngài. Đây chính là điều chúng ta nhận xét từ mẩu đối thoại giữa Áp-ra-ham và Đức Chúa Trời.
 
-Chúng ta hãy suy gẫm về sự nô lệ dưới tội lỗi. Phao-lô nói về điều đó như một sự hiển nhiên, rằng chúng ta là những người nô lệ dưới tội lỗi. Trong mối liên hệ chủ/nô không có điều gì tuỳ thích, nhưng mọi sự đều bị áp đặt trên kẻ nô lệ. Có thể nào một kẻ nô lệ cưỡng lại ý của chủ? Hoàn toàn không. Có thể nào một người tôi tớ nói với chủ: Hãy xem, tôi đang phục vụ người từ thiện tâm, mặc dù tôi không buộc phải làm những việc đó? Không. Kết quả sẽ là sự chết nếu người nô lệ không làm theo ý chủ.
+Chắc chắn Áp-ra-ham cũng là một người như chúng ta với nhiều nhu cầu cần cầu nguyện. Chúng ta cũng biết ông và vợ ông là Sa-ra vẫn đang trông đợi sự trọn vẹn của lời hứa của Đức Chúa Trời về hậu tự của họ. Và chắc họ cũng đang sốt ruột về cháu là Lót và gia đình của ông ở thành Sô-đôm. Rồi trong lúc tuổi già sức yếu chắc cũng có nhiều vấn đề về sức khoẻ cần được Chúa thăm viếng. Và nhiều nan đề khác nữa trong cuộc sống.
 
-Phao-lô hẳn phải dùng từ "nô lệ" để bày tỏ sự không cưỡng lại được của việc lành là kết quả của sự trở nên nô lệ của sự công bình. Cũng như kẻ nô lệ dưới tội lỗi không thể cưỡng lại được quyền lực của nó, người nô lệ dưới sự công bình cũng không cưỡng được sự thúc đẩy để làm việc lành. Chúng ta phải hiểu rằng Phao-lô đang dùng sự so sánh này để giải thích quyền lực của ân điển trong đời sống của những kẻ thuộc về Đấng Christ để làm việc lành. Mọi điều này loại bỏ ý niệm rằng những việc lành làm trong danh Đấng Christ là những việc tự nguyện mà mỗi người tự quyết định cho chính mình cách thức và thời gian hầu việc Chúa. Tuyệt đối không, vì mọi công việc đã được định trước bởi Đức Chúa Trời từ trước muôn đời cho mỗi kẻ tin Ngài.Chẳng cần ai thúc đẩy, hay khuyên giục. Thực ra, những sự thúc đẩy hay khuyên giục từ loài người lại cản trở hoặc làm hoang mang tâm trí của người mà Chúa đã có sẵn chương trình cho họ.
+Nhưng chúng ta đã không nghe Áp-ra-ham nói gì về những điều này trong lời cầu nguyện của ông với Chúa. Thay vào đó chúng ta nghe ông dò dẫm về chiều sâu của tình yêu Chúa cho nhbững kẻ thuộc về Ngài. Nếu Áp-ra-ham có thể tin cậy nơi Chúa về điều quan trọng này thì chắc ông sẽ tin cậy nơi Chúa trong mọi điều khác nữa.
 
-Phao-lô bày tỏ mối liên hệ chủ/nô một cách khác trong Rô-ma.
+Áp-ra-ham chắc đã từng nghe tiếng đồn về thành Sô-đôm là một thành phố cực kỳ tội lỗi. Nhưng ông đã không vì thế cầu nguyện xin Chúa huỷ diệt thành đó. Nhưng ông chọn để chú tâm vào những người công bình còn sống ở đó. Nhưng quan trọng hơn nữa là sự ông chú tâm vào bản tính Đức Chúa Trời. Những câu trả lời của Chúa sẽ dệt nên trong ông một hình ảnh về Ngài và cái nhìn của ông về cuộc sống.
 
-> "Vì tôi không làm điều lành mình muốn, nhưng làm điều dữ mình không muốn." (Romans 7:19)
+Áp-ra-ham quả là một người tìm kiếm nước Đức Chúa Trời và sự công bình của Ngài.
 
-## Thế còn quyền tự do tự quyết?
+Lời cầu nguyện của ông cũng giúp chúng ta hiểu ý nghĩa của 2 Peter 3:18:
 
-Có người có thể nêu lên câu hỏi về quyền tự do tự quyết để đối chọi với sự tranh luận trình bày qua bài viết này, rằng sự hầu việc Chúa phải đến từ sự tự nguyện và từ chủ ý của người làm việc thì mới có giá trị. Thoạt nghĩ đến thì điều này có vẻ là một động lực chính đáng để hầu việc Chúa, từ sự tự do của ân điển thay vì sự đòi hỏi của luật pháp.
+> Hãy tấn tới trong ân điển và trong sự thông biết Chúa và Cứu Chúa chúng ta là Ðức Chúa Jêsus Christ.
 
-Đến đây chúng ta nhận thấy có 3 định nghĩa của sự hầu việc Chúa: 1) bởi sự tự do, 2) bởi sự đòi hỏi của luật pháp, 3) bởi sự sắm sẵn trước của Đức Chúa Trời&mdash;là điều mà bài viết này chủ trương.
+Hãy để lời cầu nguyện của Áp-ra-ham hướng dẫn chúng ta trong sự tìm biết Chúa.
 
-Định nghĩa về sự hầu việc Chúa mà đa số công nhận là đến từ sự chủ động của một cá nhân, có vẻ đáng kính nhất và dường như phù hợp với nguyên tắc cứu rỗi bởi ân điển và qua đức tin. Nhưng công việc đó, dù đến từ sự tự nguyện, có thực đến từ một động cơ thực sự thanh khiết? Có một chút xíu gì vương vấn của sự thèm muốn được ngợi khen hoặc ban thưởng?
+## Mắt Chúa dõi trông từng con chim sẻ
 
-Không ai khi làm việc lành mà tránh khỏi một động cơ ích kỷ. Tiên tri Giê-rê-mi đã viết: <em>"Lòng người ta là dối trá hơn mọi vật, và rất là xấu xa: ai có thể biết được? (Jeremiah 17:9)"</em> Tiên tri Ê-sai cũng viết về những việc lành mà loài người làm: <em>"Chúng tôi hết thảy đã trở nên như vật ô uế, mọi việc công bình của chúng tôi như áo nhớp; chúng tôi thảy đều héo như lá, và tội ác chúng tôi như gió đùa mình đi (Isaiah 64:6)"</em> 
+> <sup>29</sup>Hai con chim sẻ há chẳng từng bị bán một đồng tiền sao? Và ví không theo ý muốn Cha các ngươi, thì không hề một con nào rơi xuống đất.  <sup>30</sup>Tóc trên đầu các ngươi cũng đã đếm hết rồi.  <sup>31</sup>Vậy, đừng sợ chi hết, vì các ngươi quí trọng hơn nhiều con chim sẻ (Matthew 10:29-31).
 
-Do đó phương cách duy nhất để một công việc được chấp nhận cho nước Trời là nó phải đến từ bên ngoài người làm công việc đó hầu cho mọi ý niệm về phần thưởng hoặc sự ngợi khen đều bị loại trừ.
+Nếu Chúa lo tưởng đến từng con chim sẻ, và ngay cả chính từng sợi tóc trên đầu chúng ta là điều dường như không đáng kể, há Ngài chẳng lo đến những nhu cầu trọng yếu hơn trong đời sống chúng ta như sức khoẻ, thức ăn hằng ngày, hoặc những lo lắng khác có thể đang đè nặng trên tâm khảm chúng ta? Còn những điều có vẻ thiêng liêng hơn như các mục vụ, chương trình truyền giáo? Ai đã cầu nguyện để Chúa Giê-su xuống thế từ trời, hoặc ai đã cầu nguyện để đưa Ngài lên từ âm phủ? (Romans 10:5-13)
 
 ## Kết luận
 
-> <sup>8</sup>Vả, ấy là nhờ ân điển, bởi đức tin, mà anh em được cứu, điều đó không phải đến từ anh em, bèn là sự ban cho của Ðức Chúa Trời.  <sup>9</sup>Ấy chẳng phải bởi việc làm đâu, hầu cho không ai khoe mình;  <sup>10</sup>vì chúng ta là việc Ngài làm ra, đã được dựng nên trong Ðức Chúa Jêsus Christ để làm việc lành mà Ðức Chúa Trời đã <u>sắm sẵn</u> trước cho chúng ta làm theo (Ephesians 2:8-10).
+Chúa không lơ là, và Ngài cũng chẳng mệt mỏi hay buồn ngủ. Trong trường hợp của Áp-ra-ham liên hệ đến thành Sô-đôm và cháu ông là Lót, đó là chính Đức Chúa Trời đến báo tin cho ông. Lời cầu nguyện của Áp-ra-ham chỉ là một sự đáp lại sự mong muốn của Đức Chúa Trời muốn chia xẻ với ông điều mà trí ông không hề nghĩ đến: <em>"Lẽ nào ta giấu Áp-ra-ham điều chi ta sẽ làm sao?"</em>
 
-Romans 11:6 viết rằng nếu bất cứ một khía cạnh nào trong sự liên hệ với Đức Chúa Trời đến bởi việc làm thì ân điển không còn là ân điển nữa. Do đó sự khoe mình không thể hiện hữu trong mối liên hệ bởi ân điển. Không ai làm công việc Chúa nhiều hơn ai vì Đức Chúa Trời là Đấng sắm sẵn những công việc đó. Sự "nô lệ của sự công bình (Romans 6:18)" có vẻ tiêu cực nhưng là một chân lý huyền nhiệm từ sự khôn ngoan của Đức Chúa Trời và là một phần trong quan trọng trong ân điển Chúa. Người tín hữu được thoát khỏi sự dày vò trong lòng không biết họ có đang làm công việc Chúa hay chưa. Họ an nghỉ trong sự trọn vẹn của Thập Tự Giá của Đấng Christ và tin rằng Chúa đã có một chương trình cho mỗi người trong sự hầu việc Ngài.
+Đó chính là Chúa đã đem đến cho Môi-se chương trình của Ngài để giải cứu dân tộc Ngài ra khỏi xứ Ai-cập trong khi ý tưởng về dân tộc mà ông đã từng biết đã quá phai mờ trong tâm khảm của ông. Môi-se bây giờ đã tám mươi và đã quá quen thuộc với đời sống tĩnh lặng trong sa mạc. Không, ông đã không cầu nguyện cho dân tộc ông vẫn còn nằm trong xiềng xích nô lệ, mà cũng chẳng có ai chung quanh để đồng chia xẻ với ông khải tượng giải cứu họ ra khỏi xứ Ai-cập.
 
-Những tác động từ bên ngoài, những sách vở hoặc giảng luận, thúc giục người đọc hoặc người nghe, về sự hầu việc Chúa, có thể khiến một người rời bỏ nhiệm vụ họ đang làm vì tưởng rằng đó không phải là công việc Chúa. Lại nếu Chúa đã sắm sẵn việc làm cho những kẻ tin Ngài thì không lẽ Ngài lại để họ lần mò tìm ý Ngài như người mê tín dị đoan? Như Chúa đã sắm sẵn công việc cho Môi-se, Giô-na, và Phao-lô như thể nào thì Ngài cũng sắm sẵn cho chúng ta thể ấy. Công việc Chúa là địa vị của mỗi kẻ tin Ngài trong hiện tại, vai trò của họ trong xã hội, trong gia đình, trong hội thánh. Không cần phải ai sai bảo hay thúc giục. Nếu có sự khuyên bảo hay thúc giục nào, là cho những người đang đối diện với những thử thách khó khăn cần sự nâng đỡ.
+Thế còn Giô-na, phải chăng chính ông yêu thương dân thành Ni-ni-ve, hay là chính Chúa? Phải chăng chính Giô-na đã có khải tượng về sự rao truyền tin lành cho họ hay là Chúa đã tỏ bày tấm lòng của Ngài với ông: "Vì Đức Chúa Trời yêu thương thế gian?"
 
-> Ngài đã không tiếc chính Con mình, nhưng vì chúng ta hết thảy mà phó Con ấy cho, thì Ngài há chẳng cũng sẽ ban <u>mọi sự</u> luôn với Con ấy cho chúng ta sao? (Romans 8:32)
+Cũng cùng một trường hợp với sứ đồ Phao-lô. Ông đang bận rộn bắt bớ những người theo Chúa khi Ngài bày tỏ cho ông sự Ngài kêu gọi ông thành khí cụ dẫn đưa họ vào con đường hẹp và thẳng trong niềm tin mới của họ nơi Đấng Christ. Thực vậy, sứ đồ Phao-lô đã được Chúa gọi ông từ trong bụng mẹ để làm công việc mà Chúa đã sắm sẵn cho ông (Galatians 1:15), rất lâu trước khi ông biết mở lời cầu nguyện.
 
-Mọi sự, kể cả sự hầu việc Chúa.
+Chẳng một ai trong những vĩ nhân này tự khởi xướng về những công việc vĩ đại này. Họ chỉ một cách đơn giản sống trong tầm hiểu biết của họ, chẳng hề biết đến những trọng trách vĩ đại sẽ đến với họ sau khi Chúa gọi họ vào trách vụ hầu việc Ngài.
+
+Dĩ nhiên cũng có lúc chúng ta cần cầu nguyện, và cầu nguyện với hết tấm lòng, về những vấn đề lớn và cấp bách. Mặc dầu chúng ta biết Chúa biết rõ mọi điều về đời sống chúng ta, được bày tỏ sự nặng nề trong lòng với Chúa là một ơn phước lớn, nhất là khi chúng ta được lời hứa rằng Đức Thánh Linh sẽ giúp chúng ta bày tỏ những ý tưởng mà chúng ta không thể nghĩ đến trong lúc khẩn trương.
+
+Nhưng ngoài những trường hợp đó chúng ta có cần cầu nguyện không ngừng chăng? Hãy thử tưởng tượng một trẻ thơ cứ nói không ngừng với cha mẹ nó? Cầu nguyện không phải là chỉ nói với Chúa, nhưng cũng là nghe lời Chúa phán. Hãy thử suy gẫm về sự nghe tiếng Chúa là một cách cầu nguyện tốt hơn. Và Chúa thường hay phán với chúng ta qua Thánh Kinh. Sau cùng, yên lặng trước mặt Chúa và nhận thức Ngài là Chúa là điều còn tốt hơn nữa.
+
+> "Vả, khi các ngươi cầu nguyện, đừng dùng những lời lặp vô ích như người ngoại; vì họ tưởng vì cớ lời mình nói nhiều thì được nhậm (Matthew 6:7).
+
+> Chớ vội mở miệng ra, và lòng ngươi chớ lật đật nói lời trước mặt Ðức Chúa Trời; vì Ðức Chúa Trời ở trên trời, còn ngươi ở dưới đất. Vậy nên ngươi khá ít lời (Ecclesiastes 5:2).
+
+> <sup>1</sup>Bấy giờ, từ giữa cơn gió trốt, Ðức Chúa Trời đáp cùng Gióp rằng:  <sup>2</sup>Kẻ nầy là ai dám dùng các lời không tri thức, Mà làm cho mờ ám các mưu định ta? (Job 38:1-2)
 
 {% include bible-study/bible-study-footer %}
 

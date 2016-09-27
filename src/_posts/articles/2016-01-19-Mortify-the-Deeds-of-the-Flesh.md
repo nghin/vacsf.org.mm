@@ -4,7 +4,6 @@ headline: "Mortify the Deeds of the Flesh"
 excerpt: "Mortify the deeds of the flesh. Does this mean never sinning anymore? Why try to put to death what is already dead and buried with Christ (Romans 6:4)?"
 modified: 2016-08-08T12:14:45-04:00
 image: 
-  feature: death-deeds-feature.jpg
   teaser: death-deeds.jpg
 tags: [flesh]
 featured: false
@@ -21,7 +20,7 @@ At first glance, almost without being taught by anyone, most come to the conclus
 {% include toc_spacer.html %}
 {% include bible-study/meditations %}
 
-<em>(Bấm vào đây để đọc tiếng Việt)</em>
+[(<em>Bấm vào đây để đọc tiếng Việt</em>)]({{ site.url }}{% post_url 2016-01-19-Lam-chet-cac-viec-cua-chi-the %})
 
 > For if ye live after the flesh, ye shall die: but if ye through the Spirit do mortify the deeds of the body, ye shall live. <cite>(Romans 8:13)</cite>
 
