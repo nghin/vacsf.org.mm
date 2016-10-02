@@ -1,8 +1,11 @@
-<ul class="side-nav" style="padding-top: 10px">
-      <li><a href="{{ site.projectname }}/hoc-kinh-thanh/sach-ga-la-ti/01/">Chương 1</a><p style="font-weight: normal;">Sự Làm Sai Lạc Tin Lành</p></li>
-      <li><a href="{{ site.projectname }}/hoc-kinh-thanh/sach-ga-la-ti/02/">Chương 2</a><p style="font-weight: normal;">Sự Cậy Vào Luật Pháp Là Nghịch Lại Với Sự Xưng Công Binh Bởi Đức Tin</p></li>
-      <li><a href="{{ site.projectname }}/hoc-kinh-thanh/sach-ga-la-ti/03/">Chương 3</a><p style="font-weight: normal;">Luật Pháp Không Thể Dẫn Đến Sự Công Bình</p></li>
-      <li><a href="{{ site.projectname }}/hoc-kinh-thanh/sach-ga-la-ti/04/">Chương 4</a><p style="font-weight: normal;">Sự Lệ Thuộc Vào Luật Pháp Được Chấm Dứt Khi Đấng Christ Đến</p></li>
-      <li><a href="{{ site.projectname }}/hoc-kinh-thanh/sach-ga-la-ti/05/">Chương 5</a><p style="font-weight: normal;">Bước Đi Trong Thánh Linh Đối Với Sự Cậy Vào Luật Pháp</p></li>
-      <li><a href="{{ site.projectname }}/hoc-kinh-thanh/sach-ga-la-ti/06/">Chương 6</a><p style="font-weight: normal;">Gánh Nặng Của Sự Lệ Thuộc Vào Luật Pháp</p></li>
+<nav class="js-toc toc" markdown="1">
+<h4 class="toc__title">Sách Ga-la-ti</h4>
+<ul class="toc__menu" id="markdown-toc">
+      <li><a href="{{ site.projectname }}/galatians-viet/Ga-la-ti-Chuong-01/">Chương 1</a><span style="font-weight: normal; margin-left: 1em;">Sự Làm Sai Lạc Tin Lành</span></li>
+      <li><a href="{{ site.projectname }}/galatians-viet/Ga-la-ti-Chuong-02/">Chương 2</a><span style="font-weight: normal; margin-left: 1em;">Sự Cậy Vào Luật Pháp Là Nghịch Lại Với Sự Xưng Công Binh Bởi Đức Tin</span></li>
+      <li><a href="{{ site.projectname }}/galatians-viet/Ga-la-ti-Chuong-03/">Chương 3</a><span style="font-weight: normal; margin-left: 1em;">Luật Pháp Không Thể Dẫn Đến Sự Công Bình</span></li>
+      <li><a href="{{ site.projectname }}/galatians-viet/Ga-la-ti-Chuong-04/">Chương 4</a><span style="font-weight: normal; margin-left: 1em;">Sự Lệ Thuộc Vào Luật Pháp Được Chấm Dứt Khi Đấng Christ Đến</span></li>
+      <li><a href="{{ site.projectname }}/galatians-viet/Ga-la-ti-Chuong-05/">Chương 5</a><span style="font-weight: normal; margin-left: 1em;">Bước Đi Trong Thánh Linh Đối Với Sự Cậy Vào Luật Pháp</span></li>
+      <li><a href="{{ site.projectname }}/galatians-viet/Ga-la-ti-Chuong-06/">Chương 6</a><span style="font-weight: normal; margin-left: 1em;">Gánh Nặng Của Sự Lệ Thuộc Vào Luật Pháp</span></li>
 </ul>
+</nav>

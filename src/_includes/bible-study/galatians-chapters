@@ -1,8 +1,11 @@
-<ul class="side-nav" style="padding-top: 10px">
-      <li><a href="{{ site.projectname }}/bible-topics/book-of-galatians/01/">Chapter 1</a><p style="font-weight: normal;">The perversion of the gospel</p></li>
-      <li><a href="{{ site.projectname }}/bible-topics/book-of-galatians/02/">Chapter 2</a><p style="font-weight: normal;">Legalism is inconsistent with justification by faith</p></li>
-      <li><a href="{{ site.projectname }}/bible-topics/book-of-galatians/03/">Chapter 3</a><p style="font-weight: normal;">The law was never given for justification</p></li>
-      <li><a href="{{ site.projectname }}/bible-topics/book-of-galatians/04/">Chapter 4</a><p style="font-weight: normal;">Our subjection to the law ends at the arrival of Christ</p></li>
-      <li><a href="{{ site.projectname }}/bible-topics/book-of-galatians/05/">Chapter 5</a><p style="font-weight: normal;">Walking in the Spirit vs. Law Keeping</p></li>
-      <li><a href="{{ site.projectname }}/bible-topics/book-of-galatians/06/">Chapter 6</a><p style="font-weight: normal;">The burden of law observances</p></li>
+<nav class="js-toc toc" markdown="1">
+<h4 class="toc__title">Galatians</h4>
+<ul class="toc__menu" id="markdown-toc">
+      <li><a href="{{ site.url }}/galatians/Galatians-Chapter-01/">Chapter 1</a><span style="font-weight: normal; margin-left: 1em;">The perversion of the gospel</span></li>
+      <li><a href="{{ site.url }}/galatians/Galatians-Chapter-02/">Chapter 2</a><span style="font-weight: normal; margin-left: 1em;">Legalism is inconsistent with justification by faith</span></li>
+      <li><a href="{{ site.url }}/galatians/Galatians-Chapter-03/">Chapter 3</a><span style="font-weight: normal; margin-left: 1em;">The law was never given for justification</span></li>
+      <li><a href="{{ site.url }}/galatians/Galatians-Chapter-04/">Chapter 4</a><span style="font-weight: normal; margin-left: 1em;">Our subjection to the law ends at the arrival of Christ</span></li>
+      <li><a href="{{ site.url }}/galatians/Galatians-Chapter-05/">Chapter 5</a><span style="font-weight: normal; margin-left: 1em;">Walking in the Spirit vs. Law Keeping</span></li>
+      <li><a href="{{ site.url }}/galatians/Galatians-Chapter-06/">Chapter 6</a><span style="font-weight: normal; margin-left: 1em;">The burden of law observances</span></li>
 </ul>
+</nav>

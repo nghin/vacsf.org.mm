@@ -81,7 +81,7 @@ Paul then quotes from Isaiah to show them that if anyone in Israel is saved, it 
 
 ## Righteousness is only available through faith
 
-> <sup>30</sup>What shall we say then? - that the Gentiles who did not pursue righteousness obtained it, that is, a righteousness that is by faith,  <sup>31</sup>but Israel even though pursuing a law of righteousness did not attain it.  <sup>32</sup>Why not? Because they pursued it not by faith but (as if it were possible) by works. They stumbled over the stumbling stone, <sup>33</sup>just as it is written, "Look, I am laying in Zion a stone that will cause people to stumble and a rock that will make them fall, yet the one who believes in him will not be put to shame." (Romans 9:30-33)
+> <sup>30</sup>What shall we say then? - that the Gentiles who did not pursue righteousness obtained it, that is, a righteousness that is by faith,  <sup>31</sup>but Israel even though pursuing a law of righteousness did not attain it.  <sup>32</sup>Why not? <u>Because they pursued it not by faith but (as if it were possible) by works</u>. They stumbled over the stumbling stone, <sup>33</sup>just as it is written, "Look, I am laying in Zion a stone that will cause people to stumble and a rock that will make them fall, yet the one who believes in him will not be put to shame." (Romans 9:30-33)
 
 Now at this closing passage, Paul once again concludes with the same main theme: God's sovereignty in salvation. The Gentiles, not having been given the law, dead in sin and trespasses, never having sought God, yet now being called by Him to an opportunity to receive righteousness. On the other hand, God's chosen people of Israel, who have sought this righteousness through obedience to the law, many of whom never found it.
 

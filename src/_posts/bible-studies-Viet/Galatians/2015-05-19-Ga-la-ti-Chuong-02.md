@@ -13,6 +13,8 @@ comments_locked: false
 ---
 
 {% include toc.html %}
+{% include toc_spacer.html %}
+{% include bible-study/ga-la-ti %}
 
 {{ page.excerpt | markdownify }}
 

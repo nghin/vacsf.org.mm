@@ -13,147 +13,147 @@ comments_locked: false
 ---
 
 {% include toc.html %}
+{% include toc_spacer.html %}
+{% include bible-study/ga-la-ti %}
 
-{{ page.excerpt | markdownify }}
+Phao-lô khởi đầu với sự nhấn mạnh về chức vụ sứ đồ của ông. Lời chúc thăm <em>\"ân điển và bình an\"</em>, lời ông thường chúc trong những lá thư, là sự thách thức trực tiếp, hoặc lời nhắc nhở, với người Ga-la-ti rằng ấy là nhờ ân điển, chẳng phải việc làm, còn sự bình an thì họ sẽ không được hưởng nếu họ trở về với luật pháp.
 
-He was so shocked the Galatians so quickly returned to the Mosaic law system, and he calls that the perversion of the gospel: the mixing of works with grace. He warned them of anathema, translated as eternal damnation in some translation, if they pursue a gospel that is not based on grace alone.
+Ông kinh ngạc vì người Ga-la-ti lại mau chóng quay về với luật pháp Môi-se, và ông gọi điều này là sự bóp méo tin lành; là sự trộn lẫn việc làm với ân điển. Ông cảnh cáo họ về <em>\"anathema,</em>\" tiếng Hy-lạp dịch là <em>\"thuộc về ma quỉ và đáng bị rủa xả, nếu họ theo đuổi một tin lành mà chẳng phải là tin lành chỉ cậy nơi ân điển Chúa.\"</em>
 
-<em>(Bấm vào đây để đọc tiếng Việt)</em>
+## Ân điển và bình an
 
-## Grace and Peace
-
-> <sup>1</sup>From Paul, an apostle (not from men, nor by human agency, but by Jesus Christ and God the Father who raised him from the dead) <sup>2</sup>and all the brothers with me, to the churches of Galatia. <u><sup>3</sup>Grace and peace</u> to you from God the Father and our Lord Jesus Christ,
+> <sup>1</sup>Phao-lô, làm sứ đồ, chẳng phải bởi loài người, cũng không nhờ một người nào, bèn là bởi Đức Chúa Jêsus Christ và Đức Chúa Trời, tức là Cha, Đấng đã khiến Ngài từ kẻ chết sống lại, <sup>2</sup>cùng hết thảy anh em ở với tôi, gởi cho các Hội thánh ở xứ Ga-la-ti: <sup>3</sup>nguyền xin anh em được ân điển và sự bình an ban cho bởi Đức Chúa Jêsus Christ, là Chúa chúng ta,
 
 <div>
 <p>
 <img alt src="{{ site.url }}/assets/images/different-gospel.jpg" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 136px; padding: 0px; float: left;">
-At this point in time, Jerusalem and Judaism were still prominent in the very young Christian church. Hence arose a question of Paul’s authority and apostleship. Much of Paul’s teaching in this letter has to do with steering them from the Old Covenant’s way of relating to God. Once again, Paul greeted them with the “<u>Grace and peace</u>” salutation. But grace didn’t mean much to a Jew. For thousands of years they related to Him through a system of law, and wherever there was law, there could be neither grace, nor peace.
+Ở vào thời điểm này, Giê-ru-sa-lem và Do-thái Giáo còn nhiều ảnh hưởng trong hội thánh Chúa vẫn còn trong thời kỳ phôi thai. Do đó có người đặt câu hỏi về quyền hạn và chức vụ sứ đồ của Phao-lô. Phần lớn những lời giảng của Phao-lô trong thơ này nhằm mục đích đem họ ra khỏi đường lối của thời Cựu Ước trong sự liên hệ với Chúa. Một lần nữa, Phao-lô lại đến với họ trong lời chào thăm <em>"ân điển và bình an."</em> Nhưng ý niệm ân điển không mang nhiều ý nghĩa đối với người Do-thái. Trong nhiều ngàn năm qua họ liên hệ với Chúa qua một hệ thống luật pháp, và hễ nơi nào có luật pháp, nơi đó chằng hề có ân điển, hoặc bình an.
 </p>
 </div>
 
-What do grace and peace mean to us? Do we only pay lip service to them, or do we live our Christian lives in a relationship with God that is consistent with these characteristics that are supposed to be ours?
+Ân điển và bình an mang ý nghĩa gì cho chúng ta? Chúng ta chỉ thấy đó là những khái niệm mơ hồ, hay chúng ta sống đời sống Cơ-đốc Nhân trong một mối liên hệ với Chúa phản ảnh những sắc thái đó?
 
-What makes us afraid of God? What system of theology that perpetuates a fear of God that He moved heaven and earth to dispel, including sending His own Son to the cross for us?
+Điều gì khiến chúng ta kinh sợ Chúa? Hệ thống tín lý nào kéo dài mối kinh sợ đó mà Chúa đã phải dời non chuyển núi để đánh tan, kể cả việc ban Con Ngài lên cây thập tự vì chúng ta?
 
-## To be Rescued vs. Self Effort
+## Được cứu hoặc tự cứu
 
-> who gave himself for our sins to <u>rescue</u> us from this present evil age according to the will of our God and Father,
+> <sup>4</sup>là Đấng phó mình vì tội lỗi chúng ta, hầu cho cứu chúng ta khỏi đời ác nầy, y theo ý muốn Đức Chúa Trời, là Cha chúng ta,
 
-To be <u>rescued</u> means to be completely unable to do anything to save ourselves. This requires a simple childlike faith. When a Christian, knowingly or unknowingly, engage in some actions to make himself acceptable to God, he’s indulging in his spiritual pride. If he was so helpless he couldn’t save himself, how is he now able to do what he couldn’t do before? Galatians 3:3, a few chapters later, discounts this notion beautifully: <em>“Are you so foolish? Although you began with the Spirit, are you now trying to <u>finish</u> by human effort?”</em>
+Được cứu có nghĩa là chúng ta hoàn toàn không có khả năng để tự cứu lấy mình. Điều này đòi hỏi một niềm tin đơn sơ như của trẻ thơ. Khi một người Cơ-đốc Nhân, dù vô tình hay cố ý, làm một việc gì đó để được sự chấp nhận của Chúa, người đó đang thỏa mãn sự kiêu ngạo tâm linh của mình. Nếu hoàn toàn bất lực không tự cứu được mình, thì làm sao người đó bây giờ lại làm được điều tương tự với sự tự cứu lấy mình, đó là làm đẹp lòng Chúa? Ga-la-ti 3:3, trong vài chương tới, gạt bỏ ý niệm này một cách độc đáo: <em>“Sao anh em ngu muội dường ấy? Sau khi đã khởi sự nhờ Đức Thánh Linh, nay sao lại cậy xác thịt mà làm cho trọn?”</em>
 
-Let's take a look at some other translations:
+Chúng ta hãy thử đọc qua vài bản dịch khác:
 
-King James Version: <em>"Are ye so foolish? having begun in the Spirit, are ye now <u>made perfect</u> by the flesh?"</em>
+Bản King James: <em>“Sao anh em ngu muội dường ấy? Sau khi đã khởi sự nhờ Đức Thánh Linh, nay sao lại cậy xác thịt để được trở nên toàn hảo?”</em>
 
-New International Version: <em>"After beginning with the Spirit, are you now trying to <u>attain your goal</u> by human effort?"</em>
+Bản International Version: <em>“Sao anh em ngu muội dường ấy? Sau khi đã khởi sự nhờ Đức Thánh Linh, nay sao lại cậy xác thịt mà tìm đạt đến mục đích?”</em>
 
-We notice these keywords: "finish," "made perfect," and "attain your goal."
+Chúng ta nhận thấy những từ chính yếu này: <em>"làm cho trọn," "trở nên toàn hảo," "đạt đến mục đích."</em>
 
-All these words imply something is unfinished, something not yet perfect, or some goal not yet realized. I hope we see the danger lurking here, the tiny bit of the yeast of the Pharisee lurks in pious sounding words but empty of content, or worse, can lead Christians down the wrong path.
+Tất cả những từ này ám chỉ một điều gì đó chưa được trọn, chưa được toàn hảo, mục đích chưa đạt đến. Tôi hy vọng người đọc thấy sự nguy hiểm rình rập chung quanh, một chút men của người Pha-ri-si lẩn quất đàng sau những khái niệm có vẻ thiêng liêng nhưng chẳng có chất lượng, và tệ hơn nữa, có thể dẫn người Cơ-đốc Nhân vào đường sai trật.
 
-To begin with the Spirit must mean to end with our fleshly effort, to walk by faith, and nothing else, not even the least amount of work (to get on God’s good side). A rescued person continues to need rescueing until the Lord takes him home. To attain the goal, as stated in the verse above, is to walk the rest of the way until we put on the crown of glory. Some ... foolish Christians believe there is something they can do as they try to finish what Christ started but not yet finished, as if this goal, this crown of glory, this righteousness, depends on what they do since the day they’re saved.
+Khởi đầu bằng Đức Thánh Linh có nghĩa là chúng ta phải ở điểm tận cùng những nỗ lực của xác thịt, để bước đi trong đức tin, và chẳng cậy vào một điều gì khác, dù chỉ là chút nỗ lực nào đó để được kể là người công chính. Một người được cứu thì vẫn mãi mãi cần được cứu cho đến khi được đội mão triều thiên vào nước Chúa. Nhiều Cơ-đốc Nhân ... dại dột tin rằng họ có thể làm được điều gì đó để làm cho trọn điều mà Chúa Cứu Thế đã khởi đầu nhưng chưa được vẹn toàn, như thể mục đích tối hậu, mão triều thiên vinh hiển, sự công chính, tùy thuộc vào những gì họ sẽ làm sau khi được cứu.
 
-This is expressly forbidden. Begin with the Spirit, so end with the Spirit. Begin with grace, end with grace.
+Đây là điều cấm kỵ. Đã khởi đầu nhờ Thánh Linh, hãy đi đến cuối cùng nhờ Thánh Linh. Khởi đầu bởi ân điển, kết thúc bởi ân điển.
 
-There is yet another verse that speaks of the same thing: <em>“For the righteousness of God is revealed in the gospel from faith to faith, just as it is written, “The righteous by faith will live.” (Romans 1:17—NET)”</em> Some will inevitably say: "But your work will have to accompany your faith." To this I will answer: If there is a work the Lord has prepared for you to do, do it with all your heart, but if what you do, or not do, become the basis for your salvation, or your fellowship with God, you're walking by the flesh, not faith.
+Lại có một câu Kinh Thánh nữa nói cùng một ý đó: "Vì trong Tin Lành nầy có bày tỏ sự công bình của Đức Chúa Trời, bởi đức tin mà được, lại dẫn đến đức tin nữa, như có chép rằng: <em>"Người công bình sẽ sống bởi đức tin."</em> (Rô-ma 1:17) Sống bởi đức tin, nghĩa là sống suốt quãng đời còn lại, từng giây, từng phút, bởi đức tin. Nhưng có người sẽ nói: nhưng đức tin phải đi đôi với việc làm. Để đáp lại tôi sẽ nói: Việc làm, nếu Chúa sắm sẵn, bạn hãy làm, nhưng nếu bạn đặt việc làm, hoặc không làm, là tiêu chuẩn đo lường sự cứu rỗi, hoặc mối thông công giữa bạn với Chúa, thì bạn đang cậy vào xác thịt, chứ không phải đức tin.
 
-I took a long detour to hopefully setup the stage for the rest of this Pauline discourse to show the various signs, or markers, of legalism that always try to undermine the centrality of the cross, the all-sufficiency of the Lamb that was slain for our salvation.
+Tôi viết vòng vo Tam Quốc chỉ với một hy vọng là để dọn đường cho phần còn lại của toàn bộ lá thư này của Phao-lô để trưng dẫn những dấu hiệu, những giềng mối, của sự dùng luật pháp làm căn bản luôn tìm cách làm suy giảm sự trọng yếu của thập tự giá, sự trọn vẹn của Chiên Con đã bị hi sinh cho sự cứu rỗi của chúng ta.
 
-## Work and glory
+## Việc làm và vinh hiển
 
-> <sup>5</sup>to whom be glory forever and ever! Amen.
+> <sup>5</sup>Nguyền Ngài được vinh hiển đời đời vô cùng! A-men.
 
-When work, even in the least amount, is introduced into our Christian life, much like yeast added to dough, we are robbing God of some of His glory. No yeast is allowed, because a tiny bit of it will spoil the whole batch of dough, a tiny bit of work will spoil your faith. This is why the bread we receive at communion is a yeast-free bread, just like the bread used in the Hebrews’ Passover.
+Khi việc làm, dù nhỏ nhặt bao nhiêu, được đem vào đời sống Cơ-đốc Nhân, tương tự như men đem trộn vào bột, chúng ta cướp sự vinh hiển của Chúa. Chẳng một chút men nào được trộn lẫn, vì chỉ một chút xíu sẽ làm dậy cả đống bột, một chút xíu việc làm của xác thịt sẽ làm hỏng đức tin. Đây là lý do tại sao chúng ta dùng bánh không men khi dự tiệc thánh, cũng như bánh không men của người Do-thái trong lễ Vượt Qua.
 
-When work is introduced, there will be praise of men, awards and recognition, but in one of Jesus’ parables, he stated that a servant only does his job, and should expect no reward. <u>When we relate to God through the law, God’s glory becomes a fearful thing</u>, much like the scene around Sinai when God in His glory was about to hand down the ever-condemning document called “The Ten Commandments.” Having it delivered to mankind and letting them try it out for a time, He declared: all of you must acknowledge you have sinned and fallen short of my glory. Being the all-knowing God, He knew this already, but he had to use the law to make them realize their wretched condition.
+Khi việc làm là trọng, sẽ có sự khen ngợi loài người, giải thưởng và tuyên dương, nhưng trong một ngụ ngôn của Chúa Giê-su, Ngài đã phán rằng tôi tớ chỉ làm công việc của mình, chẳng nên mong đợi phần thưởng. Khi chúng ta liên hệ với Chúa qua luật pháp, sự vinh hiển của Ngài là điều đáng kinh sợ, cũng như cảnh tượng chung quanh núi Si-nai khi Chúa đến trong vinh hiển để ban xuống bộ luật phán xét đời đời gọi là "Mười Điều Răn." Sau khi ban cho nhân loại và để họ thử trong vài ngàn năm, Ngài phán: "Tất cả các ngươi phải nhận mình là người có tội và sa sút dưới sự vinh hiển Ta." Là Đấng biết mọi sự, Ngài đã biết trước sự sa sút và yếu kém của họ, nhưng Ngài đã phải ban bộ luật để họ nhìn nhận tình trạng hư nát của mình.
 
-If we however choose to <u>relate to God through grace</u>, we will be covered in the blood of the Lamb, with full measure of God’s righteousness given to us freely, <u>we can bask in His glory</u> and see Him with unveiled faces.
+Nhưng nếu chúng ta chọn để liên hệ với Ngài qua ân điển, chúng ta sẽ được bao phủ bởi huyết báu Chiên Con, với trọn vẹn sự công chính Chúa ban cho chúng ta cách rộng rãi, chúng ta được chìm ngập trong vinh hiển Chúa và chiêm ngưỡng Ngài với mặt để trần không che phủ.
 
-Paul seemed to be in a hurry to get to the heart of the matter, he forgot to give the usual thanks for their faith and love, etc. Perhaps he felt such zeal for God’s glory being expressed in verse 5 above. He felt the pure gospel of the “grace” of God he worked so hard to teach these Galatians, was being abandoned for some other false gospel. Watch his astonishment of how quickly they are going astray:
+Phao-lô dường như đang vội vã đi ngay vào trọng tâm của vấn đề, ông quên không nói lên lời cảm tạ về đức tin và tình yêu thương của họ. Có lẽ ông cảm xúc về sự vinh hiển của Chúa như nói đến trong câu 5 ở trên. Ông cảm nhận tin lành chân thật về "ân điển" của Đức Chúa Trời mà ông đã tận lực giảng giải cho người Ga-la-ti, đang bị trao đổi để lấy một tin lành giả. Chúng ta hãy đọc xem sự kinh ngạc của Phao-lô về sự họ chóng đi lạc là thể nào:
 
-## Deserting the call of grace
+## Lià bỏ tiếng gọi của ân điển
 
-> <sup>6</sup>I am astonished that you are so quickly deserting the one who called you by the grace of Christ and are following a different gospel— <sup>7</sup>not that there really is another gospel, but there are some who are disturbing (or confusing) you and wanting to distort the gospel of Christ.
+> <sup>6></sup>Tôi lấy làm lạ cho anh em đã vội bỏ Đấng gọi anh em bởi ơn Đức Chúa Jêsus Christ, đặng theo tin lành khác. <sup>7</sup>Thật chẳng phải có tin lành khác, nhưng có mấy kẻ làm rối trí anh em, và muốn đánh đổ Tin Lành của Đấng Christ.
 
-<u>How quickly</u> were they abandoning the grace of Christ? According to some sources, they might have been lured away by the Jewish seducers anywhere from one to three years after Paul left them.
+Họ đã "vội" bỏ ơn của Đấng Christ như thế nào? Theo một vài nguồn tài liệu, họ có thể đã bị những người Do-thái dụ dỗ trong vòng từ một đến ba năm sau khi Phao-lô lìa họ.
 
-The Greek used in <em><u>“you are so quickly deserting,”</em></u> or in <em><u>“ye are so soon removed from him (KJV)”</em></u> might have meant they shifted their ground, or changed their foundation. The accusation of their following a different gospel is a serious one, as we shall see later that this different gospel has to do with their going back to the law.
+Chữ Hy-lạp dùng trong <em>"anh em đã vội bỏ,"</em> có thể mang ý nghĩa họ đã chọn để đứng trên một nền tảng khác. Sự lên án của họ về sự theo một tin lành khác là một điều nghiêm trọng, và chúng ta sẽ thấy tin lành khác này có liên hệ đến việc họ trở về với luật pháp.
 
-The <em><u>“grace of Christ”<em></u> is the only instrument by which God calls us to salvation, and beyond, as it commands us to live in it, to live in the grace of Christ.
+<em>"Ân điển của Đấng Christ"</em> là phương cách duy nhất Chúa dùng để đưa chúng ta đến sự cứu rỗi, rồi sau đó, cũng như mệnh lệnh để chúng ta nhờ đó mà sống, đó là sống trong ân điển của Đấng Christ.
 
-<em><u>“Confusion”</em></u> is evident when those that are under our leadership are confused whether they’re saved or not. Confusion is inevitable when we don’t make the assurance of salvation the main focus of our ministries. And if Christians are not sure of their salvation, what quality is the work they will be doing for God? Will God accept what they do, or what they purport to do, for Him? If they are not sure of their salvation, what then is the relationship between them and the One they think they’re serving? Who is God to them? What motivates them to do what they do? Fear, or the joy of salvation?
+Sự <em>"rối trí"</em> sẽ là một điều hiển nhiên khi những người dưới sự lãnh đạo của chúng ta bị hoang mang vì không biết họ có thực được cứu hay không. Sự hoang mang là điều không tránh được khi chúng ta không đặt sự bảo đảm về sự cứu rỗi là mục tiêu chính trong chức vụ. Lại nếu người Cơ-đốc Nhân không biết chắc về sự cứu rỗi của họ, thì phẩm chất của công việc họ làm cho Chúa như thế nào? Ngài có sẽ chấp nhận các công việc mà họ nghĩ rằng đang làm cho Chúa? Nếu họ không biết chắc mình được cứu, thì mối liên hệ giữa họ và Đấng mà họ nghĩ mình đang hầu việc đó là gì? Đối với họ Chúa là ai? Điều gì thúc đẩy họ làm những công việc đó? Sự sợ hãi, hoặc sự vui mừng về sự cứu rỗi? 
 
-I hope these questions help strengthen my argument that the Utmost Service For His Highest (Thomas A. Kempis might learn something from this lesson) would be to help Christians become so grounded in Christ and in what He did for them. The Galatians though acknowledging Christ, they insisted on circumcision and Jewish ordinances. We modern Christians must be careful not to add anything to the gospel of the PURE grace of Christ, or add anything that puts doubt of a perfect salvation in the heart of a child of God.
+Tôi hy vọng những câu hỏi này làm vững chắc thêm lý luận của tôi rằng Mọi Điều Của Tôi Cho Đấng Chí Cao, My Utmost For His Highest (biết đâu Thomas A. Kempis có thể học được điều gì đó trong bài viết này), là giúp Cơ-đốc Nhân vững nền trong Đâng Christ và trong những sự Ngài đã làm cho họ. Người Ga-la-ti dù nhìn nhận Đấng Christ, họ một mực đòi phép cắt bì và các lề luật của Do-thái Giáo. Chúng ta là những Cơ-đốc Nhân trong thời đại này phải cẩn thận chớ thêm điều chi vào Tin Lành CHÂN THẬT của Đấng Christ, hay thêm vào bất cứ điều gì gây nên sự nghi ngờ trong lòng con cái Chúa về sự cứu rỗi của họ.
 
-## The true gospel: grace
+## Tin lành chân thật: ân điển
 
-> <sup>8</sup>But even if we (or an angel from heaven) should preach a gospel contrary to the one we preached to you, let him be condemned to hell!
+> <sup>8</sup>Nhưng nếu có ai, hoặc chính chúng tôi, hoặc thiên sứ trên trời, truyền cho anh em một tin lành nào khác với Tin Lành đã truyền cho anh em, thì người ấy đáng bị a-na-them!
 
-“We” includes all the apostles, and even an angel from heaven, no one, absolutely no one, is allowed to preach “another” gospel.
+"Chúng tôi," gồm các sứ đồ, và ngay cả thiên sứ xuống từ trên trời, bất kỳ một người nào, được phép rao giảng một tin lành "khác."
 
-The true gospel is this: John 3:16, <em>“For God so loved the world ... whosoever believes ... will have eternal life.”</em> The period at the end of the verse means there is nothing else required for this salvation.
+Đây là tin lành chân thật: "Vì Đức Chúa Trời yêu thương thế gian ... hầu cho bất cứ ai tin ... được sự sống đời đời." Dấu chấm hết ở sau chữ đời đời mang ý nghĩa chẳng còn một điều kiện nào khác cho sự cứu rỗi này.
 
-Paul warned us of “<u>God’s curse</u>,” or “<u>anathema</u>,” which means “<u>eternally condemned</u>,” if we undermine the gospel of pure grace.
+Phao-lô cảnh cáo chúng ta về "Sự rủa xả của Đức Chúa Trời," hoặc "a-na-them," có nghĩa là "bị nguyền rủa đời đời," nếu chúng ta làm suy giảm tin lành hoàn toàn dựa trên ân điển.
 
-Jesus fulfilled all the requirements of the law by dying once for all, so the return to the law would require that He must die again, and again, for believers, because they will still be sinning. God gave us a forewarning in Exodus when Moses struck the rock, the foreshadow of our Redeemer, twice. God forbade Moses from entering the Promised Land to show how serious he is about the danger of this false gospel (another reason might be that the forbidding of Moses, the deliverer of the law, to enter the Promised Land is to show it has no role in God’s kingdom, as all of the law deals with our fallen nature, and not the one born from above). There is no place for the law in the heart of one born by the Spirit.
+Chúa Giê-su đã thỏa mọi sự đòi hỏi của luật pháp bằng sự chết một lần đủ cả, do đó sự trở về với luật pháp sẽ đòi hỏi Ngài phải chết nhiều lần cho các tín hữu, vì họ sẽ còn phạm tội. Chúa cho chúng ta một dấu hiệu để coi chừng từ xưa trong sách Xuất Ê-díp-tô Ký khi Môi-se đập vào tảng đá lần thứ hai, tảng đá này là hình bóng của Đấng Mê-si trong tương lai. Chúa đã cấm không cho Môi-se vào đất hứa để chứng tỏ sự nghiêm trọng và nguy hiểm của tin lành giả. Một lý do khác nữa có thể là sự Ngài cấm cản Môi-se, người trung bảo của luật pháp, vào đất hứa để chứng tỏ luật pháp không đóng vai trò gì trong nước của Ngài, vì mọi điều của luật pháp liên hệ đến bản chất hư nát của chúng ta, chứ chẳng liên hệ gì đến thân thể mới Chúa ban. Chẳng có chỗ nào cho luật pháp trong lòng người đã được sanh bởi Thánh Linh.
 
-## Another gospel
+## Tin lành khác
 
-> <sup>9</sup>As we have said before, and now I say again, if any one is preaching to you a gospel contrary to what you received, let him be condemned to hell! <sup>10</sup>Am I now trying to gain the approval of people, or of God? Or am I trying to please people? If I were still trying to please people, I would not be a slave of Christ!
+> <sup>9</sup>Tôi đã nói rồi, nay lại nói lần nữa: Nếu ai truyền cho anh em một tin lành nào khác với Tin Lành anh em đã nhận, thì người ấy đáng bị a-na-them! <sup>10</sup>Còn bây giờ, có phải tôi mong người ta ưng chịu tôi hay là Đức Chúa Trời? Hay là tôi muốn đẹp lòng loài người chăng? Ví bằng tôi còn làm cho đẹp lòng loài người, thì tôi chẳng phải là tôi tớ của Đấng Christ!
 
-Paul was not concerned about the unbelieving world, or even the enemy of Christ, but about a more dangerous type: those that professed Christ but are now trying to promote another gospel from within.
+Phao-lô không lo lắng về những kẻ chẳng tin, kể cả những kẻ thù của Đấng Christ, nhưng về một hạng người nguy hiểm hơn: những người xưng nhận Đấng Christ nhưng bây giờ đang cổ động cho một tin lành khác từ trong hội thánh.
 
-## Paul Called by God
+## Phao-lô được Đức Chúa Trời kêu gọi
 
-> <sup>11</sup>Now I want you to know, brothers and sisters, that the gospel I preached is not of human origin. <sup>12</sup>For I did not receive it or learn it from any human source; instead I received it by a revelation of Jesus Christ.
+> <sup>11</sup>Hỡi anh em, tôi nói cho anh em rằng, Tin Lành mà tôi đã truyền, chẳng phải đến từ loài người đâu; <sup>12</sup>vì tôi không nhận và cũng không học Tin Lành đó với một người nào, nhưng đã nhận lấy bởi sự tỏ ra của Đức Chúa Jêsus Christ.
 
-Not of human origin. Not taught. But by <u>revelation</u>. When something is taught, it is implied that it can be communicated from a man to another man; or in other words: it is of human origin. But what Paul received is none of the above. Therefore he cannot teach it to us; what he received, he can only relay back to us, exactly as God intended it.
+Chẳng phải đến từ loài người. Không học từ ai. Nhưng bởi sự tỏ ra. Khi một điều gì đó được dạy, thì nó có nguồn gốc từ phàm nhân, và do một người dạy dỗ người khác. Nhưng sự tỏ ra mà sứ đồ Phao-lô giữ kín trong lòng đã không đến bởi ai dạy dỗ, do đó ông cũng không thể dạy cho chúng ta; điều ông nhận, ông chỉ được truyền lại cho chúng ta, y như ý muốn của Đức Chúa Trời. Một thầy giáo có thể là người toàn quyền sở hữu điều mình dạy và có quyền tự do thay đổi theo ý mình muốn, nhưng một người đưa tin phải bàn giao y theo mệnh lệnh của người chủ sứ điệp. Phao-lô tìm thấy sự đối nghịch giữa giáo lý của người Ga-la-ti và sứ điệp ông đang rao truyền. Sứ điệp ông đã rao truyền trước kia cho họ, không còn được phản ảnh trong điều ông thấy ngày nay.
 
-But we must know what the gospel is, and the entire Bible is not the gospel, only a part, a very miniscule part of it is the gospel. The gospel is Jesus, the Christ, and everything else, from Samson and Delilah to David and Bathsheba, is the backdrop against which God brings about His salvation plan for mankind.
+Nhưng chúng ta phải biết tin lành là gì, và biết rằng cả cuốn Kinh thánh tuyên xưng tin lành, nhưng tự nó không phải là tin lành, chỉ có một phần, một phần rất nhỏ là tin lành. Tin lành chính là Chúa Giê-su, Đấng Christ, còn mọi sự khác, tử Sam-sôn và Đa-li-la đến Đa-vít và Bát-sê-ba, chỉ là bối cảnh xung quanh mà trong đó Chúa mang đến chương trình cứu rỗi cho toàn thể nhân loại.
 
-We make the fatal mistake of thinking the gospel is of human origin when we focus on thousands of other events recorded in the Bible, and make them virtually equal, or even superior, to the core of the gospel: “For God so loved the world ...” We relegate the gospel to Billy Graham, and we focus on everything else but ... saved for Christmas.
+Chúng ta lầm lẫn tai hại, dù không suy nghĩ như vậy theo lý trí, nhưng sống đời sống đức tin như thể tin lành đến từ loài người, khi chúng ta đặt trọng tâm vào hàng ngàn những chi tiết ghi nhận trong Thánh Kinh, rồi xem như chúng ngang hàng, hoặc còn quan trọng hơn, cội rễ của tin lành: "Vì Đức Chúa Trời yêu thương thế gian đến nỗi ..." Chúng ta nhường lại tin lành cho Billy Graham, và chú trọng vào mọi điều khác trừ ra vào ... dịp lễ Giáng Sinh.
 
-## How Paul was called by God
+## Cách Chúa gọi Phao-lô
 
-> <sup>13</sup>For you have heard of my former way of life in Judaism, how I was savagely persecuting the church of God and trying to destroy it. <sup>14</sup>I was advancing in Judaism beyond many of my contemporaries in my nation, and was extremely zealous for the traditions of my ancestors. <sup>15</sup>But when the one who set me apart from birth and called me by his grace was pleased ...
+> <sup>13</sup>Vả, anh em đã nghe lúc trước tôi theo giáo Giu-đa, cách cư xử của tôi là thể nào, tôi bắt bớ và phá tan Hội thánh của Đức Chúa Trời quá chừng; <sup>14</sup>tôi tấn tới trong giáo Giu-đa hơn nhiều người cùng tuổi cùng nước với tôi, tôi là người sốt sắng quá đỗi về cựu truyền của tổ phụ tôi. <sup>15</sup>Nhưng khi Đức Chúa Trời, là Đấng đã để riêng tôi ra từ lúc còn trong lòng mẹ, và lấy ân điển gọi tôi, vui lòng ...
 
-If God had already set Paul apart from his <u>mother’s womb</u>, Paul couldn’t have had initiated anything toward his calling; there was no obedience involved, nor any struggles, or whatsoever that may give us reasons to use him as an example to follow. He was busy persecuting Christians.
+Nếu Chúa đã để riêng Phao-lô từ trong lòng mẹ, thì hẳn Phao-lô đã chẳng nắm phần chủ động nào trong sự kêu gọi; cũng chẳng biết để vâng lời, hay chống trả, hoặc bất cứ điều gì có thể cho chúng ta lý do để dùng ông làm tấm gương để noi theo. Ông đang bận rộn bắt bớ những người theo Chúa.
 
-As we shall see later in this book that Paul emphasized the important truth of our salvation being based on the God's promise hundreds of years before the given of the law, much like Him calling Paul from his mother's womb, so no merit can be given to any man, so no one can boast about himself concerning his salvation.
+Chúng ta sẽ thấy trong phần sau của sách này, Phao-lô nhấn mạnh chân lý quan trọng của sự cứu rỗi đặt nền tảng trên lời hứa của Chúa mấy trăm năm trước khi Ngài ban hành luật pháp, không khác gì sự Ngài gọi Phao-lô từ trong lòng mẹ, do đó chẳng ai được kể công gì, chẳng ai được phô trương về chính mình trong sự cứu rỗi.
 
-This is why it is also fitting here that Paul said <u>God called him by his grace</u>; and if He does so to Paul, so will He do to us: calling us by His grace. And if this is how God saves and calls us, the typical exhortation to other believers: “Therefore, you should ...” becomes not only irrelevant, but also unbiblical. The gospel is not of human origin, it cannot be taught, but it must be revealed, and subsequently preached, not taught.
+Do đó sự Phao-lô được Chúa gọi ông từ trong lòng mẹ bởi ân điển cũng phản ảnh ý này; và nếu đó là cách Chúa gọi Phao-lô, Ngài cũng sẽ gọi chúng ta như vậy: vì ân điển và lòng thương xót của Ngài. Do đó nếu đây là cách Chúa cứu và kêu gọi chúng ta, thì sự khuyên giục các con cái Chúa mà chúng ta thường nghe: " Vậy anh em hãy ... (làm việc nọ việc kia)" trở nên vô ích, mà lại trái với Thánh Kinh. Tin Lành chằng phải đến từ loài người, do đó không được truyền đạt qua sự dạy dỗ, nhưng được tỏ ra, được rao giảng, không phải qua sự giáo huấn.
 
-## Paul as an apostle to the Gentiles
+## Phao-lô là sứ đồ cho người ngoại
 
-> <sup>16</sup>to reveal his Son in me so that I could preach him among the Gentiles, I did not go to ask advice from any human being.
+> <sup>16</sup>bày tỏ Con của Ngài ra trong tôi, hầu cho tôi rao truyền Con đó ra trong người ngoại đạo, thì lập tức tôi chẳng bàn với thịt và máu.
 
-Before God called Paul by his grace, Paul’s identification was one who upheld the Mosaic laws to obtain a degree of righteousness—but we know from Scriptures that he could not achieve the righteousness required by God this way—, now Jesus is revealed in him, this means he is now identified with God’s Son, that he gets his righteousness from Him.
+Trước khi Chúa kêu gọi Phao-lô trong ân điển Ngài, Phao-lô nổi tiếng là người tuân giữ luật pháp Môi-se để đạt được một mức độ công bình nào đó—nhưng chúng ta biết từ Kinh thánh rằng ông không thể nào đạt được sự công bình của Đức Chúa Trời qua cách đó—, bây giờ Chúa Giê-su được tỏ ra trong ông, nghĩa là ông nhận sự công bình từ một nguồn khác, từ Con Đức Chúa Trời.
 
-Why did Paul not find it necessary to consult or seek advice from other people, namely the other apostles? Wouldn't it make sense to collaborate with the ones who used to walk with Jesus before he was crucified? Weren't they the most qualified to collaborate with Paul on this important salvation plan? Perhaps the key answer to these questions were already given by Paul when he emphasized that the message he received was revealed to him from God; this is in great contrast with rudimentary human teaching that he will address at length in chapter 4.
+Tại sao Phao-lô không thấy cần phải tham khảo ý kiến từ những người khác, nhất là các sứ đồ? Cộng tác với những người đã được đồng hành với Chúa những năm tháng trước khi Ngài chịu đóng đinh hẳn phải là điều hợp lý? Chắc họ phải là những người có đủ điều kiện nhất để cộng tác với Phao-lô trong chương trình cứu rỗi quan trọng này? Có lẽ sứ đố Phao-lô đã trả lời những câu hỏi này rồi khi ông nhấn mạnh sứ điệp mà ông nhận được đến thẳng từ Đức Chúa Trời; đây là điều tương phản với những sự dạy dỗ thường tình của loài người; Phao-lô sẽ nói về điều này trong chương 4.
 
-The gospel is God's gift to each and every person who will by faith receive it, un-altered in any shape or form, God's letter of reconciliation must be sent without any modification. But if we take a look back in time to see how God's message is "revealed" initially to Paul, and subsequently "taught" by a progression of institutions through the ages to mankind, and see how the glorious message is now covered by many thick layers of human wisdom and rudimentary teachings. The joy of salvation has now been replaced by a burden of law keeping worse than the ten commandments, they are worse because most of them tend to be ambiguous, each according to the whim of the person excercising it.
+Tin lành là món quà Đức Chúa Trời ban cho mỗi cá nhân bởi đức tin nhận lấy, là tin lành không bị thay đổi về bất cứ phương diện nào, lá thơ giảng hòa giữa Thượng Đế và nhân loại phải được gửi đi một cách trọn vẹn. Nhưng nếu chúng ta đi ngược vòng thời gian để xem thế nào sứ điệp đã được "tỏ ra" ban đầu cho Phao-lô, rồi sau đó "dạy dỗ" cho nhân loại qua một chuỗi dài những tổ chức tín lý qua nhiều thế hệ, để thấy sứ điệp đó ngày này bị che phủ bởi nhiều lớp vỏ dầy của sự khôn ngoan của loài người với những sự dạy dỗ thường tình của đời này. Sự vui mừng về sự cứu rỗi bị thay thế bởi gánh nặng của luật pháp còn nặng nề hơn mười điều răn, nặng nề hơn vì chúng thường có tính cách mơ hồ, mỗi người áp dụng tùy ý riêng.
 
-No one knew this better than Paul. So it shouldn't come as a surprise that Paul knew he couldn't collaborate with other apostles or church leaders, because he knew full well they would add more clauses, more conditions, rivaling modern legal documents. The outcome of such collaboration will effectively prevent earnest seekers from believing God's pure gospel of grace, because they would be presented with something looking more like law than God's unconditional love.
+Không ai biết điều này rõ ràng hơn Phao-lô. Do đó chúng ta không ngạc nhiên khi thấy Phao-lô biết ông không thể hợp tác với các sứ đồ khác hoặc các lãnh đạo hội thánh, vì ông biết rõ họ sẽ thêm vào đó những văn từ, những điều kiện, không thua gì những văn từ luật pháp ngày nay. Kết quả của một sự hợp tác như vấy sẽ cản ngăn những người đang khao khát đến với tin lành duy chỉ nhờ ân điển, vì chắc họ sẽ được trình bày với một cái gì đó giống luật pháp hơn tình yêu thương vô điều kiện của Đức Chúa Trời.
 
-## The independence of Paul's apostleship
+## Sự độc lập của Phao-lô
 
-> <sup>17</sup>nor did I go up to Jerusalem to see those who were apostles before me, but right away I departed to Arabia, and then returned to Damascus. <sup>18</sup>Then after three years I went up to Jerusalem to visit Cephas and get information from him, and I stayed with him fifteen days. <sup>19</sup>But I saw none of the other apostles except James the Lord’s brother. <sup>20</sup>I assure you that, before God, I am not lying about what I am writing to you!
+> <sup>17</sup>Tôi cũng không lên thành Giê-ru-sa-lem, đến cùng những người đã làm sứ đồ trước tôi, song tôi đi qua xứ A-ra-bi; sau rồi trở về thành Đa-mách. <sup>18</sup>Kế đó, mãn ba năm, tôi lên thành Giê-ru-sa-lem, đặng làm quen với Sê-pha, và tôi ở với người mười lăm ngày; <sup>19</sup>nhưng tôi không thấy một sứ đồ nào khác, trừ ra Gia-cơ là anh em của Chúa. <sup>20</sup>Thật, trước mặt Đức Chúa Trời, tôi quyết rằng điều tôi viết cho anh em đây chẳng phải là điều dối.
 
-There appears to be a reason for Paul to explain certain details of his journeys which seem irrelevant to the core of this epistle. According to Jamieson, Fausset and Brown (commentary), Paul expressed the independence of his apostleship from the other (super) apostles. As he said before that the gospel he received is not of human origin, and he didn’t need to consult any human beings.
+Dường như có một lý do khiến Phao-lô giải thích những chi tiết của cuộc hành trình của ông, dù có vẻ không liên quan đến trọng tâm của lá thư này. Theo Jamieson, Fausset và Brown (tác giả sách giải kinh), Phao-lô bày tỏ sự độc lập của chức vụ sứ đồ của ông biệt riêng khỏi các sứ đồ khác. Như ông đã viết rằng tin lành mà ông nhận được không phải từ loài người, và ông cũng không cần phải tham khảo với ai.
 
-So these details he shared concerning his whereabouts those years are to show he didn’t get the gospel from those other apostles, never taught by any of them, but directly from God.  How significant is this? As we shall see later that Paul confronted Peter about his hypocrisy, and the issue of forcible circumcision that the “other” apostles failed to deal with in a way God intended. Perhaps he wanted them to decide whether they listen to him, or to others who might be promoting another gospel.
+Do đó những chi tiết ông chia xẻ liên quan đến những nơi ông đã đi qua trong những năm tháng đó là để chứng tỏ ông đã không nhận tin lành đó từ các sứ đồ, không được dạy dỗ bởi họ, nhưng trực tiếp từ Đức Chúa Trời. Điều này quan trong thể nào? Như chúng ta sẽ thấy trong phần sau của thư sự Phao-lô đối chứng với Phi-e-rơ về sự giả hình của ông, và vấn đề bó buộc cắt bì mà những sứ đồ khác đã không giải quyết theo đường lối Chúa. Có lẽ ông muốn họ quyết định chọn nghe ông, hoặc nghe những người khác đang cổ động cho một tin lành khác.
 
-## Paul as an unlikely evangelist
+## Phao-lô mà làm giáo sĩ sao?
 
-> <sup>21</sup>Afterward I went to the regions of Syria and Cilicia. <sup>22</sup> But I was personally unknown to the churches of Judea that are in Christ. <sup>23</sup>They were only hearing, “The one who once persecuted us is now proclaiming the good news of the faith he once tried to destroy.” <sup>24</sup>So they glorified God because of me.
+> <sup>21</sup>Sau lại, tôi đi qua các miền thuộc xứ Sy-ri và xứ Si-li-si, <sup>22</sup>bấy giờ tôi còn là kẻ lạ mặt trong các Hội thánh tại xứ Giu-đê, là các hội ở trong Đấng Christ. <sup>23</sup>chỉn các hội đó có nghe rằng: Người đã bắt bớ chúng ta ngày trước, nay đương truyền đạo mà lúc bấy giờ người cố sức phá. <sup>24</sup>Vậy thì, các hội đó vì cớ tôi khen ngợi Đức Chúa Trời.
 
-God is to have all the glory, and let no man be praised in this heavenly task of saving men’s souls. Not even the smallest amount of merit can be counted toward the greatest of human beings.
+Mọi vinh quang đều qui về Chúa, và đừng khen ngợi bất cứ người phàm xác thịt nào trong thiên mệnh cứu rỗi nhân loại. Chẳng một chút công trạng nào được kể cho ai, dù là người vĩ đại nhất trong thế gian.
 
-Paul, the unlikeliest of God’s ambassador, the persecutor of the church, chief of the Pharisees, who never even thought of glorifying Christ, and yet here he is. Moses, given up of all his dreams of saving his people and now leading a contented life in the desert among the heathens; delivering God’s people from Egypt was the furthest thing from his mind. Jonah, oh how he hated the people of Nineveh.  
+Phao-lô, người không ai có thể tưởng là quan khâm sai của Đức Chúa Trời, người bắt bớ hội thánh Chúa, trưởng của những người Pha-ri-sê, người chẳng hề nghĩ đến sự đem vinh hiển đến cho Đấng Christ, vậy mà ông là người viết lá thư này. Môi-se, bỏ hết những kỳ vọng cứu dân tộc và thỏa lòng sống trong sa mạc trong vòng những người ngoài tuyển dân của Chúa; giải cứu dân Chúa khỏi vòng nô lệ Ai-cập là điều xa vời trong ý tưởng ông. Giô-na, ồ ông chán ghét dân thành Ni-ni-ve biết là bao.
 
-Yet these are greatest evangelists in the Bible. What are their merits? What exhortations about serving God that they adhere to? Are we concocting lessons to learn from these great (or simply ordinary) people, or to be amazed at God’s grace and mercies? Oh only if we stop praising men, them or us, and focus instead on “How can it be that thou my God shouldst die for me?”
+Vậy mà họ là những người truyền bá tin lành vĩ đại nhất trong Kinh thánh. Công trạng của họ là gì? Họ đã nghe theo lời khuyên giải nào từ loài người về sự hầu việc Đức Chúa Trời? Chúng ta đào bới ra những bài học từ những vĩ nhân này (hay cũng chỉ là những thường nhân), hay là để bàng hoàng kinh ngạc về ân điển và lòng thương xót của Đức Chúa Trời? Phải chi nếu chúng ta đừng khen ngợi những người hay hư nát nữa, dù là họ hay chính chúng ta, và thay vào đó chú tâm đến "Sao có thể được? Vì Ngài, Thượng Đế, lại chết vì tôi?"
 
-God called Paul to point the world to His Son, and the world kept their eyes fixed on the highly exalted Paul, hoping one day they will be called like him. God called one Paul, and He never did again. Our job is to fix our eyes on the One at the heart of this Pauline epistle. This epistle is not about Paul, but about the One Paul is begging us to fix our eyes on. Don’t learn from Paul. But learn of Him who died for us.
+Chúa gọi Phao-lô để chỉ cho thế gian thấy Con Một của Ngài, nhưng thể gian cứ chú tâm nhìn Phao-lô, hi vọng một ngày kia Ngài cũng gọi họ như vậy. Chúa đã gọi một Phao-lô, và Ngài chẳng hề gọi ai khác như vậy nữa. Công việc của chúng ta là chú tâm nhìn đến Đấng là trọng tâm của lá thư mà Phao-lô viết. Thư này không nói về Phao-lô, nhưng về Đấng mà ông đang năn nỉ nài xin chúng ta hãy chú tâm. Đừng học điều gì về Phao-lô. Nhưng hãy tấn tới trong sự nhận biết Đấng đã chịu chết vì chúng ta.
 
 {% include bible-study/bible-study-footer %}
 
