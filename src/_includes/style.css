@@ -1239,7 +1239,6 @@ h1[id]:before, h2[id]:before, h3[id]:before, h4[id]:before, h5[id]:before, h6[id
               flex-direction: row;
       -webkit-box-align: start;
           -ms-flex-align: start;
-                  -ms-grid-row-align: flex-start;
               align-items: flex-start; } }
 
 .post__inner-wrapper {
@@ -3862,6 +3861,13 @@ img.mfp-img {
 
 .toc {
   margin-top: 0.5em; }
+
+/* BEGIN PT Serif */
+@font-face {
+  font-family: 'PT Serif';
+  src: url("/assets/fonts/PT-Serif/ptserif-regular-webfont.woff2") format("woff2"), url("/assets/fonts/PT-Serif/ptserif-regular-webfont.woff") format("woff");
+  font-weight: normal;
+  font-style: normal; }
 
 /* BEGIN Volkhov Regular */
 @font-face {
