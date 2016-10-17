@@ -3869,6 +3869,12 @@ img.mfp-img {
   font-weight: normal;
   font-style: normal; }
 
+@font-face {
+  font-family: 'PT Serif';
+  src: url("/assets/fonts/PT-Serif/ptserif-italic-webfont.woff2") format("woff2"), url("/assets/fonts/PT-Serif/ptserif-italic-webfont.woff") format("woff");
+  font-weight: normal;
+  font-style: italic; }
+
 /* BEGIN Volkhov Regular */
 @font-face {
   font-family: 'VolkhovRegular';
