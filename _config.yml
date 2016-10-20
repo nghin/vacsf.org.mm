@@ -147,7 +147,7 @@ defaults:
       layout: article
       category: viet-studies
       breadcrumbs:
-        - label: "Các Ý Niệm Phổ Thông"
+        - label: "Trang Nhà"
           url: /viet-studies/
 
   # Bible Studies

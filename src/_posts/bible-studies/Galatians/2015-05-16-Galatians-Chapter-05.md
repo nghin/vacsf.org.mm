@@ -18,7 +18,6 @@ comments_locked: false
 
 {{ page.excerpt | markdownify }}
 
-[(<em>Bấm vào đây để đọc tiếng Việt</em>)]({{ site.url }}{% post_url 2015-05-16-Ga-la-ti-Chuong-05 %})
 
 ## Freedom from the law
 

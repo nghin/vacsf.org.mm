@@ -18,8 +18,6 @@ comments_locked: false
 
 {{ page.excerpt | markdownify }}
 
-[(<em>Bấm vào đây để đọc tiếng Việt</em>)]({{ site.url }}{% post_url 2015-05-18-Ga-la-ti-Chuong-03 %})
-
 ## What had Christ not accomplished?
 
 > <sup>1</sup>You foolish Galatians! Who has cast a spell on you? Before your eyes Jesus Christ was <u>vividly portrayed as crucified!</u>

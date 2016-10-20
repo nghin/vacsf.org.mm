@@ -1,5 +1,8 @@
 <nav class="js-toc toc" markdown="1">
-<h4 class="toc__title">Galatians</h4>
+<h4 class="toc__title">Galatians<br />
+<span style="font-size: 0.6em; color: rgb(159, 29, 33);">
+<a href="{{ site.url }}/bible-studies-viet/Ga-la-ti/"><em>(Bấm vào <u>đây</u> để đọc tiếng Việt)</em></a></span>
+</h4>
 <ul class="toc__menu" id="markdown-toc">
       <li><a href="{{ site.url }}/galatians/Galatians-Chapter-01/">Chapter 1</a><span style="font-weight: normal; margin-left: 1em;">The perversion of the gospel</span></li>
       <li><a href="{{ site.url }}/galatians/Galatians-Chapter-02/">Chapter 2</a><span style="font-weight: normal; margin-left: 1em;">Legalism is inconsistent with justification by faith</span></li>

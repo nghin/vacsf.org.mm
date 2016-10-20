@@ -1,5 +1,5 @@
 <nav class="js-toc toc" markdown="1">
-<h4 class="toc__title">Romans Chapters</h4>
+<h4 class="toc__title">Sách Rô-ma</h4>
 <ul class="toc__menu" id="markdown-toc">
       <li><a href="{{ site.url }}/romans-viet/Ro-ma-Chuong-01/">Chương 1</a><span style="font-weight: normal; margin-left: 1em;">Sự Vâng Phục Qua Đức Tin</span></li>
       <li><a href="{{ site.url }}/romans-viet/Ro-ma-Chuong-02/">Chương 2</a><span style="font-weight: normal; margin-left: 1em;">Sự Ăn Năn Thật</span></li>
