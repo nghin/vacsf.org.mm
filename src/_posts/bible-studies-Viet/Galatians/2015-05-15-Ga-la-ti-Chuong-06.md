@@ -1,6 +1,6 @@
 ---
 title: "Ga-la-ti Chương 6"
-excerpt: "Gentleness toward a weak brother. The burden of law observances. Continued warning against circumcision and legalism."
+excerpt: "Dịu dàng với người bị vấp phạm. Gánh nặng của sự tuân giữ luật pháp. Tiếp tục cảnh cáo về phép cắt bì và sự cậy luật pháp. Lời chúc bình an."
 image: 
   teaser: galatians-chapter-teaser.png
 tags: [galatians, bible-studies]
@@ -20,134 +20,145 @@ comments_locked: false
 
 <em>(Bấm vào đây để đọc tiếng Việt)</em>
 
-## Gentleness toward a weak brother
+## Dịu dàng với người bị vấp phạm
 
-> <sup>1</sup>Brothers and sisters, if a person is discovered in some sin, you who are spiritual restore such a person in a spirit of gentleness. Pay close attention to yourselves, so that you are not tempted too.
+> <sup>1</sup>Anh em, vì bằng có người nào tình cờ phạm lỗi gì, anh em là kẻ có Đức Chúa Trời, hãy lấy lòng mềm mại mà sửa họ lại; chính mình anh em lại phải giữ, e cũng bị dỗ dành chăng (Galatians 6:1).
 
-This verse is self-explanatory.
+Đoạn này không cần phải giải thích dài dòng.
 
-## The burden of law observances
+## Gánh nặng của luật pháp
 
-> <sup>2</sup>Carry one another's `burdens`, and in this way you will `fulfill the law of Christ`.
+> <sup>2</sup>Hãy mang lấy gánh nặng cho nhau, như vậy anh em sẽ làm trọn luật pháp của Đấng Christ (Galatians 6:2).
 
 <div>
 <p>
 <img alt src="{{ site.url }}/assets/images/different-gospel.jpg" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 136px; padding: 0px; float: left;">
-From the very beginning of this epistle, Paul has been exhorting the Galatians to walk by faith and not using the law as the basis of their relationship with God. And then in one sentence earlier, verse 1, he talked about gentle restoration of someone who may be leading a sinful lifestyle. Now he's talking about carrying one another's burden. From the context we can deduce that it must be the burden of sin that he's talking about in this verse; the same meaning with the burden of observances of laws and statutes.
+Từ đầu thơ, Phao-lô đã khuyên giải người Ga-la-ti về sự bước đi bởi đức tin chớ đừng dùng luật pháp làm căn bản cho mối tương giao giữa họ với Chúa. Rồi trong câu 1, ông nói về sự gầy dựng lại người vấp ngã cách dịu dàng. Từ bối cảnh đó chúng ta có thể kết luận rằng chắc ông phải nói về gánh nặng của mặc cảm tội lỗi; cùng ý nghĩa với gánh nặng của luật pháp.
 </p>
 </div>
 
-Therefore Paul must not be talking about the physical burden of this life, of working to make a living, of child rearing, of financial matter, etc.
+Do đó chắc chắn ông không nói về gánh nặng đời này chẳng hạn như công ăn việc làm, nuôi dưỡng con cái, tài chánh, v.v...
 
-Jesus came not to eradicate poverty or social injustice or end all wars, but to restore men to full sonship of God. Therefore Paul who received a revelation from God must be addressing the problem of sin and guilt.
+Chúa Giê-su đến không phải để xóa bỏ mọi sự bất công trong xã hội, chấm dứt mọi chiến tranh, nhưng để giảng hòa giữa Thượng Đế và nhân loại, cho họ được trở lại trong địa vị làm con cái Đức Chúa Trời. Do đó, sự tỏ ra mà Phao-lô nhận được và đi rao giảng khắp nơi chắc chắn phải nói về vấn đề tội lỗi và mặc cảm của nó.
 
-Jesus spoke of a similar <span class="red-letter">burden</span> in a different way: "<span class="green-letter;">For they bind heavy burdens and grievous to be borne, and lay them on men's shoulders; but they themselves will not move them with one of their fingers.</span>" (Mat 23:4)
+Chúa Giê-su nói về gánh nặng như sau: <span style="font-style: italic">"<sup>1</sup>Bấy giờ Đức Chúa Jêsus phán cùng dân chúng và môn đồ Ngài rằng: <sup>2</sup>Các thầy thông giáo và người Pha-ri-si đều ngồi trên ngôi của Môi-se. <sup>3</sup>Vậy, hãy làm và giữ theo mọi điều họ đã bảo các ngươi; nhưng đừng bắt chước việc làm của họ, vì họ nói mà không làm. <sup>4</sup>Bọn ấy buộc những gánh nặng khó chịu, để trên vai người ta, còn mình thì không muốn động ngón tay vào. 
+(Ma-thi-ơ 23:4)"</span>
 
-The word burden used here is of a type that is proprotional to the person's strength, the stronger he is, the heavier it gets, enough to cause him to collapse. This is typical of a burden of using one's own strength to be justified by God. The stronger, the more determined, the more self-willed, a person is, the further he can push the boulder, and he'll find even more boulders to carry to match his strength.
+Chữ gánh nặng dùng ở đây nói về một loại theo tỷ lệ của người mang nó, người càng mạnh mẽ, gánh càng nặng, đủ để người đó bị chĩu xuống. Đây là gánh nặng của một người dùng sức mình để được Đức Chúa Trời xưng công bình. Người càng mạnh, càng cương quyết, càng chủ động, càng đẩy khối đá nặng xa hơn, và càng tìm thêm gánh nặng cho cân xứng với sức mình.
 
-So perhaps, what Paul is trying to say is: you legalists, instead of laying impossible legal (law) burden on each other, relieve it from your brother, then you will have fulfilled Christ's new law of the Spirit of life.
+Do đó, điều sứ đồ Phao-lô nói mang ý nghĩa: các anh là những người cậy luật pháp, thay vì đặt những gánh nặng (của sự tuân giữ luật pháp) vào người khác, hãy làm vơi đi cho anh em mình, thì anh sẽ giữ trọn luật thần linh sự sống của Đấng Christ.
 
-Yes, you carry your brother's burden by relieving it off of his back; relieve the heavy burden of the keeping of the law by showing him the wonderful grace of Jesus who has taken upon himself the burden of the sin of the world.
+Thật vậy, bạn mang gánh nặng cho anh em mình bằng cách cất nó khỏi lưng họ; làm vơi đi gánh nặng này bằng cách chỉ cho họ ân điển lạ lùng của Chúa Giê-su bởi Ngài đã chịu đóng đinh trên cây thập tự vì tội lỗi của thế gian.
 
-Imagine the burden of sin of someone's life, what power on earth can stand up under its weight? Maybe a seared conscience, but no normal person can carry even his own burden, let alone carrying someone else's.
+Hãy tưởng tượng gánh nặng tội lỗi trong đời sống một người, sức người nào trong thế gian có thể chịu được gánh đó? Có lẽ người bị lương tâm chai lì, nhưng không một người bình thường nào có thể gánh nổi chính gánh nặng tội lỗi của mình chứ đừng nói chi đến gánh nặng người khác.
 
-I believe the apostle Paul must be writing like Jesus here, using a parable to present a truth only visible to those that are willing to see through the eye of God's grace. The only power that can, not only carry our collective burden of sin but also, render it powerless is our faith in the Redeemer. Perhaps the only way to biblically carry anyone's burden is to put it on Christ as He alone can do it.
+Tôi tin rằng sứ đồ Phao-lô đã dùng lối truyền đạt chân lý giống như Chúa Giê-su, dùng ngụ ngôn để bày tỏ điều kín nhiệm mà chỉ người nhìn qua lăng kính của ân điển Đức Chúa Trời mới có thể hiểu. Chỉ có một quyền năng, không những gánh được tội lỗi chúng ta và làm nó vô hiệu là đức tin nơi Đấng Cứu Thế. Do đó, phương cách duy nhất để chia xẻ gánh nặng tội lỗi là đặt nó trên thập tự giá của Đấng Christ vì chỉ mình Ngài mới có thể làm nên điều đó.
 
-And the "law of Christ," do you know what it is? The old law was the 10 commandments plus 160 plus other statutes which demanded full compliance or death, the new law is called "law of the Spirit of life." The law of Christ is simply this: believe on the Son and you shall be saved. When you help someone have a saving faith in Christ, you <span class="red-letter">fulfill his law</span>. Anything other than this is but another form of circumcision.
+Thế còn luật pháp của Đấng Christ là gì bạn biết không? Luật pháp cũ là 10 điều răn cộng thêm hơn 160 điều trong sách luật pháp Môi-se đòi hỏi sự vâng lời trọn vẹn nếu không phải chết, còn luật mới được gọi là <span style="font-style: italic">"luật thần linh sự sống."</span> Luật pháp của Đấng Christ chỉ đơn giản thể này: tin vào con Đức Chúa Trời thì sẽ được sống. Khi bạn giúp một người nào đó đến với niềm tin trong Đấng Christ, bạn làm trọn luật pháp của Đấng Christ. Mọi thứ khác chỉ là hình dạng khác của phép cắt bì.
 
 ## False security in the keeping of the law
 
-> <sup>3</sup>For if anyone thinks he is <span class="red-letter">something</span> when he is <span class="red-letter">nothing</span>, he deceives himself. <sup>4</sup>Let each one examine his own work. Then he can take pride in himself and not compare himself with someone else. <sup>5</sup>For each one will carry his own load.
+> <sup>3</sup>Vì, nếu có ai, dầu mình không ra chi hết, mà cũng tưởng mình ra chi ấy là mình dối lấy mình. <sup>4</sup>Mỗi người phải thử xét việc làm của mình, thì sự khoe mình chỉ tại mình thôi, chớ chẳng phải tại kẻ khác. <sup>5</sup>Vì ai sẽ gánh lấy riêng phần nấy (Galatians 6:3-5).
 
-In the eyes of an Israelite, the rest of the world are Gentile sinners, but not them, because they have the law. Circumcision was the best way they knew that set them apart from sinners, and this backward pull continues even after they became Christians. This special ritual made them feel holier than without it, though in their mind they called on the name of Christ, but in their heart, they still felt unclean, and circumcision helped put them at ease.
+Trong con mắt của người Do-thái, cả thế gian là người ngoại tội lỗi, ngoại trừ ra chính họ, vì họ có luật pháp. Phép cắt bì là cách duy nhất họ tin biệt riêng họ ra khỏi vòng người tội lỗi, và sức hút này cứ khiến họ quay đầu lại chỗ họ đã lìa bỏ để theo Đấng Christ. Nghi lễ đặc biệt này làm họ cảm thấy thiêng liêng, dù trong trí họ gọi Giê-su Christ là Chúa, nhưng lòng họ vẫn cảm thấy chưa được sạch, chưa được hoàn toàn, và phép cắt bì khiến họ an lòng.
 
-Work-based religion gives people a false sense of security, it elevates them higher than they really are, and prevent them from seeing their own depravity. This was the problem with the Pharisees during Jesus' time, they misunderstood the role of the law, that it really was meant to show their need of the Savior, but instead because of their misunderstanding, they thought they didn't need him.
+Tôn giáo của việc làm cho người tín hữu một cảm giác sai lầm về sự an ninh, nó nâng họ lên cao hơn thực trạng của họ, và cản ngăn không cho họ thấy sự khốn nạn của mình. Đây cũng là vấn đề cho người Pha-ri-si trong thời Chúa Giê-su, họ hiểu lầm vai trò của luật pháp, vì vai trò thực của nó là cho người ta thấy họ cần Chúa Giê-su, nhưng ngược lại, vì sự hiểu sai, họ nghĩ mình không cần Chúa.
 
-The Judaizers played on this weakness of Jewish Christians to call them back to the law, it made them feel like they were "something/not-sinners," but in reality they're "nothing/sinners" because the Scriptures declared that "<span class="green-letter">all have sinned and fallen short of God's glory. (Rom 3:23)</span>" Observances of all points of the law still will not stop them from being sinners.
+Những người Do-thái cổ động cho luật pháp lợi dụng yếu điểm này của các tín hữu gốc Do-thái để giục họ trở về với luật pháp, và kết quả là luật pháp khiến họ có cảm tưởng minh <span style="font-style: italic">"ra gì,"</span> không phải là người có tội, nhưng thực ra họ <span style="font-style: italic">"không ra gì,"</span> vì bản chất tội lỗi là phần chung cho cả nhân loại. Rô-ma 3:23 tuyên bố: <span style="font-style: italic">"mọi người đều phạm tội."</span> Và cho dù họ có giữ hết mọi điều trong sách luật pháp cũng không sạch tội.
 
-If each of the Galatian legalists honestly examine their own work, they would have found out there was nothing to be proud of, but because their way is work-based, they, of course, have to compare with others to feel good about themselves; or feel bad if others did better. And instead of trying to find the little specks in others, they ought to see the giant logs in their own eyes, and carry the "load" of their own sins instead of minding others. Perhaps if they honestly examine themselves, they would find relief in the finished work of Christ.
+Nếu mỗi kẻ cậy luật pháp của Ga-la-ti thành thật tự xét công việc mình, họ sẽ thấy chẳng có gì để hãnh diện, nhưng vì họ cậy trên việc làm, dĩ nhiên phải so sánh với người khác  để tự mãn nếu thấy mình hơn, hoặc tự ti nếu thấy kém. Chính ra thay vì tìm cái dằm trong mắt người khác, họ nên thấy cái đà trong mắt mình. Quả thật nếu họ thành thật tự  xét chính minh, họ sẽ tìm được sự an ủi trong công việc Đấng Christ đã làm trọn.
 
-I believe this short verse is one of Paul's masterpieces to demonstrate the Galatians' total <span class="green-letter">misconception of what pleases God</span>. Our modern churches are not doing any better if we fail to see that throughout all this, Paul is talking about: what justifies you before God; and if we fail to see that Paul is not interested in giving rudimentary teaching for babes in Christ.
+Tôi tin rằng câu Kinh thánh ngắn ngủi này là một trong những tuyệt tác của Phao-lô để chứng tỏ sự hiểu lầm hoàn toàn của người Ga-la-ti về điều gì làm đẹp lòng Chúa, hoặc hầu việc Chúa. Đây là mục đích của thư Ga-la-ti: Điều gì đem lại cho bạn sự công bình của Đức Chúa Trời?
 
-## Taking care of ministers of the Word
+## Chăm sóc những kẻ rao giảng lời Chúa
 
-> <sup>6</sup>Now the one who receives instruction in the word must share all good things with the one who teaches it.<span style="text-align: justify;">
+> <sup>6</sup>Kẻ nào mà người ta dạy đạo cho, phải lấy trong hết thảy của cải mình mà chia cho người dạy đó (Galatians 3:6).
 
-At this time the economy has changed from the Jewish priesthood to those that serve like ministers of modern churches. The temple priests used to be well provided for by the massive temple economy powered by an animal sacrifice system, but during Paul's time, those that serve the Lord must have had to provide for themselves between ministry works. So Paul's calling folks to share with preachers their blessings is the right thing to do. These days this type of exhortation may be irrelevant as many ministers are even rich as compared to many in the congregation, or at least they're salaried with full benefits.
+Trong giai đoạn này sự hầu việc Chúa đã đổi từ hệ thống thầy tế lễ của người Do-thái qua chức vụ Mục-sư của các hội thánh ngày nay. Thầy tế lễ trong đền thờ đã được cung cấp đầy đủ nhờ guồng máy kinh tế đặt nền tảng trên hệ thống dâng của lễ, nhưng trong thời của sứ đồ Phao-lô, những người trong chức vụ phải tự tìm kế sinh nhai. Do đó sự Phao-lô kêu gọi giúp đỡ các Mục-sư là điều rất phải. Tuy nhiên ngày nay, sự kêu gọi này có thể không còn cần thiết vì nhiều Mục-sư lại còn giàu có hơn nhiều tín đồ trong hội thánh, hoặc ít nhất họ có lương và các bổng lộc khác về y tế, hưu trí, v.v...
 
-## Continued warning against circumcision and legalism
+Để nhấn mạnh thêm về ý nghĩa thực sự của chữ <span style="font-style: italic">"Đạo."</span> Thường theo con mắt xác thịt, người ta nghĩ về đạo như một sự cải thiện, một nếp sống, những điều nên làm hoặc không nên làm, cách xử sự, v.v., nói chung là một sự tu luyện, từ chỗ xấu đến chỗ tốt, hoặc từ chỗ tốt đến chỗ tốt hơn, do đó mọi sách vở, mọi sự giảng dạy, đều đặt trọng tâm vào người tín hữu. Trong lối suy nghĩ này, Chúa chỉ là một phương tiện để đạt đến cứu cánh là: nâng con người đến chỗ cao hơn.
 
-> <sup>7</sup>Do not be deceived. God will not be made a fool. For a person will reap what he sows, <sup>8</sup>because the person who sows to his own flesh will reap corruption from the flesh, but the one who sows to the Spirit will reap eternal life from the Spirit. <sup>9</sup>So we must not grow weary in doing good, for in due time we will reap, if we do not give up. <sup>10</sup>So then, whenever we have an opportunity, let us do good to all people, and especially to those who belong to the family of faith.
+Nhưng lối suy nghĩ này có ít ít nhất hai sai lầm lớn, và căn bản.
 
-At first glance, we might tend to interpret these verses as the contrast between sowing and reaping of material things in this world versus the kingdom of God. But this is not the context in this epistle. Surely Paul is talking about circumcision that has to do with the cutting away of a part of the flesh. To sow in the flesh, or to rely on the work of the flesh, as expressed in circumcision, is the main reason for his writing.
+Một, và có lẽ quan trọng hơn hết, là chính Chúa là Đạo--, Chân Lý, và Sự Sống--, không phải là một hệ thống tín ngưỡng, một phương pháp sống đạo. Nếu chính Chúa là Đạo, và Ngôi Hai Đức Chúa Trời ngự vào lòng tín hữu, thì mỗi người trong vai trò hướng dẫn người khác nên biết cho rõ: trọng tâm của sự giảng dạy của mình chú vào điều gì? Về đạo đức luân lý mà các tôn giáo đời này cũng giảng dạy, mà trong Kinh thánh gọi là <span style="font-style: italic">"rudimentary teachings,"</span> những điều sơ học (Ga-la-ti 4:3), hay là về Đấng sẽ không cần ai dạy Ngài về sự sanh bông trái trong đời sống người nghe? Nếu Đức Thánh Linh trong lòng người tín hữu đang làm việc cách lạ lùng, khiến họ "vừa muốn vừa làm" theo ý Ngài, thì bạn đang giảng dạy cho ai? Giảng dạy cho Thánh Linh, hay giảng dạy cho xác thịt hay chết của người đó? Bạn đang đặt trọng tâm vào Thánh Linh hay bông trái mà Ngài ban cho cách nhưng không?
 
-Obviously Paul spent virtually the entire letter to warn the Galatians of the danger of reverting back to the law. Therefore if we read these verses in context of the whole epistle, we must see that he's still talking about the issue of the Galatians trying to revert back to the law.
+Hai, như đã nói ở trên về xác thịt hay chết, là chúng ta không cải thiện nó được, không bởi sự tu luyện mà khiến xác thịt hay hư nát trở thành thần linh để hưởng nước Đức Chúa Trởi (I Cô-rin-tô 15:50). Cũng như rượu mới không thể đổ vào bình cũ (Ma-thi-ơ 9:17). Ông Ni-cô-đem cũng không hiểu điều này khi ông đến với Chúa Giê-su hỏi Ngài rằng sự tái sinh phải chăng là trở vào lòng mẹ để được sinh lại; nhưng Chúa cho ông biết xác thịt thì chỉ sanh xác  thịt, những việc lành dù từ xác thịt cũng thuộc về xác thịt; Ni-cô-đem, cũng như mỗi người trong chúng ta, phải được tái sinh.
 
-In that context, those that sow to the flesh are those that attempt to use the law to achieve God's righteousness, but all they will reap is destruction; Romans 7:5 also spoke of sins that are powered by the law to bear fruit for death.
+Nếu sách vở, hoặc tài giảng luận hùng hồn, của chúng ta nhắm về xu hướng tu luyện con người thì đó không phải là Đạo, mà là chúng ta đang dạy đời; viết đến đây tôi chợt thấy một sự thú vị, tiếng Việt có thành ngữ <span style="font-style: italic">"lên mặt dạy đời."</span> Quả thực khi người nói về Thánh Linh thì không thể lên mặt được, vì trong ân điển không có sự khoe mình. Chúa Giê-su chính là Đạo, do đó giảng đạo là giảng về Ngài, chẳng phải giảng cho xác chết để mong nó làm được điều gì đó.
 
-To continue in this context, "doing good" must also mean to do what he's talking about. The word "So" at the beginning of verses 9 and 10 must hint toward the true meaning of doing good is to not going back to circumcision, to not giving non-Hebrew Christians a hard time concerning circumcision, or basically to not going back to the law that they have been accustomed to since the Old Covenant.
+## Tiếp tục cảnh cáo về phép cắt bì
 
-Consider these verses that Paul put before them with utmost urgency:
+> <sup>7</sup>Chớ hề dối mình; Đức Chúa Trời không chịu khinh dể đâu; vì ai gieo giống chi, lại gặt giống ấy. <sup>8</sup>Kẻ gieo cho xác thịt, sẽ bởi xác thịt mà gặt sự hư nát; song kẻ gieo cho Thánh Linh, sẽ bởi Thánh Linh mà gặt sự sống đời đời. <sup>9</sup>Chớ mệt nhọc về sự làm lành, vì nếu chúng ta không trễ nải, thì đến kỳ chúng ta sẽ gặt. <sup>10</sup>Vậy, đương lúc có dịp tiện, hãy làm điều thiện cho mọi người, nhứt là cho anh em chúng ta trong đức tin (Galatians 6:7-10).
+
+Đọc lướt qua, có thể chúng ta nghĩ ngay đây là về sự so sánh giữa sự đầu tư về những tài lộc vật chất về đời này, hoặc gieo cho nước Đức Chúa Trời. Nhưng đây không phải là từ tiết (văn mạch/context) mà sứ đồ Phao lô đang nói đến. Chắc chắn ông đang nói đến sự cắt bì liên hệ đến sự cắt đi một phần của xác thịt. Gieo cho xác thịt, hoặc ỷ lại vào việc làm của xác thịt, bày tỏ qua phép cắt bì, là lý do chính Phao-lô viết lá thư này.
+
+Hiển nhiên Phao-lô đã dành trọn lá thư này để cảnh cáo về vấn đề người Ga-la-ti trở về với luật pháp. Do đó nếu chúng ta đọc đoạn Kinh thánh này trong nội dung của toàn lá thư, thì chúng ta thấy ông vẫn đang nói về vấn đề liên hệ đến sự người Ga-la-ti đang muốn trở về với luật pháp.
+
+Trong từ tiết đó, người gieo cho xác thịt là người dùng luật pháp tưởng rằng nhờ đó đạt được sự công bình của Đức Chúa Trời, nhưng thực ra chỉ đem đến sự hư nát; Trong Rô-ma 7:5 cũng nói rõ xác thịt vì sự kích thích của luật pháp sanh ra bông trái của sự chết.
+
+Rồi cũng trong từ tiết này, luật pháp qua phép cắt bì đối chọi với đức tin bởi Thánh Linh, thì sự làm lành chắc phải mang cùng ý nghĩa đó. Chữ <span style="font-style: italic">"vậy"</span> bắt đầu câu 10 dẫn ý liên tục từ câu 9 ở trên chắc phải nói về sự làm việc lành, hoặc làm việc đúng theo sự dạy dỗ của Thánh Kinh, đây là <span style="font-style: italic">"chớ trở về với luật pháp,"</span> chớ làm khó dễ các anh em trong Chúa gốc người ngoại về phép cắt bì, hoặc các hình thức luật pháp khác mà anh em đã quen làm từ thời Cựu Ước.
+
+Hãy đọc lại những câu trong các đoạn trước mà sứ đồ Phao-lô đã đặt trước họ với sự tối khẩn trương:
 
 ### Galatians 4:30-31
 
-<span class="green-letter"><sup>30</sup>But what does the scripture say? "Throw out the slave woman and her son, for the son of the slave woman <span style="text-decoration: underline;">will not share the inheritanc</span>e with the son" of the free woman. <sup>31</sup>Therefore, brothers and sisters, we are not children of the slave woman but of the free woman.</span>
+> <sup>30</sup>Song Kinh Thánh, có nói gì? Hãy đuổi người nữ tôi mọi và con trai nó; vì con trai của người nữ tôi mọi sẽ không được kế tự với con trai của người nữ tự chủ. <sup>31</sup>Ấy vậy, hỡi anh em, chúng ta chẳng phải là con cái của người nữ tôi mọi, bèn là người nữ tự chủ.
 
 ### Galatians 5:2
 
-<span class="green-letter">"Listen! I, Paul, tell you that if you let yourselves be circumcised, Christ will be of <span style="text-decoration: underline;">no benefit</span> to you at all!"</span>
+> "Tôi là Phao-lô nói với anh em rằng, nếu anh em chịu làm phép cắt bì, thì Đấng Christ không bổ ích chi cho anh em hết."
 
 ### Galatians 5:4
 
-<span class="green-letter">"You who are trying to be declared righteous by the law have been alienated from Christ; you have <span style="text-decoration: underline;">fallen away from grace</span>!"</span>
+> "Anh em thảy đều muốn cậy luật pháp cho được xưng công bình, thì đã lìa khỏi Đấng Christ, mất ân điển rồi."
 
-## Final Instructions and Benediction
+## Những lời dạy cuối cùng và chúc bình an
 
-> <sup>11</sup>See what big letters I make as I write to you with my own hand!
+> <sup>11</sup>Hãy xem chính tay tôi viết thơ nầy cho anh em, chữ lớn là dường nào (Galatians 6:11).
 
-Paul was probably refering to his problem with vision which caused him to write in big hand writings; must be bigger than people do ordinarily.
+Phao-lô chắc đang nói về sự ông bị đau mắt khiến ông phải viết chữ lớn hơn bình thường.
 
-### Beware of motives of the legalists
+## Đề phòng những kẻ cậy luật pháp
 
-> <sup>12</sup>Those who want to make a good showing in external matters are trying to force you to be circumcised. They do so only to avoid being persecuted for the cross of Christ. <sup>13</sup>For those who are circumcised do not obey the law themselves, but they want you to be circumcised so that they can boast about your flesh.
+> <sup>12</sup>Hết thảy những kẻ muốn cho mình đẹp lòng người theo phần xác, ép anh em chịu cắt bì, hầu cho họ khỏi vì thập tự giá của Đấng Christ mà bị bắt bớ đó thôi. <sup>13</sup>Vì chính những kẻ đó đã chịu cắt bì, không vâng giữ luật pháp đâu, nhưng họ muốn anh em chịu cắt bì, hầu để khoe mình trong phần xác của anh em (Galatians 6:12-13).
 
-The reason why these legalists wanted to avoid persecution for the cross of Christ is probably quite different from those living under some dictatorship. Most persecutions happened under gun points or extrememe physical threats of self or family members; in other words: involuntarily. The persecution here are actually toward folks who hold certain amount of influence, and they do have a choice between: circumcision vs. faith in Christ, or law vs. grace. Of course we must give the benefit of the doubt that there may have been violent threats toward some among them, but here Paul is addressing the ones in power, the agitators, the legalists that are enticing folks to go back to the law; Paul even implicates the other apostles themselves. I trust that God is merciful and knows the circumstances of each one under persecution; I know He is because Abraham pleaded and He listened.
+Lý do những kẻ cậy ân điển muốn tránh sự bắt bớ vì thập tự giá Đấng Christ thì thực khác với những người sống dưới một chế độ độc tài chuyên chế nào đó. Đa số những sự bắt bớ thường xảy ra dưới họng súng hoặc bạo hành đối với họ hoặc người thân; hay nói cách khác: không tự nguyện. Sự bắt bớ ở đây là đối với những người có một thế lực nào đó, và họ có sự lựa chọn giữa: phép cắt bì hay đức tin nơi Đấng Christ, hoặc giữa luật pháp và ân điển. Dĩ nhiên chúng ta phải thông cảm là có thể họ bị một sự đe dọa bạo hành nào đó, nhưng ở đây Phao-lô đang nói về những người trong địa vị có thế lực, những kẻ quấy rối, những người cậy luật pháp đang tìm cách khuyến dụ người khác trở về với luật pháp; Phao-lô lại còn ám chỉ sự dính líu của chính các sứ đồ.
 
-### Paul's only reason for boasting
+## Lý do duy nhất Phao-lô có thể khoe mình
 
-> <sup>14</sup>But may I never boast except in the cross of our Lord Jesus Christ, through which the world has been crucified to me, and I to the world.
+> <sup>14</sup>Còn như tôi, tôi hẳn chẳng khoe mình, trừ ra khoe về thập tự giá của Đức Chúa Jêsus Christ chúng ta, bởi thập tự giá ấy, thế gian đối với tôi đã bị đóng đinh, và tôi đối với thế gian cũng vậy! (Galatians 6:14)
 
-When work is used as qualification for justification, boasting is inevitable, as there will be comparing and fault finding, because the flesh is involved. Ephesians 2:8-9 says that because we're saved by grace, we cannot boast. But if there is any boasting, it's about the one who died on the cross for you.
+Khi việc làm được dùng như một bằng chứng để một người được xưng công bình, thế nào cũng có sự khoe mình, cũng như sẽ có sự so sánh và tìm lỗi, vì đó là kết quả của việc làm của xác thịt. Ê-phê-sô 2:8-9 viết rằng vì chúng ta được cứu bởi ân điển, chúng ta không thể khoe mình. Dầu vậy nếu có sự khoe mình, hãy khoe mình về Đấng đã chết thay trên thập tự giá.
 
-### The only thing that matters: the new creation
+## Điều quan trọng nhất: người mới
 
-> <sup>15</sup>For neither circumcision nor uncircumcision counts for anything; the only thing that matters is a new creation!
+> <sup>15</sup>Vì điều yếu cần, chẳng phải sự chịu cắt bì, hay là sự chẳng chịu cắt bì, bèn là trở nên người mới (Galatians 6:15).
 
-All the various laws and ordinances attempt to improve upon the "old wine skin," the flesh with its lusts and desires. This is not God's ultimate goal for us, because when "the trumpet" sounds at the second coming of Christ, we will shed this body and will put on the incorruptible. Which one among us even knows what this incorruptible body looks like so he can ... perfect it? And if not this incorruptible body ... what are you working on?
+Tất cả các hình thức luật pháp và điều lệ khác nhau đều tìm cách để cải tiến cái <span style="font-style: italic">"bình cũ,"</span> tức là xác thịt với những ham muốn của nó. Đây không phải là mục tiêu tối hậu của Đức Chúa Trời cho chúng ta, vì khi <span style="font-style: italic">"tiếng kèn"</span> thổi vào ngày trở lại lần thứ hai của Đấng Christ, chúng ta sẽ lột bỏ con người cũ mà mặc lấy người mới không hay hư nát. Chúa Giê-su phán trong Lu-ca 5:33-39: <span style="font-style: italic">"Rượu mới phải đổ vào bình mới,"</span> nghĩa là mọi nỗ lực để cải thiện, vá víu bình cũ, chỉ là hư không; Chúa ban cho chúng ta bình mới chỉ bởi ân điển của Ngài mà qua đức tin chúng ta nhận được.
 
-The only thing that matters is the new creation that is coming, and our only connection to it is our faith, which is more precious than gold, in our Lord and Savior Jesus Christ. Why waste time working on this corruptible? There might be specific circumstances in which the Lord may want to deal with problems with some folks, but it's not something we should make religion out of. Practically speaking, our obsession with sins or behavior correction is the principal source of laws that snuff out the light of God's grace. Let's not forget that circumcision is emblematic of this sort of obsession.
+Chỉ một điều đáng kể là người mới do Chúa hứa ban, chỉ thuộc về chúng ta qua đức tin, quí hơn vàng ròng, trong Cứu Chúa Giê-su Christ. Tại sao phí thì giờ Chúa ban tìm cách cải tiến người cũ hay hư nát này? Dĩ nhiên có những trường hợp Chúa đem lại sự thay đổi cho một người trong cuộc sống hiện tại, nhưng đó là trường hợp đặc biệt trong một hoàn cảnh đặc biệt, nhưng không phải là mục tiêu tối hậu như của các tôn giáo đời này. Nói cách thực tế, sự mê đắm của chúng ta về vấn đề tội lỗi và sự tự cải thiện đời sống là nguyên do chính yếu của những luật pháp làm nghẹt ngòi ân điển của Đức Chúa Trời. Chúng ta chớ bao giờ quên rằng phép cắt bì là một trong những dấu hiệu của sự mê đắm này.
 
-### Paul's new rule: never fall back to the law
+## Luật mới của Phao-lô: chớ trở về với luật pháp
 
-> <sup>16</sup>And all who will behave in accordance with this rule, peace and mercy be on them, and on the Israel of God.
+> <sup>16</sup>Nguyền xin sự bình an và sự thương xót giáng trên hết thảy những kẻ noi theo mẫu mực nầy, lại giáng trên dân Y-sơ-ra-ên của Đức Chúa Trời nữa! (Galatians 6:16)
 
-There is this new rule: don't go back to the law, but live by faith.&nbsp;If we live according to this new rule of relying on nothing else except the cross of Christ, we shall have peace and mercy.
+Chúng ta có một mẫu mực mới: đừng trở về với luật pháp cũ, nhưng sống bởi đức tin. Nếu chúng ta sống theo mẫu mực này, về sự chẳng cậy nơi bất cứ điều chi ngoài thập tự giá của Đấng Christ, chúng ta sẽ có ân điển và bình an.
 
-> <sup>17</sup>From now on let no one cause me trouble, for I bear the marks of Jesus on my body.
+> <sup>17</sup>Ước gì từ nay về sau, chẳng ai làm khó cho tôi, vì trong mình tôi có đốt dấu vết của Đức Chúa Jêsus vậy (Galatians 6:17).
 
-The mark of Christ:&nbsp;vs. that of circumcision. You cannot have both, circumcision of the flesh or circumcision of the heart, law or grace. Choose one or the other. Be hot or cold, but not lukewarm. Paul told the Galatians: enough of this already, leave the flesh of my new believers alone—concerning circumcision—, as they already have a true mark that will allow them to enter heaven's gate.
+Dấu vết của Đức Chúa Giê-su đối chọi với cắt bì trong xác thịt. Bạn không thể nào chọn cả hai, vừa cắt bì trong xác thịt vừa trong trái tim, vừa theo luật pháp vừa cậy ân điển. Chọn một trong hai. Hoặc nóng hẳn, hoặc lạnh hẳn, chớ hâm hẩm. Phao-lô nói với người Ga-la-ti: Đã đủ rồi, để yên cho xác thịt của những người tin Chúa nhờ nghe đạo tin lành tôi rao giảng, đừng buộc họ phải cắt bì họ, vì họ đã có mang một dấu chứng thật, một phép cắt bì trong tim, đủ cho họ vào nước Thiên-đàng.
 
-> <sup>18</sup>The grace of our Lord Jesus Christ be with your spirit, brothers and sisters. Amen.
+> <sup>18</sup>Hỡi anh em, nguyền xin ân điển của Đức Chúa Jêsus Christ chúng ta ở với tâm thần anh em! A-men (Galatians 6:18).
 
-Paul's usual benediction.
+Lời chúng bình an trong mỗi lá thư của Phao-lô khi ông gửi cho các hội thánh.
 
-## Epilogue
+## Lời kết
 
-Be wise about what constitutes a law. While the Jews had clearly defined laws cast in tablets of stone, the rest of the world has laws written in their hearts, at times defending, at times accusing. A law is anything in your mind that you believe that may disqualify you for the prize, that may invalidate God's promise of salvation. Some believe eating certain foods—offered to idols or unclean, others touching something—, working on the Sabbath, lie to others about you being Christians, smoking, etc., affect your spirituality. These rules become your laws, and you have to live by them.
+Hãy khôn ngoan về điều gì tạo nên luật pháp. Trong khi người Do-thái có những luật được ghi rõ ràng trên bảng đá, phần còn lại của thế gian có luật pháp ghi trong lương tâm, khi thì bênh vực, khi thì lên án. Đối với người ngoại, như phần lớn trong chúng ta, luật pháp là bất cứ điều gì bạn tin rằng có thể hoặc mua được nước thiên đàng, hoặc khiến bạn mất phần thưởng, hoặc một việc gì đó có khả năng xóa bỏ lời hứa của Đức Chúa Trời về sự sống đời đời. Có người tin vào sự kiêng cử trong cách ăn uống—của cúng thần tượng, ô uế—, người khác thì sợ đụng chạm với một điều gì đó, người giữ ngày Sa-bát, người sợ sự nói dối với người khác về đức tin, người sợ hút thuốc hoặc uống rượu, v.v., giống như người Cơ-lô-se khi họ <span style="font-style: italic">"chớ nếm, chớ đụng, chớ rờ,..."</span> rằng những điều này có thể ảnh hưởng sự nên thánh của mình. Những điều cấm kỵ này trở nên luật pháp trong đời sống bạn, và như Kinh thánh nói, bạn trở nên kẻ nô lệ dưới luật pháp.
 
-But if you acknowledge your utter helplessness and quit focusing on whacking endless moles in your life, but fix your eyes on Jesus, you have God-ordained reason to rejoice; the apostle Paul did.
+Nhưng nếu bạn công nhận tình trạng hoàn toàn bất lực của mình và đừng chú tâm đến việc sửa đổi con người cũ hay hư nát, nhưng cứ ngắm nhìn Chúa Giê-su, chú trọng đến người đã được sống lại cùng Đấng Christ, kể như mình đã chết về đời sống cũ theo luật của thánh linh sự sống, bạn có đủ lý do, mà chính Đức Chúa Trời chứng nhận, để vui mừng, cũng như Sứ-đồ Phao-lô.
 
-It's time to grow up and eat solid food of the gospel, and don't depend on rudimentary teachings anymore.
+Đã đến lúc mỗi người trong chúng ta nên đến sự trưởng thành để ăn thức ăn cứng của tin lành bình an, và đừng lệ thuộc nữa vào các <em>"lề thói hèn yếu"</em> (Galatians 4:3) của thế gian.
 
 {% include bible-study/bible-study-footer %}
 

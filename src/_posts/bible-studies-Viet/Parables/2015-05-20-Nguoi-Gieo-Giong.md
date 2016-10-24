@@ -1,6 +1,6 @@
 ---
 title: "Ngụ Ngôn Người Gieo Giống"
-excerpt: "A proper understanding of this parable will relieve the believers of the confusion of which type of soil they belong to. Conventional interpretation of this parable leaves many to wonder if they're saved at all, let alone being fruitful (Matthew 13:1-23)."
+excerpt: "Hiểu đúng ý nghĩa của ngụ ngôn này sẽ giúp người tín hữu thoát khỏi sự hoang mang không biết mình thuộc loại đất nào. Cách giải thích phổ thông sẽ khiến nhiều tín hữu tự hỏi không biết mình có được cứu không, đừng nói đến sự có kết quả cho Chúa (Matthew 13:1-23)."
 image: 
   teaser: parable-sower-teaser.png
 tags: [parable, bible-studies]
@@ -15,104 +15,115 @@ feature:
 
 {{ page.excerpt | markdownify }}
 
-<em>(Bấm vào đây để đọc tiếng Việt)</em>
-
 <div>
 <p>
 <img alt src="{{ site.url }}/assets/images/TheSower-200x150.jpg" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 136px; padding: 0px; float: left;">
-I thank God for an opportunity to present a message to Pastor Robert Boston's congregation this coming Sunday December 28th, 2014. In this message, I hope to clarify, to help folks make sense of, the parable of the sower. A parable that puzzled me for decades since I became a Christian, and I wouldn't be surprise that it confounds the mind of most, if not all, Christians, too. Here's a set of slides I will use in the presentation.
+Tôi tạ ơn Chúa vì được cơ hội trình bày một bài giảng luận cho hội thánh của Mục Sư Robert Boston vào sáng Chúa Nhật 28 tháng 12, 2014. Trong bài giảng luận này, tôi mong được làm sáng tỏ, giúp các tín hữu hiểu được, ngụ ngôn người đi gieo giống. Một ngụ ngôn đã làm tôi bối rối trong nhiều thập niên qua kể từ khi tôi tin Chúa, và tôi sẽ không lấy làm lạ nếu ngụ ngôn này cũng làm đa số, nếu không phải là tất cả, các tín hữu bị mang nhiều nghi vấn. Sau đây là một số những tờ rọi dùng trong khi trình bày.
 </p>
 </div>
 
-## The parable
+## Ngụ ngôn
 
-> <strong>Matthew 13:1-9</strong><br /><sup>1</sup>That same day Jesus went out of the house and sat by the lake. <sup>2</sup>Such large crowds gathered around him that he got into a boat and sat in it, while all the people stood on the shore. <sup>3</sup>Then he told them many things in parables, saying: "A farmer went out to sow his seed. <sup>4</sup>As he was scattering the seed, some fell along the path, and the birds came and ate it up. <sup>5</sup>Some fell on rocky places, where it did not have much soil. It sprang up quickly, because the soil was shallow. <sup>6</sup>But when the sun came up, the plants were scorched, and they withered because they had no root. <sup>7</sup>Other seed fell among thorns, which grew up and choked the plants. <sup>8</sup>Still other seed fell on good soil, where it produced a crop—a hundred, sixty or thirty times what was sown.<br /><sup>9</sup>Whoever has ears, let them hear.<br />...<br />
-<strong>Matthew 13:18-23</strong><br /><sup>18</sup>“Listen then to what the parable of the sower means: <sup>19</sup>When anyone hears the message about the kingdom and does not understand it, the evil one comes and snatches away what was sown in their heart. This is the seed sown along the path. <sup>20</sup>The seed falling on rocky ground refers to someone who hears the word and at once receives it with joy. <sup>21</sup>But since they have no root, they last only a short time. When trouble or persecution comes because of the word, they quickly fall away. <sup>22</sup>The seed falling among the thorns refers to someone who hears the word, but the worries of this life and the deceitfulness of wealth choke the word, making it unfruitful. <sup>23</sup>But the seed falling on good soil refers to someone who <span style="red-letter">hears the word and understands it</span>. This is the one who produces a crop, yielding a hundred, sixty or thirty times what was sown."
+> <sup>1</sup>Cũng ngày ấy, Đức Chúa Jêsus ra khỏi nhà, ngồi bên mé biển. <sup>2</sup>Đoàn dân nhóm họp xung quanh Ngài đông lắm, đến nỗi Ngài phải xuống thuyền mà ngồi, còn cả đoàn dân đứng trên bờ. <sup>3</sup>Ngài dùng thí dụ mà giảng nhiều điều cùng họ.<br />
+Ngài phán như vầy: Có người gieo giống đi ra đặng gieo. <sup>4</sup>Khi đương gieo, một phần giống rơi dọc đường, chim bay xuống và ăn. <sup>5</sup>Một phần khác rơi nhằm chỗ đất đá sỏi, chỉ có ít đất thịt, bị lấp không sâu, liền mọc lên; <sup>6</sup>song khi mặt trời mọc lên, thì bị đốt, và vì không có rễ, nên phải héo. <sup>7</sup>Một phần khác rơi nhằm bụi gai, gai mọc rậm lên, phải nghẹt ngòi. <sup>8</sup>Một phần khác nữa rơi nhằm chỗ đất tốt, thì sanh trái; hoặc một hột ra được một trăm, hoặc một hột sáu chục, hoặc một hột ba chục. <sup>9</sup>Ai có tai, hãy nghe!
+...<br />
+<sup>18</sup>Ấy vậy, các ngươi hãy nghe nghĩa ví dụ về kẻ gieo giống là gì. <sup>19</sup>Khi người nào <u>nghe đạo nước thiên đàng, mà không hiểu</u>, thì quỉ dữ đến cướp điều đã gieo trong lòng mình; ấy là kẻ chịu lấy hột giống rơi ra dọc đường. <sup>20</sup>Người nào chịu lấy hột giống nơi đất đá sỏi, tức là kẻ nghe đạo, liền vui mừng chịu lấy; <sup>21</sup>song trong lòng không có rễ, chỉ tạm thời mà thôi, đến khi vì đạo mà gặp sự cực khổ, sự bắt bớ, thì liền vấp phạm. <sup>22</sup>Kẻ nào chịu lấy hột giống nơi bụi gai, tức là kẻ nghe đạo; mà sự lo lắng về đời nầy, và sự mê đắm về của cải, làm cho nghẹt ngòi đạo và thành ra không kết quả. <sup>23</sup>Song, kẻ nào chịu lấy hột giống nơi đất tốt, tức là <u>kẻ nghe đạo và hiểu</u>; người ấy được kết quả đến nỗi một hột ra một trăm, hột khác sáu chục, hột khác ba chục (Matthew 13:1-23).
 
-## What type of soil are you?
+## Bạn là loại đất nào?
 
-This parable leaves many people perplexed. How can they find out which type of soil they are? How do you judge which type a person belongs to?
+Ngụ ngôn này khiến nhiều người hoang mang. Làm sao họ có thể biết mình thuộc loại đất nào? Làm sao chúng ta biết một người có thể thuộc loại đất nào?
 
-The traditional response is we judge a Christian by his fruit. But under what standard is the judgement based on? There is a story of a young man who took a piece of gum from the table of the house he and his father were visiting. For years afterwards, he became so tortured by this act of taking the gum from the owner without asking. And then there are others that the Bible says their conscience is seared with a hot iron. These two types of people probably cover almost entire spectrum of mankind in relation to their conscience. From which point in this spectrum is the standard derived from?
+Thông thường chúng ta phán đoán một Cơ-đốc Nhân qua bông trái của đời sống họ. Nhưng chúng ta sẽ dựa trên tiêu chuẩn nào để phán đoán? Có chuyện kể về một người trẻ tuổi lấy một chiếc kẹo cao-su từ bàn của một nhà mà anh và cha anh đến thăm. Rồi nhiều năm sau đó, anh bị dày vò về việc mình đã lấy kẹo cao-su mà không xin phép chủ nhà. Lại có một hạng người khác mà Kinh thánh gọi là những người mà lương tâm chai lì như bị cháy bỏng bởi bàn ủi nóng. Hai hạng người này bao gồm gần như toàn bộ quang phổ của cả nhân loại về khía cạnh lương tâm. Chúng ta phải chọn điểm nào trong quang phổ đó để làm tiêu chuẩn phán đoán?
 
-### Judging by fruit is not enough
+## Chỉ phán đoán bởi việc làm thì không đủ
 
-According to I Corinthians 13, even folks who go as far as giving all they have to the poor, sacrifice themselves on the burning stakes, cannot base their fruitfulness on these seemingly good deeds. Jesus said the same thing of men who traveled over lands and seas to evangelize, that they might not belong to Him. Surely God's standard is different. In Luke 17:10, when people asked Jesus for a sign of the coming of the Kingdom of God, He said: "<span class="green-letter">The kingdom of God is not coming with signs to be observed.</span>" (NET) And because He also told us that the Kingdom of God is in our hearts. While a life may be considered fruitful by one person, it may not be by another, or even by himself.
+Theo Cô-rin-tô thứ nhất đoạn 13, có những người bố thí tất cả tài sản cho kẻ nghèo, hi sinh trên giàn hỏa thiêu, cũng chưa hẳn là thực sự có kết quả cho Chúa. Chúa Giê-su cũng nói đến những người vượt sông vượt biển để đưa người về với đạo, nhưng chưa chắc Chúa nhìn nhận họ là kẻ hầu việc Ngài. Tiêu chuẩn của Chúa hẳn phải khác của chúng ta. Trong Luke 17:10, khi người ta hỏi Chúa Giê-su để xin một dấu hiệu về sự nước Trời đến, Ngài trả lời: "Nước trời đến cách không rõ ràng." Và Ngài cũng phán rằng nước Trời đến trong lòng chúng ta. Nếu nước Trời đến trong lòng chúng ta, mà lại đến cách không rõ ràng, thì ai trong vòng chúng ta có thể đòi hỏi chứng cớ của sự nước Trời đến trong lòng người khác, hoặc ngay cả trong chính mình? Một đời sống có thể được một người phán đoán là nhiều kết quả cho Chúa, nhưng chưa chắc đã được nhìn nhận bởi một người khác, hoặc bởi chính chủ nhân của đời sống đó.
 
-### Self judgement is inaccurate
+Một người cũng không thể tự xét mình vì nhiều lý do, một là sự tự phán xét sẽ mang tính cách chủ quan, rồi lại có lời Kinh thánh khuyên chúng ta đừng cậy nơi sự thông sáng của chính mình nhưng hãy nương cậy nơi Đức Giê-hô-va. Vậy người đó có nên để một người khác xét đoán mình không? Đây cũng là một nan đề, người khác đó cũng có thể đoán xét sai lầm. Do đó sự chọn lựa đúng và hiển nhiên là để Chúa là Đấng phán đoán. Nhưng Chúa là Đức Chúa Trời khôn ngoan và yêu thương, lẽ nào Ngài lại bắt chúng ta mò mẫm tìm cách nào trở nên mảnh đất tốt? Không thể như vậy, Ngài sẽ để bánh nơi con trẻ có thể với tới; Ngài sẽ làm cho rõ ràng và đạt đến được cho bất cứ ai đang tìm cầu, vì chính Chúa phán: hãy tìm sẽ gặp, hãy gõ cửa thì cửa sẽ mở ra. Đức Chúa Trời của cả vũ trụ chẳng phải như các thần của người ngoại đạo, do đó chúng ta chớ xem Ngài như vậy. Với Chúa sẽ không có sự đoán mò, nhưng dựa trên những tiêu chuẩn bất biến.
 
-The person cannot judge himself for many reasons, one is his own assessment will be subjective, secondly he's advised not to lean on his own understanding, so he should let the Lord be the judge. Should he let another judge him? Same problem, the other person is equally vulnerable to faulty assessment. So the most obvious and right choice is to let the Lord be the judge. But being the most wise and loving God, will He make us guess how we can avoid being an unfruitful soil? No, He will put the cookies where the kid can reach; He will make it clear and available to anyone who wants it, because He said: seek and you shall find, knock and it shall be opened. The God of the universe is not like the heathen gods, so we should not treat Him as such. With Him there will be no guesswork, no shifting standard.
+## Thiết lập một tiêu chuẩn
 
-## Setup a frame of reference
+Để thực sự hiểu, và giải thích cách đúng đắn châm ngôn này chúng ta phải thiết lập một hệ thống tương quan, a frame of reference, một số nguyên tắc để dựa trên đó chúng ta đặt nền tảng cho sự nhận biết. Và mỗi nguyên tắc này phải được rút tỉa từ chân lý bất biến của Thánh Kinh, mà không cần dựa trên những những quan niệm riêng của chúng ta.
 
-To truly understand, and properly interpret this parable we have to setup a right frame of reference, a set of rules upon which we base our understanding. And these rules must be derived from the absolute truth of Scriptures, without regard to what you or I think.
+- Nguyên tắc #1: Mọi người đều chết trong tội lỗi và sự vi phạm.
+- Nguyên tắc #2: Mọi người đều không có khả năng tuân theo ý muốn của Đức Chúa Trời
+- Nguyên tắc #3: Dựa trên nguyên tắc #1 và #2, tất cả Cơ-đốc Nhân đều là đất xấu, và không thể trở nên đất tốt; không có sự phân biệt giữa Cơ-đốc Nhân tốt hoặc xấu, chỉ có người tin Chúa hay người không tin Chúa.
+- Nguyên tắc #4: Loài người không thể có kết quả cho Chúa, chỉ ngoại trừ Đấng Christ
 
-- Rule #1: All are equally dead in sin and trespasses
-- Rule #2: All are equally unable to do God's will
-- Rule #3: Based on Rule #1 and Rule #2, all Christians are bad soil, or cannot be good soil; No good vs. bad Christian, only believer vs. unbeliever
-- Rule #4: People cannot bear fruit, only Christ can
+### <strong>Nguyên tắc #1: Mọi người đều chết trong tội lỗi</strong><br />
 
-### Rule #1: All are equally dead in sin and trespasses
+> “<sup>10</sup>Như có chép rằng: Chẳng có một người công bình nào hết, dẫu một người cũng không. <sup>11</sup>Chẳng có một người nào hiểu biết, Chẳng có một người nào tìm kiếm Đức Chúa Trời.” (Romans 3:10-11)<br />
+“Vì mọi người đều đã phạm tội, thiếu mất sự vinh hiển của Đức Chúa Trời.” (Romans 3:23)<br /><br />
+“Ví bằng chúng ta nói mình không có tội chi hết, ấy là chính chúng ta lừa dối mình, và lẽ thật không ở trong chúng ta.” (I John 1:8)
 
-- “Just as it is written: "There is no one righteous, not even one, there is no one who understands; there is no one who seeks God.” (Rom 3:10-11)
-- “For all have sinned and fall short of the glory of God.” (Romans 3:23)
-- “If we claim to be without sin, we deceive ourselves and the truth is not in us.” (I Jn 1:8)
+### <strong>Nguyên tắc #2: Mọi người đều không có khả năng làm theo ý Đức Chúa Trời</strong><br />
 
-### Rule #2: All are equally unable to do God's will
+> “Hễ chi sanh bởi xác thịt là xác thịt; hễ chi sanh bởi Thánh Linh là thần.” (John 3:6)<br />
+“Vả, tôi biết điều lành chẳng ở trong tôi đâu, nghĩa là trong xác thịt tôi, bởi tôi có ý muốn làm điều lành, nhưng không có quyền làm trọn;” (Romans 7:18)<br />
+“Hỡi anh em, tôi đoán quyết rằng thịt và máu chẳng hưởng nước Đức Chúa Trời được, và sự hay hư nát không hưởng sự không hay hư nát được.” (1 Corinthians 15:50)
 
-- “Flesh gives birth to flesh, but the Spirit gives birth to spirit.” (Jn 3:6)
-- “For I know that good itself does not dwell in me, that is, in my sinful nature. For I have the desire to do what is good, but I cannot carry it out.” (Romans 7:18)
-- “I declare to you, brothers and sisters, that flesh and blood cannot inherit the kingdom of God, nor does the perishable inherit the imperishable.” (1 Corinthians 15:50)
+### <strong>Nguyên-tắc #3: Chẳng có sự phân biệt Cơ-đốc Nhân tốt hoặc xấu, chỉ có hoặc tin Chúa, hoặc không tin Chúa</strong><br />
 
-### Rule #3: No good vs. bad Christian, only believer vs. unbeliever
+> “... Đến tối, chủ vườn nho nói với người giữ việc rằng: Hãy gọi những người làm công mà trả tiền công cho họ, khởi từ người rốt cho đến người đầu.” (Matthew 20:8--trong đoạn này Chúa dạy: không những mọi người đều được trả công bằng nhau, kể cả người chưa hề bắt đầu công việc, không những thế, người đó lại được trả công đầu tiên)<br />
+“Vì người nào giữ trọn luật pháp, mà phạm một điều răn, thì cũng đáng tội như đã phạm hết thảy.” (James 2:10--Chắc chắn rằng mọi người đều phạm rất nhiều hơn một điểm trong luật pháp, do đó mọi người bị kể là phạm toàn bộ luật pháp. Như vậy thì ai "carnal," hoặc thiếu thiêng liêng, hơn ai?)
 
-- “... Call the laborers and pay them their wages, beginning with the last group to the first. … So the last shall be first, and the first last.” (Mat 20:8)--All are paid equally, even the ones that did not lift a finger, and more than that, they get paid first
-- “For the one who obeys the whole law but fails in one point has become guilty of all of it.” (James 2:10--Surely we all have failed in many more than one point of the law, so all are considered to be guilty of the whole law. Which one of us is then less carnal than the other?)
-- Jesus being Almighty God never says anything that we can take lightly. If He says this is how the Kingdom of God works, that's is how it works, and you and I cannot escape its rule: no one is paid more than another, this means YOUR WORK DON'T COUNT, so NO ONE IS BETTER THAN ANOTHER. We're all paid by God's grace.
-- Therefore the only ticket into the vineyard is your belief, or faith: <span class="green-letter">“Whoever believes in him is not condemned, but whoever does not believe stands condemned already because they have not believed in the name of God's one and only Son.” (John 3:18)</span>
+Chúa Giê-su, là Thượng Đế toàn năng, chẳng hề nói một điều gì mà chúng ta có thể coi thường. Nếu Ngài nói đây là chính sách của nước Trời, chúng ta phải sống dưới chính sách đó: chẳng ai được trả công hơn người khác, nghĩa là VIỆC LÀM CHẲNG ĐÁNG KỂ, do đó CHẲNG AI HƠN AI. Tất cả chúng ta được trả công bằng ân điển Chúa.
 
-### Rule #4: People cannot bear fruit, only Christ can
+Và như vậy thẻ bài duy nhất cho chúng ta vào vườn nho của Chúa chính là đức tin:
 
-- According to Rule #2, no one is able to do God's will, it follows that neither can they bear fruit for God.<span class="green-letter">"I am the vine; you are the branches. The one who remains in me--and I in him--bears much fruit, because apart from me you can accomplish nothing.” (Jn 15:5), “For the fruit of the Spirit ...” (Gal 5:22)
+> “Ai tin Ngài thì chẳng bị đoán xét đâu; ai không tin thì đã bị đoán xét rồi, vì không tin đến danh Con một Đức Chúa Trời.” (John 3:18)
 
-## Come unto Me & Remain in Me
+### <strong>Nguyên tắc #4: Loài người không thể có kết quả, duy chỉ Đấng Christ</strong><br />
 
-There is one thing we need to know about the meaning of "remains in me." God had given the Hebrews a time to be His people based on an old contract called the Old Covenant. In this covenant, to deal with the problem of sins, He allowed them to give burnt offerings in the form of doves, sheep, or goats, etc. But when Christ came, He gave them a new contract, called the New Covenant, a contract since that time for all eternity. Those Hebrews that want to "remain" being God's people must leave the old ways, but live according to the new covenant, no more burnt offerings, but accept the once-for-all perfect sacrifice which is Christ Himself.
+Dựa theo nguyên tắc #2, không một ai có khả năng làm theo ý Đức Chúa Trời, và vì thế họ cũng không thể sanh bông trái cho Ngài.
 
-To gentiles like us, Jesus called: "Come unto me." But to the Hebrews, He invited them: "Remain in me," because to them there is a transition from the Old to the New, and they can indeed remain in Him by no longer offering dead sacrifices, but now offering their living bodies which is the temple of the living God, by faith. They themselves are by no means sacrifices--because they would have more blemishes than the worst of sheep and goats--, but by God's grace Christ becomes the perpetual living sacrifice in their hearts by the virtue of their believing in Him. It is Christ in you, the hope of glory. Anyone who thinks his body is a sacrifice to God is downright ... he thinks of himself to be something but really is nothing (Galatians 6:3).
+> "Ta là gốc nho, các ngươi là nhánh. Ai cứ ở trong ta và ta trong họ thì sinh ra lắm trái; vì ngoài ta, các ngươi chẳng làm chi được.” (John 15:5)<br />
+“Nhưng trái của Thánh Linh, ấy là ...” (Galatians 5:22)
 
-The result is any Gentiles who is in Christ, or any Hebrew who remains in Him, will bear fruit, because that is a proclamation of the Lord Jesus. What happens to a tree planted by a nourishing water stream, so does it to the one who is in Christ. The bearing of fruit is not an advice, neither is it a commandment, but the divine outcome afforded by God the Holy Spirit.
+## Hãy đến với Ta và hãy ở trong ta
 
-## Back to the parable
+Có một điều chúng ta cần biết về ý nghĩa của "cứ ở trong ta." Chúa đã cho người Do-thái một giai đoạn cho họ được làm con dân Chúa theo một giao ước cũ gọi là Cựu Ước. Trong giao ước này, để giải quyết vấn đề tội lỗi, Chúa ban cho họ được dâng của lễ thiêu qua dạng bồ câu, chiên, hoặc dê đực, v.v. Nhưng khi Đấng Christ đến, Ngài mang đến cho họ một giao ước mới, gọi là Tân Ước, một giao ước từ đó và cho đến muôn đời. Những người Do-thái nào muốn tiếp tục là con dân Chúa, thì phải từ bỏ lề thói cũ, mà đi vào trong giao ước mới, không dâng những của lễ thiêu nữa, nhưng nhận lấy của lễ thiêu một lần đủ cả là Chúa Giê-su.
 
-Let's get back to the parable of the sower. Using these rules, especially the rule that states that there is only one dividing line, between those that believe and those that do not believe, we arrive at the conclusion that there is only one difference: a fruitful soil, or a completely dead soil; in Christ or out of Christ, dead or alive, no walking dead. For these very reasons: all have sinned, ll failed to do God's will, all are equally sinners, except those that believe.
+Với người ngoại như chúng ta, thì Chúa phán: "Hãy đến với ta." Còn với người Do-thái thì Ngài kêu gọi họ "cứ ở trong ta," vì đối với họ thì có một giai đoạn chuyển tiếp từ Cựu sang Tân, và họ được tiếp tục ở trong Ngài bằng cách thay vì dâng của lễ của loài thú chết, nhưng từ đây dâng Chiên Con làm của lễ sống trong thân thể sống của mình là đền thờ của Đức Chúa Trời hằng sống, bởi đức tin. Chính họ không phải là của lễ sống--vì thực ra họ còn có nhiều sự xấu xa hơn chiên hoặc dê đầy tì vết--, nhưng bởi ân điển Chúa, Đấng Christ đã trở nên của lễ đời đời trong lòng họ chỉ vì họ đã đặt niềm tin nơi Ngài. Đó là Đấng Christ ở trong bạn là niềm hi vọng về sự vinh hiển. Người nào nghĩ thân thể họ là của lễ hoặc đền thờ Đức Chúa Trời theo nghĩa đen thì thực là ... tưởng mình ra gì nhưng thực ra chẳng là gì cả (Galatians 6:3).
 
-So there are only these shifts in foundation:
-- From unbelief to belief
-- From sinners to children of God
-- From being out of Christ to being in Christ
-- and finally ...
-- From unfruitful soil to fruitful soil
+Và kết quả là người ngoại nào được ở trong Chúa, hoặc người Do-thái nào cứ tiếp tục ở trong Chúa, thì tự nhiên sẽ sanh bông trái, vì đó là lời tuyên bố của Đức Chúa Giê-su. Cây trồng bên giòng nước làm sao, thì kẻ ở trong Chúa cũng làm vậy. Sự sanh bông trái không phải là một lời khuyên, hoặc một mệnh lệnh, nhưng là một việc đương nhiên xảy ra vì công việc của Thánh Linh.
 
-If you can answer you are a Christian, you can answer that you are a child of God, that you will be in heaven, that you are FRUITFUL SOIL, all because of God's promise to those that believe in His Son (Jn 3:16). If God did not spare His own Son, but gave Him up for us all, won't He give us everything along with Him, including making us fruitful for His kingdom? (Romans 8:23)
+## Trở lại ngụ ngôn
 
-Without establishing this framework, involving the set of 4 rules, or rather foundational truths, no one will have an idea which soil they belong to, and all of their lives will be guesswork, not knowing where they stand with God. This is not what God wants for us. Faith is substance of things hoped for, the evidence of things not seen (Heb 11:1). Without faith it's impossible to please God (Heb 11:6).
+Trở lại với ngụ ngôn người đi gieo giống. Dùng những nguyên tắc này, nhất là nguyên tắc nói rằng chỉ có một sự phân biệt, đó là giữa người tin Chúa, và người không tin Chúa, chúng ta đi đến kết luận rằng chỉ có một sự khác biệt: hoặc đất sanh bông trái, hoặc đất chết; trong Chúa, hoặc ngoài Chúa, sống, hoặc chết, không có nửa sống nửa chết. Vì những lý do sau đây:
 
-The different soils are just different circumstances upon which each and everyone must choose to believe, or not to believe God. In the end, only the believer, who are in Christ, will become fruitful, because of a new law: the law of the Spirit of Life, not the law of sin and death. The law of sin and death asserts that: the soul that sins, it shall die (Ezekiel 18:20). The law of the Spirit of Life states that: Whoever in Christ will bear much fruit (John 15:5). If you know how to read the Scriptures, you will find that everything that Jesus proposes is a golden but humanly impossible rule, he wants his hearer to realize their wretchedness and embrace him as the only WAY to God, the only TRUTH of God, and the only LIFE in God.
+- Vì mọi người đều phạm tội
+- Mọi người đều không có khả năng làm theo ý Chúa
+- Mọi người đều là tội nhân đáng bị hư mất đời đời.
 
-## The incorrect frame of reference
+Do đó chỉ có những sự thay đổi về nền tảng như sau:
+- Từ không tin đến có đức tin
+- Từ tội nhân đến con cái Đức Chúa Trời
+- Từ ngoài Chúa đến được ở trong Chúa
+- Từ đất chết qua đất sống mầu mỡ nhờ ân điển Chúa
 
-The root of the problem is the thinking of different grades of soil, or different grades of Christians. If Christianity is lived according to this mindset, they try to change from "bad" soil to "good" soil, and inevitably they have to use their own effort, their flesh. Traditionally, many Christians call those that are somewhere between good and bad soil: carnal, like a carnal Christian is someone who are worldly, still fall into sins, having sinful tendencies, etc.. Herein lies the dilemma for those that hold such views: aren't they that call others carnal also carnal themselves? Maybe they're only a little carnal? But in God's standard, being a little carnal is no difference from being much carnal, a sinner that sins a little is still a sinner deserving hell. And using their subjective and transitory standard, when and how do they completely remove their carnality? How can they help others if they cannot remove their own carnality? If "For by one sacrifice he has made perfect forever those who are being made holy (Hebrews 10:14)," then in which way are you "carnal?" Or are you saying the blood that shed for you on the cross is insufficient?
+Nếu bạn có thể trả lời rằng bạn là một Cơ-đốc Nhân, thì bạn có thể nói rằng bạn là con cái Đức Chúa Trời, rằng bạn sẽ được vào nước Chúa, và bạn biết chắc mình là ĐẤT TỐT, vì đây là lời Chúa hứa cho những kẻ tin vào Con Ngài (John 3:16). Nếu Đức Chúa Trời đã chẳng tiếc chính Con Một của Ngài, thì há lại chẳng ban luôn mọi sự với Con ấy sao, kể cả sự sanh nhiều bông trái cho Nước Ngài? (Romans 8:23)
 
-The parable of the vineyard workers is a perfect example of why there is no such thing as a carnal, a somewhere-in-between, half-hearted, lukewarm, worldly Christian. There is either someone who took the leap of faith to enter the vineyard, or someone who remained outside. Someone who entered, no matter how late, no matter how little he contributed to the vineyard work, no matter how undeserving, gets full payment, full redemption. Jesus came to address a single sin: the sin of unbelief (Jn 16:8). Hebrews 3:19 says the people did not enter the promised land because of unbelief, the difference between the entering of the promised land and the walk of death in the desert is based on just one thing that God requires: belief. More than 600,000 Hebrews died in the desert because they listened to the 10 spies who discouraged them with news of the giants in the promised land; just as today some place heavy emphasis on the issue of sins and the obedience to the law as represented by the giants in the story. They should have listened to Joshua and Caleb to see milk and honey, to see God's love and forgiveness. What preoccupies you? Are you fighting the giants, or are you enjoying milk and honey? So there is only one thin dividing line: to believe on the Son of God, or otherwise.
+Nếu không thiết lập hệ thống luận lý này, bao gồm 4 nguyên tắc, hoặc chân lý cơ bản, không ai có thể biết được họ thuộc loại đất nào, và cả cuộc đời họ sẽ chỉ là sự đoán mò, không biết mình đứng đâu trong mối liên hệ với Chúa. Đây không phải là điều Chúa muốn cho chúng ta. Đức tin là sự biết chắc vững vàng của những điều mình đương trông mong, và bằng chứng của những điều mắt mình chưa thấy (Hebrews 11:1). Nếu không sống bởi đức tin thì không thể làm đẹp lòng Đức Chúa Trời (Hebrews 11:6).
 
-I frequently hear people praise someone for his true heart toward God, they forgot that the Bible says that the heart of men is deceitful above all things (Jeremiah 17:9). Jesus said he would not trust men no matter what they say (John 2:24). So if the hearts of men are so deceitful, how can they properly guide themselves in the way of God? How can they properly tell where they stand in terms of what soil type they belong to?
+Những loại đất khác nhau chỉ là những hoàn cảnh trong cuộc sống mà trong đó mỗi người phải đi đến một quyết định hoặc tin Chúa, hoặc không tin. Cuối cùng, chỉ những kẻ tin và do đó được ở trong Ngài thì sẽ sanh bông trái, vì đây là một luật mới: luật của Thánh Linh Sự Sống, không phải là luật của sự tội và sự chết. Luật của sự tội và sự chết quả quyết rằng: linh hồn nào phạm tội thì linh hồn đó phải chết (Ezekiel 18:20). Luật của Thánh Linh Sự Sống phán rằng: Ai ở trong Chúa thì sẽ sanh lắm trái (John 15:5). Nếu bạn là người biết đọc Kinh thánh, và thực sự hiểu, thì biết rằng mọi điều Chúa Giê-su phán là lời vàng ngọc nhưng chẳng một loài xác thịt hư mất nào từ thuở A-đam và Ê-va làm được; Ngài muốn kẻ nghe Ngài ý thức được sự khốn nạn của mình mà bám lấy Ngài là con ĐƯỜNG duy nhất để đến gần Chúa, CHÂN LÝ duy nhất về Ngài, và SỰ SỐNG duy nhất trong Ngài.
 
-The misunderstanding of this parable is profound. But perhaps it is not a misunderstanding, it's more likely a decision to choose falsehood, especially on the side of those who are given the task of the handling of Scriptures, they're more guilty than most, because more is given, more is asked. If they're only honest in admitting that they can never be the good soil of God, perhaps they will understand the gospel, and by faith that they receive this fullness in Christ they will be the fruitful soil, because Jesus promise that if they are in Him, they will bear much fruit.
+## Dùng tiêu chuẩn sai
 
-This is how we should understand this parable. The only way which is filled with hope and expectation of our heavenly inheritance. And this understanding is what that will make you fruitful, truly fruitful, for God. And this fruitfulness is yours, because you are a child of God.
+Khi người ta nghe, hoặc giảng, về ngụ ngôn người gieo giống, họ thường nghĩ đến thứ bậc của các loại đất, hoặc thứ bậc của Cơ-đốc Nhân. Đây là cội rễ của lý do họ không thể hiểu được ngụ ngôn này. Khi suy nghĩ về đạo Tin Lành như vậy, họ cố tìm cách chuyển từ đất "xấu" sang đất "tốt", và họ không thể tránh khỏi sự dùng nỗ lực của xác thịt mình để làm điều đó. Trong đạo Tin Lành, nhiều người dùng một từ trong tiếng Anh là "carnal," hoặc thiếu thiêng liêng, để diễn tả một người Cơ-đốc Nhân đời sống không đạt được một mức độ thiêng liêng nào đó. Đây là nan đề của những người theo sự suy nghĩ đó: bạn gọi người khác là thiếu thiêng liêng, thế còn bạn thì sao? Bạn hơi thiếu thiêng liêng một chút, hay thiếu thiêng liêng nhiều? Bạn dựa trên tiêu chuẩn nào để lượng mức độ của sự thiếu thiêng liêng? Nhưng theo tiêu chuẩn của Chúa, thiếu thiêng liêng một chút cũng chẳng khác gì cực kỳ thiếu thiêng liêng. Phạm một tội nhỏ cũng bằng phạm ngàn tội lớn, thảy đều đáng bị lửa hỏa ngục thiêu đốt. Rồi bạn tìm cách gột bỏ sự thiếu thiêng liêng của mình bằng cách nào? Làm sao bạn giúp người khác gột bỏ sự thiếu thiêng liêng của họ nếu bạn không làm được điều đó trong chính đời sống của mình? Nếu "Vì nhờ dâng chỉ một của tế lễ, Ngài làm cho những kẻ nên thánh được trọn vẹn đời đời (Hebrews 10:14)" thì ... bạn "carnal," hoặc thiếu thiêng liêng chỗ nào? Hay là bạn đang coi thường dòng huyết đã đổ ra vì bạn?
 
-God has chosen to make known among the Gentiles the glorious riches of this mystery, which is Christ in you, the hope of glory. (Colossians 1:27)
+Ngụ ngôn người làm việc trong vườn nho là một bằng chứng rất tuyệt vời về sự vô lý của ý niệm "carnal," hoặc "thiếu thiêng liêng," nửa chừng xuân, của người Cơ-đốc Nhân. Trong ngụ ngôn vườn nho, chỉ có hai hạng người, một hạng không vào trong vườn, và một hạng vào được bên trong. Nhưng người vào được, bất kể từ sớm hoặc lúc về chiều sau khi công việc đã xong, cả những người chưa động đến một nhánh nho, những người chẳng có gì để xưng công, đều được trả công bằng nhau, đều được cứu trọn vẹn. Chúa Giê-su đến chỉ để giải quyết một tội duy nhất: tội chẳng tin (John 16:8). Hebrews 3:19 tuyên bố dân Hê-bơ-rơ đi trong đồng vắng đã không vào được đất hứa chỉ vì tội chẳng tin; chỉ một lằn ranh giới giữa đất hứa và sa mạc chết: đức tin. Hơn 600,000 người Hê-bơ-rơ đã bỏ thây trong đồng vắng chỉ vì họ tin 10 thám tử dọa nạt họ về những người dềnh dàng trong đất hứa; cũng như ngày nay nhiều người đặt nặng vấn đề tội lỗi và luật pháp biểu tượng qua những người dềnh dàng. Chính ra họ nên tin lời Giô-suê và Ca-lép để thấy sữa và mật, thấy tình yêu thương và sự tha thứ của Chúa. Bạn đang chú về điều gì? Đương đầu với người dềnh dàng, hay tìm sữa và mật?
+
+Do đó chỉ có một lằn ranh cực mỏng: tin vào Con Đức Chúa Trời, hay không tin.
+
+Tôi thường nghe người ta khen ngợi tấm lòng của Vua Đa-vít đối với Chúa, họ quên rằng chính Kinh thánh cả quyết lòng người thì đầy dẫy những sự giả dối trên hết mọi sự (Jeremiah 7:9). Chúa Giê-su nói Ngài chẳng tin tưởng vào lời những kẻ khen tụng Ngài (John 2:24). Vậy nếu lòng người đầy giả trá thì làm sao họ có thể tự đưa dẫn mình hay người khác đi theo con đường của Chúa? Làm sao họ có sự thông sáng để biết họ thuộc loại đất nào?
+
+Sự hiểu sai ý nghĩa của ngụ ngôn này thật sâu xa. Nhưng có lẽ không phải là hiểu lầm đâu, mà đúng hơn là sự người ta chọn sự sai lầm, nhất là những kẻ trong cương vị xử lý Thánh Kinh, họ chịu trách nhiệm nhiều hơn ai hết, vì người được cho nhiều thì bị đòi hỏi nhiều. Nếu họ thành thật nhận mình không thể làm sao trở nên đất tốt cho Chúa, thì có lẽ họ sẽ hiểu được Tin Lành, rồi bởi đức tin họ nhận lấy sự đầy trọn trong Đấng Christ mà được trở nên đất màu mỡ, vì Ngài đã hứa rằng trong Ngài họ sẽ sanh lắm trái.
+
+Đây là cách chúng ta hiểu ngụ ngôn này. Cách duy nhất đầy hy vọng và tin chắc vào cơ nghiệp của chúng ta trong nước Chúa. Đây là sự hiểu biết, như Chúa đã nhắc hai lần trong ngụ ngôn, khiến bạn là những nhánh trổ nhiều bông trái cho Chúa. Sự đầy kết quả này là phần của bạn, vì bạn là con cái Đức Chúa Trời.
+
+
+> Vì Đức Chúa Trời muốn khiến họ biết sự giàu vinh hiển của sự mầu nhiệm đó ở giữa dân ngoại là thể nào, nghĩa là Đấng Christ ở trong anh em, là sự trông cậy về vinh hiển. (Colossians 1:27)
 
 {% include bible-study/bible-study-footer %}
 

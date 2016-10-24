@@ -1,7 +1,7 @@
 ---
 permalink: /baptism/muc-dich/chua-gie-su/
 title: "Mục Đích Của Phép Báp-têm Của Chúa Giê-su Là Gì?"
-excerpt: "Sứ điệp của Chúa Gie-su rất đơn giản: &#34;Ta là Con Đường, Chân Lý, và Nguồn Sống!&#34; Giăng giải thích rằng Chúa Giê-su sẽ báp-têm bằng cách khác. Ngài sẽ không làm phép báp-têm bằng nước như một nghi lễ, nhưng bằng Thánh Linh. Báp-tem của Ngài sẽ được làm bằng lửa để hủy diệt sự hư hoại gẩy ra bởi tội lỗi; và bằng Thánh Linh là Đấng sẽ mang lại đời sống mới cho mọi kẻ tiếp nhận Ngài."
+excerpt: "Sứ điệp của Chúa Giê-su rất đơn giản: &#34;Ta là Con Đường, Chân Lý, và Nguồn Sống!&#34; Giăng giải thích rằng Chúa Giê-su sẽ báp-têm bằng cách khác. Ngài sẽ không làm phép báp-têm bằng nước như một nghi lễ, nhưng bằng Thánh Linh. Báp-tem của Ngài sẽ được làm bằng lửa để hủy diệt sự hư hoại gẩy ra bởi tội lỗi; và bằng Thánh Linh là Đấng sẽ mang lại đời sống mới cho mọi kẻ tiếp nhận Ngài."
 image: 
   teaser: romans-chapter-teaser.png
 tags: [baptism, bible-studies]
@@ -21,7 +21,7 @@ comments_locked: false
 
 Sứ điệp của Chúa Gie-su rất đơn giản: \"Ta là Con Đường, Chân Lý, và Nguồn Sống!\" Giăng giải thích rằng Chúa Giê-su sẽ báp-têm bằng cách khác. Ngài sẽ không làm phép báp-têm bằng nước như một nghi lễ, nhưng bằng Thánh Linh. Báp-tem của Ngài sẽ được làm bằng lửa để hủy diệt sự hư hoại gẩy ra bởi tội lỗi; và bằng Thánh Linh là Đấng sẽ mang lại đời sống mới cho mọi kẻ tiếp nhận Ngài.
 
-> Một người bạn thân mến, Doug Olsen ở trang mạng <a href="http://myredeemer.org">myredeemer.org</a>, cho phép tôi đăng ở đây một bài viết rất hữu ích về một đề tài quan trọng là phép báp-têm.
+> <span style="color: rgba(0,0,0,0.5);">Một người bạn thân mến, Doug Olsen ở trang mạng <a href="http://myredeemer.org">myredeemer.org</a>, cho phép tôi đăng ở đây một bài viết rất hữu ích về một đề tài quan trọng là phép báp-têm.</span>
 
 ## Sứ Điệp Của Chúa Là Cho Mọi Người
 

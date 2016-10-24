@@ -21,7 +21,7 @@ comments_locked: false
 
 Một trong những vấn đề quan trọng gây nên sự ngăn cách giữa các Cơ-đốc Nhân -đến nỗi tạo nên những hệ phái- được đặt nền tảng trên việc danh ai phải được nhắc đến khi cử hành lễ báp-têm (\"Nhân danh ... tôi làm phép báp-têm cho ...\"). Có vài nơi trong sách Công Vụ nói đến sự làm phép \"báp-têm trong danh Chúa Giê-su,\" nhưng trong sách Ma-thi-ơ chúng ta được dạy \"báp-têm trong danh Đức Chúa Cha, Con và Thánh Linh.\" Nhưng điều đáng chú ý về danh ai được nhắc đến có thể được hiểu rõ ràng hơn qua cái nhìn của một người Do-thái.
 
-> Một người bạn thân mến, Doug Olsen ở trang mạng <a href="http://myredeemer.org">myredeemer.org</a>, cho phép tôi đăng ở đây một bài viết rất hữu ích về một đề tài quan trọng là phép báp-têm.
+> <span style="color: rgba(0,0,0,0.5);">Một người bạn thân mến, Doug Olsen ở trang mạng <a href="http://myredeemer.org">myredeemer.org</a>, cho phép tôi đăng ở đây một bài viết rất hữu ích về một đề tài quan trọng là phép báp-têm.</span>
 
 ## Báp-têm Trong Danh Chúa Giê-su
 

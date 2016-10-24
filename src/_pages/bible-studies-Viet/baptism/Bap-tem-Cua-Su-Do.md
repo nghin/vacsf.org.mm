@@ -21,7 +21,7 @@ comments_locked: false
 
 Bất cứ khi nào bệnh tật hoặc chết chóc làm một người trở nên ô uế, sự phục hồi người đó đòi hỏi phải có một nghi lễ tẩy rửa -làm cho thanh sạch -lễ báp-têm. Những sự tẩy rửa này là một phần lớn trong đời sống người Do-thái. Sứ điệp mà Phi-e-rơ và các sứ đồ khác truyền đạt cho người Do-thái là để họ rửa một lần cuối cùng bằng nước để đánh dấu đoạn kết của đời sống họ dưới luật pháp. Đó là một phương cách để đem lại kết thúc của một đoạn đời đã qua.
 
-> Một người bạn thân mến, Doug Olsen ở trang mạng <a href="http://myredeemer.org">myredeemer.org</a>, cho phép tôi đăng ở đây một bài viết rất hữu ích về một đề tài quan trọng là phép báp-têm.
+> <span style="color: rgba(0,0,0,0.5);">Một người bạn thân mến, Doug Olsen ở trang mạng <a href="http://myredeemer.org">myredeemer.org</a>, cho phép tôi đăng ở đây một bài viết rất hữu ích về một đề tài quan trọng là phép báp-têm.</span>
 
 ## Các Sứ Đồ Cho Người Do-thái
 

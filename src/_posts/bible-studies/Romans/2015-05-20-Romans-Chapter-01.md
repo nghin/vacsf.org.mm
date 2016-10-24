@@ -39,7 +39,7 @@ The term obedience, as in "obedience of faith," in verse 5 does not hold the sam
 
 I found an excellent discussion of this very expression here:
 
-<a href="http://www.faithalone.org/magazine/y1993/93july3.html"><u>http://www.faithalone.org/magazine/y1993/93july3.html</u></a>
+<a href="http://www.faithalone.org/magazine/y1993/93july3.html" target="_blank"><u>http://www.faithalone.org/magazine/y1993/93july3.html</u></a>
 
 Here's the conclusion of this article concerning the correct interpretation of "obedience of faith":
 

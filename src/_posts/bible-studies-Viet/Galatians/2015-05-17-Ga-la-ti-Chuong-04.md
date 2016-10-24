@@ -1,6 +1,6 @@
 ---
 title: "Ga-la-ti Chương 4"
-excerpt: "Paul continued to prove to the Galatians that our subjection to the law ends at the arrival of Christ. He used the illustration of an heir's subjection to a guardian until he is of age. The Galatians's desire to be under the law is shown by the allegory of Isaac and Ishmael and therefore is inconsistent with their gospel liberty."
+excerpt: "Phao-lô tiếp tục chứng minh với người Ga-la-ti rằng sự lệ thuộc của họ vào luật pháp chấm dứt khi Đấng Christ đến. Ông dùng hình ảnh người kế tự phục dưới quyền người quản lý cho đến khi trưởng thành.  Phao-lô dùng sự tích Y-sác và Ích-ma-ên để chứng tỏ sự mong muốn của người Ga-la-ti được trở về dưới luật pháp là điều trái nghịch với tin lành tự do."
 image: 
   teaser: galatians-chapter-teaser.png
 tags: [galatians, bible-studies]
@@ -18,103 +18,108 @@ comments_locked: false
 
 {{ page.excerpt | markdownify }}
 
-<em>(Bấm vào đây để đọc tiếng Việt)</em>
-
 ## Definition of a slave
 
-> <sup>1</sup>Now I mean that the heir, as long as he is a minor, is <span style="text-decoration: underline; color: #d30015;">no different from a slave</span>, though he is the owner of everything. <sup>2</sup>But he is under guardians and managers until the date set by his father.
+> <sup>1</sup>Vả, tôi nói rằng người kế tự dầu là chủ của mọi vật, mà đương còn thơ ấu, thì chẳng khác chi kẻ tôi mọi; <sup>2</sup>phải ở dưới quyền kẻ bảo hộ và kẻ coi giữ, cho đến kỳ người cha đã định (Galatians 4:1).
 
 <div>
 <p>
 <img alt src="{{ site.url }}/assets/images/different-gospel.jpg" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 136px; padding: 0px; float: left;">
-In Jewish culture, an heir to an inheritance, like us heir to salvation in Christ, as long as he is a child, is no more than a slave, and under someone else's authority.
+<sup>1</sup>Vả, tôi nói rằng người kế tự dầu là chủ của mọi vật, mà đương còn thơ ấu, thì chẳng khác chi kẻ tôi mọi; <sup>2</sup>phải ở dưới quyền kẻ bảo hộ và kẻ coi giữ, cho đến kỳ người cha đã định.
 </p>
 </div>
 
-We all love I Corinthians 13, especially these verses where Paul refers to the child-man contrast.
+Chúng ta ai cũng yêu quí I Cô-rin-tô 13, nhất là những câu nói đến sự tương phản giữa con trẻ và kẻ thành niên.
 
-<p style="padding-left: 50px; border-left: 5px solid #eee; text-align: left;">
-<em><sup>9</sup>For we know in part, and we prophesy in part, <sup>10</sup>but when what is perfect comes, the partial will be set aside. <sup>11</sup>When I was a child, I talked like a child, I thought like a child, I reasoned like a child. But when I became an adult, I set aside childish ways. (1 Cor 13:9-11)</em></p>
+> <sup>9</sup>Vì chưng chúng ta hiểu biết chưa trọn vẹn, nói tiên tri cũng chưa trọn vẹn; <sup>10</sup>song lúc sự trọn lành đã đến, thì sự chưa được trọn lành sẽ bị bỏ. <sup>11</sup>Khi tôi còn trẻ, tôi nói như con trẻ, tư tưởng như con trẻ, suy xét như con trẻ; khi tôi đã thành nhơn bèn bỏ những điều thuộc về con trẻ. (1 Cor 13:9-11)
 
-How did you understand these verses before? I'm sure most of us understood a child to mean someone who is young or new in their Christian faith with much to learn, with few Bible verses to cast about when needed, etc. But we shall see later these verses meant something else. I'm getting ahead of myself here, but a Christian who still lives under the law is like a child under someone else's guardianship.
+Chúng ta thường hiểu những câu này như thế nào? Tôi tin chắc đa số giải thích rằng con trẻ là những tín hữu trẻ tuổi, hoặc mới tin Chúa và còn nhiều điều cần học hỏi, chưa học thuộc nhiều câu gốc, v.v.. Nhưng xuống dưới đây chúng ta sẽ thấy ý nghĩa thực sự của con trẻ không phải như vậy. Tôi đang đi trước điều sẽ viết, nhưng ý nghĩa của con trẻ là một người vẫn còn sống dưới sự quản trị của luật pháp.
 
-## How do you know you still live under the law?
+Làm sao chúng ta biết mình vẫn còn sống dưới luật pháp?
 
-> <sup>14</sup>For whenever the Gentiles, who do not have the law, do by nature the things required by the law, these who do not have the law are a law to themselves. <sup>15</sup>They show that the work of the law is written in their hearts, as their conscience bears witness and their conflicting thoughts accuse or else defend them, <sup>16</sup>on the day when God will judge the secrets of human hearts, according to my gospel through Christ Jesus. (Romans 2:14)></em>
+> <sup>14</sup>Vả, dân ngoại vốn không có luật pháp, khi họ tự nhiên làm những việc luật pháp dạy biểu, thì những người ấy dầu không có luật pháp, cũng tự nên luật pháp cho mình. <sup>15</sup>Họ tỏ ra rằng việc mà luật pháp dạy biểu đã ghi trong lòng họ: chính lương tâm mình làm chứng cho luật pháp, còn ý tưởng mình khi thì cáo giác mình, khi thì binh vực mình. <sup>16</sup>Ấy là điều sẽ hiện ra trong ngày Đức Chúa Trời bởi Đức Chúa Jêsus Christ mà xét đoán những việc kín nhiệm của loài người, y theo Tin Lành tôi. (Romans 2:14)></em>
 
-You may not have the 10 commandments like the Jews, but you do have laws in your hearts, and whatever that you believe can separate you and God, that is the law to you.
+Các bạn có thể không có mười điều răn như người Do-thái, nhưng có điều răn trong lòng, và bất cứ điều chi các bạn tin có thể ngăn cách, hoặc giảng hòa, với Đức Chúa Trời, điều đó trở nên luật pháp cho bạn.
 
-> <sup>3</sup>So also we, when we were <span style="text-decoration: underline; color: #d30015;">minors</span>, were enslaved under the basic forces of the world.
+## Ấu trĩ trong đức tin
 
-The basic forces of the world, or "elements" according to KJV, or "rudiments." Rudimentary religious teachings of outward things, such as legal ordinances, childhood lessons such as letters of the alphabets (Jamieson, Fausset, and Brown). Our subjection to these <em><span style="color: #d30015;">basic rules of conducts are considered "slavery"</span></em> by the Bible. Slavery because the one living under it can never fulfill it to 100%.
+> <sup>3</sup>Chúng ta cũng như vậy, khi còn thơ ấu, phải phục dưới các lề thói của thế gian (Galatians 4:3).
 
-Haven't we read in the last chapter that if you choose to base your life on the law you have to fulfill all of it? Even Jesus challenged the Pharisees to "<em><span style="color: #d30015;">be perfect</span></em>" because God is perfect, and without this perfection you cannot see God? Obviously he was pushing them to admit their need of him and not relying on the inferior sacrifices that cannot take away the guilt as deep as their sinful nature.
+Bản King James: <span style="font-style: italic;">Even so we, when we were children, were in bondage under the elements of the world.</span>
 
-This is why basing our relationship with God on the law is a drudgery that Paul unflinchingly called slavery.
+Chúng ta có thể hiểu <span style="font-style: italic;">"lề thói"</span> nghĩa là những tục lệ, lề luật, thông lệ, v.v.; những sự dạy dỗ về đạo đức thông thường trong tôn giáo, giống những bài học cho trẻ em như các mẫu tự a, b, c (Jamieson, Fausset, and Brown).  Theo Kinh thánh, sự chúng ta ở dưới những <span style="font-style: italic;">"lề thói,"</span> hay phong tục, những nguyên tắc căn bản về vấn đề hành xử trong cuộc sống hàng ngày, là sự nô lệ. Nô lệ vì người sống dưới những <span style="font-style: italic;">"luật"</span> đó chẳng làm được cho trọn vẹn, và cứ mãi mãi bị trách phạt.
 
-## Now is the time for something new
+Đoạn Ga-la-ti 3:10 viết: <span style="font-style: italic;">"Vì mọi kẻ cậy các việc luật pháp, thì bị rủa sả, bởi có chép rằng: Đáng rủa thay là kẻ không bền đỗ trong mọi sự đã chép ở sách luật, đặng làm theo những sự ấy!"</span>, nghĩa là nếu chúng ta chọn sống theo luật pháp thì phải làm trọn mọi điều, không sót một luật nào. Chúa Giê-su thách thức người Pha-ri-si phải <span style="font-style: italic;">"trọn vẹn,"</span> hay <span style="font-style: italic;">"perfect,"</span> vì Đức Chúa Trời là trọn vẹn, và nếu không có sự trọn vẹn đó thì không vào được nước Đức Chúa Trời. Rõ ràng Chúa đặt họ vào chỗ họ phải nhìn nhận sự bất lực của mình và không cậy nơi những của tế lễ hèn mọn chẳng có thể cất đi mặc cảm tội lỗi từ trong bản chất hay hư nát.
 
-> <sup>4</sup>But when the <span style="text-decoration: underline;"><span style="color: #d30015; text-decoration: underline;">`appropriate time`</span></span> had come,
+Đây là lý do tại sao sự cậy nơi luật pháp để đạt được sự công chính của Đức Chúa Trời vừa là một ảo tưởng, vừa là sự khốn khổ cho người chọn con đường đó, mà sứ đồ Phao-lô thẳng thắn gọi đó là sự nô lệ.
 
-The Fall began when man fell from grace, when they decided the law, the knowledge of good and evil, became their guide instead of their simple faith in God. Now was the time for Christ to come, it was called the appropriate time, or the fullness of the time (KJV). Why did it take God so long to send His Son? Perhaps it took that long for man to fully realize the enormity and deadly fruits of their sin—wars, genocide, atrocities, etc.—; and to prove to them that, had they been given ten thousand more years, <em><span style="color: #d30015;">none will rise up</span></em> from among them as righteous in God's eye.
+## Đã đến lúc cho một điều mới
 
-> God sent out his Son, born of a woman, born under the law, <sup>5</sup>to redeem those who were under the law, so that we may be <span style="text-decoration: underline;"><span style="color: #d30015; text-decoration: underline;">adopted as sons with full rights</span></span>.
+> <sup>4</sup>Nhưng khi <span style="text-decoration: underline;"><span style="color: #d30015; text-decoration: underline;">`kỳ hạn đã được trọn`</span></span>, (Galatians 4:4)
 
-It stands to reason that if Christ redeemed us from under the law, we should be free from it. From a child to full sonship of God.
+Cuộc Đại Suy Thoái, the Fall, khởi đầu khi loài người trật phần ân điển, khi họ quyết định chọn lựa luật pháp, biểu hiện qua sự phân biệt thiện ác, làm quản lý đời mình thay vì niềm tin đơn thuần nơi Đức Chúa Trời. Nhưng khi Đấng Christ đến, đó là khi Kinh thánh gọi là kỳ hạn được trọn. Tại sao Chúa để một khoảng cách dài như vậy trước khi Ngài ban Con Một của Ngài? Có lẽ cần phải lâu như vậy để loài người ý thức được bông trái ghê rợn và chết chóc của tình trạng tội lỗi mình: chiến tranh, tàn sát, dã man, v.v.; và để chứng minh rằng dù Ngài có ban cho họ mười ngàn năm nữa, sẽ chẳng một người công bình nào dấy lên trong vòng họ.
 
-> <sup>6</sup>And because you are sons, <span style="text-decoration: underline;"><span style="color: #d30015; text-decoration: underline;">God sent the Spirit of his Son</span></span> into our hearts, who calls “Abba! Father!” <sup>7</sup>So you are no longer a slave but a son, and if you are a son, then you are also an heir through God.
+## Từ nô lệ trở nên con cái
 
-This brings us back to the previous chapter when Paul sternly asked them how they received the Spirit of God, was it by law keeping, or by believing what they heard. We know what the answer should be, that we received God's greatest gift, the Spirit of His Son into our hearts, not because of what we do, but because of who we are: because we are sons and daughters. No works, just faith. Sounds like it cheapens God's grace, but no, it's the <em><span style="color: #d30015;">exact opposite</span></em>. God's grace is so priceless that no works can buy, and so expensive it took the Son of God to pay for it.
+> <sup>4</sup>Đức Chúa Trời bèn sai Con Ngài bởi một người nữ sanh ra, sanh ra dưới luật pháp, <sup>5</sup>để chuộc những kẻ ở dưới luật pháp, và cho chúng ta được làm con nuôi Ngài (Galatians 4:4-5).
 
-## Heirs of Promise Are Not to Return to Law
+Do đó thực là hợp lý rằng nếu Chúa chuộc chúng ta là những người dưới luật pháp, thì hẳn chúng ta phải được ra ngoài vòng kiềm tỏa của luật pháp. Từ tình trạng ấu trĩ đển sự trưởng thành trong địa vị làm con cái Đức Chúa Trời.
 
-> <sup>8</sup>Formerly when you did not know God, you were enslaved to beings that by nature are not gods at all. <sup>9</sup>But now that you have come to know God (or rather to be known by God), <span style="text-decoration: underline; color: #d30015;">how can you turn back again</span> to the weak and worthless basic forces? Do you want to be enslaved to them all over again? <sup>10</sup>You are observing religious days and months and seasons and years. <sup>11</sup>I fear for you that my work for you may have been <span style="text-decoration: underline;"><span style="color: #d30015; text-decoration: underline;">in vain</span></span>. <sup>12</sup>I beg you, brothers and sisters, become like me, because I have become like you. You have done me no wrong!
+## Được gọi Đức Chúa Trời là Cha
 
-Who were those "beings that by nature are not gods?" Those that can dictate, or those that you have come to trust for, the condition of your salvation. Let's not be surprise at this because so many lives have been wrecked by leaders who led them down the wrong path. The Galatians entrusted their relationship with God in the hands of those that profit from their lack of understanding.
+> <sup>6</sup>Lại vì anh em là con, nên Đức Chúa Trời đã sai Thánh Linh của Con Ngài vào lòng chúng ta, kêu rằng: A-ba! Cha! <sup>7</sup>Dường ấy, người không phải là tôi mọi nữa, bèn là con; và nếu ngươi là con, thì cũng là kẻ kế tự bởi ơn của Đức Chúa Trời.
 
-Now that "you have come to <em><span style="color: #d30015;">know God</span></em>," directly, and personally, no need for any intermediary, or for anyone to be a communication bridge between you and God.
+Điều này đưa chúng ta trở lại đoạn Kinh thánh khi Phao-lô hỏi họ cách nghiêm trọng nhờ đâu họ nhận được Thánh Linh, bởi giữ luật pháp, hay bởi tin điều họ đã nghe. Chúng ta biết câu trả lời, rằng món quà quí giá nhất, Thánh Linh của Con Ngài vào lòng chúng ta, nào phải bởi việc lành nào chúng ta làm, mà bởi địa vị mới mà Chúa ban cho chúng ta: con cái Đức Chúa Trời. Chẳng bởi việc làm. Duy chỉ đức tin. Nghe dường như coi rẻ ân điển Chúa, nhưng thật ra vì một thực tế hoàn toàn trái ngược. Ân điển Chúa vô giá đến độ không một việc làm nào có thể xứng đáng với ân điển đó, đắt đến nỗi Con Trời phải tự hạ mình thành người rồi chịu đóng đinh trên cây thập tự. Do đó, kẻ cậy luật pháp để đạt được sự công bình của Chúa bị Kinh thánh gọi là kẻ đóng đinh Chúa lần thứ hai.
 
-When Christians rely on a law, even a single law, to dictate the terms or quality of their relationship with God, they inevitably must rely on some intermediary to qualify their fulfillment. As foolish as this may sound, many, if not most, Christians revert back to these "weak and worthless basic forces" to be "enslaved to them all over again."
+## Những Kẻ Kế Tự Của Lời Hứa Không Được Trở Về Với Luật Pháp
 
-The enormity of this reversal back to the law cannot be underestimated, as Paul was concerned that his effort for them may have been <em><span style="color: #d30015;">in vain</span></em>, which could only mean the faith they had may not have been a "<span style="color: #d30015;"><em>saving faith</em></span>" at all, as it is based on something else, and not Christ.
+> <sup>8</sup>Xưa kia, anh em chẳng biết Đức Chúa Trời chi hết, thì làm tôi các thần vốn không phải là thần. <sup>9</sup>Nhưng hiện nay anh em biết Đức Chúa Trời lại được Đức Chúa Trời biết đến nữa, sao còn trở hướng về lề thói hèn yếu nghèo nàn đó mà suy phục nữa ư? <sup>10</sup>anh em hãy còn giữ ngày tháng, mùa, năm ư! <sup>11</sup>Tôi lo cho anh em, e tôi đã làm việc luống công giữa anh em. <sup>12</sup>Hỡi anh em, tôi xin anh em hãy giống như tôi; vì tôi cũng như anh em. Anh em không làm hại gì cho tôi.
 
-## Personal Appeal of Paul
+Những <span style="font-style: italic;">"thần không phải là thần"</span> đó là ai? Những người mà tín đồ Ga-la-ti đã tin tưởng, và cho họ quyền định đoạt điều kiện của sự cứu rỗi. Chúng ta không nên ngạc nhiên về điều này vì nhiều đời sống đã bị khốn khổ vì những lãnh đạo dẫn họ vào đường sai lạc. Người Ga-la-ti đã đặt trọn mối liên hệ với Chúa trong tay những người tìm lợi lộc trong sự thiếu hiểu biết của họ.
 
-> <sup>13</sup>But you know it was because of a physical illness that I first proclaimed the gospel to you, <sup>14</sup>and though my physical condition put you to the test, you did not despise or reject me. Instead, you welcomed me as though I were an angel of God, as though I were Christ Jesus himself! <sup>15</sup>Where then is your sense of happiness now? For I testify about you that if it were possible, you would have pulled out your eyes and given them to me! <sup>16</sup>So then, have I become your enemy by<span style="text-decoration: underline;"><span style="color: #d30015; text-decoration: underline;"> telling you the truth</span></span>?
+Bây giờ họ <span style="font-style: italic;">"biết Đức Chúa Trời,"</span> cách trực tiếp, cách riêng tư, không cần người trung bảo nữa, hoặc bất cứ ai làm nhịp cầu giữa họ và Đức Chúa Trời.
 
-Eventhough Paul's original intention was not to preach the gospel to the Galatians, but due to an illness that he was detained, and the gospel was preached as a result. Paul reminded them of that time when they welcomed him despite his condition, when they must have heard the gospel with much joy and anticipation, and now he had become their enemy because he told them the truth: that <em><span style="color: #d30015;">law and grace cannot walk hand in hand</span></em>, that their salvation might be at risk because of this seemingly innocuous thing: the circumcision, and perhaps other means of cleansing. Their regard for this ritual may have been so high that Paul had now become their enemy.
+Khi người Cơ-đốc Nhân cậy vào luật pháp, dù chỉ là một điều, có thể định đoạt giá trị của mối liên hệ giữa họ với Đức Chúa Trời, họ không tránh khỏi phải nhờ cậy một trung gian để đánh giá việc thành quả của họ. Nghe có vẻ là một việc thật dại dột, nhưng nhiều người Cơ-đốc Nhân quay trở về với những <span style="font-style: italic;">"lề thói hèn yếu"</span> để <span style="font-style: italic;">"suy phục,"</span> hay có bản dịch là <span style="font-style: italic;">"trở về làm kiếp nô lệ."</span> Những lề thói hèn yếu là những đạo đức luân lý của đời này, có vẻ khôn ngoan nhưng không có quyền năng kềm chế bản chất hay hư nát.
 
-## Paul's birth pains
+Sự quay về với luật pháp là một điều không thể coi thường được, vì sứ đồ Phao-lô lo rằng những công sức ông dìu dắt họ đến đức tin có thể bị luống công, nghĩa là rất có thể họ đã không có một niềm tin dẫn đến sự cứu rỗi, mà thực ra một niềm tin vào một quyền lực khác, không phải Đấng Christ.
 
-> <sup>17</sup>They court you eagerly, but for no good purpose; they want to <span style="text-decoration: underline;"><span style="color: #d30015; text-decoration: underline;">exclude</span></span> you, so that you would seek them eagerly. <sup>18</sup>However, it is good to be sought eagerly for a good purpose at all times, and not only when I am present with you. <sup>19</sup> My children—I am again undergoing birth pains until Christ is formed in you! <sup>20</sup>I wish I could be with you now and change <span style="text-decoration: underline;"><span style="color: #d30015; text-decoration: underline;">my tone of voice</span></span>, because I am <span style="text-decoration: underline;"><span style="color: #d30015; text-decoration: underline;">perplexed</span></span> about you.
+## Sứ Đồ Phao-lô Phân Giải Hoàn Cảnh Cá Nhân
 
-They must be the legalistic leaders in their community; courting the Galatians so eagerly but not doing them any good because what they're promoting does not benefit them at all; and the legalists want to "exclude," or "<em><span style="color: #d30015;">excommunicate</span></em>," them as a way of letting them know they aren't saved, so they may become more dependent on the law keepers. Paul's perplexity concerning their faith must be so overwhelming that he used such harsh tones, calling them foolish several times, and never once praised them for their faith.
+> <sup>13</sup>Anh em biết rằng ấy là đương lúc xác thịt yếu đuối mà tôi truyền Tin Lành cho anh em lần thứ nhứt, <sup>14</sup>vì xác thịt tôi yếu đuối sanh ra sự rèn thử cho anh em mặc dầu, anh em cũng chẳng khinh tôi, chẳng chối tôi, mà lại tiếp rước tôi như một vị thiên sứ của Đức Chúa Trời, thật như chính mình Đức Chúa Jêsus Christ. <sup>15</sup>Vậy thì sự vui mừng của anh em đã trở nên thể nào? Vì tôi làm chứng cho anh em rằng, lúc bấy giờ, nếu có thể được thì anh em cũng móc con mắt mà cho tôi. <sup>16</sup>Tôi lấy lẽ thật bảo anh em, lại trở nên kẻ thù nghịch của anh em sao?
 
-## Lawkeepers don't really understand the law
+Mặc dầu trong chương trình lúc khởi đầu không bao gồm sự giảng tin lành cho người Ga-la-ti, nhưng vì bệnh hoạn mà ông đã phải nán lại, và kết quả là ông dùng cơ hội này giảng tin lành cho họ. Phao-lô nhắc lại thời gian đó khi họ tiếp đón ông cách trọng hậu bất kể tình trạng yếu đuối của ông là thể nào, khi ấy họ chắc đã nghe tin lành với lòng tràn đầy sự vui mừng và ngóng đợi, thế mà bây giờ ông trở thành kẻ thù của họ chỉ vì ông nói lên sự thật: rằng ân điển và luật pháp không thể đội trời chung, rằng sự cứu rỗi của họ có thể bị nguy kịch vì một việc bề ngoài có vẻ vô hại: phép cắt bì, và có lẽ nhiều luật lệ về sự tẩy rửa. Sự họ coi trọng nghi lễ này có lẽ cao đến độ Phao-lô trở nên kẻ thù nghịch.
 
-> <sup>21</sup>Tell me, <span style="text-decoration: underline;"><span style="color: #d30015; text-decoration: underline;">you who want to be under the law</span></span>, do you not understand the law?
+## Nỗi cưu mang trong lòng Phao-lô
 
-<em><span style="color: #d30015;">Do you understand the law?</span></em> Do you know what its final objective is? If you know it, you would know that it does not bring you the justification you need for heaven. And if you know this you would also know that it would not help you please God, or make you more sanctified, or more perfect. It's meant to terrorize you until you flee to the One who alone can give you what you need to reconcile with God.
+> <sup>17</sup>Người đó vì anh em mà sốt sắng, thì không phải là ý tốt; nhưng họ muốn anh em lìa bỏ chúng tôi, hầu cho anh em sốt sắng vì họ. <sup>18</sup>Có lòng sốt sắng vì điều thiện thì tốt lắm, lúc nào cũng thế, không những khi tôi có mặt giữa anh em. <sup>19</sup>Hỡi các con, vì các con mà ta lại chịu đau đớn của sự sanh nở, cho đến chừng nào Đấng Christ thành hình trong các con, <sup>20</sup>ta muốn ở cùng các con và thay đổi cách nói; vì về việc các con, ta rất là bối rối khó xử.
 
-## An allegory
+<span style="font-style: italic;">"Người đó"</span> có lẽ là những lãnh đạo cậy luật pháp trong hội thánh; quyến rũ người Ga-la-ti cách sốt sắng nhưng chẳng đem lại cho họ lợi ích gì vì điều họ đang cổ động là điều không tốt. Trong câu <span style="font-style: italic;">"họ muốn anh em lìa bỏ chúng tôi,"</span> thì hầu như đa số các bản dịch Anh ngữ khác đều dịch như sau: <span style="font-style: italic;">"họ muốn loại anh em ra,"</span> điều này có thể có ảnh hưởng giống như dứt phép thông công, làm người bị loại bỏ chịu mặc cảm như mất sự sống đời đời, và do đó trở nên lệ thuộc nơi các lãnh tụ cậy luật pháp. Sự rối trí của Phao-lô về đức tin của họ chắc phải quan trọng lẳm khiến ông sử dụng lời rất nặng nề, gọi họ là kẻ dại dột một số lần, và chẳng một lần khen ngợi họ về đức tin.
 
-The allegory that we're going to read below was designed by God using Abraham's life to give us as a foreshadow of things to come. How He planned to save us is how it will be, it was then is as it will be now and forevermore: not by natural descent, or by works, or by human effort, but through the promise.
+## Những kẻ cậy luật pháp không hiểu mục đích của nó
 
-> <sup>22</sup>For it is written that <span style="text-decoration: underline;"><span style="color: #d30015; text-decoration: underline;">Abraham had two sons</span></span>, one by the slave woman and the other by the free woman. <sup>23</sup>But one, the son by the slave woman, was born by natural descent, while the other, the son by the free woman, was born through the promise. <sup>24</sup>These things may be treated as an allegory, for these women represent two covenants. One is from Mount Sinai bearing children for slavery; this is Hagar. <sup>25</sup>Now Hagar represents Mount Sinai in Arabia and corresponds to the present Jerusalem, for she is in slavery with her children. <sup>26</sup>But the Jerusalem above is free, and she is our mother. <sup>27</sup>For it is written: “Rejoice, O barren woman who does not bear children; Break forth and shout, you who have no birth pains, because the children of the desolate woman are more numerous than those of the woman who has a husband.”
+> <sup>21</sup>Hãy nói cho tôi, anh em là kẻ ưa phục dưới luật pháp, há không nghe luật pháp sao?
 
-Do you see these <em><span style="color: #d30015;">contrasts?</span></em> Slave/Free, Works(natural-descent)/Promise, Sinai/Zion(heavenly-Jerusalem), and Old-Covenant/New-Covenant. There must be a transition, a shifting in foundations, a change in which master we obey.
+Há không nghe luật pháp sao? Các bản tiếng Anh dịch là <span style="font-style: italic;">"Há có hiểu luật pháp hay không? (NET Bible)"</span> hoặc <span style="font-style: italic;">"Há có nghe luật pháp (thực sự) nói gì không?"</span> Vì nếu họ nghe và hiểu, thì họ phải hiểu rằng luật pháp không đem lại sự công binh của nước Trời, không làm đẹp lòng Chúa, không đem lại sự thánh hóa, không trở nên trọn vẹn. Mục đích thực sự của luật pháp là khủng bố kẻ tuân theo cho đến khi họ thoát ly vào vòng tay Đấng chỉ duy mình Ngài có thể bắc nhịp cầu giữa Đức Chúa Trời và họ.
 
-## The slave woman and the law
+## Luật pháp và ân điển qua một câu chuyện
 
-> <sup>28</sup>But you, brothers and sisters, are children of the promise like Isaac. <sup>29</sup>But just as at that time the one born by natural descent persecuted the one born according to the Spirit, so it is now. <sup>30</sup>But what does the scripture say? “<span style="text-decoration: underline;"><span style="color: #d30015; text-decoration: underline;">Throw out the slave woman and her son</span></span>, for the son of the slave woman <span style="text-decoration: underline;"><span style="color: #d30015; text-decoration: underline;">will not share the inheritance</span></span> with the son” of the free woman. <sup>31</sup>Therefore, brothers and sisters, we are not children of the slave woman but of the free woman.
+Câu chuyện ngụ ngôn mà chúng ta sẽ đọc dưới đây được Đức Chúa Trời sắm sẵn qua đời sống Áp-ra-ham để cho chúng ta một hình bóng của những sự sẽ đến. Phương cách Ngài cứu chúng ta, từ ngàn xưa, ngày nay, và mãi mãi sẽ là: chẳng bởi xác thịt hay huyết thống, hoặc việc làm, hoặc nỗ lực con người, nhưng bởi lời hứa.
 
-<em><span style="color: #d30015;">"Throw out the slave woman and her son?"</span></em> This is a very serious declaration from God and now delivered through the apostle Paul. Who do you think you are, or who would you choose to be identified as? Are you still under the law?
+> <sup>22</sup>Vì có chép rằng Áp-ra-ham có hai con trai: một là con của người nữ tôi mọi, một là con của người nữ tự chủ. <sup>23</sup>Nhưng con của người nữ tôi mọi sanh ra theo xác thịt, con của người nữ tự chủ sanh ra theo lời hứa. <sup>24</sup>Cả điều đó có một nghĩa bóng: hai người nữ đó tức là hai lời giao ước, một là lời giao ước tại núi Si-na-i, sanh con ra để làm tôi mọi ấy là nàng A-ga. <sup>25</sup>Vả, A-ga, ấy là núi Si-na-i, trong xứ A-ra-bi; khác nào như thành Giê-ru-sa-lem bây giờ, thành đó với con cái mình đều làm tôi mọi. <sup>26</sup>Nhưng thành Giê-ru-sa-lem ở trên cao là tự do, và ấy là mẹ chúng ta. <sup>27</sup>Vì có lời chép: Hỡi đờn bà son, ngươi là kẻ chẳng sanh nở chi hết, hãy vui mừng; Ngươi là kẻ chẳng từng chịu đau đớn sanh đẻ, hãy nức lòng mừng rỡ và bựt tiếng reo cười, Vì con cái của vợ bị để sẽ đông hơn con cái của người nữ có chồng.”
 
-There is though one type of work that's approved by God; it is what Jesus said in John 6:29: "<em><span style="color: #008000;">This is the deed God requires—<span style="color: #d30015;">to believe in the one whom he sent</span>.</span></em>" The NIV has it like this, if you like the "work" better than "deed":&nbsp;“<em><span style="color: #008000;">The work of God is this: to believe in the one he has sent.</span></em>”
+Chúng ta thấy sự tương phản giữa nô-lệ/tự-do, việc-làm(huyết-thống, xác-thịt)/lời-hứa, Si-nai/Si-ôn, Cựu-Ước/Tân-Ước. Phải có một sự chuyển hướng, thay đổi về nền tảng, một sự thay đổi về người chúng ta nhận làm chủ để tuân theo.
 
-<em><span style="color: #d30015;">Throw out the slave woman and her son</span></em>. Is there anything you rely on other than Christ to maintain your relationship with God? Anything that appears to be a law that governs your relationship with Him? <em><span style="color: #d30015;">Throw it out</span></em>, put your full faith in Christ. Make every effort to enter God's REST (Hebrews 4:11). If there is a work that pleases God, it is the effort to get to the place of God's rest, where Jesus said: It's finished, and He rested. This is the work that proves your faith.
+## Người nữ nô lệ và luật pháp
 
-(Additional thoughts. This was the hardest work for me, and it took more than 20 years since I put my trust in Christ, the work of finding this wonderful place of rest).
+> <sup>28</sup>Hỡi anh em, về phần chúng ta, chúng ta cũng như Y-sác, là con của lời hứa. <sup>29</sup>Nhưng, như bây giờ, kẻ sanh ra theo xác thịt bắt bớ kẻ sanh ra theo Thánh Linh, thì hiện nay cũng còn là thể ấy. <sup>30</sup>Song Kinh Thánh, có nói gì? Hãy đuổi người nữ tôi mọi và con trai nó; vì con trai của người nữ tôi mọi sẽ không được kế tự với con trai của người nữ tự chủ. <sup>31</sup>Ấy vậy, hỡi anh em, chúng ta chẳng phải là con cái của người nữ tôi mọi, bèn là người nữ tự chủ.
+
+<span style="font-style: italic;">"Đuổi người nữ tôi mọi và con trai nó?"</span> Đây là một lời tuyên bố rất nghiêm trọng từ nơi Đức Chúa Trời và giờ đây được truyền lại qua lời viết của sứ đồ Phao-lô. Bạn nghĩ mình là ai? Bạn muốn chọn được đứng vào vị trí nào trong mối liên hệ với Chúa? Bạn có còn sống dưới luật pháp không?
+
+Dầu vậy có một loại công việc được Đức Chúa Trời chấp nhận; đó là lời Chúa Giê-su phán trong Giăng 6:29: <span style="font-style: italic;">"Các ngươi tin Đấng mà Đức Chúa Trời đã sai đến, ấy đó là công việc Ngài,"</span> bản NET Bible, và Amplified Version, dịch như sau: <span style="font-style: italic;">"Đây là điều Đức Chúa Trời đòi hỏi: hãy tin nơi Đấng Ngài sai đến,"</span> và bản Living Translation: <span style="font-style: italic;">"Đây là ý muốn Đức Chúa Trời: đó là các ngươi tin Đấng Ngài sai đến."</span>
+
+Hãy đuổi người nữ tôi mọi và con trai nó. Bạn có cậy một điều gì khác ngoài Đấng Christ để giữ mối liên hệ với Đức Chúa Trời? Bất cứ điều gì tựa như luật pháp trong đời sống bạn? Hãy đuổi nó đi, và đặt trọn niềm tin nơi Đấng Christ. Hãy gắng sức vào nơi AN NGHỈ của Chúa (Hê-bơ-rơ 4:11). Nếu có một việc làm đẹp lòng Đức Chúa Trời, đó là nỗ lực để vào nơi ngày Sa-bát thuộc linh của Chúa, nơi tâm linh được bình tịnh vì tội lỗi được thứ tha, nơi Chúa Giê-su phán: mọi sự đã được trọn, và Ngài nghỉ. Đó là việc làm minh chứng đức tin.
+
+(Một ý bổ sung. Đây là việc làm khó nhất cho tôi, tốn hơn 20 năm từ khi tin Chúa, để tìm được nơi an nghỉ).
 
 {% include bible-study/bible-study-footer %}
 

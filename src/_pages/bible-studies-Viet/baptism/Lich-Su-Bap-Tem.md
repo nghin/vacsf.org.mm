@@ -21,7 +21,7 @@ comments_locked: false
 
 Đa số chúng ta nghĩ rằng phép báp-têm khởi đầu với Đại Mệnh Lệnh. Nhưng thực ra, phép này đã bắt nguồn từ luật của thời Cựu Ước về các phép rửa. Có những phép rửa cho hầu như mọi sự từ rửa meo mốc trên tường, đến tẩy rửa sau khi sinh nở, đến sự tíếp nhận người hủi trở về với cộng đồng.
 
-> Một người bạn thân mến, Doug Olsen ở trang mạng <a href="http://myredeemer.org">myredeemer.org</a>, cho phép tôi đăng ở đây một bài viết rất hữu ích về một đề tài quan trọng là phép báp-têm.
+> <span style="color: rgba(0,0,0,0.5);">Một người bạn thân mến, Doug Olsen ở trang mạng <a href="http://myredeemer.org">myredeemer.org</a>, cho phép tôi đăng ở đây một bài viết rất hữu ích về một đề tài quan trọng là phép báp-têm.</span>
 
 ## Phép Báp-têm bắt nguồn từ Luật Pháp của người Do-thái
 
@@ -33,7 +33,7 @@ Giăng vội sửa sai những khách bàng quang khi họ đang so sánh điề
 
 ## Chúa Giê-su Dùng Những Bình Rửa
 
-Vì những sự tẩy rửa này là thông lệ ở đây, chúng ta không lâý làm lạ là Chúa Giê-su đã làm phép lạ đầu tiên dùng những bình cho nghi lễ tẩy rửa gân đó để chửa rượu mà Ngài đã hóa thành từ nước.
+Vì những sự tẩy rửa này là thông lệ trong khung cảnh đó, chúng ta không lấy làm lạ là Chúa Giê-su đã làm phép lạ đầu tiên dùng những bình cho nghi lễ tẩy rửa gần đó để chứa nước mà Ngài đã hóa thành rượu.
 
 > <u><sup>6</sup>Vả, tại đó có sáu cái ché đá, định dùng về sự rửa sạch cho người Giu-đa, mỗi cái chứa hai ba lường nước.</u> <sup>7</sup>Ðức Chúa Jêsus biểu họ rằng: Hãy đổ nước đầy những ché nầy; thì họ đổ đầy tới miệng. <sup>8</sup>Ngài bèn phán rằng: Bây giờ hãy múc đi, đem cho kẻ coi tiệc. Họ bèn đem cho. <sup>9</sup>Lúc kẻ coi tiệc nếm nước đã biến thành rượu (vả, người không biết rượu nầy đến bởi đâu, còn những kẻ hầu bàn có múc nước thì biết rõ), bèn gọi chàng rể, <sup>10</sup>mà nói rằng: Mọi người đều đãi rượu ngon trước, sau khi người ta uống nhiều rồi, thì kế đến rượu vừa vừa. Còn ngươi, ngươi lại giữ rượu ngon đến bây giờ. (John 2:6-10)
 

@@ -21,7 +21,7 @@ comments_locked: false
 
 Để một Cơ-đốc Nhân sống một đời sống tâm linh lành mạnh, người đó phải được vững nền trên những chân lý quan trọng của Thánh Kinh. Buồn thay, nhiều người trong chúng ta chỉ lập đi lập lại điều họ đã nghe được từ những người có nhiều ảnh hưởng trên họ năm này qua năm kia thay vì tự mình đọc lấy để biết lời Chúa cho chính mình -theo sát từ tiết hay văn mạch- rồi để Đức Thánh Linh hướng dẫn và bày tỏ ý nghĩa chân thực. Phép báp-têm phải được suy gẫm cẩn trọng và sâu nhiệm hơn những truyền thống và sự giảng dạy trong hội thánh.
 
-> Một người bạn thân mến, Doug Olsen ở trang mạng <a href="http://myredeemer.org">myredeemer.org</a>, cho phép tôi đăng ở đây một bài viết rất hữu ích về một đề tài quan trọng là phép báp-têm.
+> <span style="color: rgba(0,0,0,0.5);">Một người bạn thân mến, Doug Olsen ở trang mạng <a href="http://myredeemer.org">myredeemer.org</a>, cho phép tôi đăng ở đây một bài viết rất hữu ích về một đề tài quan trọng là phép báp-têm.</apn>
 
 ## Chúa Chỉ Đòi Hỏi Báp-têm Thuộc Linh
 

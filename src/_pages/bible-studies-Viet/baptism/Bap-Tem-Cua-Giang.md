@@ -21,7 +21,7 @@ comments_locked: false
 
 Đức Chúa Trời, là Cha, sai Giăng dùng phép báp-têm để chỉ ra cho người Do-thái rằng Chúa Giê-su chính là Đấng Mê-si. Do đó sứ điệp của Giăng là \"Kìa, Chiên Con của Đức Chúa Trời.\"
 
-> Một người bạn thân mến, Doug Olsen ở trang mạng <a href="http://myredeemer.org">myredeemer.org</a>, cho phép tôi đăng ở đây một bài viết rất hữu ích về một đề tài quan trọng là phép báp-têm.
+> <span style="color: rgba(0,0,0,0.5);">Một người bạn thân mến, Doug Olsen ở trang mạng <a href="http://myredeemer.org">myredeemer.org</a>, cho phép tôi đăng ở đây một bài viết rất hữu ích về một đề tài quan trọng là phép báp-têm.</span>
 
 ## Giăng Chỉ Ra Cho Người Do-thái Chúa Giê-su Chính Là Đấng Mê-si
 

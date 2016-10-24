@@ -22,7 +22,7 @@ Phao-lô khởi đầu với sự nhấn mạnh về chức vụ sứ đồ củ
 
 ## Ân điển và bình an
 
-> <sup>1</sup>Phao-lô, làm sứ đồ, chẳng phải bởi loài người, cũng không nhờ một người nào, bèn là bởi Đức Chúa Jêsus Christ và Đức Chúa Trời, tức là Cha, Đấng đã khiến Ngài từ kẻ chết sống lại, <sup>2</sup>cùng hết thảy anh em ở với tôi, gởi cho các Hội thánh ở xứ Ga-la-ti: <sup>3</sup>nguyền xin anh em được ân điển và sự bình an ban cho bởi Đức Chúa Jêsus Christ, là Chúa chúng ta,
+> <sup>1</sup>Phao-lô, làm sứ đồ, chẳng phải bởi loài người, cũng không nhờ một người nào, bèn là bởi Đức Chúa Jêsus Christ và Đức Chúa Trời, tức là Cha, Đấng đã khiến Ngài từ kẻ chết sống lại, <sup>2</sup>cùng hết thảy anh em ở với tôi, gởi cho các Hội thánh ở xứ Ga-la-ti: <sup>3</sup>nguyền xin anh em được ân điển và sự bình an ban cho bởi Đức Chúa Jêsus Christ, là Chúa chúng ta (Galatians 1:1-3).
 
 <div>
 <p>
@@ -37,7 +37,7 @@ Phao-lô khởi đầu với sự nhấn mạnh về chức vụ sứ đồ củ
 
 ## Được cứu hoặc tự cứu
 
-> <sup>4</sup>là Đấng phó mình vì tội lỗi chúng ta, hầu cho cứu chúng ta khỏi đời ác nầy, y theo ý muốn Đức Chúa Trời, là Cha chúng ta,
+> <sup>4</sup>là Đấng phó mình vì tội lỗi chúng ta, hầu cho cứu chúng ta khỏi đời ác nầy, y theo ý muốn Đức Chúa Trời, là Cha chúng ta (Galatians 1:4)
 
 Được cứu có nghĩa là chúng ta hoàn toàn không có khả năng để tự cứu lấy mình. Điều này đòi hỏi một niềm tin đơn sơ như của trẻ thơ. Khi một người Cơ-đốc Nhân, dù vô tình hay cố ý, làm một việc gì đó để được sự chấp nhận của Chúa, người đó đang thỏa mãn sự kiêu ngạo tâm linh của mình. Nếu hoàn toàn bất lực không tự cứu được mình, thì làm sao người đó bây giờ lại làm được điều tương tự với sự tự cứu lấy mình, đó là làm đẹp lòng Chúa? Ga-la-ti 3:3, trong vài chương tới, gạt bỏ ý niệm này một cách độc đáo: <em>“Sao anh em ngu muội dường ấy? Sau khi đã khởi sự nhờ Đức Thánh Linh, nay sao lại cậy xác thịt mà làm cho trọn?”</em>
 
@@ -61,7 +61,7 @@ Tôi viết vòng vo Tam Quốc chỉ với một hy vọng là để dọn đư
 
 ## Việc làm và vinh hiển
 
-> <sup>5</sup>Nguyền Ngài được vinh hiển đời đời vô cùng! A-men.
+> <sup>5</sup>Nguyền Ngài được vinh hiển đời đời vô cùng! A-men (Galatians 1:5).
 
 Khi việc làm, dù nhỏ nhặt bao nhiêu, được đem vào đời sống Cơ-đốc Nhân, tương tự như men đem trộn vào bột, chúng ta cướp sự vinh hiển của Chúa. Chẳng một chút men nào được trộn lẫn, vì chỉ một chút xíu sẽ làm dậy cả đống bột, một chút xíu việc làm của xác thịt sẽ làm hỏng đức tin. Đây là lý do tại sao chúng ta dùng bánh không men khi dự tiệc thánh, cũng như bánh không men của người Do-thái trong lễ Vượt Qua.
 
@@ -71,9 +71,9 @@ Nhưng nếu chúng ta chọn để liên hệ với Ngài qua ân điển, chú
 
 Phao-lô dường như đang vội vã đi ngay vào trọng tâm của vấn đề, ông quên không nói lên lời cảm tạ về đức tin và tình yêu thương của họ. Có lẽ ông cảm xúc về sự vinh hiển của Chúa như nói đến trong câu 5 ở trên. Ông cảm nhận tin lành chân thật về "ân điển" của Đức Chúa Trời mà ông đã tận lực giảng giải cho người Ga-la-ti, đang bị trao đổi để lấy một tin lành giả. Chúng ta hãy đọc xem sự kinh ngạc của Phao-lô về sự họ chóng đi lạc là thể nào:
 
-## Lià bỏ tiếng gọi của ân điển
+## Lìa bỏ tiếng gọi của ân điển
 
-> <sup>6></sup>Tôi lấy làm lạ cho anh em đã vội bỏ Đấng gọi anh em bởi ơn Đức Chúa Jêsus Christ, đặng theo tin lành khác. <sup>7</sup>Thật chẳng phải có tin lành khác, nhưng có mấy kẻ làm rối trí anh em, và muốn đánh đổ Tin Lành của Đấng Christ.
+> <sup>6></sup>Tôi lấy làm lạ cho anh em đã vội bỏ Đấng gọi anh em bởi ơn Đức Chúa Jêsus Christ, đặng theo tin lành khác. <sup>7</sup>Thật chẳng phải có tin lành khác, nhưng có mấy kẻ làm rối trí anh em, và muốn đánh đổ Tin Lành của Đấng Christ (Galatians 1:6-7).
 
 Họ đã "vội" bỏ ơn của Đấng Christ như thế nào? Theo một vài nguồn tài liệu, họ có thể đã bị những người Do-thái dụ dỗ trong vòng từ một đến ba năm sau khi Phao-lô lìa họ.
 
@@ -87,7 +87,7 @@ Tôi hy vọng những câu hỏi này làm vững chắc thêm lý luận của
 
 ## Tin lành chân thật: ân điển
 
-> <sup>8</sup>Nhưng nếu có ai, hoặc chính chúng tôi, hoặc thiên sứ trên trời, truyền cho anh em một tin lành nào khác với Tin Lành đã truyền cho anh em, thì người ấy đáng bị a-na-them!
+> <sup>8</sup>Nhưng nếu có ai, hoặc chính chúng tôi, hoặc thiên sứ trên trời, truyền cho anh em một tin lành nào khác với Tin Lành đã truyền cho anh em, thì người ấy đáng bị a-na-them! (Galatians 1:8)
 
 "Chúng tôi," gồm các sứ đồ, và ngay cả thiên sứ xuống từ trên trời, bất kỳ một người nào, được phép rao giảng một tin lành "khác."
 
@@ -99,13 +99,13 @@ Chúa Giê-su đã thỏa mọi sự đòi hỏi của luật pháp bằng sự 
 
 ## Tin lành khác
 
-> <sup>9</sup>Tôi đã nói rồi, nay lại nói lần nữa: Nếu ai truyền cho anh em một tin lành nào khác với Tin Lành anh em đã nhận, thì người ấy đáng bị a-na-them! <sup>10</sup>Còn bây giờ, có phải tôi mong người ta ưng chịu tôi hay là Đức Chúa Trời? Hay là tôi muốn đẹp lòng loài người chăng? Ví bằng tôi còn làm cho đẹp lòng loài người, thì tôi chẳng phải là tôi tớ của Đấng Christ!
+> <sup>9</sup>Tôi đã nói rồi, nay lại nói lần nữa: Nếu ai truyền cho anh em một tin lành nào khác với Tin Lành anh em đã nhận, thì người ấy đáng bị a-na-them! <sup>10</sup>Còn bây giờ, có phải tôi mong người ta ưng chịu tôi hay là Đức Chúa Trời? Hay là tôi muốn đẹp lòng loài người chăng? Ví bằng tôi còn làm cho đẹp lòng loài người, thì tôi chẳng phải là tôi tớ của Đấng Christ! (Galatians 1:9-10)
 
 Phao-lô không lo lắng về những kẻ chẳng tin, kể cả những kẻ thù của Đấng Christ, nhưng về một hạng người nguy hiểm hơn: những người xưng nhận Đấng Christ nhưng bây giờ đang cổ động cho một tin lành khác từ trong hội thánh.
 
 ## Phao-lô được Đức Chúa Trời kêu gọi
 
-> <sup>11</sup>Hỡi anh em, tôi nói cho anh em rằng, Tin Lành mà tôi đã truyền, chẳng phải đến từ loài người đâu; <sup>12</sup>vì tôi không nhận và cũng không học Tin Lành đó với một người nào, nhưng đã nhận lấy bởi sự tỏ ra của Đức Chúa Jêsus Christ.
+> <sup>11</sup>Hỡi anh em, tôi nói cho anh em rằng, Tin Lành mà tôi đã truyền, chẳng phải đến từ loài người đâu; <sup>12</sup>vì tôi không nhận và cũng không học Tin Lành đó với một người nào, nhưng đã nhận lấy bởi sự tỏ ra của Đức Chúa Jêsus Christ (Galatians 1:11-12).
 
 Chẳng phải đến từ loài người. Không học từ ai. Nhưng bởi sự tỏ ra. Khi một điều gì đó được dạy, thì nó có nguồn gốc từ phàm nhân, và do một người dạy dỗ người khác. Nhưng sự tỏ ra mà sứ đồ Phao-lô giữ kín trong lòng đã không đến bởi ai dạy dỗ, do đó ông cũng không thể dạy cho chúng ta; điều ông nhận, ông chỉ được truyền lại cho chúng ta, y như ý muốn của Đức Chúa Trời. Một thầy giáo có thể là người toàn quyền sở hữu điều mình dạy và có quyền tự do thay đổi theo ý mình muốn, nhưng một người đưa tin phải bàn giao y theo mệnh lệnh của người chủ sứ điệp. Phao-lô tìm thấy sự đối nghịch giữa giáo lý của người Ga-la-ti và sứ điệp ông đang rao truyền. Sứ điệp ông đã rao truyền trước kia cho họ, không còn được phản ảnh trong điều ông thấy ngày nay.
 
@@ -115,7 +115,7 @@ Chúng ta lầm lẫn tai hại, dù không suy nghĩ như vậy theo lý trí, 
 
 ## Cách Chúa gọi Phao-lô
 
-> <sup>13</sup>Vả, anh em đã nghe lúc trước tôi theo giáo Giu-đa, cách cư xử của tôi là thể nào, tôi bắt bớ và phá tan Hội thánh của Đức Chúa Trời quá chừng; <sup>14</sup>tôi tấn tới trong giáo Giu-đa hơn nhiều người cùng tuổi cùng nước với tôi, tôi là người sốt sắng quá đỗi về cựu truyền của tổ phụ tôi. <sup>15</sup>Nhưng khi Đức Chúa Trời, là Đấng đã để riêng tôi ra từ lúc còn trong lòng mẹ, và lấy ân điển gọi tôi, vui lòng ...
+> <sup>13</sup>Vả, anh em đã nghe lúc trước tôi theo giáo Giu-đa, cách cư xử của tôi là thể nào, tôi bắt bớ và phá tan Hội thánh của Đức Chúa Trời quá chừng; <sup>14</sup>tôi tấn tới trong giáo Giu-đa hơn nhiều người cùng tuổi cùng nước với tôi, tôi là người sốt sắng quá đỗi về cựu truyền của tổ phụ tôi. <sup>15</sup>Nhưng khi Đức Chúa Trời, là Đấng đã để riêng tôi ra từ lúc còn trong lòng mẹ, và lấy ân điển gọi tôi, vui lòng ... (Galatians 1:13-15)
 
 Nếu Chúa đã để riêng Phao-lô từ trong lòng mẹ, thì hẳn Phao-lô đã chẳng nắm phần chủ động nào trong sự kêu gọi; cũng chẳng biết để vâng lời, hay chống trả, hoặc bất cứ điều gì có thể cho chúng ta lý do để dùng ông làm tấm gương để noi theo. Ông đang bận rộn bắt bớ những người theo Chúa.
 
@@ -125,7 +125,7 @@ Do đó sự Phao-lô được Chúa gọi ông từ trong lòng mẹ bởi ân 
 
 ## Phao-lô là sứ đồ cho người ngoại
 
-> <sup>16</sup>bày tỏ Con của Ngài ra trong tôi, hầu cho tôi rao truyền Con đó ra trong người ngoại đạo, thì lập tức tôi chẳng bàn với thịt và máu.
+> <sup>16</sup>bày tỏ Con của Ngài ra trong tôi, hầu cho tôi rao truyền Con đó ra trong người ngoại đạo, thì lập tức tôi chẳng bàn với thịt và máu (Galatians 1:16).
 
 Trước khi Chúa kêu gọi Phao-lô trong ân điển Ngài, Phao-lô nổi tiếng là người tuân giữ luật pháp Môi-se để đạt được một mức độ công bình nào đó—nhưng chúng ta biết từ Kinh thánh rằng ông không thể nào đạt được sự công bình của Đức Chúa Trời qua cách đó—, bây giờ Chúa Giê-su được tỏ ra trong ông, nghĩa là ông nhận sự công bình từ một nguồn khác, từ Con Đức Chúa Trời.
 
@@ -137,7 +137,7 @@ Không ai biết điều này rõ ràng hơn Phao-lô. Do đó chúng ta không 
 
 ## Sự độc lập của Phao-lô
 
-> <sup>17</sup>Tôi cũng không lên thành Giê-ru-sa-lem, đến cùng những người đã làm sứ đồ trước tôi, song tôi đi qua xứ A-ra-bi; sau rồi trở về thành Đa-mách. <sup>18</sup>Kế đó, mãn ba năm, tôi lên thành Giê-ru-sa-lem, đặng làm quen với Sê-pha, và tôi ở với người mười lăm ngày; <sup>19</sup>nhưng tôi không thấy một sứ đồ nào khác, trừ ra Gia-cơ là anh em của Chúa. <sup>20</sup>Thật, trước mặt Đức Chúa Trời, tôi quyết rằng điều tôi viết cho anh em đây chẳng phải là điều dối.
+> <sup>17</sup>Tôi cũng không lên thành Giê-ru-sa-lem, đến cùng những người đã làm sứ đồ trước tôi, song tôi đi qua xứ A-ra-bi; sau rồi trở về thành Đa-mách. <sup>18</sup>Kế đó, mãn ba năm, tôi lên thành Giê-ru-sa-lem, đặng làm quen với Sê-pha, và tôi ở với người mười lăm ngày; <sup>19</sup>nhưng tôi không thấy một sứ đồ nào khác, trừ ra Gia-cơ là anh em của Chúa. <sup>20</sup>Thật, trước mặt Đức Chúa Trời, tôi quyết rằng điều tôi viết cho anh em đây chẳng phải là điều dối (Galatians 1:17-20).
 
 Dường như có một lý do khiến Phao-lô giải thích những chi tiết của cuộc hành trình của ông, dù có vẻ không liên quan đến trọng tâm của lá thư này. Theo Jamieson, Fausset và Brown (tác giả sách giải kinh), Phao-lô bày tỏ sự độc lập của chức vụ sứ đồ của ông biệt riêng khỏi các sứ đồ khác. Như ông đã viết rằng tin lành mà ông nhận được không phải từ loài người, và ông cũng không cần phải tham khảo với ai.
 
@@ -145,7 +145,7 @@ Do đó những chi tiết ông chia xẻ liên quan đến những nơi ông đ
 
 ## Phao-lô mà làm giáo sĩ sao?
 
-> <sup>21</sup>Sau lại, tôi đi qua các miền thuộc xứ Sy-ri và xứ Si-li-si, <sup>22</sup>bấy giờ tôi còn là kẻ lạ mặt trong các Hội thánh tại xứ Giu-đê, là các hội ở trong Đấng Christ. <sup>23</sup>chỉn các hội đó có nghe rằng: Người đã bắt bớ chúng ta ngày trước, nay đương truyền đạo mà lúc bấy giờ người cố sức phá. <sup>24</sup>Vậy thì, các hội đó vì cớ tôi khen ngợi Đức Chúa Trời.
+> <sup>21</sup>Sau lại, tôi đi qua các miền thuộc xứ Sy-ri và xứ Si-li-si, <sup>22</sup>bấy giờ tôi còn là kẻ lạ mặt trong các Hội thánh tại xứ Giu-đê, là các hội ở trong Đấng Christ. <sup>23</sup>chỉn các hội đó có nghe rằng: Người đã bắt bớ chúng ta ngày trước, nay đương truyền đạo mà lúc bấy giờ người cố sức phá. <sup>24</sup>Vậy thì, các hội đó vì cớ tôi khen ngợi Đức Chúa Trời (Galatians 1:21-24).
 
 Mọi vinh quang đều qui về Chúa, và đừng khen ngợi bất cứ người phàm xác thịt nào trong thiên mệnh cứu rỗi nhân loại. Chẳng một chút công trạng nào được kể cho ai, dù là người vĩ đại nhất trong thế gian.
 

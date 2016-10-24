@@ -1,6 +1,6 @@
 ---
 title: "Ga-la-ti Chương 5"
-excerpt: "Paul calls the Galatians to stand fast in their freedom in Christ, to stand firm against the pressure to go back to the law via circumcision (or justification based on observance of the law). To walk in the Spirit, as opposed to the keeping of the law, that they might be able to love one another, and to bear fruit of the Spirit."
+excerpt: "Phao-lô kêu gọi tín hữu Ga-la-ti đứng vững trong sự tự do trong Đấng Christ, đứng vững trước áp lực trở về với luật pháp qua phép cắt bì (hay là sự xưng công bình bởi sự tuân theo luật pháp). Bước đi trong Thánh Linh, thay vì cậy luật pháp, hầu họ có thể sống trong tình yêu thương, và sanh bông trái Thánh Linh."
 image: 
   teaser: galatians-chapter-teaser.png
 tags: [galatians, bible-studies]
@@ -18,118 +18,118 @@ comments_locked: false
 
 {{ page.excerpt | markdownify }}
 
-<em>(Bấm vào đây để đọc tiếng Việt)</em>
+## Thoát khỏi luật pháp
 
-## Freedom from the law
-
-> <sup>1</sup>For freedom Christ has set us free. <span style="text-decoration: underline;"><span style="color: #d30015; text-decoration: underline;">Stand firm</span></span>, then, and do not be subject again to <span style="text-decoration: underline;"><span style="color: #d30015; text-decoration: underline;">the yoke of slavery</span></span>.<span style="text-align: justify;">
+> <sup>1</sup>Đấng Christ đã buông tha chúng ta cho được tự do; vậy hãy đứng vững, chớ lại để mình dưới ách tôi mọi nữa (Galatians 5:1).
 
 <div>
 <p>
 <img alt src="{{ site.url }}/assets/images/different-gospel.jpg" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 136px; padding: 0px; float: left;">
-This freedom in Christ has nothing to do with "freedom" to sin, but it's <em><span style="color: #d30015;">freedom from the reserved punishment for sin</span></em>: "<span style="color: #008000;"><em>The soul that sins shall die. (Eze 18:20)</em></span>". It's the freedom from sin's crippling condemnation and a guilt laden conscience. So those who are worried that free Christians may be enticed to sin just need to ask God for an assurance that the Holy Spirit is powerful enough to not let the sinning party go scott-free; because if God is not afraid of this open-ended promise, why should they be? He will not only convict us of issues, but also give us creative power to change in the direction He knows best. God is not blind and can see through the hearts of man, and He who began a good work in us will finish it gloriously.
+Sự tự do trong Đấng Christ chẳng có liên hệ gì với <span style="font-style: italic;">"tự do"</span> phạm tội, nhưng đó là sự được thoát khỏi án phạt cho mọi người mang bản chất tội lỗi: <span style="font-style: italic;">"Linh hồn nào phạm tội thì sẽ chết. (Ê-xê-chiên 18:20)"</span> Đó là sự tự do khỏi sự lên án làm kiệt quệ của tội lỗi và một lương tâm đầy mặc cảm xấu xa. Vì vậy nếu ai lo ngại rằng người Cơ-đốc Nhân tự do có thể bị cám dỗ phạm tội thì nên xin thẳng từ nơi Chúa sự bảo đảm rằng Đức Thánh Linh có đủ quyền năng và sự khôn ngoan để đừng bị những Cơ-đốc Nhân đó qua mặt; vả lại nếu Đức Chúa Trời không ngại khi ban lời hứa cách rộng rãi, thì tại sao bạn lại lo lẳng? Ngài không những sẽ chỉ cáo trách mỗi người về những điều họ cần sửa đổi, mà còn ban cho sức thiêng của Đấng dựng nên trời đất muôn vật để đổi thay theo đường hướng Ngài biết rõ hơn bất cứ người phàm xác thịt nào, kể cả chính bạn là người có lòng lo tưởng đển đời sống của người khác. Đức Chúa Trời không mù lòa và có quyền năng thấy được những điều sâu kín trong lòng người, và Đấng đã khởi đầu làm việc lành trong đời sống con cái Chúa sẽ làm trọn cách hiển vinh.
 </p>
 </div>
 
-And <em><span style="color: #d30015;">the yoke of slavery</span></em>, in this context, has nothing to do with the sins common to man; and I'm 100% certain that this was what I heard and assumed to be true for as long as I was a Christian. But here's the true yoke of slavery: the burden&nbsp;of keeping of the law to meet God's righteous requirement. The Galatians' circumcision was but a little speck compared to the hazy mountain of do's and don'ts in the Gentile world.
+<span style="font-style: italic;">"Ách tôi mọi,"</span> trong văn mạch của đoạn Kinh thánh này, không nói về tội lỗi mà người ta thường vấp phải; và tôi chắc chắn 100% rằng đây là điều chúng ta thường hiểu qua các bài giảng hoặc sách vở. Nhưng đây là ách nô lệ đúng ý nghĩa của nó: gánh nặng của sự tuân giữ luật pháp để thỏa điều kiện của Đức Chúa Trời về sự công bình. Vấn đề cắt bì của người Ga-la-ti chỉ là một chấm nhỏ trong dãy núi mờ ảo của hoặc làm hoặc tránh, việc nọ việc kia, trong thế giới của người ngoại, hoặc người ngoài Đấng Christ.
 
-So stand firm. Don't let the legalists' own fear of condemnation and doubts of God's promise push you back to the law, because no one can by the keeping of the law achieve the righteousness of God, let alone pleasing God, and once you pick up one law, you must keep them all.
+Vì vậy hãy đứng vững. Đừng để sự sợ bị đoán phạt của những người cậy luật pháp đẩy bạn trở về với luật pháp, vì chẳng một ai bởi sự tuân theo các điều luật pháp dạy bảo có thể đạt được sự công bình của Đức Chúa Trời, và một khi bạn giữ một điều, bạn phải giữ hết.
 
-## Circumcision as a form of law
+## Luật pháp qua phép cắt bì
 
-> <sup>2</sup>Listen! I, Paul, tell you that if you let yourselves be circumcised, Christ will be of <span style="text-decoration: underline;"><span style="color: #d30015; text-decoration: underline;">no benefit to you</span></span> at all! <sup>3</sup>And I testify again to every man who lets himself be circumcised that he is obligated to obey the <span style="text-decoration: underline;"><span style="color: #d30015; text-decoration: underline;">whole law</span></span>.<span style="font-size: 11.3333330154419px; text-align: justify;">
+> <sup>2</sup>Tôi là Phao-lô nói với anh em rằng, nếu anh em chịu làm phép cắt bì, thì Đấng Christ không bổ ích chi cho anh em hết. <sup>3</sup>Tôi lại rao cho mọi người chịu cắt bì rằng, họ buộc phải vâng giữ trọn cả luật pháp (Galatians 5:2-3).
 
-There Paul said it again. That seemingly innocuous circumcision to ease your guilt laden conscience actually makes things worse; instead of bringing you closer to God, it alienates you from Him; it drove Adam and Eve into hiding, and it will do it to you law keeper. Keep one law, keep all. That is the way of the world, not one for whom Christ had paid a very high cost to set free.
+Phao-lô lập lại điều mình đã nói. Phép cắt bì nghe dường vô hại và còn có công dụng làm vơi đi sự cắn rứt của lương tâm đầy mặc cảm tội lỗi nhưng thực ra lại gây một hậu quả tai hại hơn; thay vì đem người giữ nó lại gần Chúa, lại khiến họ xa cách Ngài hơn. Luật pháp—đến bởi sự phân biệt thiện ác—, đã khiến A-đam và Ê-va lẩn trốn Đức Chúa Trời, và cũng sẽ khiến kẻ cậy luật pháp chịu một hậu quả tương tự. Giữ một điều thì phải giữ hết. Sự cậy vào luật pháp là con đường của thế gian, không phải là con đường của những kẻ mà Đấng Christ đã trả một giá rất cao để cho họ được tự do.
 
-## Reliance on the law causes fall from grace
+## Mất ân điển vì cậy vào luật pháp
 
-> <sup>4</sup>You who are trying to be declared righteous by the law have been <span style="text-decoration: underline;"><span style="color: #d30015; text-decoration: underline;">alienated from Christ</span></span>; you have <span style="text-decoration: underline;"><span style="color: #d30015; text-decoration: underline;">fallen away from grace</span></span>!<span style="font-size: 11.3333330154419px; text-align: justify;">
+> <sup>4</sup>Anh em thảy đều muốn cậy luật pháp cho được xưng công bình, thì đã lìa khỏi Đấng Christ, mất ân điển rồi (Galatians 5:4).
 
-For so long, many Christians have held a faulty understanding that if you keep falling into the same sins, making the same mistakes, God may let you go, and you will fall away from grace. Actually the opposite is true. The one who is so weak and most vulnerable is actually the one who needs Him the most, but the one to <em><span style="color: #d30015;">fall away</span></em> is among the upright law-keeping folks, the very people who do this forbidden thing: trying to be declared righteous by the law.
+Đã từ lâu lắm, nhiều Cơ-đốc Nhân giữ một sự hiểu biết sai lầm rằng nếu họ cứ bị sa ngã vào những tội lỗi dễ vấn vương, ngã tới ngã lui, thì Chúa có thể lìa bỏ họ, vì họ có thể trật phần ân điển. Thực ra theo câu Kinh thánh trên, sự thực ngược lại như vậy. Người yếu đuối và dễ vấp phạm nhất lại là người cần Chúa nhất, nhưng người trật phần ân điển lại là người cậy luật pháp, người phạm điều cấm kỵ này: cậy vào luật pháp để được xưng công bình.
 
-## We only hope for what is already ours
+## Bởi đức tin và nhờ Thánh Linh
 
-> <sup>5</sup>For through the Spirit, by faith, we <span style="text-decoration: underline;"><span style="color: #d30015; text-decoration: underline;">wait expectantly</span></span> for the hope of righteousness.<span style="font-size: 11.3333330154419px; text-align: justify;">
+> <sup>5</sup>Về phần chúng ta, ấy là bởi đức tin và nhờ Thánh Linh mà chúng ta được nhận lãnh sự trông cậy của sự công bình (Galatians 5:5).
 
-We only wait, especially wait expectantly, for what that is already ours, otherwise we must work to prove our worth to earn it, while never knowing for sure if the hope can be realized. This hope that Paul writes about is the kind expressed as the "blessed assurance," or the "substance of things hoped for, the evidence of things not seen." This is the kind of faith that pleases God, to trust in His promise, to believe in His character that God cannot lie.
+Một số bản tiếng Anh, chẳng hạn như NIV dịch như sau: <span style="font-style: italic;">"Ấy là nhờ Thánh Linh chúng ta đang ngóng đợi sự công bình mà chúng ta trong mong,"</span> bản NET (New English Translation) thêm một trạng từ thành <span style="font-style: italic;">"ngóng đợi cách tin quyết."</span> Đây là một sự ngóng đợi giống như trong Hê-bơ-rơ 11:1, <span style="font-style: italic;">"Vả, đức tin là sự biết chắc vững vàng của những điều mình đương trông mong là bằng cớ của những điều mình chẳng xem thấy."</span> Sự trông cậy này không tùy thuộc vào khả năng của cá nhân để mua chuộc, trao đổi công sức, để nhận được, vì người trông cậy như thế không chắc mình có nhận được hay không. Đức tin <span style="font-style: italic;">"biết chắc vững vàng"</span> là đức tin đẹp lòng Đức Chúa Trời, tin vào bản tính Đức Chúa Trời không thể nói dối.
 
-## Faith working through love
+## Đức tin đến bởi tình yêu
 
-> <sup>6</sup>For in Christ Jesus neither circumcision nor uncircumcision carries any weight—<span style="text-decoration: underline;"><span style="color: #d30015; text-decoration: underline;">the only thing that matters</span></span> is faith working through love.
+> <sup>6</sup>Vì trong Đức Chúa Jêsus Christ, cái điều có giá trị, không phải tại chịu phép cắt bì hoặc không chịu phép cắt bì, nhưng tại đức tin hay làm ra bởi sự yêu thương vậy (Galatians 5:6).
 
-The addition of religious rituals and ordinances do not add anything to what Christ had done. And faith can only work through love, not through the obligation to the law. Under law, any kind of law, love will be suffocated, and faith will be extinguished. This is exactly what Paul wrote in verse 3:12 that the law is not based on faith, the Vietnamese translation may even have it better: "<span style="color: #008000;"><em>Vả luật pháp không phải đồng một thứ với đức tin (the law is not made of the same stuff with faith).</em></span>" If they're of different kinds, they cannot mix.
+Thêm vào những nghi lễ và qui luật không bổ túc thêm gì vào điều Đấng Christ đã làm trọn. Lại thêm vào đó, đức tin chỉ có thể vận hành qua tình yêu thương, chứ chẳng qua sự tuân theo những điều luật pháp dạy biểu. Dưới luật pháp, hay bất cứ loại qui luật nào, tình yêu sẽ bị nghẹt ngòi, đức tin sẽ bị dập tắt. Đây chính là điều Phao-lô viết trong câu 3:12 rằng luật pháp không phải đồng một thứ với đức tin, và không đồng một thứ thì không trộn lẫn được.
 
-And only faith can work through love, while law will clearly work through fear, the fear of punishment. If you're obsessed with law keeping, you're not working through love.
+Đức tin tăng trưởng nhờ tình yêu, còn luật pháp thì hoạt động qua sự sợ hãi, đó là sợ hãi bị trừng phạt. Nếu chúng ta sống dưới sự kềm tỏa của luật pháp, thì động cơ thúc đẩy chúng ta làm việc lành không phải là tình yêu—Cô-rin-tô thứ nhất đoạn 13 nói có những người sẵn sàng hy sinh trên giàn hỏa thiêu nhưng thực sự không có tình yêu thương. Họ bị thúc đẩy bởi luật pháp.
 
-## The yeast of the Pharisees
+## Men của người Pha-ri-si
 
-> <sup>7</sup>You were running well; who prevented you from obeying the truth? <sup>8</sup>This persuasion does not come from <span style="text-decoration: underline; color: #d30015;">the one who calls you</span>! <sup>9</sup>A little <span style="text-decoration: underline;"><span style="color: #d30015; text-decoration: underline;">yeast</span></span> makes the whole batch of dough rise! <sup>10</sup>I am confident in the Lord that you will accept no other view. But the one who is confusing you will pay the penalty, whoever he may be.<span style="font-size: 11.3333330154419px; text-align: justify;">
+> <sup>7</sup>Anh em chạy giỏi; ai đã ngăn trở anh em đặng không cho vâng phục lẽ thật? <sup>8</sup>Sự xui giục đó không phải đến từ Đấng gọi anh em. <sup>9</sup>Một ít men làm cho dậy cả đống bột. <sup>10</sup>Trong Chúa, tôi đối với anh em có lòng tin cậy nầy, là anh em chắc không có ý khác; nhưng kẻ làm rối trí anh em, bất luận người nào, sẽ chịu hình phạt về điều đó (Galatians 5:7-10).
 
-God is the one who initially called them, so evidently the voice that is calling them back to the law belongs to ... someone else untrustworthy.
+Chúa chính là Đấng đã khởi đầu kêu gọi họ, do đó tiếng gọi họ trở về với luật pháp hẳn phải thuộc về những kẻ không đáng tin cậy.
 
-How did Paul know what Jesus said to his disciples long ago? Or was he among the Pharisees lurking around and took in much of what he said without understanding? But now he knows, Jesus spoke about him, and now he uses it against the legalists still much at work in the body of Christ in Galatia.
+Làm sao Phao-lô biết câu ngắn ngủi Chúa đã phán với các môn đệ trước kia? Hay là ông là một trong những người Pha-ri-si đang rình rập và lắng nghe những lời Chúa phán nhưng chưa được Ngài mở lòng để hiểu? Nhưng bây giờ thì ông hiểu, Chúa Giê-su đã nói về chính ông, và bây giờ ông dùng những lời đó để chống lại những người cậy luật pháp vẫn còn đang hăng say hoạt động trong thân thể Đấng Christ ở Ga-la-ti.
 
-A little yeast, a little law, circumcision, do not handle, do not touch, a little precept here, a little precept there, enough to cause the whole body to stumble. Sounds holy and self-sacrificial, but add nothing to what that pleases God. On the other hand, these little laws take the people's eyes off of Jesus and onto themselves or others, and then there is infighting and the pursuit of vain glory.
+Một chút men, một điều lệ nho nhỏ, chớ đụng, chớ rờ, thêm một giềng mối, thêm một hàng (Ê-sai 28:10,13), đủ để cả hội thánh vấp ngã. Nghe rất thiêng liêng và không tiếc chính bản thân, nhưng chẳng thêm gì vào điều thực sự đẹp lòng Đức Chúa Trời. Ngược lại, những qui luật này khiến tín hữu thôi chú nhìn vào Đấng Christ, như chú nhìn vào chính mình và người khác, thấy dằm trong mắt người khác nhưng không thấy đà trong mắt mình, rồi kết quả là gây gổ và sự theo đuổi hư danh.
 
-## Paul is not preaching the law
+## Phao-lô chẳng hề giảng dạy luật pháp
 
-> <sup>11</sup>Now, brothers and sisters, if I am still preaching circumcision, why am I still being persecuted? In that case the offense of the cross has been removed. <sup>12</sup>I wish those agitators would go so far as to castrate themselves!<span style="font-size: 11.3333330154419px; text-align: justify;">
+> <sup>11</sup>Hỡi anh em, về phần tôi, nếu tôi còn giảng phép cắt bì, thì sao tôi còn bị bắt bớ nữa? Sự vấp phạm về thập tự giá há chẳng phải bỏ hết rồi sao? <sup>12</sup>Nguyền cho kẻ gieo sự rối loạn trong anh em thà họ tự chặt mình là hơn! (Galatians 5:11-12)
 
-The first part of verse 11 is rather self explanatory, but the later part ... how can it be interpreted? That if Paul was still preaching circumcision, it would have been acceptable as part of Christianity, then it is not incompatible with the cross of Christ? Perhaps this reasoning of Paul can be left alone and it won't affect his overall message. Verse 12 is rather hilarious but perhaps Paul was saying that if they think circumcision is important toward their higher spirituality, they might as well castrate themselves.
+Chắc có lẽ có nhiều phần tử thuộc nhóm cậy luật pháp xuyên tạc sự giảng tin lành của Phao-lô rằng ông nhìn nhận phép cắt bì là một yếu tố cần thiết của đạo. Ông phủ nhận điều này vì hai lý do: thứ nhất, nếu quả thực vậy thì tại sao họ vẫn bắt bớ ông? và thứ hai, họ sẽ không bị buộc tội vấp phạm về thập tự giá khi họ trở lại với phép cắt bì. Nhóm cậy luật pháp xuyên tạc Phao-lô hầu cho sự cổ động trở lại với phép cắt bì dường như được sự ủng hộ của nhà truyền giáo nổi tiếng nhất thời bấy giờ.
 
-## <strong>Practice Love</strong>
+## Thực hành sự yêu thương
 
-> <sup>13</sup>For you were called to freedom, brothers and sisters; only <span style="text-decoration: underline; color: #d30015;">do not use your freedom</span> as an opportunity to indulge your flesh, but through love serve one another.<span style="font-size: 11.3333330154419px; text-align: justify;">
+> <sup>13</sup>Hỡi anh em, anh em đã được gọi đến sự tự do, song chớ lấy sự tự do đó làm dịp cho anh em ăn ở theo tánh xác thịt, nhưng hãy lấy lòng yêu thương làm đầy tớ lẫn nhau (Galatians 5:13).
 
-There is always a possibility of someone taking this freedom to an extreme, but this verse rather than threatens to take away freedom, it affirms it, because if the freedom is conditional, the withdrawal of it is a threat in itself. This freedom is <em><span style="color: #d30015;">unconditional</span></em>, so much so that some might dare to take advantage of it.
+Thế nào cũng có những trường hợp có người ỷ lại vào sự tự do và đi quá trớn, nhưng câu này không phải viết nên để cất đi sự tự do, nhưng công nhận sự tự do, vì nếu sự tự do này có điều kiện, thì sự lấy đi tự do hẳn phải là một sự đe dọa rồi. Sự tự do này vô điều kiện, đến nỗi có kẻ dám lợi dụng.
 
-This is similar to 1 Cor 10:23: "<em><span style="color: #008000;">All things are lawful, but not all things are profitable. Allthings are lawful, but not all things edify</span></em>." All things mean exactly that. A Christian now has complete diplomatic immunity in this foreign land.
+Điều này cũng giống như 1 Cô-rinh-tô 10:23: <span style="font-style: italic;">"Mọi sự đều có phép làm, nhưng chẳng phải mọi sự đều có ích; mọi sự đều có phép làm, nhưng chẳng phải mọi sự đều làm gương tốt."</span> Mọi sự nghĩa là: mọi sự. Người Cơ-đốc Nhân được trọn vẹn quyền miễn trừ ngoại giao (diplomatic immunity) trong quê hương tạm này.
 
-With this <em><span style="color: #d30015;">total immunity and freedom</span></em>, a Christian can love freely, and serve without obligation, but willingly become a slave to love, to serve, from a free heart.
+Trong quyền miễn trừ và tự do trọn vẹn, người Cơ-đốc Nhân có thể tự do yêu thương, làm công việc Chúa không vì ép uổng, nhưng vui lòng làm nô lệ vì tình thương, để phục vụ, từ tấm lòng được sải cánh tung bay.
 
-> <sup>14</sup>For the whole law can be summed up in a single commandment, namely, “You must love your neighbor as yourself. <span style="color: #000000;">(NET)</span>”, or "For all the law is fulfilled in one word, even in this; Thou shalt love thy neighbour as thyself."<span style="color: #000000;"> as in the King James version</span>
+> <sup>14</sup>Vì cả luật pháp chỉ tóm lại trong một lời nầy: Ngươi hãy yêu kẻ lân cận như mình” (hoặc theo bản King James <span style="font-style: italic;">"Vì cả luật pháp được làm trọn trong một lời này: Ngươi hãy yêu kẻ lân cận như mình."</span>&mdash;Galatians 5:14)
 
-According to Jamieson, Fausset and Brown, the oldest manuscript says "<em>all the law <span style="color: #d30015;"><strong>has been</strong></span> fulfilled.</em>" Of course it was Christ who fulfilled all the law; and He did it on our behalf. He loved, and He counted it as our love; He died, and we are counted as buried with Him; He perfectly carried out God's law, and we're all forgiven. Then I can say without shame that I have fulfilled God's great love command, because I have put on Christ, and He did it.
+Theo Jamieson, Fausset và Brown, bản Kinh Thánh cổ nhất viết: <span style="font-style: italic;">"mọi luật pháp đã được làm trọn."</span> Dĩ nhiên chúng ta hiểu đó là chính Đấng Christ đã làm trọn mọi điều của luật pháp thay cho chúng ta. Ngài đã yêu thương, và kể tình thương đó cũng như của chúng ta, Ngài đã chết, và kể như chúng ta đã chết và chôn cùng Ngài; Ngài thực hiện công việc Đức Chúa Trời cách toàn hảo, và nhờ đó mọi tội lỗi chúng ta đã được thứ tha. Do đó tôi có thể nói cách không hổ thẹn rằng chính tôi đã làm trọn mệnh lệnh yêu thương của Đức Chúa Trời, vì tôi đã mặc lấy Đấng Christ, mà Ngài đã làm thay cho tôi.
 
-When the law dominates this church, there can be nothing but troubles, because the law is not based on faith, and it actually provokes the works of the flesh. How can there be love if each would use the law to find faults with one another? That would lead to the following verse:
+Khi luật pháp làm chủ hội thánh Ga-la-ti, chắc chắn có nhiều vấn đề, vì luật pháp không đặt nền tảng trên đức tin, mà lại kích thích thêm việc làm của xác thịt. Làm sao có tình yêu nếu mỗi người dùng luật pháp để tìm lỗi của nhau? Đây là duyên cớ của tình trạng hội thánh Ga-la-ti:
 
-## Fruit of the flesh
+## Bông trái của xác thịt
 
-> <sup>15</sup>However, if you continually bite and devour one another, beware that you are not consumed by one another.
+> <sup>15</sup>Nhưng nếu anh em cắn nuốt nhau, thì hãy giữ, kẻo kẻ nầy bị diệt mất bởi kẻ khác (Galatians 5:15).
 
-This is a typical symptom of a church operating on the basis of legality.
+Đây là dấu hiệu thường thấy trong những hội thánh đặt nền tảng trên luật pháp.
 
-## Led by the Spirit or the law?
+## Bước đi theo Thánh Linh hay luật pháp?
 
-> <sup>16</sup>But I say, <span style="text-decoration: underline;"><span style="color: #d30015; text-decoration: underline;">live by the Spirit</span></span> and you will not carry out the desires of the flesh. <sup>17</sup>For the flesh has desires that are opposed to the Spirit, and the Spirit has desires that are opposed to the flesh, for these are in opposition to each other, so that you cannot do what you want. <sup>18</sup>But if you are led by the Spirit, you are not under the law.
+> <sup>16</sup>Vậy tôi nói rằng: Hãy bước đi theo Thánh Linh, chớ hề làm trọn những điều ưa muốn của xác thịt. <sup>17</sup>Vì xác thịt có những điều ưa muốn trái với của Thánh Linh, Thánh Linh có những điều ưa muốn trái với của xác thịt; hai bên trái nhau dường ấy, nên anh em không làm được điều mình muốn làm. <sup>18</sup>Nhưng, ví bằng anh em nhờ Thánh Linh chỉ dẫn, thì chẳng hề ở dưới luật pháp.
 
-Paul now shows them the way to stop biting each other: to live by the Spirit through their faith in Christ. Spirit vs. flesh, faith vs. law. Choose one and you will be free from the other.
+Phao-lô chỉ họ con đường để họ ngừng cắn nuốt nhau: Bước đi theo Thánh Linh thay vì theo luật pháp, vì luật pháp làm tăng thêm sức mạnh của tội lỗi. Cô-rinh-tô thứ nhất đoạn 15 câu 56 nói rõ: <span style="font-style: italic;">"Cái nọc sự chết là tội lỗi, sức mạnh tội lỗi là luật pháp."</span> Do đó chúng ta có thể kết luận rằng kẻ cậy luật pháp là người sống theo xác thịt.
 
-## The works of the flesh
+## Việc làm của xác thịt
 
-> <sup>19</sup>Now the <span style="text-decoration: underline;"><span style="color: #d30015; text-decoration: underline;">works of the flesh</span></span> are obvious: sexual immorality, impurity, depravity, <sup>20</sup>idolatry, sorcery, hostilities, strife, jealousy, outbursts of anger, selfish rivalries, dissensions, factions, <sup>21</sup>envying, murder, drunkenness, carousing, and similar things. I am warning you, as I had warned you before: Those who practice such things <span style="text-decoration: underline;"><span style="color: #d30015; text-decoration: underline;">will not inherit the kingdom of God</span></span>!
+> <sup>19</sup>Vả, các việc làm của xác thịt là rõ ràng lắm: ấy là gian dâm, ô uế, luông tuồng, <sup>20</sup> thờ hình tượng, phù phép, thù oán, tranh đấu, ghen ghét, buồn giận, cãi lẫy, bất bình, bè đảng, <sup>21</sup> ganh gổ, say sưa, mê ăn uống, cùng các sự khác giống như vậy. Tôi nói trước cho anh em, như tôi đã nói rồi: hễ ai phạm những việc thể ấy thì không được hưởng nước Đức Chúa Trời (Galatians 5:19-21).
 
-As a fleshly being, here are the inevitable aspects of your life: all of the sins above. Each of us will own a part of the list above, there is no exception. So in and of yourself, you will not inherit the kingdom of God.
+Phao-lô liệt ra một số những việc làm của xác thịt. Đây là bản năng, và khả năng của mỗi người thuộc dòng dõi Ê-va, tiềm tàng trong huyết quản. Mỗi người trong chúng ta sở hữu một phần nào đó trong những việc làm của xác thịt đã được liệt kê, và những điều khác nữa không kể hết. Chẳng một ai ngoại lệ. Do đó mỗi người đều, trong bản chất tội lỗi mình, không được hưởng nước Đức Chúa Trời.
 
-## The fruit of the Spirit
+## Bông trái của Thánh Linh
 
-> <sup>22</sup>But the fruit of the Spirit is love, joy, peace, patience, kindness, goodness, faithfulness, <sup>23</sup>gentleness, and self-control. <span style="text-decoration: underline;"><span style="color: #d30015; text-decoration: underline;">Against such things there is no law</span></span>.<span style="font-size: 11.3333330154419px; text-align: justify;">
+> <sup>22</sup>Nhưng trái của Thánh Linh, ấy là lòng yêu thương, sự vui mừng, bình an, nhịn nhục, nhơn từ, hiền lành, trung tín, mềm mại, tiết độ: <sup>23</sup>không có luật pháp nào cấm các sự đó (Galatians 5:22-23).
 
-But those that live by the Spirit are promised what the law keepers try to get but can't. Because you do not need any law to command the production of the Spirit's fruit, on the contrary, the law actually promotes the works of the flesh.
+Những người bước đi theo Thánh Linh nhận được lời hứa mà những kẻ cậy luật pháp muốn mà không được. Chẳng có luật nào có thể khiến sanh bông trái Thánh Linh, ngược lại, luật pháp lại là nguồn sức mạnh cho tội lỗi.
 
-<em><span style="color: #d30015;">Against such things there is no law</span></em> means there is no law that commands you to produce these fruits. In other words, the fruits could only come out where there is a vacuum of the law.
+Bản Việt ngữ dùng chữ cấm, như trong câu <span style="font-style: italic;">"không có luật pháp nào cấm các sự đó,"</span> nhưng trong các bản tiếng Anh dùng chữ <span style="font-style: italic;">"against"</span> mang một ý nghĩa khác, và chính xác hơn. Chúng ta biết có những luật <span style="font-style: italic;">"cấm"</span>, cũng như có luật <span style="font-style: italic;">"phải làm."</span> Do đó câu này có thể được dịch như sau: <span style="font-style: italic;">"không có luật nào buộc phải làm những sự đó."</span> Ví bằng có người nghĩ rằng có luật phải sanh bông trái Thánh Linh thì ý tưởng đó không đặt trên nền tảng đúng, suy nghĩ theo lối xác thịt. Nếu trái sanh ra bởi thần linh thì luật pháp đóng vai trò gì?
 
-## We have been buried with Christ
+## Chúng ta đã đồng chôn cùng Đấng Christ
 
-> <sup>24</sup>Now those who belong to Christ <span style="text-decoration: underline;"><span style="color: #d30015; text-decoration: underline;">have crucified</span></span> the flesh with its passions and desires.
+> <sup>24</sup>Vả, những kẻ thuộc về Đức Chúa Jêsus Christ đã đóng đinh xác thịt với tình dục và dâm dục mình trên thập tự giá rồi (Galatians 5:24).
 
-To have the flesh crucified is to have fulfilled all the requirements of the law, to be no longer under its guardianship. This is a wonderful gift to us: we're counted as already buried with Christ, debt fully paid, declared innocent.
+Để được xác thịt của chúng ta đã bị đóng đinh thì cũng là làm trọn mọi điều kiện của luật pháp, và do đó không còn dưới sự quản trị của nó nữa. Đây là một món quà tuyệt diệu cho chúng ta: chúng ta được kể như đã chịu chôn với Đấng Christ, nợ nần trả xong, được tuyên xưng là người vô tội.
 
-Practically speaking, our flesh with its passions and desires are still as alive as ever, but positionally speaking, the flesh with its passions and desires are imparted a virtual death thanks to Christ so we may be considered blameless on the day Christ comes to welcome His bride. The mistake most Christians make is their focus on the eradication of the practical flesh with its passions and desires. Let's not forget God gave us a restart with Noah's family and the great flood, and many thousand years until Christ comes to show us man cannot eradicate the sins of his flesh.
+Nói về phương diện thực tế, xác thịt chúng ta cùng với những tham dục của nó vẫn còn sống sờ sờ, nhưng trên phương diện địa vị, chúng đã được ban cho sự đồng chết cùng Đấng Christ để có thể được kể là hoàn toàn thánh sạch trong ngày Chúa trở lại tiếp đón chúng ta. Điều sai lầm các Cơ-đốc Nhân thường làm là đặt trọng tâm vào vấn đề tội lỗi và xác thịt yếu đuối và tìm cách tẩy trừ mọi dục vọng xác thịt mình. Chúa đã cho một bằng chứng qua cơn đại hồng thủy cho thấy sự bắt đầu lại với Nô-e cũng không tẩy trừ bản chất tội lỗi được.
 
-> <sup>25</sup>If we live by the Spirit, let us also behave in accordance with the Spirit. <sup>26</sup>Let us not become conceited, provoking one another, being jealous of one another.
+> <sup>25</sup>Nếu chúng ta nhờ Thánh Linh mà sống, thì cũng hãy bước theo Thánh Linh vậy. <sup>26</sup>Chớ tìm kiếm danh vọng giả dối mà trêu chọc nhau và ghen ghét nhau (Galatians 5:25-26).
 
-The call here is to let go of the law and take the hand of Christ in the Spirit. That's the only way we can truly become a channel of God's peace.
+Tiếng gọi ở đây là chúng ta hãy lìa bỏ người thầy cũ là luật pháp mà cầm lấy tay Đấng Christ để bước đi trong Thánh Linh. Còn luật pháp chỉ kích thích sự khoe mình và danh vọng giả dối.
+
+Bước đi theo Thánh Linh là cách duy nhất chúng ta có thể thực sự trở nên một dòng nước mát đưa sự bình an của Đức Chúa Trời đi khắp nơi Ngài đặt để chúng ta.
 
 {% include bible-study/bible-study-footer %}
 

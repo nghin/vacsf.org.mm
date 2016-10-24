@@ -21,7 +21,7 @@ comments_locked: false
 
 Trong Công-vụ đoạn 10 có một câu chuyện về những người ngoại nghe được sứ điệp cứu rỗi của Chúa trong ngôn ngữ của dân tộc họ khi Phi-e-rơ đang rao giảng. Kinh thánh chép rằng họ đã được ban cho Thánh Linh (ấn chứng của sự sống đời đời) và sau đó chọn để nhận phép báp-têm bằng nước. Đó là ước nguyện của riêng họ đê được sự tẩy rửa như một nghi thức mà người Do-thái vẫn thường làm. Do đó rõ ràng là vì họ đã được nhận lãnh Thánh Linh trước, phép báp-têm bằng nước không thể là điều kiện của sự cứu rỗi.
 
-> Một người bạn thân mến, Doug Olsen ở trang mạng <a href="http://myredeemer.org">myredeemer.org</a>, cho phép tôi đăng ở đây một bài viết rất hữu ích về một đề tài quan trọng là phép báp-têm.
+> <span style="color: rgba(0,0,0,0.5);">Một người bạn thân mến, Doug Olsen ở trang mạng <a href="http://myredeemer.org">myredeemer.org</a>, cho phép tôi đăng ở đây một bài viết rất hữu ích về một đề tài quan trọng là phép báp-têm.</span>
 
 Hầu như mỗi hệ phái Tin Lành đều nhấn mạnh về tầm quan trọng của lễ báp-têm. Do đó chắc phép báp-têm phải là một điều trọng yếu trong sự cứu rỗi chứ?
 

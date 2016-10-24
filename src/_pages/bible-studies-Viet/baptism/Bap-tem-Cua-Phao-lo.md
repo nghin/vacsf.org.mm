@@ -21,7 +21,7 @@ comments_locked: false
 
 Sứ điệp của Phao-lô đặc biệt nhắm vào người không thuộc gốc Do-thái, họ không sống nhờ những nghi lễ tẩy rửa. Ông giải thích cho họ -những người ngoại này- rằng chỉ có một báp-têm được thực hiện bởi Đức Thánh Linh để hội nhập những kẻ tin vào một thân thể của Đấng Christ. Mục vụ của Phao-lô không có phép báp-têm bằng nước vì người ngoại không cần nó để chấm dứt mối liên hệ với luật pháp Môi-se. Họ cần bắt đầu một mối liên hệ với Đức Chúa Trời Hằng Sống.
 
-> Một người bạn thân mến, Doug Olsen ở trang mạng <a href="http://myredeemer.org">myredeemer.org</a>, cho phép tôi đăng ở đây một bài viết rất hữu ích về một đề tài quan trọng là phép báp-têm.
+> <span style="color: rgba(0,0,0,0.5);">Một người bạn thân mến, Doug Olsen ở trang mạng <a href="http://myredeemer.org">myredeemer.org</a>, cho phép tôi đăng ở đây một bài viết rất hữu ích về một đề tài quan trọng là phép báp-têm.</span>
 
 ## Phao-lô Là Sứ Đồ Cho Người Ngoại
 
