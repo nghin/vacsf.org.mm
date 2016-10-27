@@ -18,6 +18,8 @@ comments_locked: false
 
 {{ page.excerpt | markdownify }}
 
+[(<em>Bấm vào đây để đọc tiếng Việt</em>)]({{ site.url }}{% post_url 2015-05-11-Ro-ma-Chuong-10 %})
+
 ## Do not seek own righteousness
 
 > <sup>1</sup>Brothers and sisters, my heart's desire and prayer to God on behalf of my fellow Israelites is for their salvation. &nbsp;<sup>2</sup>For I can testify that they are zealous for God, but their zeal is not in line with the truth. &nbsp;<sup>3</sup>For ignoring the righteousness that comes from God, and seeking instead to establish their own righteousness, they did not submit to God's righteousness. &nbsp;<sup>4</sup>For Christ is the end of the law, with the result that there is righteousness for everyone who believes. (Romans 10:1-4)

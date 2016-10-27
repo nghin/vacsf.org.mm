@@ -4,7 +4,7 @@ permalink: /sitemap/
 title: "Sitemap"
 date: 2014-12-26
 modified: 2016-02-19
-excerpt: "A visual sitemap of all the pages on mademistakes.com"
+excerpt: "A visual sitemap of all the pages on vacsf.org"
 fullwidth: true
 share: false
 ads: false

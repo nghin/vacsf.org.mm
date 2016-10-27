@@ -4,9 +4,6 @@ title: "About VACSF"
 date: 2014-06-01
 modified: 2016-02-11
 excerpt: "Vietnamese Alliance Church in San Francisco &mdash; Hội Thánh Tin Lành Việt Nam in San Francisco, CA"
-image:
-  feature: about-michael-collage-2016.jpg
-  teaser: about-teaser.jpg
 ads: false
 share: false
 author: false

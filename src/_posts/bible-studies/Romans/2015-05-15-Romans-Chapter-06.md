@@ -16,9 +16,9 @@ comments_locked: false
 {% include toc_spacer.html %}
 {% include bible-study/romans-chapters %}
 
-We already died to sin. Old self already crucified with Christ. Died through Christ, now live through Christ. Sin is powerless because you're not under law, but under grace.
+{{ page.excerpt | markdownify }}
 
-<!-- {{ page.excerpt | markdownify }} -->
+[(<em>Bấm vào đây để đọc tiếng Việt</em>)]({{ site.url }}{% post_url 2015-05-15-Ro-ma-Chuong-06 %})
 
 <div>
 <p>

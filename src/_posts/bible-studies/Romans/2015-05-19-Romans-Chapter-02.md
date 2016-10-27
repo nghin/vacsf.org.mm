@@ -18,7 +18,7 @@ comments_locked: false
 
 {{ page.excerpt | markdownify }}
 
-All men are under judgement. Lawkeepers are judgemental, and they will be judged by the very law they uphold. God's kindness that leads you to repentance. Unrepentance = not submitting to salvation through Christ. All will be judged according to the law or to grace. All Gentiles who live under the moral law in their hearts are condemned. All Jews under Mosaic Law are condemned.
+[(<em>Bấm vào đây để đọc tiếng Việt</em>)]({{ site.url }}{% post_url 2015-05-19-Ro-ma-Chuong-02 %})
 
 ## All men are under judgement
 

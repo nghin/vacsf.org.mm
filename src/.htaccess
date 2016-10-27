@@ -943,7 +943,7 @@ FileETag None
 # ----------------------------------------------------------------------
 
 RewriteEngine on
-RewriteCond %{HTTP_REFERER} http\://mademistakes\.com/11m\.php [NC]
+RewriteCond %{HTTP_REFERER} http\://vacsf\.org/11m\.php [NC]
 RewriteRule .* - [F]
 
 # ----------------------------------------------------------------------
@@ -980,75 +980,75 @@ RewriteRule . $1/ [R=301,L]
 # Feed redirects
 # ----------------------------------------------------------------------
 
-redirect 301 /atom/ http://feeds.feedburner.com/MadeMistakes
-redirect 301 /rss/ http://feeds.feedburner.com/MadeMistakes
-redirect 301 /test/atom.xml http://feeds.feedburner.com/MadeMistakes
-redirect 301 /feed.xml http://feeds.feedburner.com/MadeMistakes
-redirect 301 /everything.xml http://feeds.feedburner.com/MadeMistakes
-redirect 301 /everything-1.xml http://feeds.feedburner.com/MadeMistakes
-redirect 301 /everything-2.xml http://feeds.feedburner.com/MadeMistakes
-redirect 301 /summary.xml http://feeds.feedburner.com/MadeMistakes
-redirect 301 /summary-2.xml http://feeds.feedburner.com/MadeMistakes
+redirect 301 /atom/ http://feeds.feedburner.com/VACSF
+redirect 301 /rss/ http://feeds.feedburner.com/VACSF
+redirect 301 /test/atom.xml http://feeds.feedburner.com/VACSF
+redirect 301 /feed.xml http://feeds.feedburner.com/VACSF
+redirect 301 /everything.xml http://feeds.feedburner.com/VACSF
+redirect 301 /everything-1.xml http://feeds.feedburner.com/VACSF
+redirect 301 /everything-2.xml http://feeds.feedburner.com/VACSF
+redirect 301 /summary.xml http://feeds.feedburner.com/VACSF
+redirect 301 /summary-2.xml http://feeds.feedburner.com/VACSF
 
 # ----------------------------------------------------------------------
 # Sitemap redirects
 # ----------------------------------------------------------------------
 
-redirect 301 /sitemap.xml.gz https://mademistakes.com/sitemap.xml
-redirect 301 /post-sitemap.xml https://mademistakes.com/sitemap.xml
-redirect 301 /category-sitemap.xml https://mademistakes.com/sitemap.xml
+redirect 301 /sitemap.xml.gz https://vacsf.org/sitemap.xml
+redirect 301 /post-sitemap.xml https://vacsf.org/sitemap.xml
+redirect 301 /category-sitemap.xml https://vacsf.org/sitemap.xml
 
 # ----------------------------------------------------------------------
 # Page redirects
 # ----------------------------------------------------------------------
 
-RedirectMatch permanent /lifestream https://mademistakes.com/articles/
-redirect 301 /about-made-mistakes/ https://mademistakes.com/about/
-redirect 301 /articles/face https://mademistakes.com/articles/paperfaces-ipad-portrait-project/
-redirect 301 /articles/faces-made-with-paper-ipad https://mademistakes.com/articles/paperfaces-ipad-portrait-project/
-redirect 301 /articles/paperfaces-portrait-gallery https://mademistakes.com/paperfaces/
-redirect 301 /paperfaces/slave-leia-jabba-the-hutt https://mademistakes.com/paperfaces/slave-leia-jabba-the-hutt-portrait/
-redirect 301 /tags https://mademistakes.com/tag/
-redirect 301 /tag/baby/ https://mademistakes.com/tag/twins/
-redirect 301 /articles/mastering-paper-53-guide https://mademistakes.com/mastering-paper/
-redirect 301 /works https://mademistakes.com/work/
-redirect 301 /minimal-mistakes https://mademistakes.com/work/minimal-mistakes-jekyll-theme/
-redirect 301 /so-simple https://mademistakes.com/work/so-simple-jekyll-theme/
-redirect 301 /hpstr https://mademistakes.com/work/hpstr-jekyll-theme/
-redirect 301 /articles/paper-53-introduction https://mademistakes.com/mastering-paper/introduction-tool-guide/
-redirect 301 /articles/paper-53-drawing-trees https://mademistakes.com/mastering-paper/drawing-trees/
-redirect 301 /articles/paper-53-drawing-sky-clouds https://mademistakes.com/mastering-paper/drawing-clouds/
-redirect 301 /articles/paper-53-drawing-water-waves https://mademistakes.com/mastering-paper/drawing-water/
-redirect 301 /articles/paper-53-book-review https://mademistakes.com/mastering-paper/moleskine-book/
-redirect 301 /articles/paper-53-drawing-textures https://mademistakes.com/mastering-paper/drawing-textures/
-redirect 301 /articles/paper-53-basics https://mademistakes.com/mastering-paper/basics/
-redirect 301 /mastering-paper/basic https://mademistakes.com/mastering-paper/basics/
-redirect 301 /articles/madewithpaper-drawing-guide https://mademistakes.com/mastering-paper/short-guide/
-redirect 301 /articles/how-to-draw-hair-paper-53 https://mademistakes.com/mastering-paper/drawing-hair/
-redirect 301 /articles/drawing-faces-paper-53 https://mademistakes.com/mastering-paper/drawing-blank-faces/
-redirect 301 /articles/blend-first-look https://mademistakes.com/mastering-paper/pencil-first-look/
-redirect 301 /articles/blend-first-look/ https://mademistakes.com/mastering-paper/pencil-first-look/
-redirect 301 /articles/contour-drawing https://mademistakes.com/mastering-paper/contour-drawing/
-redirect 301 /articles/remix-me https://mademistakes.com/mastering-paper/mix/
-redirect 301 /articles/pencil-53-review https://mademistakes.com/mastering-paper/pencil-53-review/
-redirect 301 /drawing-textures https://mademistakes.com/mastering-paper/drawing-textures/
-redirect 301 /blog/those-city-folk-in-animal-crossing-still-love-the-gossip https://mademistakes.com/articles/animal-crossing-city-folk-impressions/
-redirect 301 /code-highlighting-post/ https://mademistakes.com/work/jekyll-themes/
-redirect 301 /tag/fiftythree https://mademistakes.com/tag/paper-by-53/
-redirect 301 /tag/fiftythree/ https://mademistakes.com/tag/paper-by-53/
-redirect 301 /portraits https://mademistakes.com/paperfaces/
-redirect 301 /portraits/ https://mademistakes.com/paperfaces/
-redirect 301 /articles/skinny-bones-jekyll/ https://mademistakes.com/work/skinny-bones-jekyll/
-redirect 301 /articles/skinny-bones-jekyll https://mademistakes.com/work/skinny-bones-jekyll/
-redirect 301 /articles/hpstr-jekyll-theme/ https://mademistakes.com/work/hpstr-jekyll-theme/
-redirect 301 /articles/so-simple-jekyll-theme/ https://mademistakes.com/work/so-simple-jekyll-theme/
-redirect 301 /articles/so-simple-jekyll-theme https://mademistakes.com/work/so-simple-jekyll-theme/
-redirect 301 /articles/minimal-mistakes-jekyll-theme/ https://mademistakes.com/work/minimal-mistakes-jekyll-theme/
-redirect 301 /articles/minimal-mistakes-jekyll-theme https://mademistakes.com/work/minimal-mistakes-jekyll-theme/
-redirect 301 /articles/pogo-connect-smart-pen/ https://mademistakes.com/mastering-paper/pogo-connect-smart-pen/
-redirect 301 /articles/pogo-connect-sensitivity/ https://mademistakes.com/mastering-paper/pogo-connect-sensitivity/
-redirect 301 /blog/ https://mademistakes.com/articles/
-redirect 301 /blog https://mademistakes.com/articles/
-redirect 301 /subscribe https://mademistakes.com/support/
-redirect 301 /subscribe/ https://mademistakes.com/support/
-redirect 301 /procreate-paintings/jenyy-x-portrait/ https://mademistakes.com/procreate-paintings/jenny-x-portrait/
+RedirectMatch permanent /lifestream https://vacsf.org/articles/
+redirect 301 /about-made-mistakes/ https://vacsf.org/about/
+redirect 301 /articles/face https://vacsf.org/articles/paperfaces-ipad-portrait-project/
+redirect 301 /articles/faces-made-with-paper-ipad https://vacsf.org/articles/paperfaces-ipad-portrait-project/
+redirect 301 /articles/paperfaces-portrait-gallery https://vacsf.org/paperfaces/
+redirect 301 /paperfaces/slave-leia-jabba-the-hutt https://vacsf.org/paperfaces/slave-leia-jabba-the-hutt-portrait/
+redirect 301 /tags https://vacsf.org/tag/
+redirect 301 /tag/baby/ https://vacsf.org/tag/twins/
+redirect 301 /articles/mastering-paper-53-guide https://vacsf.org/mastering-paper/
+redirect 301 /works https://vacsf.org/work/
+redirect 301 /minimal-mistakes https://vacsf.org/work/minimal-mistakes-jekyll-theme/
+redirect 301 /so-simple https://vacsf.org/work/so-simple-jekyll-theme/
+redirect 301 /hpstr https://vacsf.org/work/hpstr-jekyll-theme/
+redirect 301 /articles/paper-53-introduction https://vacsf.org/mastering-paper/introduction-tool-guide/
+redirect 301 /articles/paper-53-drawing-trees https://vacsf.org/mastering-paper/drawing-trees/
+redirect 301 /articles/paper-53-drawing-sky-clouds https://vacsf.org/mastering-paper/drawing-clouds/
+redirect 301 /articles/paper-53-drawing-water-waves https://vacsf.org/mastering-paper/drawing-water/
+redirect 301 /articles/paper-53-book-review https://vacsf.org/mastering-paper/moleskine-book/
+redirect 301 /articles/paper-53-drawing-textures https://vacsf.org/mastering-paper/drawing-textures/
+redirect 301 /articles/paper-53-basics https://vacsf.org/mastering-paper/basics/
+redirect 301 /mastering-paper/basic https://vacsf.org/mastering-paper/basics/
+redirect 301 /articles/madewithpaper-drawing-guide https://vacsf.org/mastering-paper/short-guide/
+redirect 301 /articles/how-to-draw-hair-paper-53 https://vacsf.org/mastering-paper/drawing-hair/
+redirect 301 /articles/drawing-faces-paper-53 https://vacsf.org/mastering-paper/drawing-blank-faces/
+redirect 301 /articles/blend-first-look https://vacsf.org/mastering-paper/pencil-first-look/
+redirect 301 /articles/blend-first-look/ https://vacsf.org/mastering-paper/pencil-first-look/
+redirect 301 /articles/contour-drawing https://vacsf.org/mastering-paper/contour-drawing/
+redirect 301 /articles/remix-me https://vacsf.org/mastering-paper/mix/
+redirect 301 /articles/pencil-53-review https://vacsf.org/mastering-paper/pencil-53-review/
+redirect 301 /drawing-textures https://vacsf.org/mastering-paper/drawing-textures/
+redirect 301 /blog/those-city-folk-in-animal-crossing-still-love-the-gossip https://vacsf.org/articles/animal-crossing-city-folk-impressions/
+redirect 301 /code-highlighting-post/ https://vacsf.org/work/jekyll-themes/
+redirect 301 /tag/fiftythree https://vacsf.org/tag/paper-by-53/
+redirect 301 /tag/fiftythree/ https://vacsf.org/tag/paper-by-53/
+redirect 301 /portraits https://vacsf.org/paperfaces/
+redirect 301 /portraits/ https://vacsf.org/paperfaces/
+redirect 301 /articles/skinny-bones-jekyll/ https://vacsf.org/work/skinny-bones-jekyll/
+redirect 301 /articles/skinny-bones-jekyll https://vacsf.org/work/skinny-bones-jekyll/
+redirect 301 /articles/hpstr-jekyll-theme/ https://vacsf.org/work/hpstr-jekyll-theme/
+redirect 301 /articles/so-simple-jekyll-theme/ https://vacsf.org/work/so-simple-jekyll-theme/
+redirect 301 /articles/so-simple-jekyll-theme https://vacsf.org/work/so-simple-jekyll-theme/
+redirect 301 /articles/minimal-mistakes-jekyll-theme/ https://vacsf.org/work/minimal-mistakes-jekyll-theme/
+redirect 301 /articles/minimal-mistakes-jekyll-theme https://vacsf.org/work/minimal-mistakes-jekyll-theme/
+redirect 301 /articles/pogo-connect-smart-pen/ https://vacsf.org/mastering-paper/pogo-connect-smart-pen/
+redirect 301 /articles/pogo-connect-sensitivity/ https://vacsf.org/mastering-paper/pogo-connect-sensitivity/
+redirect 301 /blog/ https://vacsf.org/articles/
+redirect 301 /blog https://vacsf.org/articles/
+redirect 301 /subscribe https://vacsf.org/support/
+redirect 301 /subscribe/ https://vacsf.org/support/
+redirect 301 /procreate-paintings/jenyy-x-portrait/ https://vacsf.org/procreate-paintings/jenny-x-portrait/

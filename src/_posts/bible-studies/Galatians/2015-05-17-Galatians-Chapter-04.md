@@ -18,6 +18,8 @@ comments_locked: false
 
 {{ page.excerpt | markdownify }}
 
+[(<em>Bấm vào đây để đọc tiếng Việt</em>)]({{ site.url }}{% post_url 2015-05-17-Ga-la-ti-Chuong-04 %})
+
 ## Definition of a slave
 
 > <sup>1</sup>Now I mean that the heir, as long as he is a minor, is <span style="text-decoration: underline; color: #d30015;">no different from a slave</span>, though he is the owner of everything. <sup>2</sup>But he is under guardians and managers until the date set by his father.

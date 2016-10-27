@@ -16,9 +16,9 @@ comments_locked: false
 {% include toc_spacer.html %}
 {% include bible-study/romans-chapters %}
 
-<!-- {{ page.excerpt | markdownify }} -->
+{{ page.excerpt | markdownify }}
 
-The Jews were entrusted with the oracles of God. God's righteousness abides even as those that call themselves by His name fail in every way. God's grace is unfathomable against the backdrop of man's wretchedness. All men are under condemnation. The law's purpose is to convict all men of sin. Preach grace and you'll be accused of promoting sins. No one can be justified by the works of the law. God's righteousness for all who believe. Justified freely. Since salvation is by grace and through faith, there can be no boasting. Preach faith and you will be accused of trying to nullify the law.
+[(<em>Bấm vào đây để đọc tiếng Việt</em>)]({{ site.url }}{% post_url 2015-05-18-Ro-ma-Chuong-03 %})
 
 ## God's promise of salvation will forever hold true
 

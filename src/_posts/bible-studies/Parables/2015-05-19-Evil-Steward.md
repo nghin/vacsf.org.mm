@@ -2,7 +2,7 @@
 title: "Parable of the Evil Steward"
 excerpt: "This parable is not about money, but it is a mockery of those who think they can buy God's kingdom with their wealth. (Luke 16:1-8)."
 image: 
-  teaser: parable-evil-steward-teaser.png
+  teaser: parable-of-the-evil-steward-teaser.jpg
 tags: [parable, bible-studies]
 featured: false
 modified:
@@ -15,7 +15,7 @@ feature:
 
 {{ page.excerpt | markdownify }}
 
-<em>(Bấm vào đây để đọc tiếng Việt)</em>
+[(<em>Bấm vào đây để đọc tiếng Việt</em>)]({{ site.url }}{% post_url 2015-05-19-Quan-Gia %})
 
 <div>
 <p>

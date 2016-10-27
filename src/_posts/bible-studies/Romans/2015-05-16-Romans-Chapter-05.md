@@ -16,9 +16,9 @@ comments_locked: false
 {% include toc_spacer.html %}
 {% include bible-study/romans-chapters %}
 
-Faith: access to God's grace and peace. Rejoice in sufferings. God demonstrates His love for us. Reconciliation with God. Saved by Christ's life. Death spreads to all. The Gift by the Grace of God. The reigns of sin vs. grace.
+{{ page.excerpt | markdownify }}
 
-<!-- {{ page.excerpt | markdownify }} -->
+[(<em>Bấm vào đây để đọc tiếng Việt</em>)]({{ site.url }}{% post_url 2015-05-16-Ro-ma-Chuong-05 %})
 
 <div>
 <p>

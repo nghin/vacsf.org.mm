@@ -18,6 +18,8 @@ comments_locked: false
 
 {{ page.excerpt | markdownify }}
 
+[(<em>Bấm vào đây để đọc tiếng Việt</em>)]({{ site.url }}{% post_url 2015-05-10-Ro-ma-Chuong-11 %})
+
 ## The remnant - God's way of selection
 
 > <sup>1</sup>So I ask, God has not rejected his people, has he? Absolutely not! For I too am an Israelite, a descendant of Abraham, from the tribe of Benjamin. <sup>2</sup>God has not rejected his people whom he foreknew! Do you not know what the scripture says about Elijah, how he pleads with God against Israel? &nbsp;<sup>3</sup>"Lord, they have killed your prophets, they have demolished your altars; I alone am left and they are seeking my life!" &nbsp;<sup>4</sup>But what was the divine response to him? "I have kept for myself seven thousand people who have not bent the knee to Baal." <sup>5</sup>So in the same way at the present time there is a remnant chosen by grace.&nbsp;(Romans 11:1-5)

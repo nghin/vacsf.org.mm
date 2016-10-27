@@ -18,6 +18,8 @@ comments_locked: false
 
 {{ page.excerpt | markdownify }}
 
+[(<em>Bấm vào đây để đọc tiếng Việt</em>)]({{ site.url }}{% post_url 2015-05-13-Ro-ma-Chuong-08 %})
+
 <div>
 <p>
 <img alt src="{{ site.url }}/assets/images/no-condemnation.jpg" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 136px; padding: 0px; float: left;">

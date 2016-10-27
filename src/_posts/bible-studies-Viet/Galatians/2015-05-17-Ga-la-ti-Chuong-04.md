@@ -18,7 +18,7 @@ comments_locked: false
 
 {{ page.excerpt | markdownify }}
 
-## Definition of a slave
+## Định nghĩa nô lệ
 
 > <sup>1</sup>Vả, tôi nói rằng người kế tự dầu là chủ của mọi vật, mà đương còn thơ ấu, thì chẳng khác chi kẻ tôi mọi; <sup>2</sup>phải ở dưới quyền kẻ bảo hộ và kẻ coi giữ, cho đến kỳ người cha đã định (Galatians 4:1).
 

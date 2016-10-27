@@ -1,21 +1,21 @@
 <nav class="js-toc toc">
   <h4 class="toc__title">Các Đề Tài Khác</h4>
 <ul class="toc__menu" id="markdown-toc">
-      <li><a href="/articles/Resist-unto-blood/" id="markdown-toc-building-the-style-guide">Chống Trả Tội Lỗi<br /><span style="font-weight: normal;">&mdash;Đến mức đổ huyết</span></a></li>
-      <li><a href="/articles/Surrender/" id="markdown-toc-building-the-style-guide">Đầu Phục Chúa<br /><span style="font-weight: normal;">&mdash;Để Chúa Làm Chủ</span></a></li>
-      <li><a href="/articles/Remain-in-Sin/" id="markdown-toc-building-the-style-guide">Ở Trong Tội Lỗi<br /><span style="font-weight: normal;">&mdash;Thực Sự Phao-lô muốn nói gì?</span></a></li>
-      <li><a href="/articles/Loving-God/" id="markdown-toc-building-the-style-guide">Yêu Chúa<br /><span style="font-weight: normal;">&mdash;Bạn có thực yêu Chúa được không?</span></a></li>
-      <li><a href="/articles/Serving-God/" id="markdown-toc-building-the-style-guide">Hầu Việc Chúa<br /><span style="font-weight: normal;">&mdash;Một cái nhìn chính xác hơn</span></a></li>
-      <li><a href="/articles/Abrahams-Prayer/" id="markdown-toc-building-the-style-guide">Lời Cầu Nguyện của Áp-ra-ham<br /><span style="font-weight: normal;">&mdash;Một chiến sĩ cầu nguyện chân chính</span></a></li>
-      <li><a href="/articles/Abusing-Grace/" id="markdown-toc-building-the-style-guide">Lạm Dụng Ân Điển&mdash;Romans<span style="color: rgba(0,0,0,0);">_</span> 6:1<br /><span style="font-weight: normal;">&mdash;Đây có thực là điều đáng quan tâm?</span></a></li>
-      <li><a href="/articles/Missing-Gods-Grace/" id="markdown-toc-building-the-style-guide">Trật Phần Ân Điển&mdash;Galatians<span style="color: rgba(0,0,0,0);">_</span>5:4<br /><span style="font-weight: normal;">&mdash;Ai Trật Phần Ân Điển?</span></a></li>
-      <li><a href="/articles/Suffer-with-Christ/" id="markdown-toc-building-the-style-guide">Chịu Khổ Với Chúa&mdash;Romans<span style="color: rgba(0,0,0,0);">_</span>8:16-17<br /><span style="font-weight: normal;">&mdash;Một Giả Định Sai?</span></a></li>
-      <li><a href="/articles/Deliberate-Sin/" id="markdown-toc-building-the-style-guide">Cố Ý Phạm Tội&mdash;Hebrews<span style="color: rgba(0,0,0,0);">_</span>10:26-27<br /><span style="font-weight: normal;">&mdash;Tội Chẳng Tin</span></a></li>
-      <li><a href="/articles/The-Enabling-Grace/" id="markdown-toc-building-the-style-guide">Quyền Năng Ân Điển&mdash;A Rock Climbing Illustration<br /><span style="font-weight: normal;">&mdash;Ân Điển Chúa Trong Đời Sống</span></a></li>
-      <li><a href="/articles/Mortify-the-Deeds-of-the-Flesh/" id="markdown-toc-building-the-style-guide">Làm Chết Các Việc Của Chi Thể<br /><span style="font-weight: normal;">&mdash;Một cái nhìn về Romans<span style="color: rgba(0,0,0,0);">_</span>:13</span></a></li>
-      <li><a href="/articles/The-Ambassador/" id="markdown-toc-building-the-style-guide">Quan Khâm Sai<br /><span style="font-weight: normal;">&mdash;Bạn Đang Rao Truyền Phúc Âm Gì?</span></a></li>
-      <li><a href="/articles/Grieve-Holy-Spirit/" id="markdown-toc-building-the-style-guide">Làm Buồn Thánh Linh<br /><span style="font-weight: normal;">&mdash;Mất Sự Sống Đời Đời?</span></a></li>
-      <li><a href="/articles/Rewards-in-heaven/" id="markdown-toc-building-the-style-guide">Phần Thưởng<br /><span style="font-weight: normal;">&mdash;Các Phần Thưởng Khác Nhau Trên Thiên Đàng?</span></a></li>
-      <li><a href="/articles/Faith-Salvation-Work-Cycle/" id="markdown-toc-building-the-style-guide">Vòng Tròn Đức-Tin->Cứu-Rỗi->Việc-Làm<br /><span style="font-weight: normal;">&mdash;Một Vòng Tròn Luẩn Quẩn</span></a></li>
+      <li><a href="{{ site.url }}/viet-studies/Chong-tra-toi-loi/" id="markdown-toc-building-the-style-guide">Chống Trả Tội Lỗi<br /><span style="font-weight: normal;">&mdash;Đến mức đổ huyết</span></a></li>
+      <li><a href="{{ site.url }}/viet-studies/Dau-Phuc-Chua/" id="markdown-toc-building-the-style-guide">Đầu Phục Chúa<br /><span style="font-weight: normal;">&mdash;Để Chúa Làm Chủ</span></a></li>
+      <li><a href="{{ site.url }}/viet-studies/O-Trong-Toi-Loi/" id="markdown-toc-building-the-style-guide">Ở Trong Tội Lỗi<br /><span style="font-weight: normal;">&mdash;Thực Sự Phao-lô muốn nói gì?</span></a></li>
+      <li><a href="{{ site.url }}/viet-studies/Yeu-Chua/" id="markdown-toc-building-the-style-guide">Yêu Chúa<br /><span style="font-weight: normal;">&mdash;Bạn có thực yêu Chúa được không?</span></a></li>
+      <li><a href="{{ site.url }}/viet-studies/Hau-Viec-Chua/" id="markdown-toc-building-the-style-guide">Hầu Việc Chúa<br /><span style="font-weight: normal;">&mdash;Một cái nhìn chính xác hơn</span></a></li>
+      <li><a href="{{ site.url }}/viet-studies/Loi-Cau-Nguyen-cua-Abraham/" id="markdown-toc-building-the-style-guide">Lời Cầu Nguyện của Áp-ra-ham<br /><span style="font-weight: normal;">&mdash;Một chiến sĩ cầu nguyện chân chính</span></a></li>
+      <li><a href="{{ site.url }}/viet-studies/Lam-dung-an-dien/" id="markdown-toc-building-the-style-guide">Lạm Dụng Ân Điển&mdash;Romans<span style="color: rgba(0,0,0,0);">_</span> 6:1<br /><span style="font-weight: normal;">&mdash;Đây có thực là điều đáng quan tâm?</span></a></li>
+      <li><a href="{{ site.url }}/viet-studies/Trat-phan-an-dien/" id="markdown-toc-building-the-style-guide">Trật Phần Ân Điển&mdash;Galatians<span style="color: rgba(0,0,0,0);">_</span>5:4<br /><span style="font-weight: normal;">&mdash;Ai Trật Phần Ân Điển?</span></a></li>
+      <li><a href="{{ site.url }}/viet-studies/Chiu-kho-voi-Chua/" id="markdown-toc-building-the-style-guide">Chịu Khổ Với Chúa&mdash;Romans<span style="color: rgba(0,0,0,0);">_</span>8:16-17<br /><span style="font-weight: normal;">&mdash;Một Giả Định Sai?</span></a></li>
+      <li><a href="{{ site.url }}/viet-studies/Co-y-pham-toi/" id="markdown-toc-building-the-style-guide">Cố Ý Phạm Tội&mdash;Hebrews<span style="color: rgba(0,0,0,0);">_</span>10:26-27<br /><span style="font-weight: normal;">&mdash;Tội Chẳng Tin</span></a></li>
+      <li><a href="{{ site.url }}/viet-studies/Quyen-nang-an-dien/" id="markdown-toc-building-the-style-guide">Quyền Năng Ân Điển&mdash;A Rock Climbing Illustration<br /><span style="font-weight: normal;">&mdash;Ân Điển Chúa Trong Đời Sống</span></a></li>
+      <li><a href="{{ site.url }}/viet-studies/Lam-chet-cac-viec-cua-chi-the/" id="markdown-toc-building-the-style-guide">Làm Chết Các Việc Của Chi Thể<br /><span style="font-weight: normal;">&mdash;Một cái nhìn về Romans<span style="color: rgba(0,0,0,0);">_</span>:13</span></a></li>
+      <li><a href="{{ site.url }}/viet-studies/Quan-Kham-Sai/" id="markdown-toc-building-the-style-guide">Quan Khâm Sai<br /><span style="font-weight: normal;">&mdash;Bạn Đang Rao Truyền Phúc Âm Gì?</span></a></li>
+      <li><a href="{{ site.url }}/viet-studies/Lam-Buon-Thanh-Linh/" id="markdown-toc-building-the-style-guide">Làm Buồn Thánh Linh<br /><span style="font-weight: normal;">&mdash;Mất Sự Sống Đời Đời?</span></a></li>
+      <li><a href="{{ site.url }}/viet-studies/Phan-thuong-tren-troi/" id="markdown-toc-building-the-style-guide">Phần Thưởng<br /><span style="font-weight: normal;">&mdash;Các Phần Thưởng Khác Nhau Trên Thiên Đàng?</span></a></li>
+      <li><a href="{{ site.url }}/articles/Faith-Salvation-Work-Cycle/" id="markdown-toc-building-the-style-guide">Vòng Tròn Đức-Tin->Cứu-Rỗi->Việc-Làm<br /><span style="font-weight: normal;">&mdash;Một Vòng Tròn Luẩn Quẩn</span></a></li>
 </ul>
 </nav>

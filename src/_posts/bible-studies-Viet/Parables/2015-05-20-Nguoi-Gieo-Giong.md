@@ -2,7 +2,7 @@
 title: "Ngụ Ngôn Người Gieo Giống"
 excerpt: "Hiểu đúng ý nghĩa của ngụ ngôn này sẽ giúp người tín hữu thoát khỏi sự hoang mang không biết mình thuộc loại đất nào. Cách giải thích phổ thông sẽ khiến nhiều tín hữu tự hỏi không biết mình có được cứu không, đừng nói đến sự có kết quả cho Chúa (Matthew 13:1-23)."
 image: 
-  teaser: parable-sower-teaser.png
+  teaser: parable-of-the-sower-teaser.jpg
 tags: [parable, bible-studies]
 featured: false
 modified:

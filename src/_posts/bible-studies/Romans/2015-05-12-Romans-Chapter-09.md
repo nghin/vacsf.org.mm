@@ -18,6 +18,8 @@ comments_locked: false
 
 {{ page.excerpt | markdownify }}
 
+[(<em>Bấm vào đây để đọc tiếng Việt</em>)]({{ site.url }}{% post_url 2015-05-12-Ro-ma-Chuong-09 %})
+
 > <sup>1</sup>I am telling the truth in Christ (I am not lying!), for my conscience assures me in the Holy Spirit - &nbsp;<sup>2</sup>I have great sorrow and unceasing anguish in my heart. &nbsp;<sup>3</sup>For I could wish that I myself were accursed - cut off from Christ - for the sake of my people, my fellow countrymen, &nbsp;<sup>4</sup>who are Israelites. To them belong the adoption as sons, the glory, the covenants, the giving of the law, the temple worship, and the promises. &nbsp;<sup>5</sup>To them belong the patriarchs, and from them, by human descent, came the Christ, who is God over all, blessed forever! Amen. (Romans 9:1-5)
 
 <div>

@@ -18,7 +18,9 @@ comments_locked: false
 
 The master/slave relationship with the law. Released from one to marry another. To bear fruit to God: die to the law. Law/death vs. Spirit/life. The law reveals sin. The commandment brought death, not life. Men's utter helplessness. We need WHO, not HOW.
 
-<!-- {{ page.excerpt | markdownify }} -->
+{{ page.excerpt | markdownify }}
+
+[(<em>Bấm vào đây để đọc tiếng Việt</em>)]({{ site.url }}{% post_url 2015-05-14-Ro-ma-Chuong-07 %})
 
 <div>
 <p>

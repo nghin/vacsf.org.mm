@@ -2,8 +2,8 @@
 title: "Galatians"
 excerpt: "Study Notes on the book of Galatians"
 image: 
-  feature: galatians-feature.jpg
-  teaser: galatians-teaser.png
+  feature: Galatians.jpg
+  teaser: Galatians-teaser.png
   thumb: galatians-thumb.png
 tags: [galatians, bible-studies]
 featured: true

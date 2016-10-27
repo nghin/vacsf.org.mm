@@ -15,6 +15,8 @@ feature:
 ---
 The Bible is not written just for theologians, but for the world at the most `common denominator` so everyone can know the will of God.
 
+<a href="{{ site.url }}/viet-studies/"><em>(Bấm vào <u>đây</u> để đọc tiếng Việt)</em></a>
+
 <div class="notice--info" markdown="1">
 There are, of course, many obscure passages requiring knowledge of some historical context, but `there are enough clear truths` to be understood and live by for a lifetime. I like to use the analogy of a plane which is defined by three points. Let's call this a plane of truth. There are many more than 3 points of truth to define God's plan of salvation. If we frequently check our understanding, or interpretation, against them, we can't go wrong. And it's all about Jesus.
 </div>

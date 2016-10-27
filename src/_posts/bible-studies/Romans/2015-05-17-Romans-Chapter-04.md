@@ -16,9 +16,9 @@ comments_locked: false
 {% include toc_spacer.html %}
 {% include bible-study/romans-chapters %}
 
-<!-- {{ page.excerpt | markdownify }} -->
+{{ page.excerpt | markdownify }}
 
-Boasting is the characteristic of those that rely on the law. Those that do not work, but believe in Christ is considered righteous. Rightousness is credited apart from works. God will never count the sins of those that believe ever again. Abraham was called righteous even before he was circumcised. Dead faith belongs to the one who relies on the law to get right with God. God's promise is only voided if you rely on the law to get right with Him. The law only brings wrath. In conclusion, righteousness is by grace through faith only.
+[(<em>Bấm vào đây để đọc tiếng Việt</em>)]({{ site.url }}{% post_url 2015-05-17-Ro-ma-Chuong-04 %})
 
 ## The law and boasting — Faith is enough
 

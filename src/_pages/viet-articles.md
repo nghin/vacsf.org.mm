@@ -1,13 +1,12 @@
 ---
 layout: archive
 permalink: /viet-studies/
-title: "Các Ý Niệm Kinh Thánh Phổ Thông"
+title: "Các Tín Lý Phổ Thông Thường Bị Giải Thích Sai Lạc"
 date: 2014-06-02T15:05:16-04:00
 modified: 2016-01-04T16:38:17-05:00
 excerpt: "Kinh Thánh không phải chỉ viết cho các thần học gia, nhưng cho mọi người ở một trình độ chung hầu cho ai cũng có thể biết được ý Ngài."
-subtitle: "<em>Vì Ðức Chúa Trời yêu thương thế gian, đến nỗi đã ban Con một của Ngài, hầu cho hễ ai tin Con ấy không bị hư mất mà được sự sống đời đời.(John 3:16)</em>."
 image:
-  feature: vacsf-home-banner-02.jpg
+  feature: vacsf-home-banner-Viet.jpg
 feature:
   visible: true
   headline: "Các Ý Niệm Phổ Thông"

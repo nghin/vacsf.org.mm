@@ -1,21 +1,21 @@
 <nav class="js-toc toc">
   <h4 class="toc__title">Other Topics</h4>
 <ul class="toc__menu" id="markdown-toc">
-      <li><a href="/articles/Resist-unto-blood/" id="markdown-toc-building-the-style-guide">Resist Unto Blood<br /><span style="font-weight: normal;">&mdash;Striving against sin</span></a></li>
-      <li><a href="/articles/Surrender/" id="markdown-toc-building-the-style-guide">Surrender<br /><span style="font-weight: normal;">&mdash;How to put Jesus in control</span></a></li>
-      <li><a href="/articles/Remain-in-Sin/" id="markdown-toc-building-the-style-guide">Remaining In Sin<br /><span style="font-weight: normal;">&mdash;What does Paul really mean?</span></a></li>
-      <li><a href="/articles/Loving-God/" id="markdown-toc-building-the-style-guide">Loving God<br /><span style="font-weight: normal;">&mdash;Can you really love God?</span></a></li>
-      <li><a href="/articles/Serving-God/" id="markdown-toc-building-the-style-guide">Serving God<br /><span style="font-weight: normal;">&mdash;A more accurate view</span></a></li>
-      <li><a href="/articles/Abrahams-Prayer/" id="markdown-toc-building-the-style-guide">Abraham's Prayer<br /><span style="font-weight: normal;">&mdash;A true prayer warrior</span></a></li>
-      <li><a href="/articles/Abusing-Grace/" id="markdown-toc-building-the-style-guide">Abusing God's Grace&mdash;<cite>Romans 6:1</cite><br /><span style="font-weight: normal;">&mdash;Is this a valid concern?</span></a></li>
-      <li><a href="/articles/Missing-Gods-Grace/" id="markdown-toc-building-the-style-guide">Missing God's Grace&mdash;<cite>Galatians 5:4</cite><br /><span style="font-weight: normal;">&mdash;Who misses God's grace</span></a></li>
-      <li><a href="/articles/Suffer-with-Christ/" id="markdown-toc-building-the-style-guide">Suffering with Christ&mdash;<cite>Romans 8:16-17</cite><br /><span style="font-weight: normal;">&mdash;A false assumption?</span></a></li>
-      <li><a href="/articles/Deliberate-Sin/" id="markdown-toc-building-the-style-guide">Deliberate Sin&mdash;<cite>Hebrews 10:26-27</cite><br /><span style="font-weight: normal;">&mdash;The sin of unbelief</span></a></li>
-      <li><a href="/articles/The-Enabling-Grace/" id="markdown-toc-building-the-style-guide">Enabling Grace&mdash;A Rock Climbing Illustration<br /><span style="font-weight: normal;">&mdash;God's grace in real life</span></a></li>
-      <li><a href="/articles/Mortify-the-Deeds-of-the-Flesh/" id="markdown-toc-building-the-style-guide">Mortify the Deeds of the Body<br /><span style="font-weight: normal;">&mdash;An interpretation of Romans<span style="color: rgba(0,0,0,0);">_</span>:13</span></a></li>
-      <li><a href="/articles/The-Ambassador/" id="markdown-toc-building-the-style-guide">Nghi's Parable of the Ambassador<br /><span style="font-weight: normal;">&mdash;What gospel are you proclaiming?</span></a></li>
-      <li><a href="/articles/Grieve-Holy-Spirit/" id="markdown-toc-building-the-style-guide">Grieving the Holy Spirit<br /><span style="font-weight: normal;">&mdash;Will you lose your salvation?</span></a></li>
-      <li><a href="/articles/Rewards-in-heaven/" id="markdown-toc-building-the-style-guide">Rewards<br /><span style="font-weight: normal;">&mdash;Degrees of rewards in heaven?</span></a></li>
-      <li><a href="/articles/Faith-Salvation-Work-Cycle/" id="markdown-toc-building-the-style-guide">The Faith-Salvation-Work Cycle<br /><span style="font-weight: normal;">&mdash;The cycle of frustration</span></a></li>
+      <li><a href="{{ site.url }}/articles/Resist-unto-blood/" id="markdown-toc-building-the-style-guide">Resist Unto Blood<br /><span style="font-weight: normal;">&mdash;Striving against sin</span></a></li>
+      <li><a href="{{ site.url }}/articles/Surrender/" id="markdown-toc-building-the-style-guide">Surrender<br /><span style="font-weight: normal;">&mdash;How to put Jesus in control</span></a></li>
+      <li><a href="{{ site.url }}/articles/Remain-in-Sin/" id="markdown-toc-building-the-style-guide">Remaining In Sin<br /><span style="font-weight: normal;">&mdash;What does Paul really mean?</span></a></li>
+      <li><a href="{{ site.url }}/articles/Loving-God/" id="markdown-toc-building-the-style-guide">Loving God<br /><span style="font-weight: normal;">&mdash;Can you really love God?</span></a></li>
+      <li><a href="{{ site.url }}/articles/Serving-God/" id="markdown-toc-building-the-style-guide">Serving God<br /><span style="font-weight: normal;">&mdash;A more accurate view</span></a></li>
+      <li><a href="{{ site.url }}/articles/Abrahams-Prayer/" id="markdown-toc-building-the-style-guide">Abraham's Prayer<br /><span style="font-weight: normal;">&mdash;A true prayer warrior</span></a></li>
+      <li><a href="{{ site.url }}/articles/Abusing-Grace/" id="markdown-toc-building-the-style-guide">Abusing God's Grace&mdash;<cite>Romans 6:1</cite><br /><span style="font-weight: normal;">&mdash;Is this a valid concern?</span></a></li>
+      <li><a href="{{ site.url }}/articles/Missing-Gods-Grace/" id="markdown-toc-building-the-style-guide">Missing God's Grace&mdash;<cite>Galatians 5:4</cite><br /><span style="font-weight: normal;">&mdash;Who misses God's grace</span></a></li>
+      <li><a href="{{ site.url }}/articles/Suffer-with-Christ/" id="markdown-toc-building-the-style-guide">Suffering with Christ&mdash;<cite>Romans 8:16-17</cite><br /><span style="font-weight: normal;">&mdash;A false assumption?</span></a></li>
+      <li><a href="{{ site.url }}/articles/Deliberate-Sin/" id="markdown-toc-building-the-style-guide">Deliberate Sin&mdash;<cite>Hebrews 10:26-27</cite><br /><span style="font-weight: normal;">&mdash;The sin of unbelief</span></a></li>
+      <li><a href="{{ site.url }}/articles/The-Enabling-Grace/" id="markdown-toc-building-the-style-guide">Enabling Grace&mdash;A Rock Climbing Illustration<br /><span style="font-weight: normal;">&mdash;God's grace in real life</span></a></li>
+      <li><a href="{{ site.url }}/articles/Mortify-the-Deeds-of-the-Flesh/" id="markdown-toc-building-the-style-guide">Mortify the Deeds of the Body<br /><span style="font-weight: normal;">&mdash;An interpretation of Romans<span style="color: rgba(0,0,0,0);">_</span>:13</span></a></li>
+      <li><a href="{{ site.url }}/articles/The-Ambassador/" id="markdown-toc-building-the-style-guide">Nghi's Parable of the Ambassador<br /><span style="font-weight: normal;">&mdash;What gospel are you proclaiming?</span></a></li>
+      <li><a href="{{ site.url }}/articles/Grieve-Holy-Spirit/" id="markdown-toc-building-the-style-guide">Grieving the Holy Spirit<br /><span style="font-weight: normal;">&mdash;Will you lose your salvation?</span></a></li>
+      <li><a href="{{ site.url }}/articles/Rewards-in-heaven/" id="markdown-toc-building-the-style-guide">Rewards<br /><span style="font-weight: normal;">&mdash;Degrees of rewards in heaven?</span></a></li>
+      <li><a href="{{ site.url }}/articles/Faith-Salvation-Work-Cycle/" id="markdown-toc-building-the-style-guide">The Faith-Salvation-Work Cycle<br /><span style="font-weight: normal;">&mdash;The cycle of frustration</span></a></li>
 </ul>
 </nav>

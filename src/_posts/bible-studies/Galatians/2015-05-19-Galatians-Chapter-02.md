@@ -18,6 +18,8 @@ comments_locked: false
 
 {{ page.excerpt | markdownify }}
 
+[(<em>Bấm vào đây để đọc tiếng Việt</em>)]({{ site.url }}{% post_url 2015-05-19-Ga-la-ti-Chuong-02 %})
+
 ## Paul's attempt in preserving the gospel
 
 > <sup>1</sup>Then after fourteen years I went up to Jerusalem again with Barnabas, taking Titus along too. <sup>2</sup>I went there because of a revelation and presented to them the gospel that I preach among the Gentiles. But I did so only in a <u>private meeting</u> with the influential people, to make sure that I was not running—or had not <u>run—in vain</u>.

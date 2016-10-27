@@ -18,6 +18,8 @@ comments_locked: false
 
 {{ page.excerpt | markdownify }}
 
+[(<em>Bấm vào đây để đọc tiếng Việt</em>)]({{ site.url }}{% post_url 2015-05-20-Ro-ma-Chuong-01 %})
+
 ### The Obedience of faith
 
 > <sup>1</sup>From Paul, a <u>slave</u> of Christ Jesus, called to be an apostle, set apart for the gospel of God. <sup>2</sup>This gospel he promised beforehand through his prophets in the holy scriptures, <sup>3</sup>concerning his Son who was a descendant of David with reference to the flesh, <sup>4</sup>who was appointed the Son-of-God-in-power according to the Holy Spirit by the resurrection from the dead, Jesus Christ our Lord.<sup>5</sup>Through him we have received grace and our apostleship to bring about the <u>obedience of faith</u> among all the Gentiles on behalf of his name. <sup>6</sup>You also are among them, called to belong to Jesus Christ. <sup>7</sup>To all those loved by God in Rome, called to be saints: Grace and peace to you from God our Father and the Lord Jesus Christ! (Romans 1:1-7—NET Bible)

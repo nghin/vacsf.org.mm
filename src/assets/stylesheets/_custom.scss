@@ -4,56 +4,57 @@
 /* BEGIN PT Sans Narrow */
 @font-face {
   font-family: 'PT Sans Narrow';
-  src: url('/assets/fonts/PTSans-Narrow.eot'); /* IE9 Compat Modes */
-  src: url('/assets/fonts/PTSans-Narrow.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-    url('/assets/fonts/PTSans-Narrow.woff2') format('woff2'), /* Modern Browsers */
-    url('/assets/fonts/PTSans-Narrow.woff') format('woff'); /* Modern Browsers */
+  src: url('../fonts/PTSans-Narrow.eot'); /* IE9 Compat Modes */
+  src: url('../fonts/\
+  PTSans-Narrow.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('../fonts/PTSans-Narrow.woff2') format('woff2'), /* Modern Browsers */
+    url('../fonts/PTSans-Narrow.woff') format('woff'); /* Modern Browsers */
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: 'PT Sans Narrow';
-  src: url('/assets/fonts/PTSans-NarrowBold.eot'); /* IE9 Compat Modes */
-  src: url('/assets/fonts/PTSans-NarrowBold.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-    url('/assets/fonts/PTSans-NarrowBold.woff2') format('woff2'), /* Modern Browsers */
-    url('/assets/fonts/PTSans-NarrowBold.woff') format('woff'); /* Modern Browsers */
+  src: url('../fonts/PTSans-NarrowBold.eot'); /* IE9 Compat Modes */
+  src: url('../fonts/PTSans-NarrowBold.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('../fonts/PTSans-NarrowBold.woff2') format('woff2'), /* Modern Browsers */
+    url('../fonts/PTSans-NarrowBold.woff') format('woff'); /* Modern Browsers */
   font-weight: bold;
   font-style: normal;
 }
 /* BEGIN PT Serif */
 @font-face {
   font-family: 'PT Serif';
-  src: url('/assets/fonts/PTSerif-Regular.eot'); /* IE9 Compat Modes */
-  src: url('/assets/fonts/PTSerif-Regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-    url('/assets/fonts/PTSerif-Regular.woff2') format('woff2'), /* Modern Browsers */
-    url('/assets/fonts/PTSerif-Regular.woff') format('woff'); /* Modern Browsers */
+  src: url('../fonts/PTSerif-Regular.eot'); /* IE9 Compat Modes */
+  src: url('../fonts/PTSerif-Regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('../fonts/PTSerif-Regular.woff2') format('woff2'), /* Modern Browsers */
+    url('../fonts/PTSerif-Regular.woff') format('woff'); /* Modern Browsers */
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: 'PT Serif';
-  src: url('/assets/fonts/PTSerif-Italic.eot'); /* IE9 Compat Modes */
-  src: url('/assets/fonts/PTSerif-Italic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-    url('/assets/fonts/PTSerif-Italic.woff2') format('woff2'), /* Modern Browsers */
-    url('/assets/fonts/PTSerif-Italic.woff') format('woff'); /* Modern Browsers */
+  src: url('../fonts/PTSerif-Italic.eot'); /* IE9 Compat Modes */
+  src: url('../fonts/PTSerif-Italic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('../fonts/PTSerif-Italic.woff2') format('woff2'), /* Modern Browsers */
+    url('../fonts/PTSerif-Italic.woff') format('woff'); /* Modern Browsers */
   font-weight: normal;
   font-style: italic;
 }
 @font-face {
   font-family: 'PT Serif';
-  src: url('/assets/fonts/PTSerif-BoldItalic.eot'); /* IE9 Compat Modes */
-  src: url('/assets/fonts/PTSerif-BoldItalic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-    url('/assets/fonts/PTSerif-BoldItalic.woff2') format('woff2'), /* Modern Browsers */
-    url('/assets/fonts/PTSerif-BoldItalic.woff') format('woff'); /* Modern Browsers */
+  src: url('../fonts/PTSerif-BoldItalic.eot'); /* IE9 Compat Modes */
+  src: url('../fonts/PTSerif-BoldItalic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('../fonts/PTSerif-BoldItalic.woff2') format('woff2'), /* Modern Browsers */
+    url('../fonts/PTSerif-BoldItalic.woff') format('woff'); /* Modern Browsers */
   font-weight: bold;
   font-style: italic;
 }
 @font-face {
   font-family: 'PT Serif';
-  src: url('/assets/fonts/PTSerif-Bold.eot'); /* IE9 Compat Modes */
-  src: url('/assets/fonts/PTSerif-Bold.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-    url('/assets/fonts/PTSerif-Bold.woff2') format('woff2'), /* Modern Browsers */
-    url('/assets/fonts/PTSerif-Bold.woff') format('woff'); /* Modern Browsers */
+  src: url('../fonts/PTSerif-Bold.eot'); /* IE9 Compat Modes */
+  src: url('../fonts/PTSerif-Bold.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('../fonts/PTSerif-Bold.woff2') format('woff2'), /* Modern Browsers */
+    url('../fonts/PTSerif-Bold.woff') format('woff'); /* Modern Browsers */
   font-weight: bold;
   font-style: normal;
 }
