@@ -3,20 +3,11 @@
 articles:
   name: "Blog Articles"
 
+viet-studies:
+  name: "Các Ý Niệm Phổ Thông"
+
 bible-studies:
   name: "Bible Studies"
-
-mastering-paper:
-  name: "Mastering Paper by 53"
-
-paperfaces:
-  name: "PaperFaces Portraits"
-
-procreate-paintings:
-  name: "Procreate Paintings"
-
-tiny-paintings:
-  name: "Tiny Paintings"
 
 work:
   name: "Work"

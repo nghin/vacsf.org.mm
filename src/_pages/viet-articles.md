@@ -1,10 +1,10 @@
 ---
 layout: archive
 permalink: /viet-studies/
-title: "Các Tín Lý Phổ Thông Thường Bị Giải Thích Sai Lạc"
+title: "VACSF.ORG"
 date: 2014-06-02T15:05:16-04:00
 modified: 2016-01-04T16:38:17-05:00
-excerpt: "Kinh Thánh không phải chỉ viết cho các thần học gia, nhưng cho mọi người ở một trình độ chung hầu cho ai cũng có thể biết được ý Ngài."
+excerpt: "Dưới đây là một số những bài viết nhắm vào những đoạn hoặc ý niệm trong Kinh Thánh thường bị giải thích sai lạc."
 image:
   feature: vacsf-home-banner-Viet.jpg
 feature:

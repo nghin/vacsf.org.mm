@@ -26,7 +26,7 @@ comments_locked: false
 
 <div>
 <p>
-<img alt src="{{ site.url }}/assets/images/different-gospel.jpg" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 136px; padding: 0px; float: left;">
+<img alt src="{{ site.url }}/assets/images/different-gospel.jpg" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;">
 After fourteen years, since his conversion, Paul visited Jerusalem (also mentioned in Acts 15:1-4) at the same time when the church and apostles council met to decide that Gentile Christians didn’t need to be circumcised.
 </p>
 </div>

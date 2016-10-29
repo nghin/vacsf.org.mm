@@ -26,7 +26,7 @@ Grace can be just a word to fill a part of a theology, or it can be something so
 
 <div>
 <p>
-<img alt src="{{ site.url }}/assets/images/break-the-chains.jpg" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 136px; padding: 0px; float: left;">
+<img alt src="{{ site.url }}/assets/images/break-the-chains.jpg" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;">
 There have been many sermons preached and books written on various subjects; but no matter what the titles are and however many angles from which they came, the underlying teaching is a focus on sins and the warnings against falling into them. More often than not, Romans 6:1 is used as the basis for such teaching: <em>"What shall we say then? Are we to remain in sin so that grace may increase?"</em>
 </p>
 </div>

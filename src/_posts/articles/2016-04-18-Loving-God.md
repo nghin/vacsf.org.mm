@@ -6,7 +6,7 @@ modified: 2016-08-08T12:14:45-04:00
 image: 
   teaser: loving-God.jpg
 tags: [love, luke, sin]
-featured: true
+featured: false
 comments: true
 ---
 
@@ -27,7 +27,7 @@ comments: true
 
 <div>
 <p>
-<img alt src="{{ site.url }}/assets/images/loving-God.jpg" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 136px; padding: 0px; float: left;">
+<img alt src="{{ site.url }}/assets/images/loving-God.jpg" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;">
 The love command that Jesus uttered in Luke 10:27 has become a golden rule for virtually all variations of Bible based religions.  All other teachings from the Bible take a back seat to yield to this venerable command especially that it came from the lips of the Savior. 
 </p>
 </div>

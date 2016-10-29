@@ -28,7 +28,7 @@ At first glance, almost without being taught by anyone, most come to the conclus
 
 <div>
 <p>
-<img alt src="{{ site.url }}/assets/images/death-deeds.jpg" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 136px; padding: 0px; float: left;">
+<img alt src="{{ site.url }}/assets/images/death-deeds.jpg" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;">
 What is your first impression upon an encounter with such words as flesh and its deeds? The most common interpretation of these terms is that the flesh has to do with the sinful part of a person, and its deeds are those things performed by such bad parts, namely sinful activities. This article proposes perhaps a more accurate view of these terms. It asserts that Paul was warning against the attempt to live out the Christian faith by the strength of the flesh&mdash;this attempt is the foundation of all religions except the gospel of Jesus Christ as it should be. For ease of discussion, let us call the generally accepted view the "traditional view," and the other one the "contextual view." 
 </p>
 </div>

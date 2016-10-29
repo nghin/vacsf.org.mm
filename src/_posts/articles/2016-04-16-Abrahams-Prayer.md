@@ -28,7 +28,7 @@ comments: true
 
 <div>
 <p>
-<img alt src="{{ site.url }}/assets/images/candle-prayer.jpg" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 136px; padding: 0px; float: left;">
+<img alt src="{{ site.url }}/assets/images/candle-prayer.jpg" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;">
 Though this article is about prayer, its goal is to take the eyes of the one who prays away from himself, from the objects of his prayer, or even the technicalities, the how-to's of the prayer itself, and focus them on the Person to whom he prays.
 </p>
 </div>

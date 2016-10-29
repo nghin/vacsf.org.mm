@@ -3,7 +3,7 @@ title: "Đầu Phục Chúa"
 excerpt: "Làm sao chúng ta có thể đầu phục Chúa nếu <em>&#34;xác thịt có những dục vọng trái với Thánh Linh&#34;</em> (Galatians 5:17) và: <em>&#34;... tôi không hiểu điều mình làm: tôi chẳng làm điều mình muốn, nhưng làm điều mình ghét (Romans 7:15).&#34;</em>"
 image: 
   teaser: surrender.jpg
-tags: [sin, tiengviet]
+tags: [dau-phuc]
 featured: true
 modified:
 comments: false
@@ -23,7 +23,7 @@ comments: true
 
 <div>
 <p>
-<img alt src="{{ site.url }}/assets/images/surrender.jpg" style="border: 1px solid #cccccc; margin: 7px 15px 0px 0px; max-width: 100%; height: 136px; padding: 0px; float: left;">
+<img alt src="{{ site.url }}/assets/images/surrender.jpg" style="border: 1px solid #cccccc; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;">
 Mỗi người tín hữu đều trải qua ở một mức độ nào đó những xung đột giữa lòng ước muốn sống theo ý Chúa và sự bất lực của mình. Đề tài Đầu Phục thường được nói đến từ các nguồn ngoài cũng như trong đạo Chúa. Đối với người tín hữu, khả năng đầu phục Chúa mang nhiều ý nghĩa khác nhau; từ sự chống lại được những cám dỗ, đến sự vâng theo những điều người đó nghĩ là ý Chúa trong đời sống họ, đến khả năng vượt thắng được những bản tính xấu đã từng gây khó khăn cho họ khiến họ phải đến đặt niềm tin nơi Chúa.
 </p>
 

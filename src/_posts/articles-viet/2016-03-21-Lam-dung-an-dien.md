@@ -3,7 +3,7 @@ title: "Lạm Dụng Ân Điển"
 excerpt: "Ân điển có thể chỉ là một từ được dùng để nói lên một khía cạnh của thần học, hay là nó có thể là một điều quí báu mà hầu như đa số đều mù loà về nó cho đến khi mắt họ mở ra để nhìn thấy quyền năng thay đổi đời sống."
 image: 
   teaser: break-the-chains.jpg
-tags: [sin, tiengviet]
+tags: [an-dien]
 featured: false
 modified:
 comments: false
@@ -23,7 +23,7 @@ comments: true
 
 <div>
 <p>
-<img alt src="{{ site.url }}/assets/images/break-the-chains.jpg" style="border: 1px solid #cccccc; margin: 7px 15px 0px 0px; max-width: 100%; height: 136px; padding: 0px; float: left;">
+<img alt src="{{ site.url }}/assets/images/break-the-chains.jpg" style="border: 1px solid #cccccc; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;">
 Đã có biết bao bài giảng và sách vở về đủ mọi đề tài; nhưng bất kể chủ đề là gì và từ bất cứ khía cạnh nào, sự giảng dạy đều nhắm vào tội lỗi và sự cảnh cáo coi chừng sa vào chúng. Thường thì Romans 6:1 được dùng làm nền tảng cho những sự giảng dạy đó: <em>"Vậy chúng ta sẽ nói làm sao? Chúng ta phải cứ ở trong tội lỗi, hầu cho ân điển được dư dật chăng?"</em>
 </p>
 </div>

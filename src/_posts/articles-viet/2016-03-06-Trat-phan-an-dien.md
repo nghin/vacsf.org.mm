@@ -3,7 +3,7 @@ title: "Trật Phần Ân Điển"
 excerpt: "Bạn vẫn thường sống đời tin kính như một người đi trên giây? Trật một bước là rơi xuống?"
 image: 
   teaser: FallingFromGrace.jpg
-tags: [sin, tiengviet]
+tags: [an-dien]
 featured: false
 modified:
 comments: false
@@ -25,7 +25,7 @@ Bạn vẫn thường sống đời tin kính như một người đi trên giâ
 
 <div>
 <p>
-<img alt src="{{ site.url }}/assets/images/FallingFromGrace.jpg" style="border: 1px solid #cccccc; margin: 7px 15px 0px 0px; max-width: 100%; height: 136px; padding: 0px; float: left;">
+<img alt src="{{ site.url }}/assets/images/FallingFromGrace.jpg" style="border: 1px solid #cccccc; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;">
 Chẳng cần tốn nhiều thời gian, tìm trong mạng toàn cầu thì thấy một bài viết giải thích lý do tại sao một người có thể trật phần ân điển. Xin trích ra ở đây: <em><span style="color: #cccccc;">Khi một người nhận được ân điển của Chúa và đứng trong ân điển Ngài, <u>những hành động không hối cải</u> có thể khiến người đó trật phần ân điển. Chẳng hạn như nếu người đó không ăn năn về sự cay đắng, là một trạng thái giận dữ và thù ghét, thì có thể bị ô uế vì một thái độ hoặc tâm thần xấu mà bị trật phần ân điển."</span></em>
 </p>
 </div>

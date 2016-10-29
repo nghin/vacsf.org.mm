@@ -28,7 +28,7 @@ Have you always lived the Christian life like walking a tightrope? One misstep a
 
 <div>
 <p>
-<img alt src="{{ site.url }}/assets/images/FallingFromGrace.jpg" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 136px; padding: 0px; float: left;">
+<img alt src="{{ site.url }}/assets/images/FallingFromGrace.jpg" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;">
 A quick Internet search returns the following excerpt of an article which shows a common conception of why someone might fall from grace: <em>"Once one receives God’s grace and stands in His grace, <u>future unrepentant actions</u> by that individual could cause him or her to fall short of being under grace. For instance, if bitterness, which is actually a state of anger and hatred, is not repented of, one could become defiled by that wrong attitude or spirit and fall short of the grace of God."</em></p>
 </div>
 

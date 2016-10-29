@@ -3,7 +3,7 @@ title: "Hầu Việc Chúa"
 excerpt: "Rất nhiều bài vở đã được viết về chủ đề &#34;Hầu Việc Chúa.&#34; Những người đang làm một việc gì đó liên hệ đến đức tin thì nghĩ rằng họ đang hầu việc Chúa. Người viết sách về sự hầu việc Chúa nghĩ rằng họ đang làm công việc đó. Thế còn những người đang nhận lãnh những sự chỉ dạy đó, họ biết phải làm gì để hầu việc Ngài?"
 image: 
   teaser: serving-God.jpg
-tags: [sin, tiengviet]
+tags: [hau-viec]
 featured: false
 modified:
 comments: false
@@ -25,7 +25,7 @@ Martin Luther khẳng định rằng: <span style="color: #8e4503;"><em>"Trướ
 
 <div>
 <p>
-<img alt src="{{ site.url }}/assets/images/serving-God.jpg" style="border: 1px solid #cccccc; margin: 7px 15px 0px 0px; max-width: 100%; height: 136px; padding: 0px; float: left;">
+<img alt src="{{ site.url }}/assets/images/serving-God.jpg" style="border: 1px solid #cccccc; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;">
 Vậy bạn phải hầu việc Chúa như thế nào? Chữ "hầu việc" hàm ý một điều gì đó thuộc linh, phụng sự tha nhân, đòi hỏi lòng vị tha, một mức độ xả thân nào đó. Khi nói về một người nào đó hầu việc Chúa, chúng ta ngụ ý việc họ làm bắt nguồn từ chính họ. Nó bắt nguồn từ chính họ vì những việc làm này đỏi hỏi một sự hi sinh của chính bản thân. Chúng ta cũng hàm ý họ xứng đáng được ban thưởng vì những hành động hy sinh đó.
 </p>
 

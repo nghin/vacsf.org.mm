@@ -27,7 +27,7 @@ An amazing real life illustration of how God's grace enables us to do what we co
 
 <div>
 <p>
-<img alt src="{{ site.url }}/assets/images/rock-climbing.jpg" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 136px; padding: 0px; float: left;">
+<img alt src="{{ site.url }}/assets/images/rock-climbing.jpg" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;">
 Families with young children in our church have started a tradition for the past few years when we got together every Martin Luther King holiday at a some remote location for the kids to spend some time together and outdoors away from their regular routines. This year we went back to the Moaning Cave in Jackson, CA, where we let the kids enjoy the outdoors sport of rock climbing. It was there that God gave me an inspiration to write this article, a great illustration of God's empowering grace.
 </p>
 </div>

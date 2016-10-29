@@ -32,7 +32,7 @@ comments_locked: false
 
 <div>
 <p>
-<img alt src="{{ site.url }}/assets/images/different-gospel.jpg" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 136px; padding: 0px; float: left;">
+<img alt src="{{ site.url }}/assets/images/different-gospel.jpg" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;">
 Từ đầu thơ, Phao-lô đã khuyên giải người Ga-la-ti về sự bước đi bởi đức tin chớ đừng dùng luật pháp làm căn bản cho mối tương giao giữa họ với Chúa. Rồi trong câu 1, ông nói về sự gầy dựng lại người vấp ngã cách dịu dàng. Từ bối cảnh đó chúng ta có thể kết luận rằng chắc ông phải nói về gánh nặng của mặc cảm tội lỗi; cùng ý nghĩa với gánh nặng của luật pháp.
 </p>
 </div>

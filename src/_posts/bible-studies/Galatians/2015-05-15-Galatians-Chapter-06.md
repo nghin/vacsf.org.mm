@@ -32,7 +32,7 @@ This verse is self-explanatory.
 
 <div>
 <p>
-<img alt src="{{ site.url }}/assets/images/different-gospel.jpg" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 136px; padding: 0px; float: left;">
+<img alt src="{{ site.url }}/assets/images/different-gospel.jpg" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;">
 From the very beginning of this epistle, Paul has been exhorting the Galatians to walk by faith and not using the law as the basis of their relationship with God. And then in one sentence earlier, verse 1, he talked about gentle restoration of someone who may be leading a sinful lifestyle. Now he's talking about carrying one another's burden. From the context we can deduce that it must be the burden of sin that he's talking about in this verse; the same meaning with the burden of observances of laws and statutes.
 </p>
 </div>

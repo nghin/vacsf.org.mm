@@ -26,7 +26,7 @@ comments_locked: false
 
 <div>
 <p>
-<img alt src="{{ site.url }}/assets/images/no-condemnation.jpg" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 136px; padding: 0px; float: left;">
+<img alt src="{{ site.url }}/assets/images/no-condemnation.jpg" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;">
 Paul starts out this chapter expressing the same emotion as in chapter 9 concerning his longing for his countrymen to accept and understand the gospel of salvation that he has been trying to convey to them. He observed that through they were truly zealous for God, their zeal is not based on the truth, with deep contemplation of the meaning and substance of what they're doing in their relationship with God.
 </p>
 </div>

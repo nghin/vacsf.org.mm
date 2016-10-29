@@ -26,7 +26,7 @@ comments: true
 
 <div>
 <p>
-<img alt src="{{ site.baseurl }}/assets/images/surrender.jpg" style="border: 1px solid #666666; margin: 7px 15px 0px 0px; max-width: 100%; height: 136px; padding: 0px; float: left;">
+<img alt src="{{ site.baseurl }}/assets/images/surrender.jpg" style="border: 1px solid #666666; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;">
 All Christians experience to a varying degree great conflicts between their desire to do the will of God and their inability to do so. The theme Surrender is well visited by various authors through the ages from both Christian and secular sources. To the Christians the ability to surrender means many things; from being able to say no to temptations, to being obedient to what one might deem as the will of God in their lives, to being able to overcome many character flaws that had plagued them since the time their need for a deliverance nudged them toward the place of trust in God.
 
 </p>

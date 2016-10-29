@@ -22,7 +22,7 @@ comments_locked: false
 
 <div>
 <p>
-<img alt src="{{ site.url }}/assets/images/no-condemnation.jpg" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 136px; padding: 0px; float: left;">
+<img alt src="{{ site.url }}/assets/images/no-condemnation.jpg" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;">
 Before we get too theological about this, at first glance, the typical interpretation is, "remain in sin" means to keep sinning, or keep falling into certain temptations, or conversely "die to sin" means to have conquered sin, or to no longer be affected by it. We all know this cannot be true. Because of your sinful nature, you are in sin even though you may not have ever committed a transgression known to man. And if sin is the things that you do, according to this interpretation, the only way you "die to sin" is you are literally physically dead, or in other words you sin as long as you're still alive.
 </p>
 </div>

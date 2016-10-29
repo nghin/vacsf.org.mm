@@ -19,7 +19,7 @@ feature:
 
 <div>
 <p>
-<img alt src="{{ site.url }}/assets/images/dishonest-steward.jpg" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 136px; padding: 0px; float: left;">
+<img alt src="{{ site.url }}/assets/images/dishonest-steward.jpg" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;">
 Contrary to what you might find with a search on the internet, radio, or books, or virtually all sermons you've ever heard, this parable is not about money, talents, or how you use your possessions toward God's kingdom. Let's go through this parable again, as if you've never read it before, never having heard it preached before, while only keeping in mind that you should not try to understand this parable by itself without placing it in context of the entire salvation foundation of the Bible.
 </p>
 </div>

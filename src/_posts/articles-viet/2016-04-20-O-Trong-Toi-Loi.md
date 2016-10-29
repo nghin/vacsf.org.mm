@@ -1,7 +1,7 @@
 ---
 title: "Ở Trong Tội Lỗi"
 excerpt: '<em><sup>1</sup>Vậy chúng ta sẽ nói làm sao? Chúng ta phải cứ ở trong tội lỗi, hầu cho ân điển được dư dật chăng?  <sup>2</sup>Chẳng hề như vậy! Chúng ta đã chết về tội lỗi, lẽ nào còn sống trong tội lỗi nữa? (Romans<span style="color: rgba(0,0,0,0);">_</span>6:1&mdash;NET)</em>.'
-tags: [sin, tiengviet]
+tags: [toi-loi]
 featured: false
 modified:
 comments: false
@@ -25,7 +25,7 @@ Martin Luther khẳng định rằng: <span style="color: #8e4503;"><em>"Trướ
 
 <div>
 <p>
-<img alt src="{{ site.url }}/assets/images/remain-in-sin.jpg" style="border: 1px solid #cccccc; margin: 7px 15px 0px 0px; max-width: 100%; height: 136px; padding: 0px; float: left;">
+<img alt src="{{ site.url }}/assets/images/remain-in-sin.jpg" style="border: 1px solid #cccccc; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;">
 Bài viết này đi song song với bài <em><strong>"<a href="{{ site.url }}/hoc-kinh-thanh/suy-gam/lam-cho-chet-cac-viec-cua-chi-the/">Làm Chết Các Việc Của Chi Thể</a>"</strong></em>, bài đó thiết lập một nền tảng đúng đắn để chúng ta có thể hiểu ý nghĩa thực sự của tội lỗi sẽ được trình bày trong bài viết này. Trong các điểm chính mà Martin Luther đòi hỏi người đọc Kinh Thánh phải nắm vững, có lẽ "tội lỗi" là điều quan trọng nhất.
 </p>
 

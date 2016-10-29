@@ -3,7 +3,7 @@ title: "Cố Ý Phạm Tội"
 excerpt: "Hebrews 10:26-27 viết về tội gì? Những tội thông thường mà người tin Chúa nên tránh bằng mọi giá? Hoặc một điều gì đó đặc biệt khiến tác giả phải viết lời cảnh cáo nghiêm trọng?"
 image: 
   teaser: deliberate-sinning.jpg
-tags: [sin, tiengviet]
+tags: [toi-loi]
 featured: false
 modified:
 comments: false
@@ -25,7 +25,7 @@ Hebrews 10:26-27 viết về tội gì? Những tội thông thường mà ngư�
 
 <div>
 <p>
-<img alt src="{{ site.url }}/assets/images/deliberate-sinning.jpg" style="border: 1px solid #cccccc; margin: 7px 15px 0px 0px; max-width: 100%; height: 136px; padding: 0px; float: left;">
+<img alt src="{{ site.url }}/assets/images/deliberate-sinning.jpg" style="border: 1px solid #cccccc; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;">
 Ngược lại với những giải thích phổ thông, sự cố ý phạm tội ở đây không phải là đối với luật của sự tội và sự chết, nhưng đối với luật thần linh sự sống. Đối tượng của đoạn Kinh Thánh này chắc chắn là những người mặc dù xưng nhận Đấng Christ nhưng vẫn đương đầu với vấn đề tội lỗi như thể sự hy sinh của Chúa là không đủ, họ vẫn còn dâng những của tế lễ cho những sự vi phạm, nhưng chúng không còn hiệu nghiệm nữa. Khi Đấng Christ đến trong vai trò của sinh tế toàn hảo ban cho từ chính Đức Chúa Trời thì Ngài đã phế bỏ hệ thống dâng của tế lễ cũ. Vì đã biết điều đó qua sự giảng dạy của các sứ đồ, mà họ vẫn ỷ lại vào các vật tế lễ cũ của huyết bò và dê đực (Hebrews 10:4), như thế họ đã cố ý phạm tội vì đã không đặt niềm tin trọn vẹn nơi Đấng Christ, và trong việc làm đó họ đã chọn để sống dưới luật pháp, và vì đó họ sẽ chịu sự xét đoán của luật pháp (Galatians 3:12). Vì cậy nơi các của tế lễ khác thay vì Đấng Christ, họ đã trở nên kẻ thù của Đức Chúa Trời (Hebrews 10:29).
 </p>
 </div>

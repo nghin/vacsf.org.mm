@@ -22,7 +22,7 @@ A very common mis-interpretation of a familiar Bible verse. It is not taught in 
 
 <div>
 <p>
-<img alt src="{{ site.url }}/assets/images/lose-salvation.jpg" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 136px; padding: 0px; float: left;">
+<img alt src="{{ site.url }}/assets/images/lose-salvation.jpg" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;">
 Where is this verse, if there really is one, in the Bible: "The Holy Spirit will leave you if you grieve Him," or "You will lose your salvation if you grieve the Holy Spirit." Or something to that effect. What if you can't find it anywhere in the Bible? No, it cannot be found anywhere in the Bible, and yet, it is automatically assumed to be a fundamental truth which profoundly affects the lives of many Christians, which always puts them on edge as they relate to God, because none among them ever ceases to grieve the Spirit of God.
 </p>
 </div>

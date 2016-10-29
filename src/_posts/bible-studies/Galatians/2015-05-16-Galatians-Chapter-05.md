@@ -26,7 +26,7 @@ comments_locked: false
 
 <div>
 <p>
-<img alt src="{{ site.url }}/assets/images/different-gospel.jpg" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 136px; padding: 0px; float: left;">
+<img alt src="{{ site.url }}/assets/images/different-gospel.jpg" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;">
 This freedom in Christ has nothing to do with "freedom" to sin, but it's <em><span style="color: #d30015;">freedom from the reserved punishment for sin</span></em>: "<span style="color: #008000;"><em>The soul that sins shall die. (Eze 18:20)</em></span>". It's the freedom from sin's crippling condemnation and a guilt laden conscience. So those who are worried that free Christians may be enticed to sin just need to ask God for an assurance that the Holy Spirit is powerful enough to not let the sinning party go scott-free; because if God is not afraid of this open-ended promise, why should they be? He will not only convict us of issues, but also give us creative power to change in the direction He knows best. God is not blind and can see through the hearts of man, and He who began a good work in us will finish it gloriously.
 </p>
 </div>

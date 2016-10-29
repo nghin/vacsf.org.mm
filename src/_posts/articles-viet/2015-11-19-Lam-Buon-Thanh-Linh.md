@@ -3,7 +3,7 @@ title: "Làm Buồn Lòng Thánh Linh?"
 excerpt: "Một câu Kinh Thánh quen thuộc nhưng rất thường bị giải thích sai. Trường Thần Học không dạy điều này nhưng thường được lồng trong những bài giảng và được nhiều người chấp nhận. Sự hiểu và ứng dụng sai lầm này sẽ ..."
 image: 
   teaser: lose-salvation.jpg
-tags: [sin, tiengviet]
+tags: [thanh-linh]
 featured: false
 modified:
 comments: false
@@ -23,7 +23,7 @@ Một câu Kinh Thánh quen thuộc nhưng rất thường bị giải thích sa
 
 <div>
 <p>
-<img alt src="{{ site.url }}/assets/images/lose-salvation.jpg" style="border: 1px solid #cccccc; margin: 7px 15px 0px 0px; max-width: 100%; height: 136px; padding: 0px; float: left;">
+<img alt src="{{ site.url }}/assets/images/lose-salvation.jpg" style="border: 1px solid #cccccc; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;">
 Câu Kinh thánh này ở đâu, nếu quả thực có một câu như vậy: "Đức Thánh Linh sẽ lìa bỏ ngươi nếu làm Ngài buồn lòng," hoặc "Ngươi sẽ mất sự sống đời đời nếu làm buồn lòng Thánh Linh." Hay một điều nào đó tương tự. Nếu chúng ta không tìm được câu Kinh Thánh nào dạy thần học này thì sao? Thực ra không có câu Kinh thánh nào mang ý nghĩa đó, thế nhưng rất nhiều người tin rằng đó là một lẽ đạo căn bản có ảnh hưởng sâu đậm trên đời sống phần nhiều tín hữu. Vì thế họ luôn lo lắng trong mối liên hệ với Chúa, vì không một ai trong vòng họ thoát khỏi sự làm buồn lòng Thánh Linh.
 </p>
 </div>

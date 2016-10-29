@@ -5,7 +5,7 @@ excerpt: "Không phải chỉ riêng gì tín hữu đạo Tin Lành mới có k
 modified: 2016-08-08T12:14:45-04:00
 image: 
   teaser: sufferingChrist.jpg
-tags: [suffering]
+tags: [chiu-kho]
 featured: false
 comments: true
 ---
@@ -26,7 +26,7 @@ Không phải chỉ riêng gì tín hữu đạo Tin Lành mới có khái niệ
 
 <div>
 <p>
-<img alt src="{{ site.url }}/assets/images/sufferingChrist.jpg" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 136px; padding: 0px; float: left;">
+<img alt src="{{ site.url }}/assets/images/sufferingChrist.jpg" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;">
 Không phải chỉ riêng người tín hữu Tin Lành mới có khái niệm về giá trị của khổ đau. Sự khổ đau có thể là dưới tay người khác, đôi khi thì tự mình gây nên, đôi khi thì qua sự kiêng cử một điều gì đó, xa lánh những lạc thú, hoặc ngay cả những nhu cầu cần thiết. Có vô số những biểu tượng của sự khổ đau mà người ta cho là nhu cầu cần thiết để đạt được trình độ tâm linh cao hơn. Các câu Kinh thánh gốc của bài viết này nói về sự khổ đau của Đấng Christ, mà chúng ta được nhận như một điều kiện phải chịu khổ với Ngài, do đó chúng ta phải đặt câu hỏi: Tại sao Đấng Christ lại chịu khổ? Mục đích của sự khổ đau của Ngài, và có cùng một mục đich với thế gian, hoặc ít nhất với thế giới Tin Lành nói riêng, khi họ tìm cách chịu khổ với Ngài?
 </p>
 </div>

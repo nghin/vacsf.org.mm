@@ -24,7 +24,7 @@ comments_locked: false
 
 <div>
 <p>
-<img alt src="{{ site.url }}/assets/images/different-gospel.jpg" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 136px; padding: 0px; float: left;">
+<img alt src="{{ site.url }}/assets/images/different-gospel.jpg" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;">
 Phao-lô không lo ngại rằng họ không nhìn nhận sự thật của Chúa bị đóng đinh; ông chỉ tức bực vi họ không thấy trọn tác dụng của sự kiện này. Họ nghe qua lỗ tai rằng Chúa Giê-su chịu chết cho họ trên thập tự giá, thế rồi họ tiếp tục bước đi dường như điều đó không có tác dụng gì về sự tha thứ tội lỗi họ và sự thánh hóa của linh hồn họ. Họ tiếp tục dùng nỗ lực xác thịt như thể họ có thể bằng cách nào đó thêm vào điều Chúa đã làm cho họ.
 </p>
 </div>

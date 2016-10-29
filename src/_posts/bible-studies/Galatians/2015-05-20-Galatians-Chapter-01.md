@@ -28,7 +28,7 @@ He was so shocked the Galatians so quickly returned to the Mosaic law system, an
 
 <div>
 <p>
-<img alt src="{{ site.url }}/assets/images/different-gospel.jpg" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 136px; padding: 0px; float: left;">
+<img alt src="{{ site.url }}/assets/images/different-gospel.jpg" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;">
 At this point in time, Jerusalem and Judaism were still prominent in the very young Christian church. Hence arose a question of Paul’s authority and apostleship. Much of Paul’s teaching in this letter has to do with steering them from the Old Covenant’s way of relating to God. Once again, Paul greeted them with the “<u>Grace and peace</u>” salutation. But grace didn’t mean much to a Jew. For thousands of years they related to Him through a system of law, and wherever there was law, there could be neither grace, nor peace.
 </p>
 </div>

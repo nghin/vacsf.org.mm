@@ -24,7 +24,7 @@ comments_locked: false
 
 <div>
 <p>
-<img alt src="{{ site.url }}/assets/images/different-gospel.jpg" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 136px; padding: 0px; float: left;">
+<img alt src="{{ site.url }}/assets/images/different-gospel.jpg" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;">
 Mười bốn năm trôi qua, kể từ khi Phao-lô tin nhận Chúa, ông trở lại thành Giê-ru-sa-lem (điều này cũng được nhắc đến trong Công-vu 15:1-4) đồng một lúc khi hội thánh và hội đồng các sứ đồ họp để quyết định về việc các tín hữu người ngoại không cần phải chịu phép cắt bì.
 </p>
 </div>

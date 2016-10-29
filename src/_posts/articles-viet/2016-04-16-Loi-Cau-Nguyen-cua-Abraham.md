@@ -3,7 +3,7 @@ title: "Lời Cầu Nguyện của Áp-ra-ham"
 excerpt: "Vả, khi các ngươi cầu nguyện, đừng dùng những lời lặp vô ích như người ngoại; vì họ tưởng vì cớ lời mình nói nhiều thì được nhậm (<cite>Matthew 6:7</cite>)."
 image: 
   teaser: candle-prayer.jpg
-tags: [sin, tiengviet]
+tags: [cau-nguyen]
 featured: false
 modified:
 comments: false
@@ -23,7 +23,7 @@ comments: true
 
 <div>
 <p>
-<img alt src="{{ site.url }}/assets/images/candle-prayer.jpg" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 136px; padding: 0px; float: left;">
+<img alt src="{{ site.url }}/assets/images/candle-prayer.jpg" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;">
 Mặc dầu bài viết này nói về sự cầu nguyện, mục đích chính là chuyển cái nhìn của người đang cầu nguyện khỏi chính mình, khỏi vấn đề mình đang cầu nguyện, và khỏi cả những cách thức của chính sự cầu nguyện, nhưng hướng về Đấng mà người đó đang cầu nguyện.
 </p>
 </div>

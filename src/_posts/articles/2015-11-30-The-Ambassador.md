@@ -23,7 +23,7 @@ A warning to Christ's Ambassadors: Don't change your Lord's message of reconcili
 
 <div>
 <p>
-<img alt src="{{ site.url }}/assets/images/Ambassador.jpg" style="border: 1px solid #888888; margin: 7px 15px 0px 0px; max-width: 100%; height: 136px; padding: 0px; float: left;">
+<img alt src="{{ site.url }}/assets/images/Ambassador.jpg" style="border: 1px solid #888888; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;">
 One day a King sent forth an ambassador to a faraway country to extend a hand of peace to a lower kingdom that He deemed was ready to make peace with Him. But this kingdom had fallen so far, and had committed so many evil acts, that they felt that making peace with this King would eventually mean severe punishments for which they sorely deserved. They wanted to make peace, but they dreaded the punishments; because they remembered at least one law that said: <em>“The soul that sinneth, it shall die” (Ezekiel 18:20)</em>.
 </p>
 </div>

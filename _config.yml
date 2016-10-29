@@ -13,6 +13,7 @@ title_separator  : "×"
 
 repository       : "nghin/vacsf.org.mm"
 url              : "http://vacsf.org"
+# url              : "https://nghin.github.io/vacsf.org.mm.deploy"
 
 
 # Site owner
@@ -137,7 +138,7 @@ defaults:
       category: articles
       breadcrumbs:
         - label: "Home"
-          url: /
+          url: /articles/
 
   # Articles in Vietnamese`
   - scope:

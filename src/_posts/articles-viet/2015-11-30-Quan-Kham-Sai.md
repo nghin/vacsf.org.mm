@@ -3,7 +3,7 @@ title: "Ông Đại Sứ"
 excerpt: "Đây không phải là một ngụ ngôn của Chúa Giê-su, nhưng được viết trong dạng một ngụ ngôn để thúc dục người đọc làm trọn vẹn vai trò quan khâm sai của Đức Chúa Trời: rao truyền tin mừng cứu rỗi y như Chúa đã giao cho, đừng thêm hoặc bớt gì."
 image: 
   teaser: Ambassador.jpg
-tags: [sin, tiengviet]
+tags: [phuc-am, tin-lanh]
 featured: false
 modified:
 comments: false
@@ -27,7 +27,7 @@ Tôi viết bài này theo song ngữ, Anh và Việt, vì một số bạn hi�
 
 <div>
 <p>
-<img alt src="{{ site.url }}/assets/images/Ambassador.jpg" style="border: 1px solid #cccccc; margin: 7px 15px 0px 0px; max-width: 100%; height: 136px; padding: 0px; float: left;">
+<img alt src="{{ site.url }}/assets/images/Ambassador.jpg" style="border: 1px solid #cccccc; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;">
 
 Một ngày kia, một vị Vua sai sứ giả đến miền xa xăm để giảng hòa với một vương quốc khi người nghĩ họ đã đến thời điểm có thể tái lập mối bang giao. Nhưng vương quốc này chìm đắm trong biển ô tội đã từ lâu, đã phạm quá nhiều tội ác, đến nỗi họ cảm thấy rằng giảng hòa với vị Vua này nghĩa là một ngày kia, họ sẽ phải chịu những hình phạt nặng nề mà họ đáng phải chịu. Họ muốn giảng hòa, nhưng họ sợ hãi những hình phạt; vì họ còn nhớ ít nhất một điều luật nói rằng: <em>“Linh hồn nào phạm tội, sẽ phải chết.” (Ê-xê-chiên 18:20)</em>
 

@@ -24,7 +24,7 @@ comments_locked: false
 
 <div>
 <p>
-<img alt src="{{ site.url }}/assets/images/different-gospel.jpg" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 136px; padding: 0px; float: left;">
+<img alt src="{{ site.url }}/assets/images/different-gospel.jpg" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;">
 Sự tự do trong Đấng Christ chẳng có liên hệ gì với <span style="font-style: italic;">"tự do"</span> phạm tội, nhưng đó là sự được thoát khỏi án phạt cho mọi người mang bản chất tội lỗi: <span style="font-style: italic;">"Linh hồn nào phạm tội thì sẽ chết. (Ê-xê-chiên 18:20)"</span> Đó là sự tự do khỏi sự lên án làm kiệt quệ của tội lỗi và một lương tâm đầy mặc cảm xấu xa. Vì vậy nếu ai lo ngại rằng người Cơ-đốc Nhân tự do có thể bị cám dỗ phạm tội thì nên xin thẳng từ nơi Chúa sự bảo đảm rằng Đức Thánh Linh có đủ quyền năng và sự khôn ngoan để đừng bị những Cơ-đốc Nhân đó qua mặt; vả lại nếu Đức Chúa Trời không ngại khi ban lời hứa cách rộng rãi, thì tại sao bạn lại lo lẳng? Ngài không những sẽ chỉ cáo trách mỗi người về những điều họ cần sửa đổi, mà còn ban cho sức thiêng của Đấng dựng nên trời đất muôn vật để đổi thay theo đường hướng Ngài biết rõ hơn bất cứ người phàm xác thịt nào, kể cả chính bạn là người có lòng lo tưởng đển đời sống của người khác. Đức Chúa Trời không mù lòa và có quyền năng thấy được những điều sâu kín trong lòng người, và Đấng đã khởi đầu làm việc lành trong đời sống con cái Chúa sẽ làm trọn cách hiển vinh.
 </p>
 </div>

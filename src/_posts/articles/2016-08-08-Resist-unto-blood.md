@@ -29,7 +29,7 @@ comments: true
 
 <div>
 <p>
-<img alt src="{{ site.url }}/assets/images/resist-unto-blood.jpg" style="border: 1px solid #cccccc; margin: 7px 15px 0px 0px; max-width: 100%; height: 136px; padding: 0px; float: left;">
+<img alt src="{{ site.url }}/assets/images/resist-unto-blood.jpg" style="border: 1px solid #cccccc; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;">
 The gospel sounds very attractive especially for those who have embarked on a treadmill of religion with no hope of salvation in sight. They heard of Jesus' promise of water that satisfies forever, of rest for the weary, of peace that passes understanding, and how He died on the cross one time for all the sins of mankind, they thought there in this wonderful religion is their hope. But once they got into the fold, after an initial honeymoon of joy unspeakable, somehow they found themselves back on the treadmill. They're confused but couldn't quite put their fingers on what is going on. The messages they heard from pulpits for decades seemed different from what they heard when they were still in the dark. They used to hear of the forgiveness of sins, now they keep hearing stern warning of sins that they must "resist unto blood." It seemed to them the Christians haven't solved their sin problem.
 </p>
 

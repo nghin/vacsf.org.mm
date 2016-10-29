@@ -28,7 +28,7 @@ Christianity does not have a monopoly when it comes to suffering as a means for 
 
 <div>
 <p>
-<img alt src="{{ site.url }}/assets/images/sufferingChrist.jpg" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 136px; padding: 0px; float: left;">
+<img alt src="{{ site.url }}/assets/images/sufferingChrist.jpg" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;">
 There is no need for one to be a Christian to possess the world view that there is great value in suffering. Suffering can be through the hands of others, sometimes it is self inflicted, sometimes it is in some form of deprivation of senses, pleasure, even needs. There are myriad expressions of suffering as necessary condition to higher spiritual attainment. The key verses we're studying here is the suffering of Christ, and we in turn are admonished to suffer with Him, therefore the question we must first ask is: Why did Christ have to suffer? What is the underlying motive for His suffering, and does it match with the objective of the world, at least of the Christian world, as it tries to suffer with Him?
 </p>
 </div>

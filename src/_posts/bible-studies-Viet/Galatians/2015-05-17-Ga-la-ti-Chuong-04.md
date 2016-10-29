@@ -24,7 +24,7 @@ comments_locked: false
 
 <div>
 <p>
-<img alt src="{{ site.url }}/assets/images/different-gospel.jpg" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 136px; padding: 0px; float: left;">
+<img alt src="{{ site.url }}/assets/images/different-gospel.jpg" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;">
 <sup>1</sup>Vả, tôi nói rằng người kế tự dầu là chủ của mọi vật, mà đương còn thơ ấu, thì chẳng khác chi kẻ tôi mọi; <sup>2</sup>phải ở dưới quyền kẻ bảo hộ và kẻ coi giữ, cho đến kỳ người cha đã định.
 </p>
 </div>

@@ -17,7 +17,7 @@ feature:
 
 <div>
 <p>
-<img alt src="{{ site.url }}/assets/images/TheSower-200x150.jpg" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 136px; padding: 0px; float: left;">
+<img alt src="{{ site.url }}/assets/images/TheSower-200x150.jpg" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;">
 Tôi tạ ơn Chúa vì được cơ hội trình bày một bài giảng luận cho hội thánh của Mục Sư Robert Boston vào sáng Chúa Nhật 28 tháng 12, 2014. Trong bài giảng luận này, tôi mong được làm sáng tỏ, giúp các tín hữu hiểu được, ngụ ngôn người đi gieo giống. Một ngụ ngôn đã làm tôi bối rối trong nhiều thập niên qua kể từ khi tôi tin Chúa, và tôi sẽ không lấy làm lạ nếu ngụ ngôn này cũng làm đa số, nếu không phải là tất cả, các tín hữu bị mang nhiều nghi vấn. Sau đây là một số những tờ rọi dùng trong khi trình bày.
 </p>
 </div>

@@ -28,9 +28,16 @@ A hierarchical breakdown of all the sections and pages found on the site. For yo
         {% endfor %}
       </ul>
     </li>
-    <li><a href="{{ site.url }}/articles/">Blog Articles</a>
+    <li><a href="{{ site.url }}">Blog Articles</a>
       <ul>
         {% for post in site.categories.articles %}
+          {% include post-list.html %}
+        {% endfor %}
+      </ul>
+    </li>
+    <li><a href="{{ site.url }}/viet-studies/">Các Ý Niệm Phổ Thông</a>
+      <ul>
+        {% for post in site.categories.viet-studies %}
           {% include post-list.html %}
         {% endfor %}
       </ul>

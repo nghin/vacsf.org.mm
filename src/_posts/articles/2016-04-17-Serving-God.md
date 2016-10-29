@@ -26,7 +26,7 @@ Thousands of books have been written on the topic of serving God. Those who seem
 
 <div>
 <p>
-<img alt src="{{ site.url }}/assets/images/serving-God.jpg" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 136px; padding: 0px; float: left;">
+<img alt src="{{ site.url }}/assets/images/serving-God.jpg" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;">
 So how do you serve God? Just the word "serve" itself implies something to do with spiritual things, or something in service of others, something that demands selfless devotion, that requires a certain level of personal sacrifice.
 When we talk about someone serving God, we imply that their act of service is something self initiated. It is initiated by self because it requires some personal sacrifice. Most biographies are about people who engaged in these noble acts of serving God at great personal cost. The implication also is these folks deserve some types of rewards for their sacrifices.
 </p>

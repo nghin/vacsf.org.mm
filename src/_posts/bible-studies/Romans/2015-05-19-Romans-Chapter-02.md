@@ -26,7 +26,7 @@ comments_locked: false
 
 <div>
 <p>
-<img alt src="{{ site.url }}/assets/images/no-condemnation.jpg" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 136px; padding: 0px; float: left;">
+<img alt src="{{ site.url }}/assets/images/no-condemnation.jpg" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;">
 <p style="text-align: left;">Who are these folks that Paul is writing about? Whoever they are, Paul is saying they will be judged according to the same standard on which they judge others; and all who judge others, are doing exactly the same thing.<br /> This is a sweeping condemnation of all men. No exception.</p>
 </p>
 </div>

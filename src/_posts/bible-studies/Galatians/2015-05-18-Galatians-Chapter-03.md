@@ -26,7 +26,7 @@ comments_locked: false
 
 <div>
 <p>
-<img alt src="{{ site.url }}/assets/images/different-gospel.jpg" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 136px; padding: 0px; float: left;">
+<img alt src="{{ site.url }}/assets/images/different-gospel.jpg" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;">
 Paul wasn't concerned that they didn't acknowledge the fact of Jesus' crucifixion; he was frustrated that they didn't see the full impact of this fact. They heard with their ears Jesus died for them on the cross, yet they carried on as if it had no effect on the forgiveness of their sins and the sanctification of their souls. So they pushed on using their efforts and human means as if they can somehow add to what Christ had already done for them.
 </p>
 </div>

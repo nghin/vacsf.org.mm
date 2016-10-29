@@ -28,7 +28,7 @@ What sin is written about in Hebrews 10:26-27? The common transgressions that go
 
 <div>
 <p>
-<img alt src="{{ site.url }}/assets/images/deliberate-sinning.jpg" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 136px; padding: 0px; float: left;">
+<img alt src="{{ site.url }}/assets/images/deliberate-sinning.jpg" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;">
 Contrary to common interpretation, the deliberate sinning here is not against the law of sin and death, but against the new law of the spirit of life. The target audience is most likely Christians who though profess Christ still deal with sins as though Christ's sacrifice is not enough, they still offer sacrifices for sins, but none is left. The arrival of Christ as a perfect sacrifice provided by God has obsoleted the previous sacrificial system. By relying on the old sacrifices of the blood of bulls and goats (Hebrews 10:4), they deliberately sinned by not placing their full trust on Christ, and in doing so they chose to live under the law, and by the law they will be judged (Galatians 3:12). In trusting in sacrifices other than Christ, they became God's enemies (Hebrews 10:29).
 </p>
 </div>

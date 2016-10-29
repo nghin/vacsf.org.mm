@@ -22,7 +22,7 @@ comments_locked: false
 
 <div>
 <p>
-<img alt src="{{ site.url }}/assets/images/no-condemnation.jpg" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 136px; padding: 0px; float: left;">
+<img alt src="{{ site.url }}/assets/images/no-condemnation.jpg" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;">
 The spiritual truths Paul presented in the preceding chapters lead to the conclusion that those who are in Christ are no longer condemned. There is no longer any threat to their relationship with God, because the only required condition is that they're in Christ, and we have established this fact based on preceding chapters: by faith, not by works, by being dead to the law through the body of Christ.
 </p>
 </div>

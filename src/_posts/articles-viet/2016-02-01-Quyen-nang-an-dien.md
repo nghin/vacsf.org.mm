@@ -3,7 +3,7 @@ title: "Quyền Năng của Ân Điển"
 excerpt: "Một dẫn chứng thực tế trong đời sống cho thấy ân điển Chúa có quyền năng khiến chúng ta làm được những điều mà trước kia chúng ta không làm được vì kiệt quệ trong sợ hãi."
 image: 
   teaser: rock-climbing.jpg
-tags: [sin, tiengviet]
+tags: [an-dien]
 featured: false
 modified:
 comments: false
@@ -23,7 +23,7 @@ Một dẫn chứng thực tế trong đời sống cho thấy ân điển Chúa
 
 <div>
 <p>
-<img alt src="{{ site.url }}/assets/images/rock-climbing.jpg" style="border: 1px solid #cccccc; margin: 7px 15px 0px 0px; max-width: 100%; height: 136px; padding: 0px; float: left;">
+<img alt src="{{ site.url }}/assets/images/rock-climbing.jpg" style="border: 1px solid #cccccc; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;">
 Những gia đình có con nhỏ trong hội thánh đã tạo nên một truyền thống trong vài năm qua vào mỗi dịp lễ Martin Luther King khi họ qui tụ tại một địa điểm xa nhà để các con em có dịp sinh hoạt ngoài những gặp gỡ thường lệ. Năm nay chúng tôi trở lại Động Moaning ở thành phố Jackson, CA, nơi mà chúng tôi cho các con trẻ sinh hoạt ngoài trời với thú leo núi. Đó cũng là nơi Chúa đã cho tôi ngưồn cảm hứng viết bài này, một dẫn chứng về quyền năng của ân điển Ngài.
 </p>
 </div>

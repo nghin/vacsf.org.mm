@@ -26,7 +26,7 @@ Phao-lô khởi đầu với sự nhấn mạnh về chức vụ sứ đồ củ
 
 <div>
 <p>
-<img alt src="{{ site.url }}/assets/images/different-gospel.jpg" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 136px; padding: 0px; float: left;">
+<img alt src="{{ site.url }}/assets/images/different-gospel.jpg" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;">
 Ở vào thời điểm này, Giê-ru-sa-lem và Do-thái Giáo còn nhiều ảnh hưởng trong hội thánh Chúa vẫn còn trong thời kỳ phôi thai. Do đó có người đặt câu hỏi về quyền hạn và chức vụ sứ đồ của Phao-lô. Phần lớn những lời giảng của Phao-lô trong thơ này nhằm mục đích đem họ ra khỏi đường lối của thời Cựu Ước trong sự liên hệ với Chúa. Một lần nữa, Phao-lô lại đến với họ trong lời chào thăm <em>"ân điển và bình an."</em> Nhưng ý niệm ân điển không mang nhiều ý nghĩa đối với người Do-thái. Trong nhiều ngàn năm qua họ liên hệ với Chúa qua một hệ thống luật pháp, và hễ nơi nào có luật pháp, nơi đó chằng hề có ân điển, hoặc bình an.
 </p>
 </div>
