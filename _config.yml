@@ -138,7 +138,7 @@ defaults:
       category: articles
       breadcrumbs:
         - label: "Home"
-          url: /articles/
+          url: /
 
   # Articles in Vietnamese`
   - scope:
