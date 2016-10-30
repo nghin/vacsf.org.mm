@@ -45,7 +45,7 @@ The unrepentant heart here is the same as those at the time of Jesus, instead of
 
 ## You will be judged according to the law or to grace
 
-<sup>6</sup>He will reward each one according to his works: <sup>7</sup>eternal life to those who by perseverance in good works seek glory and honor and immortality, <sup>8</sup>but a wrath and anger to those who live in selfish ambition and do not obey the truth but follow unrighteousness.
+> <sup>6</sup>He will reward each one according to his works: <sup>7</sup>eternal life to those who by perseverance in good works seek glory and honor and immortality, <sup>8</sup>but a wrath and anger to those who live in selfish ambition and do not obey the truth but follow unrighteousness.
 (Romans 2:6-8)
 
 ## The Condemnation of the Gentiles
