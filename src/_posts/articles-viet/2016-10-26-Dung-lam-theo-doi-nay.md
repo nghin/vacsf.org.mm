@@ -1,7 +1,7 @@
 ---
-title: "Do Not Conform"
-excerpt: "The full title for this writing should be: Do not conform to the patterns of this world. This article begs to differ with virtually all known commentaries and messages from pulpits everywhere that it does not mean what they generally propose."
-modified: 2016-08-08T12:14:45-04:00
+title: "Đừng Làm Theo Đời Này"
+excerpt: "Bài viết này bày tỏ một quan điểm khác với hầu hết các sách giải kinh và giảng luận khắp nơi rằng chủ đề này mang một ý nghĩa khác với các quan điểm phổ thông."
+modified: 2016-10-29T12:14:45-04:00
 image: 
   teaser: do-not-conform-teaser.png
 tags: [bible-studies, sin]
@@ -9,7 +9,7 @@ featured: true
 comments: true
 ---
 
-<p style="padding-left: 2.0em; padding-right: 2.0em; font-style: italic; color: #9d1f20;">Do not be conformed to this present world, but be transformed by the renewing of your mind, so that you may test and approve what is the will of God - what is good and well-pleasing and perfect (Romans 12:2)</p>
+<p style="padding-left: 2.0em; padding-right: 2.0em; font-style: italic; color: #9d1f20;">Ðừng làm theo đời nầy, nhưng hãy biến hóa bởi sự đổi mới của tâm thần mình, để thử cho biết ý muốn tốt lành, đẹp lòng và trọn vẹn của Ðức Chúa Trời là thể nào (Romans 12:2).</p>
 
 {{ page.excerpt | markdownify }}
 
@@ -17,11 +17,10 @@ comments: true
 {% include toc_spacer.html %}
 {% include bible-study/meditations %}
 
-<a href="{{ site.url }}{% post_url 2016-10-26-Dung-lam-theo-doi-nay %}"><em>(Bấm vào đây để đọc tiếng Việt)</em></a>
-
-## The world and the flesh
+## Xác thịt và đời này
 
 <img alt src="{{ site.url }}/assets/images/do-not-conform-teaser.png" style="border: 1px solid #cccccc; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;">
+
 The general consensus is the world, whose definition we'll explore later, is something negative that we must take care not to conform to its patterns. This negative something is generally accepted as sinful things that we must get rid of from our lives. The more of these sins we can get rid of, the closer we are to God. Oftentimes Hebrews 12:1 is brought into the picture to support the argument that we should make every effort to get rid of <em>"the sin that easily entangles."</em>
 
 A quick survey of all available commentaries reveals that they also hold the same interpretation, or perhaps they influence the rest of Christianity with their points of views? Ah but people don't really need commentaries to form this world view, all you need is take a survey of some of the major world's religions, they all hold the same concept of sins and the need to deal with them in various ways.
@@ -46,7 +45,7 @@ Is it possible for anyone to be completely without sin?  The answer is easy righ
 
 Though most pulpits do not preach it outright, virtually all pew sitters assume this is what they heard: worldly things are those not directly related to Bible study, church activities, ministries, evangelistic endeavors, prayer, etc. The way to please God is to <strong>do</strong> as many of these things as possible. We read in John 6:28-29 that upon hearing Jesus' teaching, the crowd asked Him what the works of God were so that they could <strong>do</strong> them. People also asked Paul in Acts 16:30 about what they must <strong>do</strong> to be saved. The same type of questions were posed to Jesus in the gospels.
 
-There is a lady in our church who works very hard to provide for her family with many sick people. Occasionally in our Sunday School class she would express her regret that she could not find time to do "God's works." I tried very hard to convince her that God's works are those things she does when she works in her nail salon, when she cares for her sick husband and his sibblings, when she tries to catch a breath from between many responsibilities. In her mind these are "worldly things" that don't count toward God's kingdom. But it's not just this lady who holds such a view of "the world," it's probably 99.99% of folks you sit next to every Sunday singing hymns of grace. When I first became a Christian, I used to read Watchman Nee's Love Not the World and held it in high regard. I don't remember anymore what he wrote, but I suspect he might have held this viewpoint concerning "the world."
+There is a lady in our church who works very hard to provide for her family with many sick people. Occasionally in our Sunday School class she would express her regret that she could not find time to do "God's works." I tried very hard to convince her that God's works are those things she does when she works in her nail salon, when she cares for her sick husband and his sibblings, when she tries to catch a breath from between many responsibilities. In her mind these are "worldly things" that don't count toward God's kingdom. But it's not just this lady who holds such a view of "the world," it's probably 99.99% of folks you sit next to every Sunday singing hymns of grace.
 
 Where does this understanding, or rather misunderstanding, come from? Where else but from the lack of sound teaching to ground the flocks in the absolute promise of salvation to those who call by Jesus' name. Most messages I heard everywhere are about things Christians should or shouldn't do. A disproptionate amount of communication is dedicated toward topics such as family, raising children, marriage, work, play, sex, and everything that is perceived as good under the sun. But all these things, as good as most of them are, are not in the exclusive domain of Christianity; they can all be found in non-Christian sources. Christ didn't come to address these corruptible things. He came to address an issue buried deep in the nature of man. The focus on nonessential matter is the reason few Christians are grounded in the truth of how God saves us and accepts us in His Son Jesus Christ. And when Christians are not deeply rooted in Christ, false doctrine finds its fertile ground to grow like weeds.
 
