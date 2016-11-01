@@ -1,6 +1,7 @@
 <nav class="js-toc toc">
   <h4 class="toc__title">Các Đề Tài Khác</h4>
 <ul class="toc__menu" id="markdown-toc">
+      <li><a href="{{ site.url }}/viet-studies/Dung-lam-theo-doi-nay/" id="markdown-toc-building-the-style-guide">Đừng làm theo đời này<br /><span style="font-weight: normal;">&mdash;Ý nghĩa đúng của "đời này"</span></a></li>
       <li><a href="{{ site.url }}/viet-studies/Chong-tra-toi-loi/" id="markdown-toc-building-the-style-guide">Chống Trả Tội Lỗi<br /><span style="font-weight: normal;">&mdash;Đến mức đổ huyết</span></a></li>
       <li><a href="{{ site.url }}/viet-studies/Dau-Phuc-Chua/" id="markdown-toc-building-the-style-guide">Đầu Phục Chúa<br /><span style="font-weight: normal;">&mdash;Để Chúa Làm Chủ</span></a></li>
       <li><a href="{{ site.url }}/viet-studies/O-Trong-Toi-Loi/" id="markdown-toc-building-the-style-guide">Ở Trong Tội Lỗi<br /><span style="font-weight: normal;">&mdash;Thực Sự Phao-lô muốn nói gì?</span></a></li>

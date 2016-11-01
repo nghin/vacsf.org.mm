@@ -11,4 +11,5 @@ group :jekyll_plugins do
   gem 'jemoji'
   gem 'jekyll-archives'
   gem 'jekyll-tagging-related_posts'
+  gem 'jekyll-admin'
 end
