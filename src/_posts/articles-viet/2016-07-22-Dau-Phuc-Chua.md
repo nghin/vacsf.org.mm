@@ -4,7 +4,7 @@ excerpt: "Làm sao chúng ta có thể đầu phục Chúa nếu <em>&#34;xác t
 image: 
   teaser: surrender.jpg
 tags: [dau-phuc]
-featured: true
+featured: false
 modified:
 comments: false
 feature:

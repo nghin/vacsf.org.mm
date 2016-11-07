@@ -17,7 +17,7 @@ comments: true
 {% include toc_spacer.html %}
 {% include bible-study/suy-gam %}
 
-## Xác thịt và đời này
+## Thế gian, xác thịt, và tội lỗi
 
 <img alt src="{{ site.url }}/assets/images/do-not-conform-teaser.png" style="border: 1px solid #cccccc; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;">
 
@@ -29,19 +29,17 @@ Mọi tôn giáo đều mang cùng một niềm tin rằng những điều thu�
 
 Chúng ta không nên lấy làm lạ rằng hầu hết các tín hữu đều có cùng một sự suy tưởng mặc dầu có thể được diễn tả trong từ ngữ thích hợp với đức tin của họ.
 
-## Thế gian, xác thịt, và tội lỗi
-
 Về một phương diện chúng ta được khuyên bảo "đừng yêu thế gian (1 John 2:15), nhưng về một phương diện khác chúng ta phải sống trong đó, chung đụng với người khác trong công ăn việc làm, lái xe trên cùng một đường phố, giải trí ở cùng một rạp hát, xem cùng một đài phát hình, sưu tầm dữ kiện trên cùng mạng toàn cầu, v.v. Có thể nào những xung đột nội tại này lại không khiến cho đời sống tín hữu chịu nhiều khổ đau? Những tự kỷ ám thị đè nặng trên tâm hồn người mong muốn sống sao cho phù hợp với niềm tin mình?
 
-Bây giờ chúng ta thử suy gẫm về những khuôn mẫu của đời này mà Phao-lô khuyên chúng ta chớ noi theo. Đa số các sách bình luận Kinh Thánh đều dài dòng về cấu trúc của "khuôn mẫu đời này," nhưng nói một cách đơn giản, đó là lằn ranh giữa những điều tội lỗi và không tội lỗi, phải không thưa quí vị? Do đó một cách hợp lý điều này dẫn đến sự kiện rằng mệnh lệnh "đừng làm theo đời này" có thể được đổi thành mệnh lệnh "đừng phạm tội nữa." Hợp lý phải không quý vị? Chẳng phải đây là điều chúng ta thường nhận lãnh từ các bài giảng luận và sách vở?
+Đa số các sách bình luận Kinh Thánh đều dài dòng về cấu trúc của "khuôn mẫu đời này," nhưng nói một cách đơn giản, đó là lằn ranh giữa những điều tội lỗi và không tội lỗi, phải không thưa quí vị? Do đó một cách hợp lý điều này dẫn đến sự kiện rằng mệnh lệnh "đừng làm theo đời này" có thể được đổi thành mệnh lệnh "đừng phạm tội nữa." Hợp lý phải không quý vị? Chẳng phải đây là điều chúng ta thường nhận lãnh từ các bài giảng luận và sách vở?
 
 Thật khó để nói về thế gian mà không đồng một lúc nói đến vấn đề tội lỗi. Điều này được thể hiện trong mọi tôn giáo trong thế gian, và đạo Tin Lành cũng không thoát khỏi điều đó. Do đó nếu vấn đề "đừng làm theo đời này" được hiểu là mang cùng ý nghĩa với "đừng phạm tội nữa," thì thà Chúa cất tín hữu khỏi thế gian là hơn.
 
-## Một ảo tưởng
+## Một mục tiêu khó đạt được
 
 Có thể nào một người hoàn toàn tránh khỏi tội lỗi, hoặc chỉ cần hầu hết các tội lỗi? Thật dễ tìm câu trả lời trong Kinh Thánh, do đó nếu "đừng làm theo đời này" được hiểu theo ý nghĩa phổ thông, thì chúng ta tự mình chuốc lấy một cuộc sống đầy sự nản lòng và tuyệt vọng vì trong thực tế chúng ta sẽ hàng ngày đối diện với những sự vấp phạm không ngừng nghỉ. Tôi đã đọc sách về việc Martin Luther dùng 6 tiếng đồng hồ mỗi ngày để xưng tội mình, nhưng tôi tin rằng ví thử Luther hoặc vị linh mục nghe ông xưng tội có đủ sức lực e rằng ông đã xưng tội cả ngày.
 
-## Những việc làm của người tín hữu
+## Việc làm gì đẹp lòng Chúa
 
 Mặc dầu các giảng sư không nói trắng ra, hầu hết người nghe đều giả dụ rằng đây là điều họ nghe: những điều thuộc về thế gian là những điều không liên hệ trực tiếp đến sự học Kinh Thánh, sinh hoạt trong hội thánh, các mục vụ, truyền giảng, cầu nguyện, v.v. Và phương cách để làm đẹp lòng Chúa là càng <strong>làm</strong> nhiều những điều đó càng tốt. Chúng ta đọc trong John 6:28-29 rằng sau khi nghe Chúa Giê-su giảng dạy, đoàn dân hỏi Ngài về công việc của Đức Chúa Trời để họ có thể <strong>làm</strong>. Trong Công-vụ 16:30, dân chúng hỏi sứ đồ Phao-lô họ phải <strong>làm</strong> gì để được cứu. Nhiều người cũng đã hỏi Chúa Giê-su về điều gì họ có thể <strong>làm</strong> trong các sách phúc âm.
 

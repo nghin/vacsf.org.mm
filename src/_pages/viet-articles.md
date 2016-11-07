@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /viet-studies/
-title: "VACSF.ORG"
+title: "HỘI THÁNH TIN LÀNH VIỆT NAM <br /><span style='font-size: 0.7em; font-style: italic; margin-left: 30px;'>San Francisco, California</span>"
 date: 2014-06-02T15:05:16-04:00
 modified: 2016-01-04T16:38:17-05:00
 excerpt: "Dưới đây là một số những bài viết nhắm vào những đoạn hoặc ý niệm trong Kinh Thánh thường bị giải thích sai lạc."

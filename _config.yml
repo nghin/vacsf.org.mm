@@ -3,7 +3,7 @@
 source           : .tmp/src
 destination      : .tmp/dist
 
-title            : "VIETNAMESE ALLIANCE CHURCH &mdash; SAN FRANCISCO, CA"
+title            : "VACSF.ORG"
 description      : "A collection of articles addressing difficult and commonly misinterpreted Scriptural passages or concepts"
 logo             : "site-logo.png"
 teaser           : "default-teaser.png"

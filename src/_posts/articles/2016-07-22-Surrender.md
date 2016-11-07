@@ -7,7 +7,7 @@ image:
   thumb: art-of-surrender-thumb-250x250.png
   teaser: surrender.jpg
 tags: [Rest, Peace, Surrender]
-featured: true
+featured: false
 comments: true
 ---
 <!--more-->

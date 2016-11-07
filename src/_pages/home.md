@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /
-title: "VACSF.ORG"
+title: "VIETNAMESE ALLIANCE CHURCH<br /><span style='font-size: 0.7em; font-style: italic; margin-left: 30px;'>San Francisco, California</span>"
 date: 2014-06-02T12:26:34-04:00
 modified: 2016-02-26T10:36:43-05:00
 excerpt: "A collection of articles addressing difficult and commonly misinterpreted Scriptural passages or concepts."

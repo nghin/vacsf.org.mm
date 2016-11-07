@@ -19,26 +19,24 @@ comments: true
 
 <a href="{{ site.url }}{% post_url 2016-10-26-Dung-lam-theo-doi-nay %}"><em>(Bấm vào đây để đọc tiếng Việt)</em></a>
 
-## The world and the flesh
+## The world, the flesh, and sin
 
 <img alt src="{{ site.url }}/assets/images/do-not-conform-teaser.png" style="border: 1px solid #cccccc; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;">
 The general consensus is the world, whose definition we'll explore later, is something negative that we must take care not to conform to its patterns. This negative something is generally accepted as sinful things that we must get rid of from our lives. The more of these sins we can get rid of, the closer we are to God. Oftentimes Hebrews 12:1 is brought into the picture to support the argument that we should make every effort to get rid of <em>"the sin that easily entangles."</em>
 
-A quick survey of all available commentaries reveals that they also hold the same interpretation, or perhaps they influence the rest of Christianity with their points of views? Ah but people don't really need commentaries to form this world view, all you need is take a survey of some of the major world's religions, they all hold the same concept of sins and the need to deal with them in various ways.
+A quick survey of all available commentaries reveals that they also hold the same interpretation, or perhaps they influence the rest of Christianity with their points of views? But people don't really need commentaries to form this world view, all you need is take a survey of some of the major world's religions, they all hold the same concept of sins and the need to deal with them in various ways.
 
 All religions hold the belief that the flesh is basically sinful, a negative force that must be subdued or even annihilated if one hopes to achieve a higher state of being.
 
 It should not be a surprise to us that Christians, most if not almost all, also subscribe to this mode of thinking though it may be dressed in a more appropriate Christian language.
 
-## The world, flesh, and sin
-
 On the one hand we're exhorted to "love not the world" (1 John 2:15), on the other hand we must live in it, we share in this world the work we do to make a living, we drive on the same road, we go to the same movie theater, we watch the same TV broadcast, we traverse on the same Internet highway. Wouldn't this internal conflict cause much trouble in a Christian's life? Much morbid introspection that weighs heavily on the heart of the one who wants to do the right thing in accordance with their faith?
 
-Let's talk about the patterns of the world that Paul exhorts us not to conform to. Most commentaries are very long winded about what constitutes this "pattern of the world," but to simplify the matter, the dividing line is between what is sinful and what is not, isn't it? Then it logically follows that the command "do not conform to the patterns of this world" can be restated as simply as "do not sin anymore." Does this make sense? Isn't this what is implied in all sermons and writings?
+Most commentaries are very long winded about what constitutes this "pattern of the world," but to simplify the matter, the dividing line is between what is sinful and what is not, isn't it? Then it logically follows that the command "do not conform to the patterns of this world" can be restated as simply as "do not sin anymore." Does this make sense? Isn't this what is implied in all sermons and writings?
 
 It's difficult not to talk about the world without also calling into question the issue of sin. This is reflected in all the world's religions, and Christianity is not exempted from it. Therefore if the question of not conforming to the patterns of the world is to be understood to be analogous to stop sinning, we may be better off taken from this world altogether.
 
-## Vanishingly probable
+## An elusive goal
 
 Is it possible for anyone to be completely without sin?  The answer is easy right from the Bible itself, therefore if "do not conform" is to be understood in the conventional sense, we're setting ourselves up for a lifetime of discouragement and hopelessness because the fact of our daily transgression will stare at us in the face on a continual basis. I read that Martin Luther used to take 6 hours per day to confess his sins, but I believe that had Luther, or the listening priest, had the strength, he would have had confessed all day long.
 

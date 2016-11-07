@@ -1,6 +1,7 @@
 <nav class="js-toc toc">
   <h4 class="toc__title">Other Topics</h4>
 <ul class="toc__menu" id="markdown-toc">
+      <li><a href="{{ site.url }}/articles/Exodus-19-04-25/" id="markdown-toc-building-the-style-guide">Exodus 19:4-25<br /><span style="font-weight: normal;">&mdash;What is your choice: Law or Grace?</span></a></li>
       <li><a href="{{ site.url }}/articles/Do-not-conform-to-this-world/" id="markdown-toc-building-the-style-guide">Do Not Conform<br /><span style="font-weight: normal;">&mdash;The correct meaning of "this world"</span></a></li>
       <li><a href="{{ site.url }}/articles/Resist-unto-blood/" id="markdown-toc-building-the-style-guide">Resist Unto Blood<br /><span style="font-weight: normal;">&mdash;Striving against sin</span></a></li>
       <li><a href="{{ site.url }}/articles/Surrender/" id="markdown-toc-building-the-style-guide">Surrender<br /><span style="font-weight: normal;">&mdash;How to put Jesus in control</span></a></li>
