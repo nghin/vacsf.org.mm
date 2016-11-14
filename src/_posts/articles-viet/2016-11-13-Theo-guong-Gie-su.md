@@ -1,0 +1,110 @@
+---
+title: "Exodus 19:4-25"
+excerpt: "We've all heard of the Ten Commandments, but did you know that originally God gave His people a choice between the law and grace? When God brought the Isrealites out of Egypt, He bore them eagles's wings. In other words, he delivered them by grace. But instead of being contented to live by His grace, they wanted to live by law."
+modified: 2016-08-08T12:14:45-04:00
+image: 
+  teaser: law-vs-grace-teaser.png
+tags: [grace]
+featured: true
+comments: true
+---
+
+{{ page.excerpt | markdownify }}
+
+{% include toc.html %}
+{% include toc_spacer.html %}
+{% include bible-study/meditations %}
+
+<a href="{{ site.url }}{% post_url 2016-11-01-Xuat-E-gyp-to-19-4-25 %}"><em>(Bấm vào đây để đọc tiếng Việt)</em></a>
+
+## Dr. McGee's Sermon
+
+<img alt src="{{ site.url }}/assets/images/law-vs-grace-teaser.png" style="border: 1px solid #cccccc; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;">
+The excerpt in large print above is from the introduction to Dr. J. Vernon McGee's wonderful sermon on Exodus 19:4-25 which I happened to catch on the radio on Sept 21, 2016. I must have heard this message from Dr. McGee over thirty years ago, once every year for more than a decade, but never really understood it. I came to this understanding of law vs. grace through a different path, but hearing again from Dr. McGee this time, on the date of its re-broadcast on <a href="http://www.oneplace.com/ministries/thru-the-bible-with-j-vernon-mcgee/listen/exodus-194-25-552552.html" target="_blank">September 21, 2016</a>, is quite a heavenly gift. His sermon inspired me to write this article from my own reflections of what this passage means.
+
+## Delivered on eagles' wings
+
+> <sup>4</sup>You yourselves have seen what I did to Egypt and how I lifted you on eagles' wings and brought you to myself. (Exodus 19:4)
+
+We know what was the state of the Israelites in Egypt, they were slaves under the brutal rule of their masters with no hope in sight. And yet here they were, delivered on "eagles' wings." This reminds me of Isaiah 40:31 where those who <strong><em>wait</em></strong> upon the Lord will mount up with wings like eagles. This must have been the state of God's people in Egypt, they were "waiting." Or maybe they weren't even waiting; after hundreds of years being slaves for generations in a foreign land, all their hope must have been lost. To wait is to still have some hope for something, therefore to these people whose last ray of hope was all but extinguished, what could they have been waiting for? Either way, waiting or not, they were at the end of their resources.
+
+This reminder, before the unfolding of events that leads to the giving of the law, the Ten Commandments, that came from the Lord must have been for them not to forget that they did nothing to deserve the magnificent rescue, that it wasn't anything from themselves that they could get credit for, either their physical or moral prowess.
+
+God insists time a time again that it's <em>"Not by might, nor by power, but by my Spirit"</em> (Zechariah 4:6).
+
+## A different kind of test
+
+> <sup>5</sup>And now, if you will diligently listen to me and keep my covenant, then you will be my special possession out of all the nations, for all the earth is mine, <sup>6</sup>and you will be to me a kingdom of priests and a holy nation.’ These are the words that you (Moses) will speak to the Israelites.” (Exodus 19:5-6)
+
+Wait a minute! Aren't they already God's special possession? We know that God already made a covenant with Abraham in Genesis 12:1-3 that He would bless him and all his descendants, and we know that Abraham was called righteous before God because he believed the Lord (Genesis 15:6).
+
+The covenant God made with Abraham was a covenant of faith, but this covenant that is coming down the mountain is altogether a different one that came with a condition that requires their diligent efforts. Why is God asking them now if they want to be His people as if they were not already His in the first place? What changed? No, nothing has changed. God is the same before, now, and forevermore, and He would never go back on His word (Hebrews 6:13-20). The only thing that could have changed was the people, either they didn't believe God's promise to their father Abraham, or they had never lived by the faith that was given them through Abraham.
+
+God wasn't testing whether they would desire or be willing to keep the impending law written on tablets of stone, but whether they trust Him enough to cling to His promise to Abraham. It is this faith that pleases Him, not self aggrandizing law keeping.
+
+## Foolish choice that they made
+
+> <sup>7</sup>So Moses came and summoned the elders of Israel. He set before them all these words that the Lord had commanded him, <sup>8</sup>and all the people answered together, <strong>“All that the Lord has commanded we will do!”</strong> So Moses brought the words of the people back to the Lord.
+
+<strong><em>ALL THAT THE LORD HAD COMMANDED WE WILL DO!</em></strong> As observed from the passage above, either they didn't believe, or forgot the covenant that God made with father Abraham, or they willingly exchange that faith based covenant to a law based one, they exchanged grace for law. Though the Lord reminded them that it was on eagles' wings that He delivered them, they chose to forget it. Much like so many people today who call themselves by Christ's name steadfastly refuse to walk by faith, because by the law they would have reasons to boast of their own righteousness (Ephesians 2:8-9; Romans 3:27-28).
+
+Such foolishness! (Galatians 3:1-6)
+
+People often cites Jesus love command <em>"Love the Lord your God with all your heart and with all your soul and with all your mind"</em> (Matthew 22:37) with such self confidence like the people in verse 8 above.
+
+Let's read an interaction between Jesus and a rich young man who came to ask Him how to have eternal life.
+
+> <sup>16</sup>Now behold, one came and said to Him, “Good Teacher, what good thing shall I do that I may have eternal life?” <sup>17</sup>So He said to him, “Why do you call Me good? No one is good but One, that is, God. But if you want to enter into life, keep the commandments.” <sup>18</sup>He said to Him, “Which ones?” Jesus said, “‘You shall not murder,’ ‘You shall not commit adultery,’ ‘You shall not steal,’ ‘You shall not bear false witness,’ <sup>19</sup>‘Honor your father and your mother,’ and, ‘You shall love your neighbor as yourself.’ ”<br />
+<sup>20</sup>The young man said to Him, <strong>“All these things I have kept from my youth</strong>. What do I still lack?”<br />
+<sup>21</sup>Jesus said to him, “If you want to be perfect, go, sell what you have and give to the poor, and you will have treasure in heaven; and come, follow Me.” <sup>22</sup>But when the young man heard that saying, he went away sorrowful, for he had great possessions. (Matthew 19:16-22)
+
+The young man in this story committed fatal errors not unlike the Exodus people above when he answered Jesus: "All these things I have kept from my youth." Really? There is no one under the sun that can keep even a single commandment, let alone keeping all of them, but Jesus knew what is in the heart of this young man and he used it to bring him to the place of admitting his failure: his possessions.
+
+The test the Lord presented to the Israelites at the foot of mount Sinai was not whether they'd be able to keep the commandments He was about to give them, but whether they would want to relate to Him in one of the following two ways both of which represent a faith-based relationship.
+
+- They trusted the Lord enough to claim His covenant with Abraham (Genesis 12:1-3).
+- They acknowledge their inability to adhere to the law-based covenant which God was about to deliver and cry out for mercy instead, and pray to Him if they could continue to ride on eagles' wings for the remainder of their lives. Those who come to God in this manner He would in no wise cast out (John 6:37).
+
+In reminding them of how He had delivered them out of Egypt on eagles' wings, the Lord was extending to them His hand of mercy but sadly they responded like many gung-ho Christians today: "All that the Lord has commanded we will do!"
+
+## Three days to change their minds
+
+> <sup>9</sup>The Lord said to Moses, “I am going to come to you in a dense cloud, so that the people may hear when I speak with you and so that they will always believe in you.” And Moses told the words of the people to the Lord (Exodus 19:9).<br />
+<sup>10</sup>The Lord said to Moses, “Go to the people and sanctify them today and tomorrow, and make them wash their clothes <sup>11</sup>and be ready for the third day, for on the third day the Lord will come down on Mount Sinai in the sight of all the people. <sup>12</sup>You must set boundaries for the people all around, saying, ‘Take heed to yourselves not to go up on the mountain nor touch its edge. Whoever touches the mountain will surely be put to death! <sup>13</sup>No hand will touch him—but he will surely be stoned or shot through, whether a beast or a human being; he must not live.’ When the ram’s horn sounds a long blast they may go up on the mountain.”
+<br />
+<sup>14</sup>Then Moses went down from the mountain to the people and sanctified the people, and they washed their clothes. <sup>15</sup>He said to the people, “Be ready for the third day. Do not go near your wives.”
+
+The Lord gave the people three days to prepare themselves for what is coming. What is He trying to convey to them?
+
+- The dense cloud in which the Lord is descending shows He's far from accessible to the people.
+- Boundaries were set for the people around the edge of the mountain where violators, be they men or beasts, will be stoned or shot through with arrows to death. Once again the inaccessibility of God is affirmed, and <em>"flesh and blood cannot inherit the kingdom of God, nor does the perishable inherit the imperishable"</em> (1 Corinthians 15:50)
+- Even with all these preparations, being sanctified by Moses in whatever shape or form, clothes washed, sexual relations abstained, they could not see God. All that were just to prepare them for the third day; they were just ceremonially clean on the outside with no real change on their sin nature.
+
+Should these three days facing the terrible mountain of God alarm them enough to beg God for a different condition in their relationship with Him? That they could continue to ride with Him on wings of eagles?
+
+## No forced access allowed
+
+> <sup>16</sup>On the morning of the third day there were thunders and lightnings and a thick cloud on the mountain and a very loud trumpet blast, so that all the people in the camp trembled. <sup>17</sup>Then Moses brought the people out of the camp to meet God, and they took their stand at the foot of the mountain. <sup>18</sup>Now Mount Sinai was wrapped in smoke because the Lord had descended on it in fire. The smoke of it went up like the smoke of a kiln, and the whole mountain trembled greatly. <sup>19</sup>And as the sound of the trumpet grew louder and louder, Moses spoke, and God answered him in thunder. <sup>20</sup>The Lord came down on Mount Sinai, to the top of the mountain. And the Lord called Moses to the top of the mountain, and Moses went up.
+<br />
+<sup>21</sup>And the Lord said to Moses, “Go down and warn the people, lest they break through to the Lord to look and many of them perish. <sup>22</sup>Also let the priests who come near to the Lord consecrate themselves, lest the Lord break out against them.” <sup>23</sup>And Moses said to the Lord, “The people cannot come up to Mount Sinai, for you yourself warned us, saying, ‘Set limits around the mountain and consecrate it.’” <sup>24</sup>And the Lord said to him, “Go down, and come up bringing Aaron with you. But <strong>do not let the priests and the people break through to come up to the Lord</strong>, lest he break out against them.” <sup>25</sup>So Moses went down to the people and told them.
+
+The key idea in this passage is that the people, including the priests, are not allowed to "break through" to come near the Lord.
+
+Once again <em>"It's not by might, nor by power, but by my Spirit"</em> (Zechariah 4:6). God allows only one means of access to Him: through Christ, and our faith in Him. People forget that it's the keeping of the law as means to draw near to God that offends Him, and their law keeping may manifest in ways that seem very spiritual: when they pray, when they give their offerings, when they do their good deeds. <strong><em>ALL THAT THE LORD HAD COMMANDED WE WILL DO!</em></strong> Such foolishness that sent them back to the desert for 40 more years and most never made it to the promised land.
+
+## Law vs. Grace
+
+Dr. McGee gave a list of contrasts between the law and grace:
+
+- The law demands, grace gives
+- The law says do, grace says believe
+- The law exacts, grace bestows
+- The law says work, grace says rest
+- The law threatens pronouncing a curse, grace entreats pronouncing a blessing
+- The law says do and thou shalt live, grace says live and thou shalt do
+- The law condemns the best man, and grace saves the worst man
+- The law reveals the character of God, and it also reveals the weakness of man
+
+What is your choice?
+
+{% include bible-study/bible-study-footer %}

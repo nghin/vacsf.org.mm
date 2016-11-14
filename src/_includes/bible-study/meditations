@@ -1,3 +1,4 @@
+<!--
 <nav class="js-toc toc">
   <h4 class="toc__title">Other Topics</h4>
 <ul class="toc__menu" id="markdown-toc">
@@ -21,3 +22,4 @@
       <li><a href="{{ site.url }}/articles/Faith-Salvation-Work-Cycle/" id="markdown-toc-building-the-style-guide">The Faith-Salvation-Work Cycle<br /><span style="font-weight: normal;">&mdash;The cycle of frustration</span></a></li>
 </ul>
 </nav>
+-->

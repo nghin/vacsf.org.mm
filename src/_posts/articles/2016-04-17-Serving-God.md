@@ -5,7 +5,7 @@ excerpt: "Thousands of books have been written on the topic of serving God. Thos
 modified: 2016-08-08T12:14:45-04:00
 image: 
   teaser: serving-God.jpg
-tags: [love, luke, sin]
+tags: [service]
 featured: false
 comments: true
 ---

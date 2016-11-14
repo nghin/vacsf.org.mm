@@ -1,4 +1,4 @@
-<nav class="js-toc toc">
+<!-- <nav class="js-toc toc">
   <h4 class="toc__title">Các Đề Tài Khác</h4>
 <ul class="toc__menu" id="markdown-toc">
       <li><a href="{{ site.url }}/viet-studies/Dung-lam-theo-doi-nay/" id="markdown-toc-building-the-style-guide">Đừng làm theo đời này<br /><span style="font-weight: normal;">&mdash;Ý nghĩa đúng của "đời này"</span></a></li>
@@ -20,3 +20,4 @@
       <li><a href="{{ site.url }}/articles/Faith-Salvation-Work-Cycle/" id="markdown-toc-building-the-style-guide">Vòng Tròn Đức-Tin->Cứu-Rỗi->Việc-Làm<br /><span style="font-weight: normal;">&mdash;Một Vòng Tròn Luẩn Quẩn</span></a></li>
 </ul>
 </nav>
+-->
