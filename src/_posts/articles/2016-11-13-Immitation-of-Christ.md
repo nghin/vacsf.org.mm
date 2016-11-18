@@ -82,7 +82,11 @@ The tendency to walk by the flesh, to use it to live out the Christian faith, is
 
 > Are you so foolish? Having begun by the Spirit, are you now being perfected by the flesh? (Galatians 3:3&mdash;NASB)
 
-To begin by the Spirit means to rely on nothing but faith, and perfecting oneself by the flesh is to try to improve from being already good enough for heaven to ... even better (?). It's this idea that Paul calls foolish. If Christ's death on the cross is enough to grant you the status of being children of God, why are you thinking you can do even better than Him? And worse yet you're using your flesh to accomplish it? That is a foolish thing to do. Books such as Kempis' Imitation of Christ are guilty of taking they eyes of Christians off of Christ and turn them inward into themselves.
+To begin by the Spirit is to start from God's grace with nothing to rely on but faith, and perfecting oneself by the flesh is to try to improve from being already good enough for heaven to ... even better (?). It's this idea that Paul calls foolish. If Christ's death on the cross is enough to grant you the status of being children of God, why are you thinking you can do even better than Him? And worse yet you're using your flesh to accomplish it? That is a foolish thing to do.
+
+Let's take an example of someone who used to have an addiction to gambling, but since he came to Christ, the addiction was gone. This change though positive and it sure will save him from all the pain and suffering from the addiction, it does not make him any more sanctified than the day he received Christ into his heart. Christ did not come to save him from a multitude of sins, but to deliver him from the root of it all, his sin nature, the deliverance from the addiction is just a bonus just as Christ had promised in Matthew 6:33: <em>"Seek first the kingdom of God and His righteousness, and all these things shall be added unto you."</em> All these things include that besetting sin.
+
+Books such as Kempis' Imitation of Christ are guilty of taking they eyes of Christians off of Christ and turn them inward into themselves. Instead of explaining what Christ had done on the cross, the height, depth, and breadth of God's plan of salvation, the righteousness that is theirs through Christ and everything they need for godliness and contentment that is included with Him, they turn the believers' eyes toward themselves trying to draw from wretchedness and fallen flesh something to impress God and other people.
 
 ## Conclusion
 
