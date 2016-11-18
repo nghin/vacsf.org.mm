@@ -6,7 +6,7 @@ modified: 2016-08-08T12:14:45-04:00
 image: 
   teaser: resist-unto-blood.jpg
 tags: [bible-studies, sin]
-featured: true
+featured: false
 comments: true
 ---
 
