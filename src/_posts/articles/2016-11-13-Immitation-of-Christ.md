@@ -11,7 +11,7 @@ comments: true
 
 CHAPTER I<br />
 Of the imitation of Christ, and of contempt of the world and all its vanities<br />
-1. He that follows me shall not walk in darkness(1), says the Lord. There are the words of Christ; and they teach us how far we must imitate His life and character, if we seek true illumination, and deliverance from all blindness of heart. Let it be our most earnest study, therefore, to dwell upon the life of Jesus Christ.
+1. He that follows me shall not walk in darkness, says the Lord. There are the words of Christ; and they teach us how far we must imitate His life and character, if we seek true illumination, and deliverance from all blindness of heart. Let it be our most earnest study, therefore, to dwell upon the life of Jesus Christ.
 
 Above is an excerpt from The Imitation of Christ by Thomas A. Kempis, the first paragraph of chapter 1.
 
@@ -72,7 +72,7 @@ Let's survey another nugget of gold from Kempis' book.
 
 Doesn't it feel like a cross between Proverbs and Ecclesiastes? All this wisdom is already there in the pages of Scriptures, but again the problem is "what I want to do, I do not do." As I recalled my earlier years in the Christian faith, I took in every thought in Imitation wholeheartedly, but the problem was I couldn't put my finger on anything that would nudge me up one notch in the spirituality ladder. It felt like when I was sitting in a class that gave voice lessons and after hours had gone by, there was no breakthrough, I still couldn't get that elusive high note.
 
-Books like this gives the reader an illusion of getting somewhere without real changes even in the here and now, let alone eternity. They draw the readers deeper within themselves, round and round in circles while providing no escapes. I like the expression I learned from Bob George's book "Growing in Grace," if memory serves me correctly: morbid introspection. Through all this I realized I simply exchanged the books on existentialism, those I used to read before I became a Christian, with books dressed in Christianese with virtually the same content, words that came from the minds of philosophers.
+Books like this gives the reader an illusion of getting somewhere without real changes even in the here and now, let alone eternity. They draw the readers deeper within themselves, round and round in circles while providing no escapes. I like the expression I learned from Bob George's book "Growing in Grace," if memory serves me correctly: morbid introspection. Through all this I realized I simply exchanged the books on existentialism, those I used to read before I became a Christian, for books dressed in Christianese with virtually the same content, words that came from the minds of philosophers.
 
 ## Faith vs. learning, do vs. done
 
@@ -84,9 +84,13 @@ The tendency to walk by the flesh, to use it to live out the Christian faith, is
 
 > Are you so foolish? Having begun by the Spirit, are you now being perfected by the flesh? (Galatians 3:3&mdash;NASB)
 
-To begin by the Spirit is to start from God's grace with nothing to rely on but faith, and perfecting oneself by the flesh is to try to improve from being already good enough for heaven to ... even better (?). It's this idea that Paul calls foolish. If Christ's death on the cross is enough to grant you the status of being children of God, why are you thinking you can do even better than Him? And worse yet you're using your flesh to accomplish it? That is a foolish thing to do.
+To begin by the Spirit is to start from God's grace with nothing to rely on but faith, and perfecting oneself by the flesh is to try to improve from being already good enough for heaven to something even better. It's this idea that Paul calls foolish. If Christ's death on the cross is enough to make us perfect so we may come boldly to the throne of grace, how can anyone improve on what He's already done? And worse yet all the presumed improvements will be done through the strength of the flesh.
 
 Let's take an example of someone who used to have an addiction to gambling, but since he came to Christ, the addiction was gone. This change though positive and it sure will save him from all the pain and suffering from the addiction, it does not make him any more sanctified than the day he received Christ into his heart. Christ did not come to save him from a multitude of sins, but to deliver him from the root of it all, his sin nature, the deliverance from the addiction is just a bonus just as Christ had promised in Matthew 6:33: <em>"Seek first the kingdom of God and His righteousness, and all these things shall be added unto you."</em> All these things include that besetting sin.
+
+> He who did not spare his own Son, but gave him up for us all&mdash;how will he not also, along with him, graciously give us all things? (Romans 8:32)
+
+The believer received the gift of deliverance from the addiction along with the greatest gift of all: Christ. The receiving of this gift of deliverance does not make him any more holy, or sanctified, than the moment he received Christ into his heart. Henceforth his life's focus should be on His Redeemer and not on the gift, or any gift for that matter. It's the job of the claymaker to mold him into any shape he wishes.
 
 Books such as Kempis' Imitation of Christ are guilty of taking they eyes of Christians off of Christ and turn them inward into themselves. Instead of explaining what Christ had done on the cross, the height, depth, and breadth of God's plan of salvation, the righteousness that is theirs through Christ and everything they need for godliness and contentment that is included with Him, they turn the believers' eyes toward themselves trying to draw from wretchedness and fallen flesh something to impress God and other people.
 
