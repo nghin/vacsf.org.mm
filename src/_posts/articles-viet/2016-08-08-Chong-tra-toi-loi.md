@@ -4,7 +4,7 @@ excerpt: "Hebrews 12:4. Ý nghĩa của câu Kinh Thánh &#34;Trong cuộc chi�
 image: 
   teaser: resist-unto-blood.jpg
 tags: [toi-loi]
-featured: true
+featured: false
 modified:
 comments: false
 feature:

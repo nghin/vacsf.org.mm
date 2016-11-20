@@ -1,7 +1,7 @@
 ---
 title: "Imitation of Christ"
-excerpt: ""
-modified: 2016-08-08T12:14:45-04:00
+excerpt: "Imitation of Christ &mdash; Thomas A. Kempis Can Man Really Imitate God?"
+modified: 2016-11-19T12:14:45-04:00
 image: 
   teaser: Imitating-Christ-teaser.jpg
 tags: [spirit, flesh]
@@ -10,19 +10,19 @@ comments: true
 ---
 
 CHAPTER I<br />
-Of the imitation of Christ, and of contempt of the world and all its vanities<br />
+<em>Of the imitation of Christ, and of contempt of the world and all its vanities</em><br />
 1. He that follows me shall not walk in darkness, says the Lord. There are the words of Christ; and they teach us how far we must imitate His life and character, if we seek true illumination, and deliverance from all blindness of heart. Let it be our most earnest study, therefore, to dwell upon the life of Jesus Christ.
 
 Above is an excerpt from The Imitation of Christ by Thomas A. Kempis, the first paragraph of chapter 1.
 
 {% include toc.html %}
 
-<!-- a href="{{ site.url }}{% post_url 2016-11-13-Theo-guong-Gie-su %}"><em>(Bấm vào đây để đọc tiếng Việt)</em></a -->
+<a href="{{ site.url }}{% post_url 2016-11-13-Theo-guong-Gie-su %}"><em>(Bấm vào đây để đọc tiếng Việt)</em></a>
 
 ## An assumption about Jesus
 
 <img alt src="{{ site.url }}/assets/images/Imitating-Christ-teaser.jpg" style="border: 1px solid #cccccc; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;">
- "How far we must imitate His life and character?" asked the author of Imitation of Christ. The author assumes that we can imitate Jesus, and it appears quite a few folks agree with him. But as far as my study of Scriptures has brought me, the idea of imitating Jesus, or him being an example, goes against the biblical message as a whole. I was motivated to write this article after reading an introduction to the gospel of Matthew from a new Vietnamese translation, in which the author, or authors, referred to Jesus as the supreme teacher who had the authority to interprete God's Law.
+ "Christ teaches us how far we must imitate His life and character," asserts the author of Imitation of Christ. The author assumes that we can imitate Jesus, and it appears quite a few folks agree with him. But as far as my study of Scriptures has brought me, the idea of imitating Jesus, or him being an example, goes against the biblical message as a whole. I was motivated to write this article after reading an introduction to the gospel of Matthew from a new Vietnamese translation, in which the author, or authors, referred to Jesus as the supreme teacher who had the authority to interprete God's Law.
 
 ## Who do you say Jesus is?
 
@@ -52,7 +52,7 @@ For the sake of argument, let's assume that Jesus came to be our teacher. What m
 
 What could he teach us concerning the righteousness we needed that required His death on the cross? He performed miracles to authenticate his being sent by the Father&mdash;can this be imitated? He was born without sin, lived above sin, and died as an unblemished Lamb of God to take away our sin&mdash;can this be duplicated? He forgave sins past, present, and future of all of mankind&mdash;Imitate this? He raised people from the dead&mdash;Anyone? He is Almighty God&mdash;Dare you try this?
 
-However someone might raise an objection that there were plenty we could learn from Him on this side of eternity, such as humility, self denial, long suffering, and many qualities espoused in books through the ages. Kempis' book Imitation of Christ is one such book. But except for some who are outside the norm, most folks appear to be socially and morally functional and they already possess the knowledge of these fine qualities expressed in Kempis' book as well as taught by teachers even including Jesus. The Son of God didn't need to leave heaven to teach us these basic principles.
+However someone might raise an objection that there were plenty we could learn from Him on this side of eternity, such as humility, self denial, long suffering, and many qualities espoused in books through the ages. Kempis' book Imitation of Christ is one such book. But except for some who are outside the norm, most folks appear to be socially and morally functional and they already possess the knowledge of these fine qualities expressed in Kempis' book as well as many other sources. The Son of God didn't need to leave heaven to teach us these basic principles.
 
 Man already had the ability to tell good from evil since the Garden of Eden (Romans 2:14). For the Jews, God spelled it out on tablets of stone. The problem isn't that mankind needs to be taught anything that they couldn't have learned already, it's that though they knew all these things, they simply couldn't do it. The apostle Paul expressed this dilemma in the following verse:
 
@@ -100,6 +100,6 @@ C.S. Lewis vehemently denounced the very thought of thinking of Christ as a teac
 
 > I am trying here to prevent anyone from saying the really foolish thing that people often say about Him [Jesus Christ]: 'I'm ready to accept Jesus as a great moral teacher, but I don't accept his claim to be God.' That is the one thing we must not say. A man who was merely a man and said the sort of things Jesus said would not be a great moral teacher. He would either be a lunatic—on a level with a man who says he is a poached egg—or else he would be the Devil of hell. You must make your choice. Either this man was, and is, the Son of God, or else a madman or something worse. You can shut him up for fool, you can spit at him and kill him as a demon; or you can fall at his feet and call him Lord and God. <strong>But let us not come up with any patronizing nonsense about his being a great human teacher. He has not left that option open to us. He did not intend to.</strong>
 
-I wholeheartedly agree with C.S. Lewis on that point. That was why when our Sunday School class read the introduction to the new translation of the Book of Matthew I was so taken aback and kept voicing my objection to such description of Jesus as a supreme teacher. Far be it from anyone who calls on the name of Jesus to think of Him as such.
+I wholeheartedly agree with C.S. Lewis on that point. That was why when our Sunday School class read the introduction in the new translation of the Book of Matthew I was so taken aback and kept voicing my objection to such description of Jesus as a supreme teacher. Far be it from anyone who calls on the name of Jesus to think of Him as such.
 
 {% include bible-study/bible-study-footer %}
