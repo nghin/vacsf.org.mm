@@ -5,7 +5,7 @@ modified: 2016-08-08T12:14:45-04:00
 image: 
   teaser: do-not-conform-teaser.png
 tags: [bible-studies, sin]
-featured: true
+featured: false
 comments: true
 ---
 

@@ -96,8 +96,6 @@ Những sách giống như Imitation of Christ của Kempis phạm vào sự là
 
 C.S. Lewis đã cực lực đả kích ý tưởng về Đấng Christ như một vị giáo sư khi ông viết về điều này trong sách Mere Christianity:
 
-<em>(còn tiếp ...)</em>
-
 > Sự cố gắng của tôi ở đây là để phòng ngừa trường hợp có người nói điều ngu muội mà người ta thường nói về Ngài [Chúa Giê-su]: 'Tôi sẵn sàng chấp nhận Chúa Giê-su là một đại giáo sư luân lý, nhưng tôi không nhận lời tuyên bố rằng người là Chúa.' Đó là một điều chúng ta không được nói. Một người chỉ là phàm nhân mà nói những điều Chúa Giê-su đã nói thì không thể là một đại giáo sư luân lý. Người đó phải hoặc là một người điên cuồng&mdash;chẳng khác gì một người xưng mình là quả trứng luộc&mdash;hoặc người đó phải là Chúa Quỷ dưới hỏa ngục. Chúng ta phải làm một sự lựa chọn. Hoặc người này đã, và hiện, là Con Đức Chúa Trời, hoặc là một kẻ điên cuồng hoặc tệ hơn nữa. Chúng ta có thể coi người đó như một kẻ khờ dại, có thể nhổ nước bọt trên người đó và giết đi như giết một quỷ sứ; hoặc chúng ta phải quỳ dưới chân người và gọi là Chúa và Đức Chúa Trời.<strong> Nhưng đừng ai nói điều vô lý về sự Ngài là một giáo sư vĩ đại. Ngài không cho chúng ta sự lựa chọn đó. Ngài không có chủ đích đó.</strong>
 
 Tôi hoàn toàn đồng ý với C.S. Lewis về điểm đó. Đó là lý do tại sao khi lớp Trường Chúa Nhật chúng tôi đọc phần giới thiệu trong bản dịch tiếng Việt mới cho sách Ma-thi-ơ tôi đã ngạc nhiên và cứ lên tiếng phản đối về sự diễn tả Chúa Giê-su như một giáo sư vĩ đại. Chớ có ai xưng danh Chúa Giê-su lại suy nghĩ về Ngài như thế.
