@@ -3,7 +3,7 @@ title: "Trật Phần Ân Điển"
 excerpt: "Bạn vẫn thường sống đời tin kính như một người đi trên giây? Trật một bước là rơi xuống?"
 image: 
   teaser: FallingFromGrace.jpg
-tags: [an-dien]
+tags: [an-dien, luat-phap]
 featured: false
 modified:
 comments: false

@@ -3,7 +3,7 @@ title: "Lạm Dụng Ân Điển"
 excerpt: "Ân điển có thể chỉ là một từ được dùng để nói lên một khía cạnh của thần học, hay là nó có thể là một điều quí báu mà hầu như đa số đều mù loà về nó cho đến khi mắt họ mở ra để nhìn thấy quyền năng thay đổi đời sống."
 image: 
   teaser: break-the-chains.jpg
-tags: [an-dien]
+tags: [an-dien, luat-phap]
 featured: false
 modified:
 comments: false
