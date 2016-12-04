@@ -29,15 +29,15 @@ Let us consider a strong possibility that James does not agree with Paul, and vi
 
 What is our current position before God? What does God see in us? Does He see Christ's righteousness in us, or does He hold our sins against us? If He still holds our sins against us then we're not fully justified, then there must be some changes in our lives so that we sin less and less, at least less enough to whatever degree that might be, so that God accepts us. This is generally the point of view of the majority of Christians, that we must use our works to maintain our relationship with God, and then perhaps we'll be rewarded in proportion to the amount of good works we've done while in the flesh.
 
-I don't subscribe to this view at all. Not that because it's a philosophy that I hold, or it's something that I feel, but because there are enough points of reference scattered throughout Scriptures to show not only that we're saved by God's grace, but we're to live the remainder of our lives by that grace as well.
+I don't subscribe to this view at all. Not because it's a philosophy that I hold, or it's something that I feel, but because there are enough points of reference scattered throughout Scriptures to show not only that we're saved by God's grace, but we're to live the remainder of our lives by that grace as well.
 
 ## What is salvation?
 
-It's a good news, a solution to a problem. But what is the problem? The problem started in the Garden of Eden when man expressed their desire to be independent from God, to possess the knowledge of good and evil, of right and of wrong, like God. Now they would know what to do and what not to do, to function independently from God. But this independence comes at a great cost: they began to die, first spiritually then physical death ensues.
+It's a good news, a solution to a problem. But what is the problem? The problem started in the Garden of Eden when man expressed their desire to be independent from God, to possess the knowledge of good and evil, of right and of wrong, like God. Now they would know what to do and what not to do, to function independently from God. But this independence came at a great cost: they began to die, first spiritually then physical death ensued.
 
 > Therefore, just as sin entered the world through one man, and death through sin, and in this way death came to all people, because all sinned. (Romans 5:12)
 
-God provided a solution to this sin and death problem by sending His Son Jesus Christ to take away the world's sin on the cross,
+God provided a solution to this sin and death problem by sending His Son Jesus Christ to take away the world's sins on the cross,
 
 > God was reconciling the world to himself in Christ, not counting people's sins against them. (2 Corinthians 5:19)
 
@@ -51,7 +51,7 @@ If this is indeed the gospel, the definition of our salvation, then we are right
 
 ## Do you have enough works?
 
-If you are among those who believe you must to have works to add to your faith, how do you know you will have done enough before you meet God? Will you be able to get all the sins out of your life? How much witnessing do you have to do to be considered fruitful? Who will define for you what is an adequate amount of works? And when will you know you've done enough? The answer is easy, you'll never know when, or how much, you've done enough, until you meet the Lord and He will tell you of your performance. Perhaps the parable of the talents apply here. If your belief demands works, you will have to return to God the exactly the double amount of talents that He gave you. And still that may not be enough, you will find out whether the quality of your works will be acceptable to Him.
+If you are among those who believe you must to have works to add to your faith, how do you know you will have done enough before you meet God? Will you be able to get all the sins out of your life? How much witnessing do you have to do to be considered fruitful? Who will define for you what is an adequate amount of works? And when will you know you've done enough? The answer is easy, you'll never know when, or how much, you've done enough, until you meet the Lord and He will tell you of your performance. Perhaps the parable of the talents apply here. If your belief demands works, you will have to return to God exactly the double amount of talents that He gave you. And still that may not be enough, you will find out whether the quality of your works will be acceptable to Him.
 
 This must be the reason why virtually all folks who are under the justification by faith plus works will invariably answer the question of their salvation like this: I will just try my best and hope for the best. That is a very sad way of living that amounts to almost a superstition, a worship of idols whose minds no one can know. In this mode of living, you'll never be at peace with your God.
 
@@ -69,7 +69,7 @@ Paul went up to the church in Jerusalem to present to them the gospel that he pr
 
 There were people at this church whom Paul called "false brothers" who spied on Paul and Titus, trying to find faults with their freedom. Their intention was to put them again under the bondage of the law, but Paul did not yield at all. He kept Titus from being forced to undergo circumcision in compliance with the Mosaic laws.
 
-Had Paul allowed Titus to be circumcised, he would have been sending conflicting messages concerning the gospel. To the Galatians church, he taught that justification is by faith alone, but allowing Titus, a Gentile, to be circumcised would say justification is by faith plus works. In other words, all his effort to teach them the truth of the gospel would have been in vain, but his being unyielding to the lawkeepers allowed the truth of the gospel to remain with them.
+Had Paul allowed Titus to be circumcised, he would have been sending conflicting messages concerning the gospel. To the Galatians church, he taught that justification is by faith alone, but allowing Titus, a Gentile, to be circumcised would implicate that justification is by faith plus works. In other words, all his effort to teach them the truth of the gospel would have been in vain, but his being unyielding to the lawkeepers allowed the truth of the gospel to remain with them.
 
 In Acts 15 there is a historical record, given by Luke, which explains further the reason for Paul's trip. Let us take a detour to this Acts passage to get a fuller context before we return to chapter 2 of Galatians.
 
@@ -79,7 +79,7 @@ In Acts 15 there is a historical record, given by Luke, which explains further t
 
 Paul travelled to Jerusalem to meet with the church's leaders including Peter and James who is the head of the church there. The important thing when we read the passage above is we must pay attention to differences or disagreements between Paul and the leaders as reported by Dr. Luke. These differences are not matters of styles or preferences, but of critical importance in relation to justification.
 
-There were people from Judea sincerely believe that unless the believers, Jews or Gentiles alike, are circumcised and obedient to the law of Moses, their salvation is in peril. A major debate broke out between Paul and Barnabas againts those who advocate the keeping of the law of Moses. In order to resolve the conflict, the church appointed Paul and Barnabas to go to Jerusalem to discuss the matter with the church's leaders. The core issue in the debate is: is justification by faith alone, or is it by faith and works&mdash;being circumcised and obedient to the law of Moses.
+There were people from Judea who sincerely believe that unless the believers, Jews or Gentiles alike, are circumcised and obedient to the law of Moses, their salvation is in peril. A major debate broke out between Paul and Barnabas againts those who advocate the keeping of the law of Moses. In order to resolve the conflict, the church appointed Paul and Barnabas to go to Jerusalem to discuss the matter with the church's leaders. The core issue in the debate is: is justification by faith alone, or is it by faith and works&mdash;being circumcised and obedient to the law of Moses?
 
 It is the first time here at chapter 15 that they began to debate the matter of justification. As a matter of fact, it wasn't until chapter 11 that they began to acknowledge that the Gentiles could be saved, therefore it goes without saying that from chapter 1 through 10, salvation for the Gentiles was completely excluded. 
 
@@ -89,13 +89,13 @@ It is the first time here at chapter 15 that they began to debate the matter of 
 
 During this meeting, we saw that Peter affirmed Paul's messages to the Gentiles that their salvation is not conditioned upon their keeping of the law of Moses. That the cleansing of the believers' hearts was by faith&mdash;not by works. Peter was bold to acknowledge that neither they nor their ancestors were able to bear the weight of the law, so there is no reason why they should impose such condition upon the Gentiles. And ultimately, why would God give the Holy Spirit to someone who is not fully acceptable to Him?
 
-## James' resolution doesn't go far enough
+## James' resolution didn't go far enough
 
 After much discussion and listening to points of view of Paul, Barnabas, and other apostles and elders, James decided to resolve the dispute by asking others to stop bothering the Gentiles, but just write letters to tell them to <em>"abstain from things defiled by idols and from sexual immorality and from what has been strangled and from blood (Acts 15:20)."</em>
 
-James refrained from enforcing the whole law, but he left enough of what amounts to the "yeast of the Pharisees." James did not go as far as saying that the Gentiles do not have to be circumcised. He did not even mention circumcision which was the key issue in the debate. In skirting the issue, James implicitly states that his stand on justification is that it is based on faith which is perfected by the keeping of all of Mosaic laws.
+James refrained from enforcing the whole law, but he left enough of what amounted to being the "yeast of the Pharisees." James did not go as far as saying that the Gentiles do not have to be circumcised. He did not even mention circumcision which was the key issue in the debate. In skirting the issue, James implicitly stated that his stand on justification was that it was based on faith perfected by the keeping of all of Mosaic laws.
 
-James showed his hypocrisy when he tried to impose the keeping of the laws on the Gentiles that neither he nor his ancestors ever could. But the key point to take away from here is there is a profound disagreement between him and Paul. And you have to decide who is more in line with Scriptures and choose one, because they're definitely incompatible. So incompatible to the point that Paul wrote this in Galatians:
+James showed his hypocrisy when he tried to impose the keeping of the laws on the Gentiles that neither he nor his ancestors ever could. But the key point to take away from here is this shows a profound disagreement between him and Paul. And you have to decide who is more in line with Scriptures and choose one, because they're definitely incompatible. So incompatible to the point that Paul wrote this in Galatians:
 
 > You who are trying to be justified by the law have been alienated from Christ; you have fallen away from grace. (Galatians 5:4)
 
@@ -103,9 +103,9 @@ I hope by now you stop trying to reconcile James and Paul, or rather you should 
 
 ## James' gospel: impossible for salvation
 
-The gospel according to James is impossible to live by. His insistence on a faith that requires the keeping of Mosaic laws makes it so. In verse 1 of chapter 15 above, James was recorded as saying this: <em>"Unless you are circumcised according to the custom of Moses, you cannot be saved. (Acts 15:1)"</em>, and Paul emphasized the implication of lawkeeping with this: <em>"Again I declare to every man who lets himself be circumcised that he is obligated to obey the whole law. (Galatians 5:3)"</em>
+The gospel according to James is impossible to live by. His insistence on a faith that requires the keeping of Mosaic laws makes it so. In verse 1 of chapter 15 above, James was recorded as saying this: <em>"Unless you are circumcised according to the custom of Moses, you cannot be saved. (Acts 15:1)"</em>, but Paul emphasized the implication of lawkeeping with this: <em>"Again I declare to every man who lets himself be circumcised that he is obligated to obey the whole law. (Galatians 5:3)"</em>
 
-Let's us not forget that no one ever could keep the entire law: <em>"why are you putting God to the test by placing on the neck of the disciples a yoke that neither our ancestors nor we have been able to bear? (Acts 15:10)"</em>. Additionally, if you insist on keeping the law to get right with God, you have to fulfill at least two of these requirements: 1) <em>"Be perfect, as your father in heaven is perfect" (Matthew 5:48)</em>, and 2) <em>"Unless your righteousness surpasses that of the Pharisees and the teachers of the law, you will certainly not enter the kingdom of heaven. (Matthew 5:20)"</em> Keep in mind that Jesus said these things only to those who try to get right with God through their own self righteousness.
+Let's us not forget that no one ever could keep the entire law: <em>"why are you putting God to the test by placing on the neck of the disciples a yoke that neither our ancestors nor we have been able to bear? (Acts 15:10)"</em>. Additionally, if you insist on keeping the law to get right with God, you have to fulfill at least two of these requirements: 1) <em>"Be perfect, as your father in heaven is perfect" (Matthew 5:48)</em>, and 2) <em>"Unless your righteousness surpasses that of the Pharisees and the teachers of the law, you will certainly not enter the kingdom of heaven. (Matthew 5:20)"</em> Keep in mind that Jesus said these things only to those who tried to get right with God through their own self righteousness.
 
 ## Galatians 2 revisited
 
@@ -138,7 +138,7 @@ Here Paul made it clear that his gospel applies to both Jews and Gentiles alike 
 
 > And we have come to believe in Christ Jesus, so that we may be justified by the faithfulness of Christ and not by the works of the law, because by the works of the law no one will be justified. (Galatians 2:16)
 
-## I'm fully accepted by God
+## You're fully accepted by God
 
 In James' version of justification, though you may be saved through faith, you're not yet perfect, or rather your faith is not yet perfect until a certain amount of works is added to bring that faith to completion. God loves you but He hasn't fully accepted you yet. There's more work to do before you become more holy, more sanctified, <a href="{{ site.url }}{% post_url 2016-11-13-Immitation-of-Christ %}"><em>becoming more like Christ</em></a>. As already discussed earlier, you cannot meet God without being perfect, and you'll never know when or whether you'll have enough works to get to that perfect place.
 
@@ -152,7 +152,7 @@ Yes, indeed, in Christ you have been made perfect.
 
 I wrote an article on this same topic several years ago when the reality of God's began to grow in my heart. I titled it "Faith, Salvation, and Works&mdash;the Cycle of Frustration." In that first writing I tried very hard to reconcile James with Paul. I was looking for grace, pure grace, in James' writing but the book of James had become a dark side of God that made me afraid.
 
-Praise God that I found in the radio archive of <a href="http://www.newcovenantinstitute.net/living_god_ministries/radio_archive/faith_works.htm" target="_blank">Living God Ministries"</a> a series of four broadcasts on Faith and Works that answered my nagging question whether there is a fine print under John 3:16. Just after listening to the introduction of the series where brother Aaron Budjen talked about the proven disagreements between James and Paul, I knew this was what I had been looking for, that there are apostles that are preaching another gospel. I didn't dare to think this not too long ago.
+Praise God that I found in the radio archive of <a href="http://www.newcovenantinstitute.net/living_god_ministries/radio_archive/faith_works.htm" target="_blank">Living God Ministries</a> a series of four broadcasts on Faith and Works that answered my nagging question whether there is a fine print under John 3:16. Just after listening to the introduction of the series where brother Aaron Budjen talked about the proven disagreements between James and Paul, I knew this was what I had been looking for, that there are apostles that are preaching another gospel. I didn't dare to think this not too long ago.
 
 This article is very much based on Aaron's messages with occasional injection of my own thoughts. For a much more complete explanation of this topic please click on the link above to access the audio files of this radio series. Eternally grateful, brother Aaron.
 
