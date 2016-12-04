@@ -4,7 +4,7 @@ excerpt: "Carry one another's burdens, and in this way you will fulfill the law 
 modified: 2016-11-19T12:14:45-04:00
 image: 
   teaser: law-of-christ-teaser.png
-tags: [law, grace]
+tags: [law, grace, faith, work]
 featured: true
 comments: true
 ---
@@ -61,5 +61,9 @@ The law of sin and death is just what its name suggests, it condemns people for 
 > Whoever believes in the Son has eternal life, but whoever rejects the Son will not see life, for God's wrath remains on them. (John 3:36)
 
 This law must be the law of Christ, it gives life. Then perhaps, the sinful man's burden can be lifted upon a reminder of this law of the spirit of life to his broken spirit? Perhaps knowing that God has not forsaken him might help set him free from the sin that pulls him down in the first place? When we do this, use the law of Christ, in its true intended purpose, to take away the load of sin and guilt from the sinner, we will have fulfilled it.
+
+> "Come to me, all you who are weary and burdened, and I will give you rest." (Matthew 11:28)
+
+No one can carry his own burden of sin, let alone carrying this kind of burden for others. Christ alone can, and He has promised to give rest to all those who come to Him. 
 
 {% include bible-study/bible-study-footer %}

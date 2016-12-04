@@ -4,7 +4,7 @@ excerpt: "Carry one another's burdens, and in this way you will fulfill the law 
 modified: 2016-11-19T12:14:45-04:00
 image: 
   teaser: law-of-christ-teaser.png
-tags: [an-dien, luat-phap]
+tags: [an-dien, luat-phap, duc-tin, viec-lam]
 featured: true
 comments: true
 ---
@@ -62,5 +62,9 @@ Luật của sự tội và sự chết thì quả đúng như tên gọi của 
 > Ai tin Con, thì được sự sống đời đời; ai không chịu tin Con, thì chẳng thấy sự sống đâu, nhưng cơn thạnh nộ của Ðức Chúa Trời vẫn ở trên người đó. (John 3:36)
 
 Đây mới đúng thực là luật pháp của Đấng Christ, vì nó ban sự sống. Và có lẽ, nhờ đó gánh nặng của kẻ có tội được cất đi khi linh hồn tan vỡ của họ được nhắc nhở về luật của thánh linh sự sống? Có lẽ khi họ biết rằng Đức Chúa Trời vẫn ở cùng, họ có năng lực vượt thắng được tội lỗi đã đem lại cho họ gánh nặng đó? Khi chúng ta làm điều đó, dùng lời Chúa để cởi bỏ gánh nặng về tội lỗi và mặc cảm của nó, là chúng ta đã làm trọn luật pháp của Đấng Christ vậy.
+
+> Hỡi những kẻ mệt mỏi và gánh nặng, hãy đến cùng ta, ta sẽ cho các ngươi được yên nghỉ. (Matthew 11:28)
+
+Không ai có thể mang được gánh nặng tội lỗi của chính mình, đừng nói chi đến gánh nặng của người khác. Chỉ mình Chúa gánh được, và Ngài đã hứa ban sự an nghỉ cho bất cứ ai đến cùng Ngài.
 
 {% include bible-study/bible-study-footer %}
