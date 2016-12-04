@@ -150,7 +150,7 @@ Yes, indeed, in Christ you have been made perfect.
 
 ## Credit
 
-I wrote an article on this same topic several years ago when the reality of God's began to grow in my heart. I titled it "Faith, Salvation, and Works&mdash;the Cycle of Frustration." In that first writing I tried very hard to reconcile James with Paul. I was looking for grace, pure grace, in James' writing but the book of James had become a dark side of God that made me afraid.
+I wrote an article on this same topic several years ago when the reality of God's grace began to grow in my heart. I titled it "Faith, Salvation, and Works&mdash;the Cycle of Frustration." In that first writing I tried very hard to reconcile James with Paul. I was looking for grace, pure grace, in James' writing but the book of James had become a dark side of God that made me afraid.
 
 Praise God that I found in the radio archive of <a href="http://www.newcovenantinstitute.net/living_god_ministries/radio_archive/faith_works.htm" target="_blank">Living God Ministries</a> a series of four broadcasts on Faith and Works that answered my nagging question whether there is a fine print under John 3:16. Just after listening to the introduction of the series where brother Aaron Budjen talked about the proven disagreements between James and Paul, I knew this was what I had been looking for, that there are apostles that are preaching another gospel. I didn't dare to think this not too long ago.
 
