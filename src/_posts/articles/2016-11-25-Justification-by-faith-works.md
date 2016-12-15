@@ -16,6 +16,8 @@ comments: true
 
 There are two passages in the Bible that appear to be in direct conflict with each other: Romans 3:23-28, with verse 28 which says <em>"One is justified by faith apart from works of the law,"</em> and James 2:20-26, with verse 24 which says <em>"You see that a person is justified by works and not by faith alone."</em>. How do we reconcile these apparent differences?
 
+<a href="{{ site.url }}{% post_url 2016-11-25-Xung-cong-binh-boi-duc-tin-va-viec-lam %}"><em>(Bấm vào đây để đọc tiếng Việt)</em></a>
+
 ## The two opposing views of justification
 
 <img style="border: 1px solid #cccccc; margin: 7px 15px 0px 0px; max-width: 100%; height: 300px; padding: 0px; float: left;" src="{{ site.url }}/assets/images/Faith-Salvation-Works circle.png" alt="Salvation by faith alone, or faith plus works?" />
@@ -67,7 +69,7 @@ Lastly, if your salvation is based on works, your works must be performed to per
 
 Paul went up to the church in Jerusalem to present to them the gospel that he preached among the Gentiles, which was different from, and in direct conflict with, what was being preached by the apostles. Paul only did this with the influential people because the differences must be significant enough to potentially cause problems had it been presented to the entire congregation and put them in a difficult situation.
 
-There were people at this church whom Paul called "false brothers" who spied on Paul and Titus, trying to find faults with their freedom. Their intention was to put them again under the bondage of the law, but Paul did not yield at all. He kept Titus from being forced to undergo circumcision in compliance with the Mosaic laws.
+There were people at this church whom Paul called "false brothers" who spied on Paul and Titus, trying to find faults with their freedom. Their intention was to put them again under the bondage of the law, but Paul did not yield at all. He kept Titus from being forced to undergo circumcision in compliance with the Old Covenant laws.
 
 Had Paul allowed Titus to be circumcised, he would have been sending conflicting messages concerning the gospel. To the Galatians church, he taught that justification is by faith alone, but allowing Titus, a Gentile, to be circumcised would implicate that justification is by faith plus works. In other words, all his effort to teach them the truth of the gospel would have been in vain, but his being unyielding to the lawkeepers allowed the truth of the gospel to remain with them.
 
@@ -140,7 +142,7 @@ Here Paul made it clear that his gospel applies to both Jews and Gentiles alike 
 
 ## You're fully accepted by God
 
-In James' version of justification, though you may be saved through faith, you're not yet perfect, or rather your faith is not yet perfect until a certain amount of works is added to bring that faith to completion. God loves you but He hasn't fully accepted you yet. There's more work to do before you become more holy, more sanctified, <a href="{{ site.url }}{% post_url 2016-11-13-Immitation-of-Christ %}"><em>becoming more like Christ</em></a>. As already discussed earlier, you cannot meet God without being perfect, and you'll never know when or whether you'll have enough works to get to that perfect place.
+In James' version of justification, though you may be saved through faith, you're not yet perfect, or rather your faith is not yet perfect until a certain amount of works is added to bring that faith to completion. God loves you but He hasn't fully accepted you yet. There's more work to do before you become more holy, more sanctified, <a href="{{ site.url }}{% post_url 2016-11-13-Immitation-of-Christ %}"><em>becoming more like Christ</em></a>. As already discussed earlier, since you cannot meet God without being perfect, when will you be perfect enough to meet God according to James?
 
 On the other hand if justification is entirely by faith, you will know without any doubt your place in the heart of God and His kingdom. Because your perfection is not based on you, but on Christ, and in Him God has given all you need to stand against that day.
 
@@ -154,7 +156,7 @@ I wrote an article on this same topic several years ago when the reality of God'
 
 Praise God that I found in the radio archive of <a href="http://www.newcovenantinstitute.net/living_god_ministries/radio_archive/faith_works.htm" target="_blank">Living God Ministries</a> a series of four broadcasts on Faith and Works that answered my nagging question whether there is a fine print under John 3:16. Just after listening to the introduction of the series where brother Aaron Budjen talked about the proven disagreements between James and Paul, I knew this was what I had been looking for, that there are apostles that are preaching another gospel. I didn't dare to think this not too long ago.
 
-This article is very much based on Aaron's messages with occasional injection of my own thoughts. For a much more complete explanation of this topic please click on the link above to access the audio files of this radio series. Eternally grateful, brother Aaron.
+This article is very much based on Aaron's messages with occasional injection of my own thoughts. However the thoughts expressed in this writing do not necessarily reflect Aaron's theology or beliefs. For a much more complete explanation of this topic please click on the link above to access the audio files of this radio series. Eternally grateful, brother Aaron.
 
 {% include bible-study/bible-study-footer %}
 
