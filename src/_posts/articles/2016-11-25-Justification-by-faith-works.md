@@ -156,7 +156,7 @@ I wrote an article on this same topic several years ago when the reality of God'
 
 Praise God that I found in the radio archive of <a href="http://www.newcovenantinstitute.net/living_god_ministries/radio_archive/faith_works.htm" target="_blank">Living God Ministries</a> a series of four broadcasts on Faith and Works that answered my nagging question whether there is a fine print under John 3:16. Just after listening to the introduction of the series where brother Aaron Budjen talked about the proven disagreements between James and Paul, I knew this was what I had been looking for, that there are apostles that are preaching another gospel. I didn't dare to think this not too long ago.
 
-This article is very much based on Aaron's messages with occasional injection of my own thoughts. However the thoughts expressed in this writing do not necessarily reflect Aaron's theology or beliefs. For a much more complete explanation of this topic please click on the link above to access the audio files of this radio series. Eternally grateful, brother Aaron.
+This article is very much based on Aaron's messages with occasional injection of my own thoughts. However the thoughts expressed in this writing do not necessarily reflect Aaron's theology or beliefs, I might have misinterpreted or misunderstood some points from the original messages, but I hope to communicate as closely as possible what Aaron wanted to convey to the listeners. For a much more complete explanation of this topic please click on the link above to access the audio files of this radio series. Eternally grateful, brother Aaron.
 
 {% include bible-study/bible-study-footer %}
 
