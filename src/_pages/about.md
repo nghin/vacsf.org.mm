@@ -55,6 +55,7 @@ Tel. 650-892-5270, Email: contact@vacsf.org
 </table>
 -->
 
+<!-- No more calendar
 ## 2016 Calendar
 
 <table class="table table-condensed table-responsive" style="width: 100%; font-family: 'open_sans_condensedbold', sans-serif;" border="1">
@@ -409,3 +410,4 @@ align="left">27</td>
 
 
 *[CMS]: Content Management System
+No more calendar -->

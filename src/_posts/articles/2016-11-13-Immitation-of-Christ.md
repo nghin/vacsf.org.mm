@@ -5,7 +5,7 @@ modified: 2016-11-19T12:14:45-04:00
 image: 
   teaser: Imitating-Christ-teaser.jpg
 tags: [spirit, flesh]
-featured: true
+featured: false
 comments: true
 ---
 
