@@ -9,14 +9,14 @@ featured: true
 comments: true
 ---
 
-<em><sup>13</sup>Enter through the narrow gate. For wide is the gate and broad is the road that leads to destruction, and many enter through it. <sup>14</sup>But small is the gate and narrow the road that leads to life, and only a few find it (Matthew 7:13).</em>
+<em><sup>13</sup>Enter through the narrow gate. For wide is the gate and broad is the road that leads to destruction, and many enter through it. <sup>14</sup>But small is the gate and narrow the road that leads to life, and only a few find it (Matthew 7:13-14).</em>
 
 {% include toc.html %}
 
-<img alt src="{{ site.url }}/assets/images/The_narrow_way-teaser.jpg" style="border: 1px solid #cccccc; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;">
-According to most common interpretations, the narrow gate, or path, denotes hardship, troubles, challenges, and difficulties awaiting those who choose to embark on it. However there is curiously a paradoxical expectation that the life of a good Christian is filled with God's blessings, especially material blessings, great financial rewards and a vibrant family life; a projection of God's goodness to those who belong to Him as a testimony to the unbelieving world. But there is nothing in the immediate context of these verses that warrants such interpretations, of promises of either difficulties or smooth sailings. Yet this is what one often hears from pulpits everywhere across the entire spectrum.
+<a href="{{ site.url }}{% post_url 2016-12-20-Duong-Hep %}"><em>(Bấm vào đây để đọc tiếng Việt)</em></a>
 
-<!--a href="{{ site.url }}{% post_url 2016-11-22-luat-phap-cua-Dang-Christ %}"><em>(Bấm vào đây để đọc tiếng Việt)</em></a -->
+<img alt src="{{ site.url }}/assets/images/The_narrow_way-teaser.jpg" style="border: 1px solid #cccccc; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;">
+According to most common interpretations, the narrow gate, or path, denotes troubles and challenges awaiting those who choose to embark on it. However there is curiously a paradoxical expectation that the life of a good Christian is filled with God's blessings, especially material blessings, great financial rewards and a vibrant family life; a projection of God's goodness to those who belong to Him as a testimony to the unbelieving world. But there is nothing in the immediate context of these verses that warrants such interpretations, of promises of either difficulties or smooth sailings. Yet this is what one often hears from pulpits everywhere across the entire spectrum.
 
 ## Common interpretations/contradictions
 
@@ -69,6 +69,6 @@ The true narrow path is in fact the easiest one as it is straight and narrow wit
 
 However this narrow path may prove difficult to those who walk by the flesh. As this article attempts to show that the difficulties lie not in trying circumstances, but in the choice that one makes. Those who rely on the law, or the works of it, have much to lose like the rich young ruler who met Jesus in Matthew 19:16-22. Without works as their trophies they cannot boast from their self righteousness.
 
-Great accountability lies with the handler of the words. How have you interpreted biblical concepts such as "the narrow path" to those who sit under your pulpits? Are you helping folks to, or preventing them from, entering the Kingdom of God?
+Great accountability lies with the handler of Scriptures. How have you interpreted biblical concepts such as "the narrow path" to those who sit under your pulpits? Are you helping folks to, or preventing them from, entering the Kingdom of God?
 
 {% include bible-study/bible-study-footer %}
