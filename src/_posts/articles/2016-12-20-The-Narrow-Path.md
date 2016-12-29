@@ -67,8 +67,8 @@ By defining the narrow path as a difficult road, people change its meaning from 
 
 The true narrow path is in fact the easiest one as it is straight and narrow with no deviations or detours, it leads straight from captivities to the promised land. On it, God takes us home on <a href="{{ site.url }}{% post_url 2016-11-01-Exodus-19-04-25 %}"><em>wings of eagles</em></a> (Exodus 19:4).
 
-However this narrow path may prove difficult to those who walk by the flesh. As this article attempts to show that the difficulties lie not in trying circumstances, but in the choice that one makes. Those who rely on the law, or the works of it, have much to lose like the rich young ruler who met Jesus in Matthew 19:16-22. Without works as their trophies they cannot boast from their self righteousness.
+However this narrow path may prove difficult to those who walk by the flesh&mdash;keep in mind that it is not about falling into sinful temptations, but about using fleshly efforts to draw near to God&mdash;. As this article attempts to show that the difficulties lie not in trying circumstances, but in the choice that one makes. Those who rely on the law, or the works of it, or the obedience of the flesh, have much to lose like the rich young ruler who met Jesus in Matthew 19:16-22. Without works as their trophies they cannot boast from their self righteousness.
 
-Great accountability lies with the handler of Scriptures. How have you interpreted biblical concepts such as "the narrow path" to those who sit under your pulpits? Are you helping folks to, or preventing them from, entering the Kingdom of God?
+Great accountability lies with the handlers of Scriptures. How have you interpreted biblical concepts such as "the narrow path" to those who sit under your pulpits? Are you helping folks to, or preventing them from, entering the Kingdom of God?
 
 {% include bible-study/bible-study-footer %}
