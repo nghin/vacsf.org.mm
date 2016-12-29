@@ -61,7 +61,7 @@ God allows no means of access to Him other than His own provision: Jesus Christ.
 
 The world has always tried to access God through their own efforts, through works of various laws, but Jesus shows them a very narrow path: trusting in the finished work of Christ. That's how narrow it is. It's not narrow because of troubles or difficulties, but because of how God defines it. For those who depend on their works, the path is broad in the sense that each one is on their own lane, each one defines their own way how to access God, because each person's work is different from another's. It's a broad path with infinite opportunities to get lost.
 
-## The implication
+## Deadly misinterpretation
 
 By defining the narrow path as a difficult road, people change its meaning from grace to works, from the singular trust in Christ to the myriad possibilities of man's efforts, from the assurance of salvation to the uncertainty of random choices to meet arbitrary man-made standards.
 
