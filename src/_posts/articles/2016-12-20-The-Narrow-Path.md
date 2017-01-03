@@ -4,7 +4,7 @@ excerpt: "<sup>13</sup>Enter through the narrow gate. For wide is the gate and b
 modified: 2016-11-19T12:14:45-04:00
 image: 
   teaser: The_narrow_way-teaser.jpg
-tags: [grace, faith, work, justification]
+tags: [grace, faith, works, justification]
 featured: true
 comments: true
 ---

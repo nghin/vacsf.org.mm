@@ -4,8 +4,8 @@ excerpt: "Carry one another's burdens, and in this way you will fulfill the law 
 modified: 2016-11-19T12:14:45-04:00
 image: 
   teaser: law-of-christ-teaser.png
-tags: [law, grace, faith, work]
-featured: true
+tags: [law, grace, faith, works]
+featured: false
 comments: true
 ---
 

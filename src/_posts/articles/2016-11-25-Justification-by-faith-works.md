@@ -5,7 +5,7 @@ excerpt: "Is salvation by faith alone, or by faith plus works? Do we contribute 
 modified: 2016-11-25T12:14:45-04:00
 image: 
   teaser: dog-chasing-tail.jpg
-tags: [law, work, grace, faith]
+tags: [law, works, grace, faith]
 featured: true
 comments: true
 ---
