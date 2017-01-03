@@ -51,7 +51,7 @@ and:
 
 Let's also consider these verses that help us see that to obey God is to believe in the one He's sent: Acts 6:7, Romans 10:16, 2 Thessalonians 1:8, John 3:36, John 6:28-29, 1 Peter 1:2, 1 Peter 1:22, 1 Peter 2:7-8, and Acts 5:32 (please go <a href="https://faithalone.org/magazine/y1993/93july3.html" target="_blank">here</a> for a great explanation of the <em>"obedience which is faith"</em>).
 
-Who do you believe, the Calvinists/Armenians or the Bible? John 3:16 puts it very simply, and powerfully, directly from the mouth of God: <em>"For God so loved the world, that he gave his only begotten Son, that <strong>whosoever</strong> believeth in him should not perish, but have everlasting life."</em>
+Who do you believe, the Calvinists/Armenians or the Bible? John 3:16 puts it very simply, and powerfully, directly from the mouth of God: <em>"For God so loved the world, that he gave his only begotten Son, that <strong>whosoever</strong> believeth in him should not perish, but have everlasting life (KJV)."</em>
 
 This is the obedience that pleases God. This is the obedience that works. And this alone is the obedience that takes you to heaven. The other obedience may actually make you fall from grace because all will have failed it all the time.
 
