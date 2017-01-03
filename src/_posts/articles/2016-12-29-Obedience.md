@@ -23,7 +23,7 @@ There are more than a few dozens of verses in the Bible that contain the word ob
 
 Though there are many things we should be obedient about, it appears obedience in relation to sins seems to be something people are most concerned with; either by commission or omission.
 
-Much energy is spent trying to get the flesh under control, to avoid sins as much as possible. But how successfull are these efforts through the ages? Are Christians sinning less and less? The amount of material still dedicated to flesh control shows if it isn't a losing battle, it hasn't made any progress.
+Much energy is spent trying to get the flesh under control, to avoid sins as much as possible. But how successful are these efforts through the ages? Are Christians sinning less and less? The amount of material still dedicated to flesh control shows if it isn't a losing battle, it hasn't made any progress.
 
 Also obedience cannot exist apart from a certain system of law. The person following certain patterns of obedience must be under some law. It draws a line between obedience and disobedience, it defines what meets a certain criteria and what doesn't. To a Christian who did not come into the faith from a Jewish system of laws, he may be under a conscience based law (Romans 2:14) that can exacerbate the problem.
 
@@ -33,7 +33,7 @@ The following verse may explain why the law fails in restraining the flesh:
 
 > For when we were in the flesh, the <strong>sinful desires, aroused by the law</strong>, were active in the members of our body to bear fruit for death. (Romans 7:5)
 
-There was a time when obedience/law is required to lead us to Christ. The Bible describes us during this time as little children whose guardian, or schoolmaster, is the law who we must obey until we come to Christ. The problem as we have seen is the overwhelming majority of Christians still insists on living under the law, or the obedience to it.
+There was a time when obedience/law was required to lead us to Christ. The Bible describes us during this time as little children whose guardian, or schoolmaster, is the law who we must obey until we come to Christ. The problem as we have seen is the overwhelming majority of Christians still insists on living under the law, or the obedience to it.
 
 ## The Obedience which is Faith
                                                
