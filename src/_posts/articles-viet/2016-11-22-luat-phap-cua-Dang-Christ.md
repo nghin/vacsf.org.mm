@@ -5,7 +5,7 @@ modified: 2016-11-19T12:14:45-04:00
 image: 
   teaser: law-of-christ-teaser.png
 tags: [an-dien, luat-phap, duc-tin, viec-lam]
-featured: true
+featured: false
 comments: true
 ---
 
