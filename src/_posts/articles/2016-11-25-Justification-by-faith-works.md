@@ -6,7 +6,7 @@ modified: 2016-11-25T12:14:45-04:00
 image: 
   teaser: dog-chasing-tail.jpg
 tags: [law, works, grace, faith]
-featured: true
+featured: false
 comments: true
 ---
 
