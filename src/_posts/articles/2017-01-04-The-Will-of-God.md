@@ -42,7 +42,7 @@ Let's consider some frequently quoted Bible references that appear to tell us wh
 
 > Give thanks in all circumstances; for this is the will of God in Christ Jesus for you. (1 Thess 5:18)
 
-From these references we read that the will of God for us are at least avoiding sexual temptations and being always filled with gratitude. How about God's will for us concerning tithing, fruit of the Spirit, evangelism, godly characters, Bible study, relationship, greed, jealousy, pride, wisdom, anger, hypocrisy, honesty, and many other aspects? How's everybody doing in these areas as well as all that are among the good and the bad?
+From these references we read that the will of God for us are at least avoiding sexual temptations and being always filled with gratitude. How about God's will for us concerning tithing, fruit of the Spirit, evangelism, godly characters, Bible study, relationship, greed, jealousy, pride, wisdom, anger, hypocrisy, honesty, and many other good things? How's everybody doing in these areas as well as all that are among the good and the bad?
 
 The two passages cited above are by no means an exhaustive list of all of God's wills for our lives, but they're all about our flesh. At the risk of getting ahead of myself, these wills that God has for us are not for Him, but for us, for our own good, but they're still only about this life, about "all these things" on this side of eternity. God has not wills, but a will, a single testament, that He left for us before he died on the cross. This will pertains to eternity, to relationships not between man and man but between man and God. But let's leave this will here for a while before we come back to it a little bit later.
 
