@@ -1,16 +1,16 @@
 ---
 layout: archive
-title: "HỘI THÁNH TIN LÀNH VIẸT NAM<br /><span style='font-size: 0.7em; font-style: italic; margin-left: 30px;'>San Francisco, California</span>"
+title: "HỘI THÁNH TIN LÀNH VIỆT NAM <br /><span style='font-size: 0.7em; font-style: italic; margin-left: 30px;'>San Francisco, California</span>"
 teaser: "Vietnamese Alliance Church Blog."
 date: 2014-06-02T12:26:34-04:00
 modified: 2016-02-26T10:36:43-05:00
-excerpt: "A collection of articles addressing difficult and commonly misinterpreted Scriptural passages or concepts."
-subtitle: "<em>For God so loved the world that he gave his one and only Son, that whoever believes in him shall not perish but have eternal life (John 3:16)</em>."
+excerpt: "Dưới đây là một số những bài viết nhắm vào những đoạn hoặc ý niệm trong Kinh Thánh thường bị giải thích sai lạc."
+subtitle: "<em>Vì Đức Chúa Trời yêu thương thế gian đến mỗi đã ban Con Một của Ngài, hầu cho hễ ai tin Con ấy sẽ không bị hư mất nhưng được sự sống đời đời. (John 3:16)</em>."
 image:
-  feature: vacsf-home-banner-02.jpg
+  feature: vacsf-home-banner-Viet.jpg
 feature:
   visible: true
-  headline: "Featured Articles"
+  headline: "Các Ý Niệm Phổ Thông"
   category: viet-studies
 ---
 
@@ -19,28 +19,12 @@ The Bible is not written just for theologians, but for the world at the most `co
 <a href="{{ site.url }}/viet-studies/"><em>(Bấm vào <u>đây</u> để đọc tiếng Việt)</em></a>
 
 <div id="pagination-start" class="notice--info" markdown="1">
-There are, of course, many obscure passages requiring knowledge of some historical context, but `there are enough clear truths` to be understood and live by for a lifetime. I like to use the analogy of a plane which is defined by three points. Let's call this a plane of truth. There are many more than 3 points of truth to define God's plan of salvation. If we frequently check our understanding, or interpretation, against them, we can't go wrong. And it's all about Jesus.
+Dĩ nhiên có một số đoạn Kinh thánh khó hiểu đòi hỏi kiến thức về bối cảnh lịch sử và văn hóa, nhưng cũng có dủ những chân lý nền tảng rõ rệt dễ hiểu hầu người tín hữu có thể dựa vào đó mà sống suốt cuộc đời. Tôi thích dùng sự so sánh với một mặt phẳng được xác định bởi ba điểm. Hãy gọi đây là mặt phẳng chân lý. Trong Kinh Thánh chứa đựng rất nhiều hơn chỉ 3 điểm chân lý để xác định chương trình cứu rỗi của Đức Chúa Trời. Nếu chúng ta thường kiểm soát những nhận thức, hoặc phân tích, dùng các điểm đó thì chúng ta không thể nào hiểu sai lời viết trong Kinh Thánh. Và khi đó chúng ta thấy các điểm đều qui về một hướng: Chúa Giê-su.
 </div>
 
 {% include site-toc.html %}
-<!--
-{% for post in site.categories.articles %}
-  {% if post.featured != true %}
-  {% include archive__item.html %}
-  {% endif %}
-{% endfor %}
--->
 <!-- This loops through the paginated posts -->
 {% for post in paginator.posts %}
-  <!--
-  <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
-  <p class="author">
-    <span class="date">{{ post.date }}</span>
-  </p>
-  <div class="content">
-    {{ post.excerpt }}
-  </div>
-  -->
   {% if post.featured != true %}
     {% include archive__item.html %}
   {% endif %}
