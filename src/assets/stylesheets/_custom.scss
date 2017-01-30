@@ -58,3 +58,17 @@
   font-weight: bold;
   font-style: normal;
 }
+
+.btn-paginate {
+  background-color: #55acee;
+  &:hover {
+    background-color: #3b5998;
+  }
+}
+
+.btn-paginate-disabled {
+  color: #000 !important;
+  background-color: #f9f9f9;
+  cursor: not-allowed;
+  pointer-events: none;
+}

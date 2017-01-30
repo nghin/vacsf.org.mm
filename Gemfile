@@ -12,4 +12,6 @@ group :jekyll_plugins do
   gem 'jekyll-archives'
   gem 'jekyll-tagging-related_posts'
   gem 'jekyll-admin'
+  gem 'jekyll-paginate'
+  gem 'jekyll-paginate-multiple'
 end

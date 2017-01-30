@@ -110,6 +110,8 @@ gems:
   - jekyll-tagging-related_posts
   - jekyll/tagging
   - jemoji
+  - jekyll-paginate
+  - jekyll-paginate-multiple
 
 
 # Collections
@@ -149,7 +151,7 @@ defaults:
       category: viet-studies
       breadcrumbs:
         - label: "Trang Nhà"
-          url: /viet-studies/
+          url: /articles-viet/
 
   # Bible Studies
   - scope:
@@ -330,3 +332,12 @@ picture:
         width: "320"
 
 incremental: true
+
+# paginate: 5
+paginate_multiple:
+  - paginate: 10
+    paginate_path: '/page:num/'
+    sub_dir: '/articles'
+  - paginate: 10
+    paginate_path: '/articles-viet/page:num/'
+    sub_dir: '/articles-viet'

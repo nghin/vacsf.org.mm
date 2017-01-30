@@ -1,5 +1,5 @@
 <nav class="pagination">
-  {% capture category_name %}{{ page.categories | first }}{% endcapture %}
+    {% capture category_name %}{{ page.categories | first }}{% endcapture %}
   {% for post in site.categories.[category_name] %}
     {% if post.url == page.url %}
       {% assign post_index0 = forloop.index0 %}

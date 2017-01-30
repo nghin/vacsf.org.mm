@@ -5,7 +5,7 @@ modified: 2016-10-29T12:14:45-04:00
 image: 
   teaser: do-not-conform-teaser.png
 tags: [toi-loi]
-featured: true
+featured: false
 comments: true
 ---
 
