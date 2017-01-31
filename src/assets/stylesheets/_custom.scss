@@ -60,15 +60,15 @@
 }
 
 .btn-paginate {
-  background-color: #55acee;
+  background-color: #3b5998;
   &:hover {
-    background-color: #3b5998;
+    background-color: #2a406f;
   }
 }
 
 .btn-paginate-disabled {
   color: #000 !important;
-  background-color: #f9f9f9;
+  background-color: #d8d8d8;
   cursor: not-allowed;
   pointer-events: none;
 }
