@@ -335,9 +335,9 @@ incremental: true
 
 # paginate: 5
 paginate_multiple:
-  - paginate: 10
+  - paginate: 12
     paginate_path: '/page:num/'
     sub_dir: '/articles'
-  - paginate: 10
+  - paginate: 12
     paginate_path: '/articles-viet/page:num/'
     sub_dir: '/articles-viet'
