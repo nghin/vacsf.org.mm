@@ -29,14 +29,14 @@ feature:
 <!-- Pagination links -->
 <div class="post__social">
   {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path}}index.html#pagination-start" class="btn btn-paginate">Previous</a>
+    <a href="{{ paginator.previous_page_path}}index.html#pagination-start" class="btn btn-paginate">Newer Posts</a>
   {% else %}
-    <span class="btn btn-paginate-disabled">Previous</span>
+    <span class="btn btn-paginate-disabled">Newer Posts</span>
   {% endif %}
   <span class="btn btn-paginate-disabled">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
   {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path }}index.html#pagination-start" class="btn btn-paginate">Next</a>
+    <a href="{{ paginator.next_page_path }}index.html#pagination-start" class="btn btn-paginate">Older Posts</a>
   {% else %}
-    <span class="btn btn-paginate-disabled">Next</span>
+    <span class="btn btn-paginate-disabled">Older Posts</span>
   {% endif %}
 </div>
