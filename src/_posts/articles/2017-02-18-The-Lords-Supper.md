@@ -3,7 +3,7 @@ title: "The Lord's Supper"
 excerpt: "The Lord's Supper and the Christian Communion. Understanding it from the Passover context."
 modified: 2017-02-11T12:14:45-04:00
 image: 
-  teaser: the-lord-supper-teaser.jpg
+  teaser: communion-teaser.jpg
 tags: [communion, works, passover]
 featured: true
 comments: true
@@ -30,7 +30,7 @@ Jesus answered, “You have said so.”
 
 ## The Communion
 
-<img alt src="{{ site.url }}/assets/images/the-lords-supper-teaser.jpg" style="border: 1px solid #cccccc; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;">
+<img alt src="{{ site.url }}/assets/images/communion-teaser.jpg" style="border: 1px solid #cccccc; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;">
 This passage along with another passage in 1 Corinthians 11:27-29 are regularly used to prepare the congregation prior to their receiving of the communion bread and wine. There are a few points of emphasis in these passages but perhaps the main focus is placed on <em>"unworthy manner"</em>, <em>"self examination"</em> and <em>"judgement"</em>:
 
 > <sup>27</sup>So then, whoever eats the bread or drinks the cup of the Lord in an <u>unworthy manner</u> will be guilty of sinning against the body and blood of the Lord. <sup>28</sup>Everyone ought to <u>examine themselves</u> before they eat of the bread and drink from the cup. <sup>29</sup>For those who eat and drink without discerning the body of Christ eat and drink <u>judgment</u> on themselves." (1 Corinthians 11:27-29)
