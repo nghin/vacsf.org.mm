@@ -3928,3 +3928,6 @@ img.mfp-img {
   background-color: #d8d8d8;
   cursor: not-allowed;
   pointer-events: none; }
+
+blockquote {
+  background-color: rgba(128, 128, 128, 0.05); }

@@ -6,7 +6,7 @@ modified: 2016-11-19T12:14:45-04:00
 image: 
   teaser: Obedience-teaser.jpg
 tags: [faith, works, obedience]
-featured: true
+featured: false
 comments: true
 ---
 
