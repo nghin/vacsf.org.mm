@@ -5,7 +5,7 @@ modified: 2016-11-19T12:14:45-04:00
 image: 
   teaser: The_narrow_way-teaser.jpg
 tags: [grace, faith, works, justification]
-featured: true
+featured: false
 comments: true
 ---
 
