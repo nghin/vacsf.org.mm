@@ -225,7 +225,7 @@ function reload(done) {
 gulp.task('serve', (done) => {
   browserSync.init({
     // tunnel: true,
-    // open: false,
+    open: false,
     port: 4000, // change port to match default Jekyll
     ui: {
       port: 4001
