@@ -26,7 +26,7 @@ Jesus answered, “You have said so.”
 
 {% include toc.html %}
 
-<!-- a href="{{ site.url }}{% post_url 2016-12-29-Su-vang-loi %}"><em>(Bấm vào đây để đọc tiếng Việt)</em></a -->
+<a href="{{ site.url }}{% post_url 2017-02-18-Tiec-Thanh %}"><em>(Bấm vào đây để đọc tiếng Việt)</em></a>
 
 ## The Communion
 
@@ -37,7 +37,7 @@ This passage along with another passage in 1 Corinthians 11:27-29 are regularly 
 
 I had always thought this was the right way to prepare myself for communion for decades before I came to a full grasp of law and grace that encouraged me to take another look at it from the whole context.  No wonder communion Sunday was for me such a mixture of a heavy heart and a longing for deliverance that was never realized.
 
-We'd be all standing up while the Corinthians passage is read, then following its admonition we'd examine ourselves to see if we're now worthy to receive the Lord's body and blood. There is no need for any explanation, we each would summon our internal judge, our conscience, during this time of quiet reflection, to evaluate our worthiness before we receive the communion articles. It's not clear what we've done during the week, perhaps for an average Christian we've done nothing out of the ordinary except getting up in the morning to prepare and then go through the challenges of the day in family and in the workplace.  Just mundane and routine stuff. But if these mundane and routine stuff is less than what the Lord's will is for our lives, then we're guilty, which would explain how many of us feel before the communion: We're unworthy. No matter which way you look at it, you end up feeling unworthy, but you receive the communion anyway while hoping this act of eating the bread and drinking the grape juice would provide a certain amount of relief for your sin-sicked soul.
+We'd be all standing up while the Corinthians passage is read, then following its admonition we'd examine ourselves to see if we're now worthy to receive the Lord's body and blood. There is no need for any explanation, we each would summon our internal judge, our conscience, during this time of quiet reflection, to evaluate our worthiness before we receive the communion articles. It's not clear what we've done during the week, perhaps for an average Christian we've done nothing out of the ordinary except getting up in the morning to prepare and then go through the challenges of the day in family and in the workplace.  Just mundane and routine stuff. But if they feel these mundane and routine stuff is less than what they think is the Lord's will for their lives, then guilt begins to take hold, which would explain how many feel before the communion: We're unworthy. No matter which way you look at it, you end up feeling unworthy, but you receive the communion anyway while hoping this act of eating the bread and drinking the grape juice would provide a certain amount of relief for your sin-sicked soul.
 
 But this is a wrong application of the Corinthians passage. Paul wrote this passage to address an issue of bad conducts of some folks who come to eat together without concern for others. Let's read from the passage that just precedes the call for the communion receivers to examine themselves:
 
@@ -97,6 +97,8 @@ We've seen so far that the New Covenant Passover, or the Lord's Supper, or the C
 
 Even in the context of 1 Corinthians 11, these folks may have behaved in a manner unworthy of communion participants, they were every bit worthy as anyone to receive the communion wine and bread, because Christ has paid it all for them as well. The erroneous interpretation of 1 Corinthians 11 concerning communion worthiness has caused so many to stumble, instead of coming to the celebration with hearts full of joy in the remembrance of Christ act of redemtion, they dreaded that there might be sins in their lives that might cause the Lord to take them out and kill them. As a matter of fact, upon such reminder of self introspection no one can be certain that they are 100% certain of their worthiness before receiving the communion. This casts a long shadow on an otherwise a joyful event.
 
-All believers are worthy to receive the communion bread and wine, though there might be some that received them in unworthy manner, but even then there should be no question of their worthiness.
+What will communion participants be reminded of when the worship leader ask them to examine their hearts? Will they be like the Israelites who still lived under the law who remember their sins and trespasses when they were still under slavery in Egypt? Absolutely not. Jesus asked them to *"remember me."* On the one hand is the remembrance of sins, while on the other a remembrance of a deliverance from sins thanks to Christ. Are you still living under the Old Covenant, or are you now relating to God through the New Covenant?
+
+> By calling this covenant “new,”(A) he has made the first one obsolete;(B) and what is obsolete and outdated will soon disappear. (Hebrews 8:13)
 
 {% include bible-study/bible-study-footer %}
