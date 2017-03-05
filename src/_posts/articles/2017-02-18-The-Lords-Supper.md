@@ -99,6 +99,6 @@ Even in the context of 1 Corinthians 11, these folks may have behaved in a manne
 
 What will communion participants be reminded of when the worship leader ask them to examine their hearts? Will they be like the Israelites who still lived under the law who remember their sins and trespasses when they were still under slavery in Egypt? Absolutely not. Jesus asked them to *"remember me."* On the one hand is the remembrance of sins, while on the other a remembrance of a deliverance from sins thanks to Christ. Are you still living under the Old Covenant, or are you now relating to God through the New Covenant?
 
-> By calling this covenant “new,”(A) he has made the first one obsolete;(B) and what is obsolete and outdated will soon disappear. (Hebrews 8:13)
+> By calling this covenant “new,” he has made the first one obsolete; and what is obsolete and outdated will soon disappear. (Hebrews 8:13)
 
 {% include bible-study/bible-study-footer %}
