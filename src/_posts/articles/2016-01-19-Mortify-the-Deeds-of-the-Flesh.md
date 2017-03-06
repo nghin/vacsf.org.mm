@@ -64,7 +64,7 @@ Gill wrote a very long winded exposition on this verse, but the bottom line is i
 
 #### Jamieson-Fausset-Brown
 
-> The apostle is not satisfied with assuring them that they are under no obligations to the flesh, to hearken to its suggestions, without reminding them where it will end if they do; and he uses the word "mortify" (put to death) as a kind of play upon the word "die" just before. "If ye do not <u>kill sin</u>, it will kill you."</p>
+> The apostle is not satisfied with assuring them that they are under no obligations to the flesh, to hearken to its suggestions, without reminding them where it will end if they do; and he uses the word "mortify" (put to death) as a kind of play upon the word "die" just before. "If ye do not <u>kill sin</u>, it will kill you."
 
 My thought: can you really kill sin? The only one who can kill sin is Christ. Jesus taught us that though a person may resist committing a physical act of adultery, he cannot rid his heart of lustful thoughts (Matthew 5:28). What kills you is not the act, its your fallen nature. Can you kill your fallen nature?
 
@@ -129,7 +129,6 @@ Mankind is expected to stop all their trying, because the time has passed for th
 The word "deeds" in this Romans 8:13 verse is keyed to the Strong number 4234:
 
 > <cite>4234: praxis prax'-is from 4238; practice, i.e. (concretely) an act; by extension, a function:--deed, office, work. see GREEK for 4238</cite>
-</p>
 
 with a corresponding verb with Strong number 4238:
 
@@ -164,7 +163,6 @@ Paul continued with further warning about people with convincing arguments urgin
 One deed of the flesh that the Colossians must put to death is their reliance on the circumcision of their flesh. It is in direct competition with the circumcision in the heart by Christ.
 
 > <sup>20</sup>If you have died with Christ to the elemental spirits of the world, why do you submit to them as though you lived in the world?  <sup>21</sup>"Do not handle! Do not taste! Do not touch!"  <sup>22</sup>These are all destined to perish with use, founded as they are on human commands and teachings.  <sup>23</sup>Even though they have the appearance of wisdom with their self-imposed worship and false humility achieved by an <u>unsparing treatment</u> of the body - a wisdom with no true value - they in reality result in <u>fleshly indulgence</u>. <cite>(Colossians 2:20-23)</cite>
-</p>
 
 The elemental spirits of the world has a lot to do with encouraging the deeds of the flesh as pseudo-spiritualism; looks and sounds so noble, embraced by all the venerable commentators I listed above, and by major denominations with their well learned leaders of advanced theological degrees. How can these great men commit such egregious error in Bible interpretation? It is not about using the flesh for sinning, it's about using the flesh for supposedly noble spiritual purpose.
 
