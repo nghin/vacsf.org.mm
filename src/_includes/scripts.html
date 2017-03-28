@@ -16,7 +16,9 @@
   <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 {% endif %}
 
-{% if site.url != "http://192.168.99.100:4000" %}
+{% if site.url == "http://192.168.99.100:4000" %}
+{% else if site.url == "http://localhost:4000" %}
+{% else %}
 <!-- Start of StatCounter Code for Default Guide -->
 <script type="text/javascript">
 var sc_project=10879607; 
