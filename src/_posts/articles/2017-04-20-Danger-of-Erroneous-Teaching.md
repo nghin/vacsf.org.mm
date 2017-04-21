@@ -4,7 +4,7 @@ excerpt: "Are we ever more in danger of teaching an error, than when we are comb
 modified: 2017-02-11T12:14:45-04:00
 image: 
   teaser: danger-teaser.jpg
-tags: [communion, works, passover]
+tags: [error, truth, antinomianism, grace, works]
 featured: true
 comments: true
 ---
