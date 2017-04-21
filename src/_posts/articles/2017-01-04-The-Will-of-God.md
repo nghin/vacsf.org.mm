@@ -5,7 +5,7 @@ modified: 2016-11-19T12:14:45-04:00
 image: 
   teaser: the-will-of-God-teaser.jpg
 tags: [faith, grace, works, Gods-will]
-featured: true
+featured: false
 comments: true
 ---
 

@@ -20,7 +20,7 @@ comments: true
 10 “But while they were on their way to buy the oil, the bridegroom arrived. The virgins who were ready went in with him to the wedding banquet. And the door was shut.
 11 “Later the others also came. ‘Lord, Lord,’ they said, ‘open the door for us!’
 12 “But he replied, ‘Truly I tell you, I don’t know you.’
-13 “Therefore <u><strong>keep watch</u></strong>, because you do not know the day or the hour.
+13 “Therefore <u><strong>keep watch</strong></u>, because you do not know the day or the hour.
 
 {% include toc.html %}
 
