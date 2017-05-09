@@ -1,5 +1,0 @@
-alias jbd='jekyll build --drafts --config _config.yml,_config_dev.yml'
-alias js='jekyll serve --host localhost --incremental --drafts --config _config.yml,_config_dev.yml &'
-alias jbs='jekyll build --config _config.yml,_config_site.yml'
-alias rs-auco='rsync -avzh /home/Documents/Jekyll/auco-web/aucocenter.org.dev/_site/* /home/Documents/Jekyll/auco-web/aucocenter.org/'
-alias stackedit='export PORT=80 && node server.js &'
