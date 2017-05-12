@@ -5,7 +5,7 @@ modified: 2017-02-11T12:14:45-04:00
 image: 
   teaser: communion-teaser.jpg
 tags: [communion, works, passover]
-featured: true
+featured: false
 comments: true
 ---
 
