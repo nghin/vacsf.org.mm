@@ -11,7 +11,7 @@ comments: true
 
 {{ page.excerpt | markdownify }}
 
-<!-- {% include toc.html %} -->
+{% include toc.html %}
 
 <!-- a href="{{ site.url }}{% post_url 2016-12-29-Su-vang-loi %}"><em>(Bấm vào đây để đọc tiếng Việt)</em></a -->
 
