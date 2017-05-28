@@ -7,17 +7,17 @@ image:
 tags: [forgiveness, grace]
 featured: true
 comments: true
+teaser: "How do we disciple a new believer, one who first discovered that Jesus is their messiah and had come to receive the free gift of eternal life? How do we help them grow and mature? I believe that it should be their goal to discover what Jesus had <u><em>already</em></u> done for them, what he had <u><em>already</em></u> given to them, but unfortunately this is not the view point of the majority of Christian leaders."
 ---
 
-<!-- {{ page.excerpt | markdownify }} -->
+{{ page.teaser | markdownify }}
 
 {% include toc.html %}
 
 ## The different points of view
 <img alt src="{{ site.url }}/assets/images/forgiveness-teaser.jpg" style="border: 1px solid #cccccc; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;">
-How do we disciple a new believer, one who first discovered that Jesus is their messiah and had come to receive the free gift of eternal life? How do we help them grow and mature? I believe that it should be their goal to discover what Jesus had <u><em>already</em></u> done for them, what he had <u><em>already</em></u> given to them, but unfortunately this is not the view point of the majority of Christian leaders. They're of the point of view that these new believers should start on the basis that they should now begin to live for God though they certainly must be motivated by what Christ had done for them. They must begin with leading a holy life, reducing the amount of sins in their lives, starting doing the things they should be doing, and refraining from doing the things they shouldn't be doing.
 
-My point of view is that their focus should not be about what they should do for God, but about what God has done for them. This view is expressed rather extensively in the article [The Will of God](http://vacsf.org/articles/The-Will-of-God/) about what we already have in Christ, what we have received from Him as an inheritance.
+They're of the point of view that these new believers should start on the basis that they should now begin to live for God though they certainly must be motivated by what Christ had done for them. They must begin with leading a holy life, reducing the amount of sins in their lives, starting doing the things they should be doing, and refraining from doing the things they shouldn't be doing. My point of view is that their focus should not be about what they should do for God, but about what God has done for them. This view is expressed rather extensively in the article [The Will of God](http://vacsf.org/articles/The-Will-of-God/) about what we already have in Christ, what we have received from Him as an inheritance.
 
 Among the precious inheritance that is guaranteed ours in Christ, forgiveness is first and foremost because without it salvation is impossible. A proper understanding of forgiveness can set you free in many ways and enable you to begin to walk into the new life that is before you in Christ Jesus. However a faulty understanding of forgiveness will paralyze you in your growth because forgiveness is truly the foundation of our faith, that Jesus died for our sins, and we're forgiven because of what He did.
 
@@ -32,7 +32,7 @@ If I were to ask a believer whether they believe that Jesus died for their sins 
 
 > And if Christ has not been raised, your faith is useless; you are still in your sins. (1 Corinthians 15:17)
 
-Do you believe that Christ had been raised? Let me ask again, do you really believe that He had been raised? If you indeed believe that He's been raised, then you must also believe that you're not in your sins anymore. I can ask this a thousand times and though most Christians may answer yes equally as many times, I'm afraid they don't really believe it as they professed. Because if they do, why the obsessions with trying to get forgiveness as a way of life if Christ is indeed raised? Let's read the verse above more slowly and diliberately: <em>"if Christ has not been raised, your faith is useless; you are still in your sins."</em> Let's put this verse another way, it is because of Christ's resurrection from the dead that gives you freedom from sin, the freedom from the effect of sin, its condemnation, its standing between you and God, its deadly consequences (Romans 6:32). Christ's resurrection guarantees that all your past, present, and future sins won't stand between you and God, but it does not guarantee that you won't sin again.
+Do you believe that Christ had been raised? Let me ask again, do you really believe that He had been raised? If you indeed believe that He's been raised, then you must also believe that you're not in your sins anymore&mdash;this does not mean you either can't, or you resolve not to, sin anymore, but it means God no longer holds your sins against you. This question may be asked a thousand times and though most Christians may answer yes equally as many times, I'm afraid they don't really believe as they professed. Because if they do, why the obsession with trying to get forgiveness as a way of life if Christ is indeed raised? Let's read the verse above more slowly and deliberately: <em>"if Christ has not been raised, your faith is useless; you are still in your sins."</em> Let's put this verse another way, it is because of Christ's resurrection from the dead that gives you freedom from sin, the freedom from the effect of sin, its condemnation, its standing between you and God, its deadly consequences (Romans 6:32). Christ's resurrection guarantees that all your past, present, and future sins won't stand between you and God, but it does not guarantee that you won't sin again.
 
 If Christ has risen, and you're no longer in your sins, then what is standing between you and God? Your unbelief?
 
@@ -72,8 +72,6 @@ In short, to be no longer in sins doesn't mean we stop sinning, but it does mean
 > For I will forgive their iniquity, and I will remember their sin no more. (Jeremiah 31:34)
 
 The knowledge that God has already forgiven us without any condition sets us free to rightly relate to Him and to serve Him. Then we can do good works and serve God from love and not from fear of punishments or loss of blessings. It sets us free from the paralyzing fear of displeasing God. Perhaps here I should add that as fallen sinners we can never please God no matter how hard we try, except that we are in Him, the Lord Jesus Christ, who alone can please God in every way (Matthew 3:17).
-
-This is our salvation, to be completely and perfectly forgiven by God, to be forever free from being afraid that He's holding our sins against us. This is so the Holy Spirit of God can dwell in us.
 
 What about those who still live in sins, those who have to daily seek forgiveness from God? They may still be saved on the promise of God that those who call on the name of Christ will have eternal live, but until the day they meet God, their lives now are paralyzed with fear, with the uncertainty of God's disappointment with them for the sins they still commit. That is no way to live, because Christ is risen and He's granted that you don't have to live in your sins anymore.
 

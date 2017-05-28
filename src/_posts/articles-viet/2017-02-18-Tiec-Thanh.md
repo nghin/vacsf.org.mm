@@ -9,6 +9,8 @@ featured: true
 comments: true
 ---
 
+Các tín hữu thường được khuyên giục tự xét mình để chuẩn bị nhận tiệc thánh dựa theo 1 Corinthians 11, nhưng đúng hơn là họ nên dựa trên Matthew 26 thuật lại bối cảnh của bữa ăn cuối cùng của Chúa Giê-su với các môn đệ, The Lord's Supper, mà bối cảnh đó phải được hiểu từ bối cảnh của Lễ Vượt Qua.
+
 <!-- {{ page.excerpt | markdownify }} -->
 
 ## Matthew 26:17-30
