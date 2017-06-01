@@ -12,6 +12,8 @@ teaser: "How do we disciple a new believer, one who first discovered that Jesus 
 
 {{ page.teaser | markdownify }}
 
+<a href="{{ site.url }}{% post_url 2017-04-05-Hieu-Biet-Su-Tha-Thu %}"><em>(Bấm vào đây để đọc tiếng Việt)</em></a>
+
 {% include toc.html %}
 
 ## The different points of view
@@ -81,7 +83,7 @@ There are many reasons why people find it difficult to receive forgiveness or to
 - People intrinsically do not want to forgive others. They may say they do like in the Lord's prayer, but given a right set of circumstances, perhaps they might want to kill those who have hurt them instead.
 - People do not want God to forgive others. Most if not all folks have experienced things done to them unjustly and it's only natural that they hold grudges against the perpetrators all their lives. We can easily see it in the book of Jonah.
 - People do not want others to know that God had forgiven them in order that they may control or manipulate them, for if people know that God had forgiven them, the manipulators may lose the only leverage they had.
-- People do not want to believe that God has forgiven them because they want to hold on to the law. But this is a great contradiction for a believer because the law has to do with punishment in the event of failure, and if God no longer holds our sins against us, what then is the role of the law? God has forgiven us because none of us can comply to even the smallest of the law, and yet so many in Christendom still parade the law as means to control the flesh. God forgave because no one can pay even the smallest of the debt of sin.
+- People do not want to believe that God has forgiven them because they want to hold on to the law. But this is a great contradiction for a believer because the law has to do with punishment in the event of failure, and if God no longer holds our sins against us, what then is the role of the law? God has forgiven us because none of us can comply to even the smallest of the law, and yet so many in Christendom still parade the law as means to control the flesh.
 
 ## The freedom of forgiveness
 If God says He doesn't hold our sins against us anymore, then why the issue of sins is still very much in the forefront of virtually all sermons across all mediums? It's easy to spot a guilt-producing message, it may be cloaked in positive motivating words, but the end result is it leaves in the mind of the hearers a sense of missing the mark, of falling short of something, an expectation, especially if that something is dressed up as the will of God.
@@ -90,11 +92,11 @@ The story of Mary and Martha in Luke 10:38-42 demonstrates clearly the priority 
 
 Though this story didn't mention forgiveness, it's there if you can listen well. The forgiveness that Mary sensed from the Savior, much like that same forgiveness sensed by the Samaritan woman who drew water at Jacob's well (John 4:1-26), gave them the freedom to rest at His feet. This is contrary to what we constantly hear from pulpits: Do's. Lots of Do's. To the point forgiveness sheepishly returns to its dusty corner on some book shelves of seminary as just a theological concept that has no relevance to real life.
 
-> <sup>41</sup> Martha, Martha, the Lord answered, you are worried and upset about many things, <sup>42</sup>but only one thing is needed. Mary has chosen what is better, and it will not be taken away from her. (Luke 10:36-42)
+> <sup>41</sup> Martha, Martha, the Lord answered, you are worried and upset about many things, <sup>42</sup>but only one thing is needed. Mary has chosen what is better, and it will not be taken away from her. (Luke 10:41-42)
 
 Teachers of Bible place so much emphasis on other lesser things and neglect the "better" thing that Jesus commended Mary for. Unlike Jesus, they lead the Mary's among us away from Christ to the things that He may have already prepared for them in advance. Let's consider the following verses that also tell us what the better thing is.  
 
->  <sup>9</sup>For by grace you are saved through faith, and this is not from yourselves, it is the gift of God; <sup>9</sup>it is not from works, so that no one can boast. <sup>10</sup>For we are his workmanship, having been created in Christ Jesus for good works that God prepared beforehand so we may do them. (Ephesians 2:8-10)
+>  <sup>8</sup>For by grace you are saved through faith, and this is not from yourselves, it is the gift of God; <sup>9</sup>it is not from works, so that no one can boast. <sup>10</sup>For we are his workmanship, having been created in Christ Jesus for good works that God prepared beforehand so we may do them. (Ephesians 2:8-10)
 
 It's not a coincidence that these verses discourage us from trusting in good works for salvation, then in the same context assure us that it is God who will give us works to do that He's already prepared beforehand. The forgiveness, or our full appreciation of it, must come first before anything else, otherwise trying to please an unforgiving God is slavery that has no place in the heart of God.
 
@@ -115,9 +117,9 @@ Without a full trust and embrace of God's forgiveness no one can really know God
 
 ## Antinomianism
 
-Some people believe that complete forginess cannot be taught because *"it leads an individual to the point of complete practical disregard for the law of God and a callous lack of concern for violating it."* This is a direct quote from a very well known preacher of grace and many people fully trust it to be true.
+Some people believe that complete forgiveness cannot be taught because *"it leads an individual to the point of complete practical disregard for the law of God and a callous lack of concern for violating it."* This is a direct quote from a very well known preacher of grace and many people fully trust it to be true.
 
-It's entirely possible that there are folks who cite God's complete forgiveness to justify their sinful lifestyles, but in reality have you ever met one who does that? Can a true Christian really do that with the living God residing in his heart? Neither can an unbeliever, a normal person without serious psychological problem, overcome the power of his conscience.
+It's entirely possible that there are folks who cite God's complete forgiveness to justify their sinful lifestyles, but in reality have you ever met one who does that? Can God who dwells in the heart of a true believer allow that to happen? Neither can an unbeliever, a normal person without serious psychological problem, overcome the power of his conscience so he may eradicate any trace of guilt. It's rare to find antinomianism even in unbelievers because they, too, have the law of God in their conscience (Romans 2:14).
 
 If you believe in the truth that God has already completely forgiven those who trust in Him, should you because of some, even ninety nine out of a hundred, who may take advantage of it and fall into antinomianism, hide this truth from all? No, you should not. Because in doing so, you will prevent all from ever knowing God for who He really is. I'd rather risk the ninety nine and remove the stumbling block for the one so he may know his God. This knowledge of God's total forgiveness is the only way for anyone to know God.
 
@@ -146,7 +148,7 @@ because they will all know me,
     from the least of them to the greatest,”
 declares the Lord.
 “For I will forgive their wickedness
-    and will <strong>remember their sins no more</strong>.”
+    and will <strong>remember their sins no more</strong>. (Jeremiah 31:31-34)”
 
 If the covenant you're living under is anything like the old covenant, it's not the new covenant. In the new covenant, God will *"remember your sins no more."* And if this is true and you believe it, what else is there to forgive? Or does God still hold your sins against you? Then you don't know God at all.
 
@@ -168,7 +170,7 @@ This confession as means for forgiveness is not only a license to sin, it is a d
 
 > But if we confess our sins, he is faithful and righteous, forgiving us our sins and cleansing us from all unrighteousness. (1 John 1:9)
 
-This verse is normally used to support the idea that a confession, an apology, can be used to obtain forgiveness. As we've discussed previously, this approach shows its adherent do not take sins seriously. If it took Jesus on the cross to forgive our sins, how is it that now we can achieve the same thing just by mere confession? The Bible says that the wages of sin is death, now we trivialize them to be just simple apologies. This circumventing of the cross is from the devil, and yet it is predominantly the teaching of the church.
+This verse is normally used to support the idea that a confession, an apology, can be used to obtain forgiveness. As we've discussed previously, this approach shows its adherent do not take sins seriously. If it took Jesus on the cross to forgive our sins, how is it that now we can achieve the same thing just by mere confession? The Bible says that the wages of sin is death(Romans 6:23), now we trivialize them to be just simple apologies. This circumventing of the cross is from the devil, and yet it is predominantly the teaching of the church.
 
 If you believe 1 John 1:9 is the way to achieve forgiveness as a way of life, you have no life. This verse has no application to a believer's life. Let us find out why.
 
@@ -188,7 +190,7 @@ Furthermore, if we move forward to the beginning of the next chapter, we'll see 
 
 > <sup>1</sup>My dear children, I write this to you so that you will not sin. But if anybody does sin, we have an advocate with the Father—Jesus Christ, the Righteous One. <sup>2</sup> He is the atoning sacrifice for our sins, and not only for ours but also for the sins of the whole world (1 John 2:1-2).
 
-Does the verse say: if you do sin, confess? No. It says: if you do sin, you have Christ who defends you. There is no mentioning here of any penalty, such as a confession, of any method of recompense, or even forgiveness, but a line of defense. And the defense doesn't say: please forgive this child, but it says: he's not guilty, because I, Jesus, paid it all already at Calvary. This is the reason why the apostle Paul boldly wrote, without any fear of anyone taking advantage of his pronouncement, the following verse that was revealed to him from God Himself:
+Does the verse say: if you do sin, confess? No. It says: if you do sin, you have Christ who is your defender. There is no mentioning here of any penalty, such as a confession, of any method of recompense, or even forgiveness, but a line of defense. And the defense doesn't say: please forgive this child, but it says: he's not guilty, because I, Jesus, paid it all already at Calvary. This is the reason why the apostle Paul boldly wrote, without any fear of anyone taking advantage of his pronouncement, the following verse that was revealed to him from God Himself:
 
 > Therefore, there is now no condemnation for those who are in Christ Jesus (Romans 8:1).
 
@@ -216,7 +218,7 @@ However, let us not forget that in order for anyone to enter the kingdom of God,
 
  The universal truth is no one is righteous, or to put it another way, everyone is a sinner. Except for some whose conscience does not seem to have a strong influence on their lives, the rest will get on some paths trying to become better people, through obedience, repentance, or other ways to reach this noble goal. If there is even a slightest hint of honesty in the hearts of such people, they would soon come to the place of realization that the effort to become better people, to banish sins from their lives, is futile. However, there may be others who are more persistent their quest for personal excellence even until the time they lay on their deathbed. The strangest thing is even though all will never have achieved their state of perfection, they attempt to teach others how to do what they know will end in failure.
 
-The honest seekers will come to a place where they realize they are in need of God's forgiveness. They realize all their efforts in obedience and repentance will not bring them any closer to the state of perfection. They fell too far short of the glory of God. What they need is God's forgiveness. Much like a drug addict under the spell of the powerful mind altering substance becomes absolute slave to it. Obedience and repentance to a Christian is like pep talk or imploring as they will fall on deaf ears, as the only thing an addict hears is the voice of his delusional mind which cannot be trusted. Addicts or sinners, they need forgiveness for the sins they WILL commit.  An addict doesn't need to confess that he is one. He knows it, and he hates it. He desperately needs to get out from under the bondage of drugs that is stronger than steel. But there is something stronger than steel: it's God's enduring forgiveness that sets him free and empowers him to begin anew.
+The honest seekers will come to a place where they realize they are in need of God's forgiveness. They realize all their efforts in obedience and repentance will not bring them any closer to the state of perfection. They fell too far short of the glory of God. What they need is God's forgiveness. Much like a drug addict under the spell of the powerful mind altering substance becomes absolute slave to it. Obedience and repentance to a Christian is like pep talk or imploring as they will fall on deaf ears, as the only thing an addict hears is the voice of his delusional mind which cannot be trusted. Addicts or sinners, they need forgiveness for the sins they WILL commit.  An addict doesn't need to confess whenever he fails under the spell of the cravings for drugs. He knows it, and he hates it. He desperately needs to get out from under the bondage of drugs that is stronger than steel. But there is something stronger than steel: it's God's enduring forgiveness that sets him free and empowers him to begin anew.
 
 ## Forgiving others, and conclusion
 
@@ -224,14 +226,14 @@ Why is a debt forgiven? If a debt can be paid up but the creditor decides not to
 
 Aside from money, there are debts that one person owes another that cannot be repaid. Such debt as the taking of lives, acts of injustice, abuse, etc., cannot be repaid with mere apologies, or confessions as usually offered by Christians.
 
-What then does Jesus mean when he asks us to forgive others? We forgive others with a firm conviction that they can never repay in the same way God has forgiven us. I don't know about you but I'm not sure if I can really forgive someone the way God does. I can't guarantee that there won't be moments I secretly require a payment in my heart, when I entertain the thoughts of vengeance, but I know God can forgive like that. He sent His Son to the cross even when we were still sinners like the drug addict howling in agony and in a frantic search for his next fix.
+What then does Jesus mean when he asks us to forgive others? We forgive others, with a firm conviction that they can never repay, in the same way God has forgiven us. I don't know about you but I'm not sure if I can really forgive someone the way God does. I can't guarantee that there won't be moments I secretly require a payment in my heart, when I entertain the thoughts of vengeance, but I know God can forgive as He said. He sent His Son to the cross even when we were still sinners like the drug addict howling in agony and in a frantic search for his next fix.
 
 It's not an easy thing to know and fully believe that God has forgiven us and has cast our sins as far as the East is from the West, as the bottom of the sea is from the high heavens. It's not easy to believe that God no longer counts our sins against us. But we can only forgive others in proportion to how we know and experience God's forgiveness for us. We cannot outdo Him.
 
 So what are you doing whispering in God's ears what God had banished by sending His precious Son to the cross?
 
 ## Credit
-I owe a debt of gratitude to brother Aaron Budjen who produced a life changing series of 12 sermons with the same title, ["Understanding Forgiveness"](http://livinggodministries.net)&mdash;please click on the link at left to access the full series in mp3 format&mdash;that this article is derived from as well as much of its content.
+I owe a debt of gratitude to brother Aaron Budjen who produced a life changing series of 12 sermons with the same title: ["Understanding Forgiveness"](http://livinggodministries.net)&mdash;please click on the link at left to access the full series in mp3 format&mdash;that this article is derived from as well as much of its content.
 
 As I was near completion of this writing, a wonderful opportunity came with a request that I serve as an editor for a book being translated into English from Vietnamese. The book consists of testimonies from people who suffered from drug addiction but had been delivered miraculously by the power of the love of God. The testimonies that I had the privilege to edit gave me just the perfect closing thoughts to bring home the key concept of God's complete forgiveness that took a while to build. Thank you the VCRM team for making me a part of this wonderful project. 
 
