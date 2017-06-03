@@ -5,7 +5,7 @@ modified: 2017-02-05T12:14:45-04:00
 image: 
   teaser: ten-virgins-teaser.jpg
 tags: [duc-tin, an-dien, viec-lam, ngu-ngon]
-featured: true
+featured: false
 comments: true
 ---
 

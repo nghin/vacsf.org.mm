@@ -6,7 +6,7 @@ modified: 2016-11-19T12:14:45-04:00
 image: 
   teaser: Obedience-teaser.jpg
 tags: [duc-tin, viec-lam, vang-loi]
-featured: true
+featured: false
 comments: true
 ---
 

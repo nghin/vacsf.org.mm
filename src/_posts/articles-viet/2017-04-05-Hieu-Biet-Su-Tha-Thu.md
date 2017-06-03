@@ -106,7 +106,7 @@ Không phải do sự tình cờ mà những câu Kinh thánh này khẳng đị
 ## Không dám nói về sự tha thứ
 Phần lớn các nhà giảng Kinh thánh ngần ngại không dám nói về sự tha thứ của Chúa một cách trọn vẹn. Đây chúng ta không nói về sự tha thứ cho mỗi trường hợp một người vấp phạm, nhưng là về sự tha thứ trọn vẹn khiến người tội lỗi được vĩnh viễn sống trong sự an lòng rằng sẽ chẳng bao giờ bị đoán phạt nữa.
 
-Họ lý luận rằng cho một người nhận thức trọn vẹn sự tha thứ của Chúa, là cho người đó lý do để họ tự do phạm tội.  Mặc dầu đây là một điều có thể xảy ra, nó không phải là một lý do chính đáng để giấu chân lý này với một người mà có thể nhờ đó được biết trọn vẹn sự tha thứ của Chúa một cách tương xứng với điều Ngài muốn tỏ bày qua thập tự giá.
+Họ lý luận rằng cho một người nhận thức trọn vẹn sự tha thứ của Chúa, là cho người đó lý do để họ lạm dụng ân điển.  Mặc dầu đây là một điều có thể xảy ra, nó không phải là một lý do chính đáng để giấu chân lý này với một người mà có thể nhờ đó được biết trọn vẹn sự tha thứ của Chúa một cách tương xứng với điều Ngài muốn tỏ bày qua thập tự giá.
 
 Trên thực tế, có thực là sự che giấu ánh sáng của sự tha thứ của Chúa khiến chúng ta trở nên người tốt hơn? Đã từ lâu lắm rồi người ta thường lầm lẫn rằng luật pháp giúp con người tránh tội lỗi, nhưng Kinh thánh nói thực ra không phải vậy:
 
@@ -136,8 +136,8 @@ Bạn đang sống trong giao ước nào với Chúa? Giao Ước cũ hoặc Gi
 
 Công việc bôi xóa món nợ tội lỗi cho những kẻ đến nơi chân thập giá đã hoàn tất. MỌI SỰ ĐÃ ĐƯỢC TRỌN!
 
-## Tự do phạm tội
-Sự lên án rằng rao giảng về sự tha thứ trọn vẹn của Chúa sẽ khiến người nghe có lý do để tự do phạm tội quả là một sự lên án sai lầm.
+## Lạm dụng ân điển
+Sự lên án rằng rao giảng về sự tha thứ trọn vẹn của Chúa sẽ khiến người nghe có lý do để lạm dụng ân điển quả là một sự lên án sai lầm.
 
 Chúng ta hãy thử dùng một thí dụ trong đời sống hằng ngày chẳng hạn như một bằng lái xe. Bằng lái này được cấp cho người lái xe với một số quy luật về những điều người đó được hoặc không được làm hầu giữ an toàn trên đường phố. Bằng lái này cũng có kèm theo quy định về hình phạt trong trường hợp người lái phạm luật, đồng thời cũng có quy định cách trả tiền phạt để người lái có thể tiếp tục lái xe.
 
@@ -145,7 +145,7 @@ Theo cùng ý nghĩa đó, chính người sử dụng luật pháp là người
 
 Những người này cho người theo họ một ảo tưởng rằng họ có thể được tha nhờ sự xưng tội. Trong tiểu mục "Cách Chúa tha tội" ở trên chúng ta học được rằng phải có sự đổ huyết thì tội lỗi mới được thứ tha, mà huyết hiệu nghiệm duy nhất là của Con Một Đức Chúa Trời, không phải huyết của chiên và bò đực. Và như vậy thì làm sao chỉ bởi một lời xin lỗi, hoặc xưng tội, có thể đạt được điều mà Chúa đã phải đổ huyết trên thập tự giá để ban cho chúng ta?
 
-Giải pháp xưng tội để được tha này mới thực là giấy phép cho người ta tự do phạm tội, và đã dẫn vô số người đi lạc. Chúng ta sẽ đào sâu vào vấn đề này trong đoạn sắp tới.
+Giải pháp xưng tội để được tha này mới thực là giấy phép cho người ta lạm dụng ân điển, và đã dẫn vô số người đi lạc. Chúng ta sẽ đào sâu vào vấn đề này trong đoạn sắp tới.
 
 ## 1 John 1:9
 
