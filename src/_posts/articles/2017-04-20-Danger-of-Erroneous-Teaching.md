@@ -13,7 +13,7 @@ comments: true
 
 <!-- {% include toc.html %} -->
 
-<a href="{{ site.url }}{% post_url 2017-04-20-Dieu-Thuc-Su-Dang-So %}"><em>(Bấm vào đây để đọc tiếng Việt)</em></a>
+<a href="{{ site.url }}{% post_url 2017-04-20-Dieu-Dang-Quan-Tam-Hon %}"><em>(Bấm vào đây để đọc tiếng Việt)</em></a>
 
 <img alt src="{{ site.url }}/assets/images/danger-teaser.jpg" style="border: 1px solid #cccccc; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;">
 He talks about the necessity of obeying God's Word, instead of the inevitability, in the truly regenerate, of living it.  'Only holiness brings full joy', one says.  But isn't that putting the cart before the horse?  Isn't it rather;  'Only joy (in believing), brings genuine holiness'?
