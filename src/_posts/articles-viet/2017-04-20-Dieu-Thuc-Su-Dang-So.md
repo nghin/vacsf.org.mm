@@ -1,5 +1,5 @@
 ---
-title: "Điều Thực Sự Đáng Sợ"
+title: "Điều Đáng Quan Tâm Hơn"
 modified: 2017-04-20T12:14:45-04:00
 image: 
   teaser: danger-teaser.jpg
@@ -10,7 +10,7 @@ comments: true
 
 <!-- {% include toc.html %} -->
 
-Giữa hai điều, dạy một giáo lý sai lạc, và chống trả một giáo lý sai lạc, điều nào nguy hiểm hơn? Vì khi một người dạy đạo chọn mục tiêu của mình là những người "lạm dụng ân điển," người đó có khuynh hướng thúc đẩy sự hăng say, nói về những "điều cần có" để được "thánh hóa," thay vì nói về sự thánh hóa chắc chắn tự nhiên có trong đời sống những người đã được cứu.
+Giữa hai điều, dạy một giáo lý sai lạc, và chống trả một giáo lý sai lạc, điều nào đáng quan tâm hơn? Vì khi một người dạy đạo chọn mục tiêu của mình là những người "lạm dụng ân điển," người đó có khuynh hướng thúc đẩy sự hăng say, nói về những "điều cần có" để được "thánh hóa," thay vì nói về sự thánh hóa chắc chắn tự nhiên có trong đời sống những người đã được cứu.
 
 <img alt src="{{ site.url }}/assets/images/danger-teaser.jpg" style="border: 1px solid #cccccc; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;">
 Người đó nói về sự cần thiết phải "vâng lời" dạy trong Kinh thánh, thay vì sự không thể tránh được, trong cuộc đời người đã được Chúa tái sinh, là người đó "sống" những lời dạy đó.  Người đó nói 'Chỉ có sự nên thánh mới đem lại sự vui mừng trọn vẹn.'  Nhưng lý luận như thể có phải chẳng khác gì đặt xe kéo trước con ngựa sao?  Chính ra phải nói như thế này:  'Chỉ có sự vui mừng về sự cứu rỗi mới đem lại sự thánh hóa thực sự.'
