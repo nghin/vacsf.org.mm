@@ -38,14 +38,18 @@ primary:
     url: /bible-studies/
     img: bible-studies-menu-image.jpg
     excerpt: "Studies of a few of Paul's great epistles"
-  - title: "Blog Articles"
+  - title: "English Articles"
     url: /
     img: blog-articles-menu-thumb.jpg
     excerpt: "Course correction for several often misinterpreted biblical concepts"
-  - title: "Vietnamese Articles"
+  - title: "Các Bài Tiếng Việt"
     url: /articles-viet/
-    img: bible-studies-menu-image.jpg
-    excerpt: "Các ý niệm phổ thông trong Kinh Thánh"
+    img: blog-articles-menu-thumb.jpg
+    excerpt: "Điều Chỉnh Hướng Đi"
+  - title: "VACSF Live Stream"
+    url: /live-stream/
+    img: live-stream-menu-image.jpg
+    excerpt: "Video streams of VACSF Sunday services"
 
 
 # Secondary site navigation links (overlay)
