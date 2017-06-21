@@ -37,9 +37,9 @@ comments: true
 Contrary to conventional thinking which believes that the preaching of a free gospel will lead to folks finding licence to sin or excuse to abuse God's grace, Dr Chalmers as well I believe that a freer gospel will lead to more godliness.
 
 ### Do this and live
-The Old Covenant can be summarized to the concept of "Do this and live," carefully observing all the commandments written in the book of the law, "Keep[ing] this Book of the Law always on your lips; meditate on it day and night, so that you may be careful to do everything written in it. Then you will be prosperous and successful (Joshua 1:8)." Ironically the Bible calls this the law of sin and death, and in the same Romans 8:2 passage Paul suggest a new law of the Spirit of life.
+The Old Covenant can be summarized to the concept of "Do this and live," carefully observing all the commandments written in the book of the law, *"Keep[ing] this Book of the Law always on your lips; meditate on it day and night, so that you may be careful to do everything written in it. Then you will be prosperous and successful (Joshua 1:8)."* Ironically the Bible calls this the law of sin and death, and in the same Romans 8:2 passage Paul suggest a new law of the Spirit of life.
 
-Under the old law, there is fear, and there is jealousy as one is never certain of God's acceptance, and in trying to repay God for what He's done, the person become excessively obsessed toward self instead of God's glory, and lastly though there is an appearance of obedience, it's not from the heart, but from fear of punishment.
+Under the old law, there is fear, and there is jealousy as one is never certain of God's acceptance, and in trying to repay God for what He's done, the person become excessively obsessed toward self instead of God's glory, and lastly though there is an appearance of obedience, it's not from the heart, but from fear of punishment. Such is the nature of a "legal bargain" where everything must be earned and paid for. There is always the possibility that your performance is not good enough.
 
 ###  The more a man holds of God, the greater the payment of service
 I would probably not go as far as calling the work, that God has prepared beforehand for those who have come to Him by grace and through faith, a payment of service, but even if such a term is used, that God does indeed demand a payment, a man cannot pay more than what he received from God. *"The more a man holds of God"*, as Dr Chalmers puts it, means the more he understands the height, depth, and breadth of God's forgiveness through Christ, the full righteousness that he can be certain of as he puts his trust in Him, the freedom from all condemnation to those who are in Christ Jesus, and the all things that God has given him along with His Son, the more he can be an instrument in the hand of God to do the work that is not based on the law, but on faith and purified by grace. In short, the more a man knows his [inheritance in Christ](http://vacsf.org/articles/The-Will-of-God/), the more he can pay, not from the works of his flesh, but from the riches that God had already reserved for him.
@@ -50,7 +50,7 @@ Without money, and without price. Only then can there be security and true rest 
 ### Heart that knows its full acceptance
 As important as the truth of salvation by grace, it is of no less importance the deliverance of the heart from the fear and burden of our not being fully accepted by God.
 
-### If there is but single shred of legality with the gospel
+### If there is but a single shred of legality with the gospel
 The power of the gospel lies in its ability to forgive man and to reconcile them with God, therefore any smallest amount of legality is implied in the gospel as it is presented will take away that power and causes serious distrust between a man and his God. Jesus must have alluded to this fact when He said a little yeast of the Pharisees will spoil a whole batch of dough.
 
 ### The freer the better is the gospel
