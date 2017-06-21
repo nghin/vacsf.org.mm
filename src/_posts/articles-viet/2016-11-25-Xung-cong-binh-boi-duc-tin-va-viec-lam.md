@@ -5,7 +5,7 @@ excerpt: "Is salvation by faith alone, or by faith plus works? Do we contribute 
 modified: 2016-11-25T12:14:45-04:00
 image: 
   teaser: dog-chasing-tail.jpg
-tags: [luat-phap, viec-lam, an-dien, duc-tin]
+tags: [luật-pháp, việc-làm, ân-điển, đức-tin]
 featured: false
 comments: true
 ---

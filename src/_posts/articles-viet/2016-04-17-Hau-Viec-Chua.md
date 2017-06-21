@@ -3,7 +3,7 @@ title: "Hầu Việc Chúa"
 excerpt: "Rất nhiều bài vở đã được viết về chủ đề &#34;Hầu Việc Chúa.&#34; Những người đang làm một việc gì đó liên hệ đến đức tin thì nghĩ rằng họ đang hầu việc Chúa. Người viết sách về sự hầu việc Chúa nghĩ rằng họ đang làm công việc đó. Thế còn những người đang nhận lãnh những sự chỉ dạy đó, họ biết phải làm gì để hầu việc Ngài?"
 image: 
   teaser: serving-God.jpg
-tags: [hau-viec]
+tags: [hầu-việc]
 featured: false
 modified:
 comments: false

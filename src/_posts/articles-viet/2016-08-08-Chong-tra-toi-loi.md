@@ -3,7 +3,7 @@ title: "Chống Trả Tội Lỗi"
 excerpt: "Hebrews 12:4. Ý nghĩa của câu Kinh Thánh &#34;Trong cuộc chiến đấu với tội lỗi, anh chị em chống cự chưa đến mức đổ máu.&#34;? Phải chăng mục đích của đời sống tín hữu là chống trả với tội lỗi?"
 image: 
   teaser: resist-unto-blood.jpg
-tags: [toi-loi]
+tags: [tội-lỗi]
 featured: false
 modified:
 comments: false

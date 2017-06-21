@@ -4,7 +4,7 @@ excerpt: "Tiệc Thánh nhìn từ bối cảnh của Lễ Vượt Qua."
 modified: 2017-02-11T12:14:45-04:00
 image: 
   teaser: communion-teaser.jpg
-tags: [tiec-thanh, viec-lam, vuot-qua]
+tags: [tiệc-thánh, việc-làm, vượt-qua]
 featured: true
 comments: true
 ---

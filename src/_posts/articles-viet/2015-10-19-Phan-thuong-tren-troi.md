@@ -3,7 +3,7 @@ title: "Phần Thưởng Trên Trời"
 excerpt: "Bài viết này sẽ cho thấy đây là một cái nhìn trần tục, nhưng chính là nền tảng của các tôn giáo trên thế gian."
 image: 
   teaser: Rewards.jpg
-tags: [phan-thuong]
+tags: [phần-thưởng]
 featured: false
 modified:
 comments: false

@@ -3,7 +3,7 @@ title: "Quyền Năng của Ân Điển"
 excerpt: "Một dẫn chứng thực tế trong đời sống cho thấy ân điển Chúa có quyền năng khiến chúng ta làm được những điều mà trước kia chúng ta không làm được vì kiệt quệ trong sợ hãi."
 image: 
   teaser: rock-climbing.jpg
-tags: [an-dien]
+tags: [ân-điển]
 featured: false
 modified:
 comments: false

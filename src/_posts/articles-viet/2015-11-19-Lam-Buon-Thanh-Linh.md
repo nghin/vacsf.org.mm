@@ -3,7 +3,7 @@ title: "Làm Buồn Lòng Thánh Linh?"
 excerpt: "Một câu Kinh Thánh quen thuộc nhưng rất thường bị giải thích sai. Trường Thần Học không dạy điều này nhưng thường được lồng trong những bài giảng và được nhiều người chấp nhận. Sự hiểu và ứng dụng sai lầm này sẽ ..."
 image: 
   teaser: lose-salvation.jpg
-tags: [thanh-linh]
+tags: [thánh-linh]
 featured: false
 modified:
 comments: false

@@ -3,7 +3,7 @@ title: "Đầu Phục Chúa"
 excerpt: "Làm sao chúng ta có thể đầu phục Chúa nếu <em>&#34;xác thịt có những dục vọng trái với Thánh Linh&#34;</em> (Galatians 5:17) và: <em>&#34;... tôi không hiểu điều mình làm: tôi chẳng làm điều mình muốn, nhưng làm điều mình ghét (Romans 7:15).&#34;</em>"
 image: 
   teaser: surrender.jpg
-tags: [dau-phuc]
+tags: [đầu-phục]
 featured: false
 modified:
 comments: false

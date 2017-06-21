@@ -3,7 +3,7 @@ title: "Cố Ý Phạm Tội"
 excerpt: "Hebrews 10:26-27 viết về tội gì? Những tội thông thường mà người tin Chúa nên tránh bằng mọi giá? Hoặc một điều gì đó đặc biệt khiến tác giả phải viết lời cảnh cáo nghiêm trọng?"
 image: 
   teaser: deliberate-sinning.jpg
-tags: [toi-loi]
+tags: [tội-lỗi]
 featured: false
 modified:
 comments: false

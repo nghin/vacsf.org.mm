@@ -5,7 +5,7 @@ excerpt: "Không phải chỉ riêng gì tín hữu đạo Tin Lành mới có k
 modified: 2016-08-08T12:14:45-04:00
 image: 
   teaser: sufferingChrist.jpg
-tags: [chiu-kho]
+tags: [chịu-khổ]
 featured: false
 comments: true
 ---
