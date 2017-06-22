@@ -51,7 +51,7 @@ Without money, and without price. Only then can there be security and true rest 
 As important as the truth of salvation by grace, it is of no less importance the deliverance of the heart from the fear and burden of our not being fully accepted by God.
 
 ### If there is but a single shred of legality with the gospel
-The power of the gospel lies in its ability to forgive man and to reconcile them with God, therefore any smallest amount of legality is implied in the gospel as it is presented will take away that power and causes serious distrust between a man and his God. Jesus must have alluded to this fact when He said a little yeast of the Pharisees will spoil a whole batch of dough.
+The power of the gospel lies in its ability to forgive man and to reconcile them with God, therefore if any amount of legality is implied in the gospel as it is presented, it will take away that power and causes serious distrust between a man and his God.
 
 ### The freer the better is the gospel
 Dr Chalmers says it best: "And never does the sinner find within himself so mighty a moral transformation, as when he is under the belief that he is saved by grace, for he feels constrained thereby to offer his heart a devoted thing, and to deny ungodliness."
