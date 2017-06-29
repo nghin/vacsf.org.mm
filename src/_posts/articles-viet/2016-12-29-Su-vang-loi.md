@@ -5,7 +5,7 @@ To be happy in Jesus, but to trust and obey."
 modified: 2016-11-19T12:14:45-04:00
 image: 
   teaser: Obedience-teaser.jpg
-tags: [duc-tin, viec-lam, vang-loi]
+tags: [đức-tin, việc-làm, vâng-lời]
 featured: false
 comments: true
 ---

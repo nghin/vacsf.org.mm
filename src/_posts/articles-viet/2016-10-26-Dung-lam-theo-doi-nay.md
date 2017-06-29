@@ -4,7 +4,7 @@ excerpt: "Bài viết này bày tỏ một quan điểm khác với hầu hết 
 modified: 2016-10-29T12:14:45-04:00
 image: 
   teaser: do-not-conform-teaser.png
-tags: [toi-loi]
+tags: [tội-lỗi]
 featured: false
 comments: true
 ---

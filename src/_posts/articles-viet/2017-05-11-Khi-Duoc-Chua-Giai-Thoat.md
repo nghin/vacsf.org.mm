@@ -1,10 +1,10 @@
 ---
 title: "Khi Được Chúa Giải Thoát"
-excerpt: "Matthew 5:48 viết về Chúa như sau: <em>Các ngươi hãy nên trọn vẹn, như Cha các ngươi ở trên trời là trọn vẹn.'</em> Do đó, nếu bạn chưa được trọn vẹn thì khi nào bạn sẽ đạt được điều đó? Một buổi nhóm bồi linh nữa? Một tiệc thánh nữa? Một câu Kinh thánh nữa để ghi nhớ? Một linh hồn nữa để đem về với Chúa? Thật vậy, nếu bạn chưa được trọn vẹn trước mặt Đức Chúa Trời ngay giây phút này, thì bạn sẽ chẳng bao giờ trọn vẹn trước mặt Ngài."
+excerpt: "Matthew 5:48 viết về Chúa như sau: <em>'Các ngươi hãy nên trọn vẹn, như Cha các ngươi ở trên trời là trọn vẹn.'</em> Do đó, nếu bạn chưa được trọn vẹn thì khi nào bạn sẽ đạt được điều đó? Một buổi nhóm bồi linh nữa? Một tiệc thánh nữa? Một câu Kinh thánh nữa để ghi nhớ? Một linh hồn nữa để đem về với Chúa? Thật vậy, nếu bạn chưa được trọn vẹn trước mặt Đức Chúa Trời ngay giây phút này, thì bạn sẽ chẳng bao giờ trọn vẹn trước mặt Ngài."
 modified: 2017-02-11T12:14:45-04:00
 image: 
   teaser: addiction-teaser.jpg
-tags: [an-dien, yeu-thuong, nghien-ngap, viec-lam, chap-nhan, tha-thu]
+tags: [ân-điển, yêu-thương, nghiện-ngập, việc-làm, chấp-nhận, tha-thứ]
 featured: true
 comments: true
 ---

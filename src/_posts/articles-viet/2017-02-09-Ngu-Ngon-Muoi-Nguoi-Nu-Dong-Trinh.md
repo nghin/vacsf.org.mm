@@ -4,7 +4,7 @@ excerpt: "Bài viết này cho thấy lối giải thích phổ thông về ng�
 modified: 2017-02-05T12:14:45-04:00
 image: 
   teaser: ten-virgins-teaser.jpg
-tags: [duc-tin, an-dien, viec-lam, ngu-ngon]
+tags: [đức-tin, ân-điển, việc-làm, ngụ-ngôn]
 featured: false
 comments: true
 ---

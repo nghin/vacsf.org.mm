@@ -3,7 +3,7 @@ title: "Làm Chết Các Việc Của Chi Thể"
 excerpt: "Thoạt nhìn, hầu như không cần ai dạy bảo, hầu như ai cũng đi đến kết luận rằng làm chết các việc của chi thể nghĩa là chiến thắng được mọi cám dỗ của xác thịt. Nhưng từ tiết của thư Rô-ma có cho chúng ta đi đến kết luận đó hay không?"
 image: 
   teaser: death-deeds.jpg
-tags: [toi-loi, xac-thit]
+tags: [tội-lỗi, xác-thịt]
 featured: false
 modified:
 comments: false

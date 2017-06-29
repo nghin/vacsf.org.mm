@@ -3,7 +3,7 @@ title: "Lời Cầu Nguyện của Áp-ra-ham"
 excerpt: "Vả, khi các ngươi cầu nguyện, đừng dùng những lời lặp vô ích như người ngoại; vì họ tưởng vì cớ lời mình nói nhiều thì được nhậm (<cite>Matthew 6:7</cite>)."
 image: 
   teaser: candle-prayer.jpg
-tags: [cau-nguyen]
+tags: [cầu-nguyện]
 featured: false
 modified:
 comments: false
