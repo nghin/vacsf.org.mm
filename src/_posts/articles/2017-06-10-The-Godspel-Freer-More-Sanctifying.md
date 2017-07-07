@@ -1,6 +1,6 @@
 ---
 title: "The Gospel, The Freer The More Sanctifying"
-excerpt: Thus it is, that the freer the Gospel, the more sanctifying is the Gospel; and the more it is received as a doctrine of grace, the more will it be felt as a doctrine according to godliness.
+excerpt: "Many are concerned that the unlimitted teaching of grace will cause many to fall into antinomianism, and take advantage of the grace of God and find a license to sin. However Dr. Chalmers, an 18th century theologian, attempts to show us in his writing that such is not a case in the Christian experience."
 modified: 2017-06-11T12:14:45-04:00
 image: 
   teaser: free-gospel-teaser.jpg
