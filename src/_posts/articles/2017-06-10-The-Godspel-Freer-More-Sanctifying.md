@@ -13,7 +13,7 @@ comments: true
 
 {% include toc.html %}
 
-<!-- a href="{{ site.url }}{% post_url 2016-12-29-Su-vang-loi %}"><em>(Bấm vào đây để đọc tiếng Việt)</em></a -->
+<a href="{{ site.url }}{% post_url 2017-06-10-The-Godspel-Freer-More-Sanctifying-Viet %}"><em>(Bấm vào đây để đọc tiếng Việt)</em></a>
 
 ## Dr. Chalmers on the gospel
 
@@ -34,7 +34,7 @@ comments: true
 ## Some key thoughts as gleaned from the excerpt
 
 ### The Gospel, the freer the more sanctifying
-Contrary to conventional thinking which believes that the preaching of a free gospel will lead to folks finding licence to sin or excuse to abuse God's grace, Dr Chalmers as well I believe that a freer gospel will lead to more godliness.
+Contrary to conventional thinking which believes that the preaching of a free gospel will lead to folks finding licence to sin or excuse to abuse God's grace, Dr Chalmers as well as I believe that a freer gospel will lead to more godliness.
 
 ### Do this and live
 The Old Covenant can be summarized to the concept of "Do this and live," carefully observing all the commandments written in the book of the law, *"Keep[ing] this Book of the Law always on your lips; meditate on it day and night, so that you may be careful to do everything written in it. Then you will be prosperous and successful (Joshua 1:8)."* Ironically the Bible calls this the law of sin and death, and in the same Romans 8:2 passage Paul suggest a new law of the Spirit of life.
