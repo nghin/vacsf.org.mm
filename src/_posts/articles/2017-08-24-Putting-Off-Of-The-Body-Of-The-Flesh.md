@@ -45,9 +45,9 @@ The Lord, however, provides us with a way to deal with sin in the event we fall 
 
 > My little children, these things write I unto you, that ye sin not. And if any man sin, we have an advocate with the Father, Jesus Christ the righteous (1 John 2:1).
 
-Because we have Jesus, the Advocate, who sits besides God the Father to plead our case. What do you think is stronger? Our repentance or Jesus' defense? Even your offering yourself to be nailed on a cross for your sins would be no match for the powerful defense of the Attorney-at-Law. This is where God's way is not our way is exemplified.
+Because we have Jesus, the Advocate, who sits besides God the Father to plead our case. What do you think is stronger? Our repentance or Jesus' defense? Even our offering of ourselves to be nailed on a cross for our sins would be no match for the powerful defense of the Attorney-at-Law&mdash;as a matter of fact, God will not accept our own crucifixion on the cross as a substitution for our sins as none of us are "unblemished" enough to qualify. This is where God's way is not our way is exemplified.
 
-Furthermore, if our lifelong goal is to battle sins, we're fighting a losing battle, or we're going about it the wrong way. It's infinitely better to fix our eyes on Christ than on our enemy the devil. I have a great real-life example to demonstrate this.
+Furthermore, if our lifelong goal is to battle sins, we'd be fighting a losing battle, or going about it the wrong way. It's infinitely better to fix our eyes on Christ than on our enemy the devil. I have a great real-life example to demonstrate this.
 
 There is a Christian sister at our church who works in the service industry. She asked me for an advise on how to deal with someone among her customers who frequently tried to seduce her. My advise to her was to fix her eyes on Jesus, to regularly come to Him to draw from Him strength that comes as a result of an assurance of her salvation, His unconditional love, His total forgiveness of her sins, and many other wonderful gifts that God gave her along with His Son.
 
@@ -57,7 +57,7 @@ When a child of God live, breath, and rest in their identity as children of God,
 
 Fix your eyes on Jesus then you will be more able to resist sins.
 
-When the Israelites were bitten by snakes in the desert, God instructed Moses to hang a bronze snake on a pole so whoever lift up their eyes upon the snake after being bitten will not die. There was no need for Moses to remind folks try to avoid getting snake bites, no need for repentance upon getting bitten as it would be too late, just lift up your eyes to the bronze snake. The bites are painful and deadly enough as a deterrence.
+When the Israelites were bitten by snakes in the desert, God instructed Moses to hang a bronze snake on a pole so whoever lift up their eyes upon the snake after being bitten will not die. There was no need for Moses to remind folks to try to avoid getting snake bites, no need for repentance upon getting bitten as it would be too late, just lift up your eyes to the bronze snake. The bites are painful and deadly enough as a deterrence.
 
 > ...  if any man sin, we have an advocate with the Father, Jesus Christ the righteous (1 John 2:1).
 > 
@@ -105,7 +105,7 @@ The Scripture passage conveys a sense of liberation, of triumph, with Christ as 
 
 The Coram Deo projects something completely different. It tells us to engage in morbid introspection, to take our eyes off of Christ and focus on ourselves and the enemy of our souls. It tells us to go back to the desert as there are formidable giants in the promised land. It tells us that now is NOT the acceptable time, now is NOT the day of salvation (2 Corinthians 6:2).
 
-Don't believe in the Coram Deo, but believe in Colossians 2:11-12. Take it at its face value. There is now no longer a bronze snake, but there is Christ who sits on the right hand of God to plead your case that you are innocent&mdash;despite numerous snake bites.
+Don't believe in the Coram Deo, but believe in Colossians 2:11-12. Take it at its face value. There is now no longer a bronze snake, but there is Christ who sits on the right hand of God to plead your case that you are perfect&mdash;despite numerous snake bites. Your were buried with Christ and now alive with Him in the newness of life. It's done. It's finished.
 
 {% include bible-study/bible-study-footer %}
 
