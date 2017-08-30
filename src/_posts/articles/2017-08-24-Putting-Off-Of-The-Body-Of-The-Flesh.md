@@ -17,7 +17,7 @@ comments: true
 <!-- a href="{{ site.url }}{% post_url 2017-08-15-Entering-Gods-Rest-Viet %}"><em>(Bấm vào đây để đọc tiếng Việt)</em></a -->
 
 <img alt src="{{ site.url }}/assets/images/putting-off-of-the-body-of-the-flesh-teaser.jpg" style="border: 1px solid #cccccc; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;">
-An article of a similar topic was written previously under the title ["Mortify The Deeds Of The Flesh."](http://vacsf.org/articles/Mortify-the-Deeds-of-the-Flesh/) This article is not a rewrite, but another look at it from a different angle based on a different verse. It is inspired from a sermon I heard at a Summer camp based on Colossians 2:11-12 quoted at the leading paragraph. During the sermon, the speaker refered to R. C. Sproul's Coram Deo on the same verse. Interestingly, as I queried the world wide web to take the pulse of the general population in how they interpret these verses, R. C. Sproul's Coram Deo on Colossians 2:11-12 showed up as follows:
+An article of a similar topic was written previously under the title ["Mortify The Deeds Of The Flesh."](http://vacsf.org/articles/Mortify-the-Deeds-of-the-Flesh/) This article is not a rewrite, but another look at it from a different angle based on a different verse. It is inspired from a sermon I heard at a Summer camp based on Colossians 2:11-12. During the sermon, the speaker refered to R. C. Sproul's Coram Deo on the same verse. Interestingly, as I queried the world wide web to take the pulse of the general population in how they interpret these verses, R. C. Sproul's Coram Deo on Colossians 2:11-12 showed up as follows:
 
 > Our old Adamic nature has been mortally wounded, but it refuses to stay buried. Having a new nature in Christ, we must put sin to death when it rises up. This means that we must resist temptation and repent when we give in, for we will not be perfect until we are in heaven. Calvin comments on today’s passage that “burial expresses a continued process of mortification.” Sin is powerless to control us, but it is still dangerous and must be resisted.
 >
@@ -39,7 +39,7 @@ Therefore, our Adamic nature is only mortally wounded in the sense that its sin 
  
 There is no doubt that any transgression causes great pain to both the transgressor and those who are in its path of destruction. With few exceptions, all Christians know the painful consequences of sins, and they know that should, and must, resist temptations. Even unbelievers know and are fearful of what price they have to pay when they fall. They don't need to go to church to learn what even a child knows, as wisdom cries out in the marketplace (Proverbs 1:20).
 
-What about repentance in the context of the Coram Deo? By the time a sin had been committed, repentance would be useless. So is an apology as it would be just lip service. It's better to not fall into sin at all.
+What about repentance in the context of the Coram Deo? By the time a sin had been committed, repentance would be useless. So is an apology as it would be just lip service. It's better not to fall into sin at all.
 
 The Lord, however, provides us with a way to deal with sin in the event we fall into temptation. Not repentance, not remorse, not shedding of crocodile tears, not lip service of apology, but an assurance that our citizenship of God's kingdom will still be in tact:
 
@@ -51,13 +51,13 @@ Furthermore, if our lifelong goal is to battle sins, we'd be fighting a losing b
 
 There is a Christian sister at our church who works in the service industry. She asked me for an advise on how to deal with someone among her customers who frequently tried to seduce her. My advise to her was to fix her eyes on Jesus, to regularly come to Him to draw from Him strength that comes as a result of an assurance of her salvation, His unconditional love, His total forgiveness of her sins, and many other wonderful gifts that God gave her along with His Son.
 
-Now if she chose a different approach, the approached suggested by the Coram Deo or common exhortations, throughout the day, even while she is at home, she would prepare herself to say no to the temptation. She would most likely imagine herself being in the same situation, going through different scenarios, and so on so forth. Do you get the drift of where this is going? She would end up, in her mind, being with the man all day long even while she is at home. Is this the way you prepare yourself to resist temptations?
+Now if she chose a different approach, the one suggested by the Coram Deo or common exhortations, she would, throughout the day, even while she is at home, prepare herself to say no to the temptation. She would most likely imagine herself being in the same situation, going through different scenarios, and so on so forth. Do you get the drift of where this is going? She would end up, in her mind, being with the man all day long even while she is at home. Is this the way you prepare yourself to resist temptations?
 
 When a child of God live, breath, and rest in their identity as children of God, as they set their minds on things above, they will be more ready to battle sins when they come. But if they are constantly thinking of sins, even thinking of how to resist sins, they will more likely fall when temptations do come, they will be like soldiers who are worn out from sleepless night worrying about their enemies.
 
 Fix your eyes on Jesus then you will be more able to resist sins.
 
-When the Israelites were bitten by snakes in the desert, God instructed Moses to hang a bronze snake on a pole so whoever lift up their eyes upon the snake after being bitten will not die. There was no need for Moses to remind folks to try to avoid getting snake bites, no need for repentance upon getting bitten as it would be too late, just lift up your eyes to the bronze snake. The bites are painful and deadly enough as a deterrence.
+When the Israelites were bitten by snakes in the desert, God instructed Moses to hang a bronze snake on a pole so whoever lift up their eyes upon the snake after being bitten would not die. There was no need for Moses to remind folks to try to avoid getting snake bites, or to repent upon getting bitten, but that they just needed to lift up their eyes to behold the bronze snake. The bites are painful and deadly enough as a deterrence.
 
 > ...  if any man sin, we have an advocate with the Father, Jesus Christ the righteous (1 John 2:1).
 > 
@@ -105,7 +105,7 @@ The Scripture passage conveys a sense of liberation, of triumph, with Christ as 
 
 The Coram Deo projects something completely different. It tells us to engage in morbid introspection, to take our eyes off of Christ and focus on ourselves and the enemy of our souls. It tells us to go back to the desert as there are formidable giants in the promised land. It tells us that now is NOT the acceptable time, now is NOT the day of salvation (2 Corinthians 6:2).
 
-Don't believe in the Coram Deo, but believe in Colossians 2:11-12. Take it at its face value. There is now no longer a bronze snake, but there is Christ who sits on the right hand of God to plead your case that you are perfect&mdash;despite numerous snake bites. Your were buried with Christ and now alive with Him in the newness of life. It's done. It's finished.
+Don't believe in the Coram Deo, but believe in Colossians 2:11-12. Take it at its face value. There is now no longer a bronze snake, but there is Christ who sits on the right hand of God to plead your case that you are perfect&mdash;despite numerous snake bites. You were buried with Christ and now alive with Him in the newness of life. It's done. It's finished.
 
 {% include bible-study/bible-study-footer %}
 
