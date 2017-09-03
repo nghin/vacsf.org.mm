@@ -14,7 +14,7 @@ comments: true
 {% include toc.html %}
 
 ## Coram Deo
-<!-- a href="{{ site.url }}{% post_url 2017-08-15-Entering-Gods-Rest-Viet %}"><em>(Bấm vào đây để đọc tiếng Việt)</em></a -->
+<a href="{{ site.url }}{% post_url 2017-08-24-Putting-Off-Of-The-Body-Of-The-Flesh-Viet %}"><em>(Bấm vào đây để đọc tiếng Việt)</em></a>
 
 <img alt src="{{ site.url }}/assets/images/putting-off-of-the-body-of-the-flesh-teaser.jpg" style="border: 1px solid #cccccc; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;">
 An article of a similar topic was written previously under the title ["Mortify The Deeds Of The Flesh."](http://vacsf.org/articles/Mortify-the-Deeds-of-the-Flesh/) This article is not a rewrite, but another look at it from a different angle based on a different verse. It is inspired from a sermon I heard at a Summer camp based on Colossians 2:11-12. During the sermon, the speaker refered to R. C. Sproul's Coram Deo on the same verse. Interestingly, as I queried the world wide web to take the pulse of the general population in how they interpret these verses, R. C. Sproul's Coram Deo on Colossians 2:11-12 showed up as follows:
@@ -31,7 +31,7 @@ Several key concepts in this Coram Deo of R. C. Sproul need to be checked agains
 
 We know that we're sinners not because of the sinful things that we do, or the good things that we fail to do, but because of what comes from deep inside: our sin nature. Whether or not we commit any of these sins, we're sinners. Jesus said so himself: *"What defiles a person is not what goes into the mouth; it is what comes out of the mouth that defiles a person (Matthew 15:11)."* Then how can it be that our sin nature is "mortally wounded" yet still manages to produce sins? No, our Adamic nature will never be completely dead until we as believers put on the incorruptible (1 Corinthians 15:52-54). Until then, it's alive and well.
 
-Therefore, our Adamic nature is only mortally wounded in the sense that its sin no longer has the power to condemn us, and it lost its sting as we have been released from the law (Romans 7:6).
+Therefore, our Adamic nature is only mortally wounded in the sense that its sin no longer has the power to condemn us as we have been released from the law (Romans 7:6).
  
 ## Put sin to death
 

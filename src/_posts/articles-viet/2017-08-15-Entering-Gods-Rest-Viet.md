@@ -1,7 +1,7 @@
 ---
 title: "Vào Nơi An Nghỉ Chúa"
 
-excerpt: "Trước khi Chúa-Giê-su trút hơi thở cuối cùng trên thập tự giá, Ngài phán: &#8220;Mọi sự đã được trọn.&#8221; Cũng như Đức Chúa Trời đã nghỉ sau khi Ngài hoàn tất công cuộc sáng tạo trời đất, Chúa Giê-su cũng nghỉ sau khi Ngài hoàn tất chương trình cứu rỗi nhân loại. Ý Ngài là mọi người được vào nơi an nghỉ của Ngài, nhưng phần lớn các tín hữu không kinh nghiệm được sự an nghỉ đó, con đường theo Chúa của họ vẫn nặng trĩu với những gánh nặng khi họ cố tìm cách đạt được điều mà không những Chúa Giê-su đã làm trọn cho họ, mà chỉ Ngài mới có quyền năng để làm điều đó."
+excerpt: "Trước khi Chúa-Giê-su trút hơi thở cuối cùng trên thập tự giá, Ngài phán: <em>&#8220;Mọi sự đã được trọn.&#8221;</em> Cũng như Đức Chúa Trời đã nghỉ sau khi Ngài hoàn tất công cuộc sáng tạo trời đất, Chúa Giê-su cũng nghỉ sau khi Ngài hoàn tất chương trình cứu rỗi nhân loại. Ý Ngài là mọi người được vào nơi an nghỉ của Ngài, nhưng phần lớn các tín hữu không kinh nghiệm được sự an nghỉ đó, con đường theo Chúa của họ vẫn nặng trĩu với những gánh nặng khi họ cố tìm cách đạt được điều mà không những Chúa Giê-su đã làm trọn cho họ, mà chỉ Ngài mới có quyền năng để làm điều đó."
 modified: 2017-07-13T12:14:45-04:00
 image:
   teaser: entering-Gods-rest-teaser.jpg
