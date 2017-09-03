@@ -4,7 +4,7 @@ excerpt: "<em>&#8220;Anh em cũng chịu cắt bì trong Ngài, không phải ph
 modified: 2017-08-13T12:14:45-04:00
 image:
   teaser: putting-off-of-the-body-of-the-flesh-teaser.jpg
-tags: [flesh, circumcision, buried, faith, power, works] 
+tags: [xác-thịt, cắt-bì, chôn, đức-tin, quyền-năng, việc-làm] 
 featured: true
 comments: true
 ---
