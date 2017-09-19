@@ -1,0 +1,1 @@
+/drive_c/Users/nghin/Google Drive/Documents/vacsf.org posts/2017-09-14-Self-Denial-Cross-Follow-Jesus.md
