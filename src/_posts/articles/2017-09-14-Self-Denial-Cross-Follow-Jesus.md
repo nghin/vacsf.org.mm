@@ -37,7 +37,7 @@ This is just a continuation of the denial of self explained above. The cross req
 
 ## Following Jesus
 
-Once again, Jesus does not simply call men to become his disciples, but he calls them first to become children of God, citizens of his kingdom, to pass from death to life, or to put it simply to be saved. He is still preparing the world to receive his free gift of life through his death on the cross. Following him is the last thing you do. The work that we do as citizens of God's kingdom is just a byproduct, an inevitable consequence of us being attached to the Vine, having the full right to become children of God, and sealed by his Spirit.
+Once again, Jesus does not simply call men to become his disciples, but he calls them first to become children of God, citizens of his kingdom, to pass from death to life, or to put it simply to be saved. He is still preparing the world to receive his free gift of life through his death on the cross. Jesus was using the language of the world when he called them to follow him. Adherents of other religions follow their leaders while Christians enjoy the fellowship with Jesus making his abode in their hearts. He no longer calls those who trust in him servants, but friends and children of God. The work that we do as citizens of God's kingdom is just a byproduct, an inevitable consequence of us being attached to the Vine, having the full right to become children of God, and sealed by his Spirit.
 
 ## A new and living way
 
