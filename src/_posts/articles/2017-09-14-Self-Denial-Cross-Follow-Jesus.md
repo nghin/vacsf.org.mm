@@ -13,7 +13,7 @@ comments: true
 
 {% include toc.html %}
 
-<!-- a href="{{ site.url }}{% post_url 2017-08-15-Entering-Gods-Rest-Viet %}"><em>(Bấm vào đây để đọc tiếng Việt)</em></a -->
+<a href="{{ site.url }}{% post_url 2017-09-14-Self-Denial-Cross-Follow-Jesus-Viet %}"><em>(Bấm vào đây để đọc tiếng Việt)</em></a>
 
 <img alt src="{{ site.url }}/assets/images/deny-yourself-teaser.jpg" style="border: 1px solid #cccccc; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;">
 At first glance, the three aspects of what Jesus spoke in Matthew 16:24 appear to be achievable goals, and Christians set out to achieve these goals with a vengeance. A huge amount of communication is dedicated toward teaching Christians how to achieve a measure of success toward these goals. But is a measure of success good enough? For certainly Jesus was not speaking to those who were already in God's kingdom, but to the lost world of the requirements for entering it. He is posing an impossible standard that only he could achieve: to deny one's self, to bear the cross, and to follow in his footstep. This article will show that these are not challenges to see who qualifies for God's kingdom, but are stern ominous shouts from the One who is going to the cross: "Will you surrender?". We should not hear it with any less alarm than the terrifying scene around mount Sinai when the law was about to be delivered.
@@ -31,13 +31,19 @@ To what extent does Jesus ask you to deny yourself? Denying yourself of certain 
 
 Now why am I talking about death when the verse only talks about self denial? Because Jesus spoke these words as a condition for salvation, not discipleship. The New Covenant was not yet made available until Christ denied himself by enduring the cross. He was asking his listener though they did not know what he was alluding to: can you endure what I'm about to endure? But of course, this is just a rhetorical question, because your death on the cross will not yield the righteousness you need for an entrance into God's kingdom, as I had alluded to earlier.
 
+There is another aspect of self that no sinner can deny. It's their Adamic nature. No matter what amount of obedience or lawkeeping can rid them off the part of them that the apostle Paul referred to as he cried: *"Wretched man that I am! Who will rescue me from this <strong>body of death</strong>?"* It's the part that became ours when Adam and Eve lost eternal life in the garden of Eden. Self denial is a pipe dream, but it became a reality for us when we came to trust in Christ who died on our behalf.
+
+> For you have died and your life is hidden with Christ in God (Colossians 3:3).
+
+That is how you deny yourself, by the grace of God and by your faith in the One who God had sent to die for you.
+
 ## Take up your cross
 
 This is just a continuation of the denial of self explained above. The cross requires the one who carries it to end up at the point of death. It's not at all the kind of cross people generally think of, the cross of life's struggles, or of trials and tribulations. It's the cross to pay for someone's sin, and, as discussed earlier in the self denial section, no one is qualified to endure such cross except Jesus Christ. In short, can you endure a cross to the point of death?
 
 ## Following Jesus
 
-Once again, Jesus does not simply call men to become his disciples, but he calls them first to become children of God, citizens of his kingdom, to pass from death to life, or to put it simply to be saved. He is still preparing the world to receive his free gift of life through his death on the cross. Jesus was using the language of the world when he called them to follow him. Adherents of other religions follow their leaders while Christians enjoy the fellowship with Jesus making his abode in their hearts. He no longer calls those who trust in him servants, but friends and children of God. The work that we do as citizens of God's kingdom is just a byproduct, an inevitable consequence of us being attached to the Vine, having the full right to become children of God, and sealed by his Spirit.
+Once again, Jesus does not simply call men to become his disciples, but he calls them first to become children of God, citizens of his kingdom, to pass from death to life, or to put it simply to be saved. While he spoke Matthews 16:24, He was still preparing the world to receive his free gift of life through his death on the cross. Jesus was using the language of the world when he called them to follow him. Adherents of other religions follow their leaders while Christians enjoy the fellowship with Jesus making his abode in their hearts. He no longer calls those who trust in him servants, but friends and children of God. The work that we do as citizens of God's kingdom is just a byproduct, an inevitable consequence of us being attached to the Vine, having the full right to become children of God, and sealed by his Spirit.
 
 ## A new and living way
 
