@@ -13,7 +13,7 @@ comments: true
 
 {% include toc.html %}
 
-<a href="{{ site.url }}{% post_url 2017-09-14-Self-Denial-Cross-Follow-Jesus-Viet %}"><em>(Bấm vào đây để đọc tiếng Việt)</em></a>
+<a href="{{ site.url }}{% post_url 2017-09-21-Repentance-From-Dead-Works-Viet %}"><em>(Bấm vào đây để đọc tiếng Việt)</em></a>
 
 ## Repentance
 <img alt src="{{ site.url }}/assets/images/repentance-from-dead-works-teaser.jpg" style="border: 1px solid #cccccc; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;">
@@ -27,7 +27,7 @@ Overcoming sin is a lifetime effort. My decades of sermon listening both in chur
 
 So out of the desire to be more thorough in laying the groundwork for this article, I continued to survey the internet for more opinions on this topic of repentance. The more I searched, the heavier I felt, but the peculiar thing is, in as many exhortations as I found, no one gave a clear answer as to how a Christian can achieve reproducible results in a consistent manner. Let's consider this quote from J. I. Packer:
 
-> "Repentance means turning from <strong>as much as you know</strong> of your sin to give <strong>as much as you know</strong> of yourself to <strong>as much as you know</strong> of your God, and as our knowledge grows at these three points so our practice of repentance has to be enlarged."
+> "Repentance means turning from <strong>as much as you know</strong> of your sin to give <strong>as much as you know</strong> of yourself to <strong>as much as you know</strong> of your God, and as our knowledge grows at these three points so <strong>our practice of repentance has to be enlarged</strong>."
 
 As much as you know? How much is it that I know that can bring me to a state of resolution where there can be rest to my soul? I hurriedly closed all the browser tabs with searches on repentance as the more I searched, the more confused I became. There wasn't a single thing I could count on that I could do consistently to maintain my peace with God. There is though one silver lining in these internet searches, I was reminded of how far I've come since I came to Christ. The heaviness I felt, the great burden on my back much like that which was on Christian's back in John Bunyan's Pilgrim's Progress, was reminiscent of the years before I found peace with God. Such longing for peace, for self acceptance, for life's meaning. Why are these pillars of faith making people more confused instead of pointing them to a real solution? Or perhaps they do not know it for themselves?
 
@@ -71,12 +71,12 @@ The knowledge of good and evil ensures that every descendant of Adam and Eve is 
 
 Lastly, the problem Christians have is not that they sin and they love their sins, but *"For I do not do the good I want, but I do the very evil I do not want! (Romans 7:19)."* What Paul describes in Romans 7:19 is the common experience of genuine born again believers. They hate the evil things that they do. What Paul said is contrary to the volume of teaching we hear everyday.
 
-This is why all the teaching on this aspect is considered childish, elementary, and basic, by the Hebrews' author who seems to say: Please, no more basic stuff; there's no need to keep telling Christians of sins and repentance. They're wracked with guilt but don't know how to break free from the cycle of sin and repentance.
+This is why all the teaching on this aspect is considered childish, elementary, and basic, by the Hebrews' author who seems to say: Please, no more basic stuff; there's no need to keep telling Christians of sins and repentance. They're wracked with guilt but don't know how to break free from the cycle of sin and repentance. And to teach them that to break free from this cycle is to sin no more, then you're leading them to a dead end, because sin they will, one way or another.
 
 ## Have faith in God
-Though this article's title does not contain this part of the key verse, it might as well be tackled as part of the "elementary teaching" dismissed by the Hebrews' author. What that makes a Christian go to church, to turn on the radio tuned to Christian radio, buy a Christian book from a bookstore, is their faith in God.
+Though this article's title does not contain this part of the key verse, it might as well be tackled as part of the "elementary teaching" dismissed by the Hebrews' author, since what that makes a Christian go to church, to turn on the radio tuned to Christian radio, buy a Christian book from a bookstore, is their faith in God.
 
-It's entirely possible that their faith in God is like a bruised reed or a smoldering wick (Matthew 12:20), they should be built up in a manner different than constant exhortation that they should have faith in God, but the focus should be on the object of their faith, not in faith itself. The more they know the object of their faith, the stronger their faith will be. And we know what it is, the object of their faith, the Lord Jesus Christ and all the wonderful things he's accomplished for them, from the forgiveness of their sins to the assurance of their salvation to the full righteousness that he bestowed on them as children of God.
+It's entirely possible that their faith in God is like a bruised reed or a smoldering wick (Matthew 12:20), they should be built up in a manner different than constant exhortation that they should have faith in God, but the focus should be on the object of their faith, not in faith itself. The more they know the object of their faith, the stronger their faith will be. And we know what it is, the object of their faith, that is the Lord Jesus Christ and all the wonderful things he's accomplished for them, from the forgiveness of their sins to the assurance of their salvation to the full righteousness that he bestowed on them as children of God.
 
 Yes, focus on the object of their faith, not in faith itself.
 
@@ -88,7 +88,9 @@ Yes, focus on the object of their faith, not in faith itself.
 
 The elementary teachings keep Christians from maturing in their faith. Instead of fixing their eyes on Christ, they keep the believers fixated on themselves, their sins and the never-ending state of guilt expressed in repentance&mdash;of course, I'm not talking about the repentance that brought them to Christ, but about the repentance the average Christians equate with remorse, with feeling sorry for their sinful actions&mdash;.
 
-Live in this truth: *"their sins I will remember no longer."* If God had said so, and you believed it, then don't parade your sins before Him anymore.
+Finally, Hebrews 6:1 tells us to no longer build our faith on the foundation of *"repentance from dead works,"* which means to no longer make sins and repentance the focal point of our ministries, our sermons, our Sunday School studies, and many other means of teaching. Only then can we move on to maturity.
+
+Live in this truth, and teach it to your congregation: *"their sins I will remember no longer."* If God had said so, and you believed it, then don't parade your sins before Him anymore.
 
 {% include bible-study/bible-study-footer %}
 
