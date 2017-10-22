@@ -1,6 +1,6 @@
 ---
 title: "Work Out Your Own Salvation"
-excerpt: "Philippians 2:12 says &#8220;work out your own salvation with fear and trembling.&#8221; and Christians roll up their sleeves to get busy. And more than just getting busy, they do it with fear and trembling, too. This article will show that traditional interpretations of &#8220;work out&#8221; and &#8220;fear and trembling&#8221; are problematic and incongruous with the rest of Scriptures."
+excerpt: "Philippians 2:12 says <em>&#8220;work out your own salvation with fear and trembling&#8221;</em>, and Christians roll up their sleeves to get busy. And more than just getting busy, they do it with fear and trembling, too. This article will show that traditional interpretations of <em>&#8220;work out&#8221;</em> and <em>&#8220;fear and trembling&#8221;</em> are problematic and incongruous with the rest of Scriptures."
 modified: 2017-09-14T12:14:45-04:00
 image:
   teaser: work-out-your-own-salvation-teaser.jpg
@@ -13,7 +13,7 @@ comments: true
 
 {% include toc.html %}
 
-<!-- a href="{{ site.url }}{% post_url 2017-09-21-Repentance-From-Dead-Works-Viet %}"><em>(Bấm vào đây để đọc tiếng Việt)</em></a -->
+<a href="{{ site.url }}{% post_url 2017-10-12-Work-Out-Your-Own-Salvation-Viet %}"><em>(Bấm vào đây để đọc tiếng Việt)</em></a>
 
 ## Work out your own salvation
 <img alt src="{{ site.url }}/assets/images/work-out-your-own-salvation-teaser.jpg" style="border: 1px solid #cccccc; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;">
@@ -44,12 +44,12 @@ A New Covenant Christian no longer operates from the realm of the flesh, but fro
 
 However, when a New Covenant Christian still uses the law as his guide, he will always look to himself as the prime mover in all his actions. If he does what is expected of him, he gets the blessings, and conversely, if he does not, he stands a chance of losing out on his blessings. This mindset creates an environment where boasting and self promotion thrive.
 
-Therefore, Paul must have used the phrase "fear and trembling" as a contrast to the opposite attitude of pride, for the reason being *"it is God which worketh in you both to will and to do of his good pleasure."*  It is God, not you! So don't go and strut your stuff, don't brag about what good things you've done for God. Paul does not mean at all that the working out of our salvation involves any sense of duty, obedience, gratitude, reciprocation to what Jesus had done for us, or any other guilt producing motivation at all. He didn't need to because his audience the Philippians *"have always obeyed."* The danger they faced was not that they were lazy, but in the attitude of their heart involving only one thing: Are they relying on God's grace, or their own works, in their relationship with God? Do they know that it is God who works in them both *"to will and to do"*? 
+Therefore, Paul must have used the phrase *"fear and trembling"* as a contrast to the opposite attitude of pride, for the reason being *"it is God which worketh in you both to will and to do of his good pleasure."*  It is God, not you! So don't go and strut your stuff, don't brag about what good things you've done for God. Paul does not mean at all that the working out of our salvation involves any sense of duty, obedience, gratitude, reciprocation to what Jesus had done for us, or any other guilt producing motivation at all. He didn't need to because his audience the Philippians *"have always obeyed."* The danger they faced was not that they were lazy, but in the attitude of their heart involving only one thing: Are they relying on God's grace, or their own works, in their relationship with God? Do they know that it is God who works in them both *"to will and to do"*? 
 
-There is really no need for anyone to serve God in "fear and trembling," in the atmosphere expected under a ruthless taskmaster. Paul articulated strenuously in several epistles the case for our relating to God through grace only, not works. Paul is also the one who asks us to grow up and stop feeding on the basic teaching of repentance from dead works, or vice versa repentance from NOT doing good works. Therefore, far be it from him to preach "fear and trembling" in the literal sense.
+There is really no need for anyone to serve God in "fear and trembling," in the atmosphere expected under a ruthless taskmaster. Paul articulated strenuously in several epistles the case for our relating to God through grace only, not works. Paul is also the one who asks us to grow up and stop feeding on the basic teaching of repentance from dead works, or vice versa repentance from NOT doing good works (Hebrews 6:1-2). Therefore, far be it from him to preach "fear and trembling" in the literal sense.
 
 ## Working WHAT out?
-Most Christians assume the working out of our salvation involves only things pertaining to faith. Some examples are: going to church, bible study, revival camp, spiritual retreats, evangelistic outreach, preaching the gospel, etc. But did Jesus die to redeem us only for these things? Or he died to restore all the things that make us who we are? Our profession, hope, aspiration, fear, sorrow, pain, joy, weaknesses, strength, personality, ideosyncracies, and many things that made King David exclaim *"I praise you because I'm fearfully and wonderfully made"*? (Psalm 139:14)
+Most Christians assume the working out of our salvation involves only things pertaining to faith. Some examples are: going to church, bible study, revival camp, spiritual retreats, evangelistic outreach, preaching the gospel, etc. But did Jesus die to redeem us only for these things? Or he died to restore all the things that make us who we are? Our profession, hope, aspiration, fear, sorrow, pain, joy, weaknesses, strength, personality, ideosyncrasies, and many things that made King David exclaim *"I praise you because I'm fearfully and wonderfully made"* (Psalm 139:14).
 
 To work out your salvation is to live the life that God made you in the first place, but with a difference. You used to live in self pity, but now you're loved by God. You used to indulge in sinful activities to get temporary relief from pain but now, with hearts full of love from God, you're set free to know the difference. You used to live a life without meaning but now you know you have a special place in the heart of God and his eternal kingdom.
 
