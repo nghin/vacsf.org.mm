@@ -1,7 +1,7 @@
 ---
 title: "Xưng Công Bình Bởi Đức Tin, hay Việc Làm?"
 headline: "Is salvation by faith alone, or by faith plus works?"
-excerpt: "Is salvation by faith alone, or by faith plus works? Do we contribute our works along with our faith for salvation?"
+excerpt: "Sự cứu rỗi chỉ bởi đức tin mà thôi, hay bởi đức tin cộng với việc làm? Phải chăng chúng ta phải thêm việc làm vào đức tin để được cứu?"
 modified: 2016-11-25T12:14:45-04:00
 image: 
   teaser: dog-chasing-tail.jpg
@@ -9,6 +9,8 @@ tags: [luật-pháp, việc-làm, ân-điển, đức-tin]
 featured: false
 comments: true
 ---
+
+{{ page.excerpt | markdownify }}
 
 {% include toc.html %}
 {% include toc_spacer.html %}

@@ -1,6 +1,6 @@
 ---
 title: "Theo Gương Chúa Giê-su"
-excerpt: "Imitation of Christ &mdash; Thomas A. Kempis Can Man Really Imitate God?"
+excerpt: "Theo gương Đấng Christ (Thomas A. Kempis). Loài người có thể bắt chước Đức Chúa Trời?"
 modified: 2016-11-19T12:14:45-04:00
 image: 
   teaser: Imitating-Christ-teaser.jpg
@@ -8,6 +8,8 @@ tags: [thánh-linh, xác-thịt]
 featured: false
 comments: true
 ---
+
+{{ page.excerpt | markdownify }}
 
 CHƯƠNG I<br />
 <em>Về sự noi gương Chúa Giê-su, và sự chán ghét thế gian cùng những hư không của nó</em><br />

@@ -1,6 +1,6 @@
 ---
 title: "Luật Pháp của Đấng Christ"
-excerpt: "Carry one another's burdens, and in this way you will fulfill the law of Christ Galatians 6:2"
+excerpt: "<em>&#8220;Hãy mang lấy gánh nặng cho nhau, như vậy anh em sẽ làm trọn luật pháp của Ðấng Christ (Galatians 6:2)&#8221;</em>"
 modified: 2016-11-19T12:14:45-04:00
 image: 
   teaser: law-of-christ-teaser.png
@@ -8,6 +8,8 @@ tags: [ân-điển, luật-pháp, đức-tin, việc-làm]
 featured: false
 comments: true
 ---
+
+{{ page.excerpt | markdownify }}
 
 Phần đông đều nêu đoạn Kinh thánh Galatians 6:2 là định nghĩa của luật pháp của Đấng Christ:<em>"Hãy mang lấy gánh nặng cho nhau, như vậy anh em sẽ làm trọn luật pháp của Ðấng Christ."</em> Có người cũng nói đến những đoạn trong các sách phúc âm chẳng hạn như Matthew 22:36-40, là luật pháp của Đấng Christ:
 <em>"<sup>36</sup>Thưa thầy, trong luật pháp, điều răn nào là lớn hơn hết?  <sup>37</sup>Ðức Chúa Jêsus đáp rằng: Ngươi hãy hết lòng, hết linh hồn, hết ý mà yêu mến Chúa, là Ðức Chúa Trời ngươi.  <sup>38</sup>Ấy là điều răn thứ nhứt và lớn hơn hết.  <sup>39</sup>Còn điều răn thứ hai đây, cũng như vậy: Ngươi hãy yêu kẻ lân cận như mình.  <sup>40</sup>Hết thảy luật pháp và lời tiên tri đều bởi hai điều răn đó mà ra."</em> Bài viết này sẽ cho thấy tại sao lối nhìn đơn giản hóa về ý nghĩa và áp dụng của luật pháp của Đấng Christ, đặc biệt trong văn mạch của Galatians 6:2, không đúng với ý Chúa muốn truyền đạt trong Kinh thánh.

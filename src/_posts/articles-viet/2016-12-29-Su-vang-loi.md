@@ -1,7 +1,6 @@
 ---
 title: "Sự Vâng Phục"
-excerpt: "Trust and obey, for there’s no other way
-To be happy in Jesus, but to trust and obey."
+excerpt: "<em>&#8220;Tin cậy vâng lời, Nào nhờ cách gì trong đời, Muốn hưởng phước thiên thượng ai ơi! Hằng duy tin cậy vâng lời.&#8221;</em>"
 modified: 2016-11-19T12:14:45-04:00
 image: 
   teaser: Obedience-teaser.jpg
@@ -10,7 +9,7 @@ featured: false
 comments: true
 ---
 
-<em>"Tin cậy vâng lời, Nào nhờ cách gì trong đời, Muốn hưởng phước thiên thượng ai ơi! Hằng duy tin cậy vâng lời."</em>
+{{ page.excerpt | markdownify }}
 
 {% include toc.html %}
 
