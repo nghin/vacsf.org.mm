@@ -13,7 +13,7 @@ comments: true
 
 {% include toc.html %}
 
-<!-- a href="{{ site.url }}{% post_url 2017-10-12-Work-Out-Your-Own-Salvation-Viet %}"><em>(Bấm vào đây để đọc tiếng Việt)</em></a -->
+<a href="{{ site.url }}{% post_url 2017-11-05-What-Is-Good-Viet %}"><em>(Bấm vào đây để đọc tiếng Việt)</em></a>
 
 ## The assumption
 <img alt src="{{ site.url }}/assets/images/what-is-good-teaser.jpg" style="border: 1px solid #cccccc; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;">
@@ -25,9 +25,9 @@ Let us consider the main Scripture passage of this article.
 > <sup>16</sup> Now someone came up to him and said, Teacher, what good thing must I do to gain eternal life? <sup>17</sup> He said to him, **Why do you ask me about what is good? There is only one who is good**. But if you want to enter into life, keep the commandments. <sup>18</sup> Which ones? he asked. Jesus replied, Do not murder, do not commit adultery, do not steal, do not give false testimony, <sup>19</sup> honor your father and mother, and love your neighbor as yourself. <sup>20</sup> The young man said to him, I have wholeheartedly obeyed all these laws. What do I still lack? <sup>21</sup> Jesus said to him, **If you wish to be perfect**, go sell your possessions and give the money to the poor, and you will have treasure in heaven. Then come, follow me. <sup>22</sup> But when the young man heard this he went away sorrowful, for he was very rich.
 
 ## What must I do?
-The question, posed to Jesus by the rich young ruler in the parable, is representative of the thinking of virtually everyone when it comes to the matter of salvation, or eternal life. It's an inescapable fact. There are things to be done. There are rituals, practices, and countless methods people conjure up to perhaps satisfy some arbitrary requirements of whichever deities they worship. In my own cultural experience, though people may not possess any notion of eternal life, or any deity, they expect rewards and blessings for good deeds they've done in this life, and perhaps in the life beyond. All they need to do is to cross their fingers and do the right thing.
+The question, posed to Jesus by the rich young ruler in the passage, is representative of the thinking of virtually everyone when it comes to the matter of salvation, or eternal life. It's an inescapable fact. There are things to be done. There are rituals, practices, and countless methods people conjure up to perhaps satisfy some arbitrary requirements of whichever deities they worship. In my own cultural experience, though people may not possess any notion of eternal life, or any deity, they expect rewards and blessings for good deeds they've done in this life, and perhaps in the life beyond. All they need to do is to cross their fingers and do the right thing.
 
-The young ruler's question to Jesus is no exception, and likewise has two fundamental problems: 1) the assumption that works, some things they do, can get they into God's kingdom, and 2) the very reference to **good work** in the question. The apostle Paul addresses the first problem in most of his letters&mdash;salvation is by grace, not works&mdash;, while the error in the second problem is indirectly answered by Jesus and further confirmed throughout Scriptures, especially in Paul's letters.
+The young ruler's question to Jesus is no exception, and likewise has two fundamental problems: 1) the assumption that works, some things they do, can get them into God's kingdom, and 2) the very reference to **good work** in the question. The apostle Paul addresses the first problem in most of his letters&mdash;salvation is by grace, not works&mdash;, while the error in the second problem is indirectly answered by Jesus and further confirmed throughout Scriptures, especially in Paul's letters.
 
 ## Works and eternal life
 Works are good things all Christians should do. They give them a chance to work out their faith through gifts endowed from above, to feel a sense of personal significance as they participate in God's works toward His kingdom, plus many other benefits. But works contribute nothing toward our entering into the kingdom of God, and His righteousness. It's when these works are elevated as if they can make or break our relationship with God, they steal the glory of God.
@@ -35,11 +35,13 @@ Works are good things all Christians should do. They give them a chance to work 
 Ephesians 2:8-9 says we're saved by faith and not by works. Additionally, the works that we do are not something we come up with on our own, but are those that God had prepared for each and every one of His children according to His infinite wisdom: *"For we are his workmanship, having been created in Christ Jesus for good works that **God prepared beforehand** so we may do them (Ephesians 2:10)."*
 
 Hebrews 10:10 puts this in a different way:
+
 > By his will we have been made holy through the offering of the body of Jesus Christ once for all (Hebrews 10:10).
 
 To be made holy is to be set apart for God's kingdom, the very thing sought after by the rich young ruler in Matthew 19:16. It's not any works, even the best of good works, but the offering of the body of Christ that makes the young man holy.
 
 God clearly insists in Romans 11:6 that salvation can never be based on any works of man but by God, and He gives it freely to those who believe.
+
 > And if [*salvation is*] by grace, then it cannot be based on works; if it were, grace would no longer be grace (Romans 11:6).
 
 I can cite many more verses that will completely demolish any idea that people may enter God's kingdom through some works of their own, but these should suffice. However the problem with most Christians is not that they don't believe they're saved by grace, it's their utter dependence on works to maintain their relationship with God. They believe that the works that they do after they're saved will make them more holy, more perfect, until the day they meet God. They call it the sanctification process.
@@ -54,7 +56,7 @@ Works, those initiated and powered by the flesh, cannot get us in God's kingdom 
 
 The Galatians Christians also committed this egregious error such that the apostle Paul had to scold them: *"Are ye so foolish? having begun in the Spirit, are ye now made perfect by the flesh? (Galatians 3:3&mdash;KJV)"* There are never supposed to be any works in a Christian's life; works to earn salvation, works to earn God's favor. Works that are produced through the believers as a byproduct, an outworking of the indwelling Holy Spirit, is never an issue, unless it is paraded before them so much it becomes dead works of the flesh. 
 
-If faith is the only means through which you can get in God's kingdom, it alone is the only means for you to live as a child of God. And the works that God has prepared for each individual (Ephesians 2:8-9) is a different kind of work altogether, as God himself will see to it that they get done, *"for it is God who works in you **to will and to act** in order to fulfill his good purpose (Philippians 2:13&mdash;NIV)."* These works are gifts from God as He gives them to us along with His Son. These works are never a measure of our standing before Him, because if they are, who among us can judge what works are good enough?
+If faith is the only means through which you can get in God's kingdom, it alone is the only means for you to live as a child of God. And the works that God has prepared for each individual (Ephesians 2:10) is a different kind of work altogether, as God himself will see to it that they get done, *"for it is God who works in you **to will and to act** in order to fulfill his good purpose (Philippians 2:13&mdash;NIV)."* These works are gifts from God as He gives them to us along with His Son. These works are never a measure of our standing before Him, because if they are, who among us can judge what works are good enough?
 
 ## Only God is good
 Do you notice the peculiarity of Jesus' response to the young man's question? Don't you know only God is good? And how can you who are not good produce anything good?
@@ -63,7 +65,7 @@ Do you notice the peculiarity of Jesus' response to the young man's question? Do
 
 So it's not only that you cannot through works get to heaven, you don't even have what it takes to produce good works for that matter. The prophet Isaiah has this assessment of our condition: *"All of us have become like one who is unclean, and all our **righteous acts are like filthy rags**; we all shrivel up like a leaf, and like the wind our sins sweep us away (Isaiah 64:6)."*
 
-However, someone may argue that we have been saved so we we can do all things through Christ who strengthens us (Philippians 4:13). We can indeed do good and righteous things. But is it true, that we can achieve what that was previously impossible? That Jesus' retort to the young man no longer applies to us? That what He said, *"Only God is good,"* no longer holds true? Nothing is further from the truth. God is still the only One who is good, and we're still sinners saved by grace. We still suffer the consequences of the Fall. We still die, get sick, and sinful thoughts and actions still govern a large part of our lives. The only thing that is certain is our freedom from condemnation and God's promise of eternal life.
+However, someone may argue that we have been saved so we we can do all things through Christ who strengthens us (Philippians 4:13). But is it true, that we can achieve what that was previously impossible? That Jesus' retort to the young man no longer applies to us? That what He said, *"Only God is good,"* no longer holds true? Nothing is further from the truth. God is still the only One who is good, and we're still sinners saved by grace. We still suffer the consequences of the Fall. We still die, get sick, and sinful thoughts and actions still govern a large part of our lives. The only thing that is certain is our freedom from condemnation and God's promise of eternal life.
 
 To think otherwise is to set ourselves up for constant failures that ultimately will put doubts in our minds that we may not be saved at all, because if we are, why do we still carry our body of death all day long? (Romans 7:24)
 
@@ -74,7 +76,7 @@ The young man in our story attempts to do some good works to earn his place in h
 
 > “I am the vine, you are the branches. He who abides in Me, and I in him, bears much fruit; for without Me you can do nothing (John 15:5).
 
-To think otherwise is to put the cart before the horse. The bearing of fruit is a natural byproduct of our being attached to the vine. You cannot try to induce the fruit bearing, or good works, through force or threatening, no matter how subtle. It's the outworking of the vine, not the branches. And how do the branches abide in the vine? Through faith, the only instrument God allows Christians to abide in their Redeemer. Their fruit springs forth they know neither when nor how.
+To think otherwise is to put the cart before the horse. The bearing of fruit is a natural byproduct of our being attached to the vine. You cannot try to induce the fruit bearing, or good works, through force or threatening, no matter how subtle. It's the outworking of the vine, not the branches. And how do the branches abide in the vine? Through faith, the only instrument God allows Christians to abide in their Redeemer. Their fruit springs forth they know neither when nor how (John 3:8).
 
 > “<sup>26</sup>The kingdom of God is like someone who spreads seed on the ground. <sup>27</sup>He goes to sleep and gets up, night and day, and the seed sprouts and grows, though **he does not know how**. <sup>28</sup>**By itself the soil produces a crop**, first the stalk, then the head, then the full grain in the head. <sup>29</sup>And when the grain is ripe, he sends in the sickle because the harvest has come.” (Mark 4:26-29)
 
