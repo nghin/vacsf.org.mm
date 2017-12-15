@@ -6,7 +6,7 @@ modified: 2017-07-13T12:14:45-04:00
 image:
   teaser: entering-Gods-rest-teaser.jpg
 tags: [ân-điển, an-nghỉ, luật-pháp, việc-làm] 
-featured: true
+featured: false
 comments: true
 ---
 

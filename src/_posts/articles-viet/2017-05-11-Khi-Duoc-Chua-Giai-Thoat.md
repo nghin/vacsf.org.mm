@@ -5,7 +5,7 @@ modified: 2017-02-11T12:14:45-04:00
 image: 
   teaser: addiction-teaser.jpg
 tags: [ân-điển, yêu-thương, nghiện-ngập, việc-làm, chấp-nhận, tha-thứ]
-featured: true
+featured: false
 comments: true
 ---
 

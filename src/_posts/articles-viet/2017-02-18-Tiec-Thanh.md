@@ -5,7 +5,7 @@ modified: 2017-02-11T12:14:45-04:00
 image: 
   teaser: communion-teaser.jpg
 tags: [tiệc-thánh, việc-làm, vượt-qua]
-featured: true
+featured: false
 comments: true
 ---
 

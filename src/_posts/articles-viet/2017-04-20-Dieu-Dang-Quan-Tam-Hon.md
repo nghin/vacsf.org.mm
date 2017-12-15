@@ -4,7 +4,7 @@ modified: 2017-04-20T12:14:45-04:00
 image: 
   teaser: danger-teaser.jpg
 tags: [sai-lầm, chân-lý, lạm-dụng-ân-điển, ân-điển, việc-làm]
-featured: true
+featured: false
 comments: true
 ---
 

@@ -5,7 +5,7 @@ modified: 2017-02-11T12:14:45-04:00
 image: 
   teaser: forgiveness-teaser.jpg
 tags: [tha-thứ, ân-điển]
-featured: true
+featured: false
 comments: true
 teaser: "Bằng cách nào chúng ta có thể hướng dẫn một người mới tin Chúa, một người vừa đến với Ngài để nhận sự sống đời đời?  Bằng cách nào chúng ta có thể giúp họ trưởng thành trong đời sống đức tin?  Tôi tin rằng mục đích chính của họ phải là sự khám phá những điều Chúa <strong>ĐÃ</strong> làm cho họ, những gì Ngài <strong>ĐÃ</strong> ban cho họ, nhưng điều đáng buồn là đây không phải là quan niệm chính của đại đa số thành phần lãnh đạo đức tin."
 ---
