@@ -5,7 +5,7 @@ modified: 2017-09-14T12:14:45-04:00
 image:
   teaser: deny-yourself-teaser.jpg
 tags: [self-denial, cross, follow] 
-featured: true
+featured: false
 comments: true
 ---
  

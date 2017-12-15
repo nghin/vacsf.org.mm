@@ -5,7 +5,7 @@ modified: 2017-08-15T12:14:45-04:00
 image:
   teaser: entering-Gods-rest-teaser.jpg
 tags: [grace, rest, law, works] 
-featured: true
+featured: false
 comments: true
 ---
 

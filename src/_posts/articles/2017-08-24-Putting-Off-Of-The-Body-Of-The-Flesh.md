@@ -5,7 +5,7 @@ modified: 2017-08-13T12:14:45-04:00
 image:
   teaser: putting-off-of-the-body-of-the-flesh-teaser.jpg
 tags: [flesh, circumcision, buried, faith, power, works] 
-featured: true
+featured: false
 comments: true
 ---
 

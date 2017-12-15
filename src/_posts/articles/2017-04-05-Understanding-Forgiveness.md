@@ -5,7 +5,7 @@ modified: 2017-02-11T12:14:45-04:00
 image: 
   teaser: forgiveness-teaser.jpg
 tags: [forgiveness, grace]
-featured: true
+featured: false
 comments: true
 teaser: "How do we disciple a new believer, one who first discovered that Jesus is their messiah and had come to receive the free gift of eternal life? How do we help them grow and mature? I believe that it should be their goal to discover what Jesus had <u><em>already</em></u> done for them, what he had <u><em>already</em></u> given to them, but unfortunately this is not the view point of the majority of Christian leaders."
 ---

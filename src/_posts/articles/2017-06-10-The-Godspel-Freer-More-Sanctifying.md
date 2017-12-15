@@ -5,7 +5,7 @@ modified: 2017-06-11T12:14:45-04:00
 image: 
   teaser: free-gospel-teaser.jpg
 tags: [truth, interpretation, translation, sin, death]
-featured: true
+featured: false
 comments: true
 ---
 

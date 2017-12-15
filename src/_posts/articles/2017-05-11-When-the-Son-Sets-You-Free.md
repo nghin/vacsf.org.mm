@@ -5,7 +5,7 @@ modified: 2017-02-11T12:14:45-04:00
 image: 
   teaser: addiction-teaser.jpg
 tags: [grace, love, addiction, works, acceptance, forgiveness]
-featured: true
+featured: false
 comments: true
 ---
 
