@@ -1,6 +1,6 @@
 ---
 title: "The Narrow Path"
-excerpt: "<sup>13</sup>Enter through the narrow gate. For wide is the gate and broad is the road that leads to destruction, and many enter through it. <sup>14</sup>But small is the gate and narrow the road that leads to life, and only a few find it (Matthew 7:13-14)."
+excerpt: "Most Christians interprete the narrow path spoken by Jesus to be the path which requires self sacrifices, the renouncing of personal possessions or pleasure, as opposed to the wide path which suggests a life of ease and worldly pursuit. No, it does not mean that at all."
 modified: 2016-11-19T12:14:45-04:00
 image: 
   teaser: The_narrow_way-teaser.jpg
