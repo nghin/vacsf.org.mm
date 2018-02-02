@@ -5,7 +5,7 @@ modified: 2017-09-14T12:14:45-04:00
 image:
   teaser: repentance-from-dead-works-teaser.jpg
 tags: [repentance, faith, maturity] 
-featured: true
+featured: false
 comments: true
 ---
  
