@@ -69,7 +69,7 @@ Just as you were when you first knelt before your Redeemer, so are you now as yo
 
 To you who sings Change My Heart Oh God without seeing its incompatibility with your new identity in Christ, perhaps you're basing the assurance of your salvation upon a shaky foundation. You're basing it upon yourself, your state of mind, or heart, your ability, or whatever else that comes from your very self. No, you should not do that, but instead you should base it on Christ and what he accomplished on the cross.
 
-The song show a believer who is obsessed with himself, one who engages in morbid introspection. But we are admonished by not just the Hebrews writer (Hebrews 12:2), but by Jesus himself that we should fix our eyes on him, as he says:
+The song reflects a believer who is obsessed with himself, one who engages in morbid introspection. But we are admonished by not just the Hebrews writer (Hebrews 12:2), but by Jesus himself that we should fix our eyes on him, as he says:
 
 > Just as Moses lifted up the snake in the wilderness, so the Son of Man must be lifted up, that everyone who believes in Him may have eternal life (John 3:14-15).
 
