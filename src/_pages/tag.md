@@ -3,7 +3,7 @@ layout: archive
 permalink: /tag/
 title: "Tag Index"
 modified: 2016-02-08T16:17:58-05:00
-excerpt: "An archive of posts sorted by tag frequency."
+excerpt: "An archive of posts sorted by tag in alphabetical order. The tag frequency, the number to its right, shows how many articles have such tag. Click on the tag name to go to a list of related articles."
 share: false
 ---
 
