@@ -66,6 +66,7 @@ input[type="search"] {
 input[type="checkbox"], input[type="radio"] {
   display: inline;
   margin-right: (0px + $doc-line-height) / 4;
+  width: initial;
 }
 
 input[type="file"] {
@@ -79,9 +80,11 @@ select {
 }
 
 form button,
+form btn,
 input[type="submit"] {
   appearance: none;
   cursor: pointer;
+  margin: 1em 0;
   user-select: none;
   vertical-align: middle;
   white-space: nowrap;
@@ -93,6 +96,10 @@ form {
     padding-left: 0;
     list-style-type: none;
   }
+}
+
+.form-group {
+  margin-bottom: 0.5rem;
 }
 
 /* required */

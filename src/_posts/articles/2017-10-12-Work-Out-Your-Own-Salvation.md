@@ -5,7 +5,7 @@ modified: 2017-09-14T12:14:45-04:00
 image:
   teaser: work-out-your-own-salvation-teaser.jpg
 tags: [work, faith, grace, humility] 
-featured: true
+featured: false
 comments: true
 ---
  

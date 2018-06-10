@@ -13,7 +13,7 @@ title_separator  : "×"
 
 repository       : "nghin/vacsf.org.mm"
 url              : "http://vacsf.org"
-# url              : "https://nghin.github.io/vacsf.org.mm.deploy"
+# url              : "https://localhost:4000"
 
 
 # Site owner
@@ -41,25 +41,32 @@ owner:
     verify       : ""
   bio            : "Faith is the substance of things hoped for."
   avatar         : "avatar.jpg" # 160x160 px image for author byline
-staticman:
-  allowedFields  : ['name', 'email', 'url', 'message']
-  branch         : "master"
-  commitMessage  : "New comment."
-  filename       : comment-{@timestamp}
-  format         : "yml"
-  moderation     : true
-  path           : "src/_data/comments/{options.slug}"
-  requiredFields : ['name', 'email', 'message']
-  transforms:
-    email        : "md5"
-  generatedFields:
-    date:
-      type       : "date"
-      options:
-        format   : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 
+# Staticman comments (full configuration in staticman.yml)
+comments:
+  provider       : "staticman_v2"
+# staticman:
+#   branch         : "master"
+#   allowedFields  : ['name', 'email', 'url', 'message']
+#   commitMessage  : "New comment."
+#   filename       : comment-{@timestamp}
+#   format         : "yml"
+#   moderation     : true
+#   path           : "src/_data/comments/{options.slug}"
+#   requiredFields : ['name', 'email', 'message']
+#   transforms:
+#     email        : "md5"
+#   generatedFields:
+#     date:
+#       type       : "date"
+#       options:
+#         format   : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 
 # Jekyll configuration
+
+reCaptcha:
+ siteKey: "6Le7lFsUAAAAAIMmLRcw8jdQtxmCGoMepkzmQx4d"
+ secret: "MrKunsAVrlVOoUJnwEwI7zjRcuNbyRuTtHlIMNbHHHASP952RITgZf5+eosPpxBpc+djk8dKgMkTP2Rvu+NE7eHcwQJWULkAn6dSSUNnWajn0iK3GZZKHqfYnRq1xZERkANMvhSUqthfkblI3MKQdWZgvgtMECrqIvEm2clGpM4="
 
 permalink        : /:categories/:title/
 lsi              : true
@@ -112,7 +119,6 @@ gems:
   - jemoji
   - jekyll-paginate
   - jekyll-paginate-multiple
-
 
 # Collections
 

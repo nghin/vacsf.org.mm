@@ -23,36 +23,46 @@
       <!-- Start new comment form -->
       <h3 class="tile__header">Leave a Comment</h3>
       <p class="instruct">Your email address will not be published. Required fields are marked <span class="required">*</span></p>
-      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v1/entry/{{ site.repository }}/{{ site.staticman.branch }}">
-        <fieldset>
-          <label for="comment-form-message">Comment<small class="required">*</small> <small>(<a href="https://daringfireball.net/projects/markdown/">Markdown</a> is supported)</small></label>
-          <textarea type="text" rows="3" id="comment-form-message" name="fields[message]" tabindex="1"></textarea>
-        </fieldset>
-        <fieldset>
-          <label for="comment-form-name">Name<small class="required">*</small></label>
-          <input type="text" id="comment-form-name" name="fields[name]" tabindex="2" />
-        </fieldset>
-        <fieldset>
-          <label for="comment-form-email">Email address<small class="required">*</small></label>
-          <input type="email" id="comment-form-email" name="fields[email]" tabindex="3" />
-        </fieldset>
-        <fieldset>
-          <label for="comment-form-url">Website <small>(optional)</small></label>
-          <input type="url" id="comment-form-url" name="fields[url]" tabindex="4"/>
-        </fieldset>
-        <fieldset class="hidden" style="display:none;">
-          <input type="hidden" name="options[slug]" value="{{ page.slug }}">
-          <label for="comment-form-location">Not used. Leave blank if you are a human.</label>
-          <input type="text" id="comment-form-location" name="fields[hidden]" autocomplete="off"/>
-        </fieldset>
-        <!-- Start comment form alert messaging -->
-        <p class="hidden js-notice">
-          <span class="js-notice-text"></span>
-        </p>
-        <!-- End comment form alert messaging -->
-        <fieldset>
-          <button type="submit" id="comment-form-submit" tabindex="5" class="btn btn--large">Submit Comment</button>
-        </fieldset>
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/{{ site.repository }}/{{ site.staticman.branch }}/comments">
+	<div class="form-group">
+	  <label class="sr-only" for="comment-form-message"><strong>Comment</strong> <small>(<a href="https://kramdown.gettalong.org/quickref.html">Markdown</a> is allowed)</small></label>
+	  <textarea type="text" rows="6" id="comment-form-message" name="fields[message]" required spellcheck="true" placeholder="Comment (Markdown is allowed)"></textarea>
+	</div>
+	<div class="form-group">
+	  <label class="sr-only" for="comment-form-name"><strong>Name</strong></label>
+	  <input type="text" id="comment-form-name" name="fields[name]" required spellcheck="false" placeholder="Name">
+	</div>
+	<div class="form-group">
+	  <label class="sr-only" for="comment-form-email"><strong>Email address</strong> <small>(used for <a href="http://gravatar.com">Gravatar</a> image and reply notifications)</small></label>
+	  <input type="email" id="comment-form-email" name="fields[email]" required spellcheck="false" placeholder="Email address (used for Gravatar image)">
+	</div>
+	<div class="form-group">
+	  <label class="sr-only" for="comment-form-url"><strong>Website</strong> <small>(optional)</small></label>
+	  <input type="url" id="comment-form-url" name="fields[url]" placeholder="Website (optional)">
+	</div>
+	<div class="form-group hidden" style="display: none;">
+          <input type="hidden" name="options[origin]" value="{{ page.url | relative_url }}">
+          <input type="hidden" name="options[parent]" value="{{ page.url | relative_url }}">
+          <input type="hidden" id="comment-replying-to" name="fields[replying_to]" value="">
+          <input type="hidden" id="comment-post-id" name="options[slug]" value="{{ page.slug }}">
+<!--
+          <input type="hidden" name="options[reCaptcha][siteKey]" value="{{ site.reCaptcha.siteKey }}">
+          <input type="hidden" name="options[reCaptcha][secret]" value="{{ site.reCaptcha.secret }}">
+-->
+	</div>
+	<!-- Start comment form alert messaging -->
+	<p class="hidden js-notice">
+	  <span class="js-notice-text"></span>
+	</p>
+	<!-- End comment form alert messaging -->
+	<div class="form-group">
+	  <!-- div class="g-recaptcha" data-sitekey="{{ site.reCaptcha.siteKey }}"></div -->
+	  <label class="comment-reply-notifications" for="comment-form-reply">
+	  <input type="checkbox" id="comment-form-reply" name="options[subscribe]" value="email">
+	    Notify me of replies by email.
+	  </label>
+	  <button type="submit" id="comment-form-submit" class="btn">Send Comment</button>
+	</div>
       </form>
       <!-- End new comment form -->
       {% else %}
