@@ -16,7 +16,7 @@ comments: true
 
 <!-- a href="{{ site.url }}{% post_url 2017-10-12-Work-Out-Your-Own-Salvation-Viet %}"><em>(Bấm vào đây để đọc tiếng Việt)</em></a -->
 
-## The knowledge of good and evil
+## Stuck in the old way
 <img alt src="{{ site.url }}/assets/images/old-vs-new.jpg" style="border: 1px solid #cccccc; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;">
 Most Christians relate to God in the same way the people of Israel did under the Old Covenant. While the Israelites offered bulls and goats or other sacrifices for their sins, the Christians offer apologies, acts of penance, myriad forms of pious deeds, in their place. Little did they know, or rather if they read the Bible and understand it they should already know, that these acts are completely worthless toward their attempt to draw near to God.
 
