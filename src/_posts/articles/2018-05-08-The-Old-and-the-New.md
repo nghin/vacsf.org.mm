@@ -20,6 +20,7 @@ comments: true
 <img alt src="{{ site.url }}/assets/images/old-vs-new.jpg" style="border: 1px solid #cccccc; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;">
 Most Christians relate to God in the same way the people of Israel did under the Old Covenant. While the Israelites offered bulls and goats or other sacrifices for their sins, the Christians offer apologies, acts of penance, myriad forms of pious deeds, in their place. Little did they know, or rather if they read the Bible and understand it they should already know, that these acts are completely worthless toward their attempt to draw near to God.
 
+## Hebrews 10:1-20
 > For the law possesses a shadow of the good things to come but not the reality itself, and is therefore <u>completely unable</u>, by the same sacrifices offered continually, year after year, <u>to perfect</u> those who come to worship. (Hebrews 10:1)
 
 The sacrifices, the apologies, the acknowledgement of guilt, the self denial, the harsh treatment of self (Colossians 2:23), cannot make them more acceptable to God. Yet God does require perfection of those who want to bathe themselves in his glory (Matthew 5:48).
@@ -54,6 +55,7 @@ But Jesus came to give people a new way to relate to Him, a way that can truly m
 
 This has been an exposition on Hebrews 10:1-20, which was inspired by the following quote of Augustin. The reader would do well to understand the contrast between the new and the old covenants referenced in this quote:
 
+## Augustine on Old vs New
 > ‘I beg of you, however, carefully to observe, as far as you can, what I am endeavouring to prove with so much effort.  When the prophet promised a new covenant, **not according to the covenant which had been formerly made with the people of Israel** **when liberated from Egypt**, he said nothing about a change in the sacrifices or any sacred ordinances, although such change, too, was without doubt to follow, as we see in fact that it did follow, even as the same prophetic scripture testifies in many other passages; **but he simply called attention to THIS difference, NAMELY, that God would impress His laws on the MIND of those who belonged to this (New) covenant, and would write them in their HEARTS**, (Jer 31:32-33) whence the apostle drew his conclusion**,—“not with ink, but with the Spirit of the living God; not in tables of stone, but in fleshy tables of the heart;”** (2 Cor 3:3).  **It is therefore apparent what difference there is between the old covenant and the new**,—that in the former the law is written on tables, while in the latter on hearts; **so that what in the one alarms from without, in the other delights from within;**  **in the former, man becomes a transgressor through the letter that kills, in the other, a lover through the life-giving spirit.’** 
 
 {% include bible-study/bible-study-footer %}
