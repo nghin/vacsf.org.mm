@@ -20,6 +20,8 @@ comments: true
 <img alt src="{{ site.url }}/assets/images/old-vs-new.jpg" style="border: 1px solid #cccccc; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;">
 Most Christians relate to God in the same way the people of Israel did under the Old Covenant. While the Israelites offered bulls and goats or other sacrifices for their sins, the Christians offer apologies, acts of penance, myriad forms of pious deeds, in their place. Little did they know, or rather if they read the Bible and understand it they should already know, that these acts are completely worthless toward their attempt to draw near to God.
 
+In the [Parable of the Net](http://vacsf.org/parable/The-Net), Jesus spoke of the a house owner who brought out new and old things from his treasure. Though Jesus did not elaborate on what the owner was going to do with them, we can safely deduce from the first two examples in this parable in which bad fish were discarded and wicked people were thrown into the fiery furnace, that the house owner would discard the old and keep the new. The theme of the abolishing of the old while ushering in the new is continued in force in the Hebrews passage we're studying here.
+
 ## Hebrews 10:1-20
 > For the law possesses a shadow of the good things to come but not the reality itself, and is therefore <u>completely unable</u>, by the same sacrifices offered continually, year after year, <u>to perfect</u> those who come to worship. (Hebrews 10:1)
 
