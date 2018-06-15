@@ -4,7 +4,7 @@ excerpt: "Ít người tin Chúa biết rằng có một giao ước cũ và m�
 modified: 2018-05-14T12:14:45-04:00
 image:
   teaser: old-vs-new.jpg
-tags: [covenant, law, grace, salvation, sanctification, righteousness, sacrifices, offerings, worship, devotion] 
+tags: [giao-ước, luật-pháp, ân-điển, cứu-rỗi, nên-thánh, công-bình, hy-sinh, dâng-hiến, thờ-phượng, tin-kính] 
 featured: true
 comments: true
 
