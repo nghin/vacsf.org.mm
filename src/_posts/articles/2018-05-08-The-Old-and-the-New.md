@@ -14,7 +14,7 @@ comments: true
 
 {% include toc.html %}
 
-<!-- a href="{{ site.url }}{% post_url 2017-10-12-Work-Out-Your-Own-Salvation-Viet %}"><em>(Bấm vào đây để đọc tiếng Việt)</em></a -->
+<a href="{{ site.url }}{% post_url 2018-05-08-The-Old-and-the-New-Viet %}"><em>(Bấm vào đây để đọc tiếng Việt)</em></a>
 
 ## Stuck in the old way
 <img alt src="{{ site.url }}/assets/images/old-vs-new.jpg" style="border: 1px solid #cccccc; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;">
