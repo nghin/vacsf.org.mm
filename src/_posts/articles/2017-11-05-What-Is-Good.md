@@ -5,7 +5,7 @@ modified: 2017-09-14T12:14:45-04:00
 image:
   teaser: what-is-good-teaser.jpg
 tags: [work, faith, grace, righteousness] 
-featured: true
+featured: false
 comments: true
 ---
  
