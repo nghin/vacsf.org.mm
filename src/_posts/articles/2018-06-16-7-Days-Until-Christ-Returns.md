@@ -40,17 +40,19 @@ Now back to the topic from which this article was prompted to be written. The au
 
 ## Servanthood
 
-The author expounds on the servanthood attitude of believers, but is there really a need to try to convince the reader that it's a good thing to do everything possible to make the most of our lives to serve God through the serving others while still here on earth? A life of service brings satisfaction and a sense of joy that accompanies every good work performed. Most believers, and even devotees of other religions, know that to be true and does not need to be convinced of this very basic element of common sense. Furthermore, the prophet Jeremiah conveyed to us directly from our God that he would no longer guide them from letters written in stone tablets, but directly impress his law on our hearts through the inner workings of the Holy Spirit (Jeremiah 31:32-33).
+The author expounds on the servanthood attitude of believers, which is without doubt a virtue fitting for anyone who calls on the name of Christ. However, let us recall the context of this writing. The author puts us in the hypothetical 7 days before Christ returns which puts us in a more urgent state than normal. With only 7 days left, is servanthood likely among the most urgent thing to take care of? I'd venture not. Servanthood is more like a lifestyle, a pattern of living that characterizes a Christian's life journey whether he has seven days left or not. It's a fruit of a life born of the Spirit of God. But why stop at servanthood? There is forgiveness, compassion, humility, a giving heart, making amends, bible study, visiting the sick, and myriad other things high on the list of virtues Christians aspire to develop especially during these short 7 days.
 
-A servanthood attitude of the believer is no exception. It's the inner working of the Holy Spirit to advance his kingdom. It's not a condition for rewards or punishments but a fruit guaranteed by Christ as he promised that those who are in him will bear much fruit. And that fruit includes a servanthood attitude. Constant reminder of  the *"should's"* or *"do's"*, or their opposites, will probably do more harm than good. The God of the New Covenant will do no such things as he moves his subjects from within. All the extraneous exhortations come from without, and if they do spur the believers towards any action, they can only produce *"fruit for death (Romans 7:5)"* because they become a law to them. They focus the eyes of the believers upon the strength of their flesh instead of their Redeemer.
+Can a Christian realistically choose one most important thing he can do during the seven short days to make him more ready to meet his Lord? For the sake of argument, let's just say we go easy and allow the Christian to pick only one most important thing on his list to accomplish on these seven days, and let's say it's servanthood.
 
-In this mindset, a doubt of their salvation will inevitably ensue as the believers will not know how much work they need to perform to meet certain arbitrary requirements.
+What is the possibility that this Christian finds exactly a perfect opportunity to serve someone during this time? What is the likelyhood he will find something that has eluded him all the years before this hypothetical seven days? And lastly, will it make him more ready than he'd ever been? The answer to all these questions is a resounding NO. Christians have been doing this since the time of the book of Acts. They keep looking for something that makes them more on fire for God, something that magically transform their spiritual life. But there is no such thing, as everything ever proposed by someone has been proposed by someone else before, and nothing ever brought them closer to their goal. Servanthood, a nice idea, but as vague and as unmeasurable as any other lofty ideals.
 
 ## The talents
 
-Contrary to the exhortation of the 7-Days author, the parable of the talents is not about *"recompense for the deeds done while in the flesh,"* or about rewards or the lack thereof. It's about salvation, who will be saved and who will not be. The evidence for this is in the last verse of this parable: *"As for this worthless slave, throw him into the outer darkness, where there will be weeping and gnashing of teeth (Matthew 25:30)."* God does not call his sanctified saint *"worthless slave"* and he will not cast them into outer darkness.
+There is a major problem with using the parable of the talents to prepare Christians to meet God because it is not about *"recompense for the deeds done while in the flesh,"* or about rewards or the lack thereof. It's about salvation, who will be saved and who will not be. The evidence for this is in the last verse of this parable: *"As for this worthless slave, throw him into the outer darkness, where there will be weeping and gnashing of teeth (Matthew 25:30)."* God does not call his sanctified saint *"worthless slave"* and he will not cast them into outer darkness.
 
 Additionally, our Lord God is nothing like the slave owner in this parable. He never reaps where he does not sow. And not only does he sow, he sows the amazing seed of the gospel: his only begotten Son.
+
+Therefore, when this parable is applied indiscrimately to Christians, it cannot help but put them in the mindset of unsaved people, instead of allowing them to work out their salvation as children of God, it brings them back to the place where they're still alienated from God and had to work to earn their salvation.
 
 ## Faulty application
 
@@ -61,6 +63,12 @@ Beyond the doctrinally erroneous applications of the servanthood exhortation and
 Our faith in God, our hope of salvation, must be infinitely more certain than what is put forth in the *"7 Days Until Christ Returns."*
 
 > Now faith is the substance of things hoped for, the evidence of things not seen. (Hebrews 11:1)
+
+## False premise
+
+Can a Christian live the rest of his life as if each day is one of the last seven days before Christ returns?
+
+The sermon, or the book, might be able to spur the believers to actions for maybe all the seven days, but the self imposed sense of urgency cannot realistically last for any long stretch of time or burnout will set in, and the brief experiment will prove itself to be another failed attempt in moving one on a higher spiritual plane.
 
 ## The once for all perfection
 
@@ -76,11 +84,25 @@ And if God graciously gives you all things along with his Son, will he be stingy
 
 > *You who are trying to be justified by the law have been alienated from Christ; you have fallen away from grace (Galatians_5:4)*
 
+## Recompense
+
+Before reaching the conclusion of this article, let us recall the quote of the well known author who refered to 2 Corinthians 5:10 to use in the same vein of thought as the author who erroneously quotes the parable of the talent to keep Christians on their toes as they wait for their Lord's return. In the same manner as the misapplication of the parable of the talent, the Corinthians verse was also grossly misapplied to the detriment of anyone who subscribes to it. 
+
+If the context of 2 Corinthians 5:10 is used, we'd find that the recompense is not meant for Christians as rewards and punishments for actions they perform while in the flesh, but only as the outcome of one of the two choices one makes concerning Christ. The verse that follows helps explain why this is the case:
+
+>  Therefore, because we know the fear of the Lord, we try to persuade people (2 Corinthians 5:11) 
+
+Paul was talking about a recompense before the judgement seat of Christ where the choice to believe in him leads to life while the choice of not believing leads to death. Therefore, in verse 11, Paul was conveying a message of reconciliation to his audience. He was not at all talking about rewards or the lack there of. The author of 7 Days, though tried to assure his audience that their salvation is secure, by presenting the parable of the talents or 2 Corinthians 5:10 in this manner, puts them in the same footing with unbelievers where the deprivation of reward is equally alarming as the danger of alienated from God. This explains why those who subscribe to this belief system do not have any assurance of their salvation.
+
 ## In conclusion
 
 The Christians do not live a life of working toward rewards, but of waiting for the day they receive their ***inheritance***. Rewards are unknown until they are given to their recipients, but an inheritance is known, though sealed as a promise, or a guarantee, and to be received in full just as we read in Romans 8:32.
 
 What rewards can match the wonderful parts of our inheritance in Christ? Consider these: the indwelling Holy Spirit as a deposit guaranteeing our inheritance (Ephesians 1:11-14), the forgiveness of sins (Colossians 1:14), our sanctification and justification (1 Corinthians 6:11), Christ as our advocate (1 John 2:1), and every wonderful things included in Christ (Romans 8:32). 
+
+Last but not least, exhortations such as 7-Days makes a normal Christian life abnormal, it replaces contentment with dissatisfaction, it takes away thanksgiving for what God has given and replace it with yearning for what seems to be greater blessings enjoyed by others.
+
+In the parable of the <a href="{{ site.url }}{% post_url 2017-02-09-Parable-Ten-Virgins %}"><em>Ten Virgins</em></a>, all ten virgins, both the wise and the foolish, fell asleep while waiting for the bridegroom who was a long time in coming. There was no indication of any difference in lifestyle, activities, or performance, between the wise and the foolish virgins, except one thing: the oil the virgins should take with them before they embark on their journey. That was the only thing that counts. That was how they should prepare to meet their Lord, for neither servanthood nor talents would get them the oil they needed.
 
 ### Notes
 
@@ -93,4 +115,7 @@ eyJoaXN0b3J5IjpbMTk3MzY1NDYzNywtODgzNDM4MjI5LDE5MD
 Q4NjA0ODYsLTM4MTU1MDEwMSwtOTUzNDA3MDAyLDEyMjUwOTAy
 MzcsLTMyNjgyOTgzNiwxMjI1MDkwMjM3LC0zMjY4Mjk4MzYsMT
 IyNTA5MDIzNywxODYxNTUyMTY5XX0=
+-->
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTk0NTg5MjkxN119
 -->
