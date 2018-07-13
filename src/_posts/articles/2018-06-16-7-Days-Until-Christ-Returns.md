@@ -18,7 +18,7 @@ comments: true
 {% include toc.html %}
 
 
-<!-- a href="{{ site.url }}{% post_url 2018-05-08-The-Old-and-the-New-Viet %}"><em>(Bấm vào đây để đọc tiếng Việt)</em></a -->
+<a href="{{ site.url }}{% post_url 2018-06-16-7-Days-Until-Christ-Returns-Viet %}"><em>(Bấm vào đây để đọc tiếng Việt)</em></a>
 
 
 ## The action guide
