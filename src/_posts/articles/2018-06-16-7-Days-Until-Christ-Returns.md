@@ -92,7 +92,7 @@ If the context of 2 Corinthians 5:10 is used, we'd find that the recompense is n
 
 >  Therefore, because we know the fear of the Lord, we try to persuade people (2 Corinthians 5:11) 
 
-Paul was talking about a recompense before the judgement seat of Christ where the choice to believe in him leads to life while the choice of not believing leads to death. Therefore, in verse 11, Paul was conveying a message of reconciliation to his audience. He was not at all talking about rewards or the lack there of. The author of 7 Days, though tried to assure his audience that their salvation is secure, by presenting the parable of the talents or 2 Corinthians 5:10 in this manner, puts them in the same footing with unbelievers where the deprivation of reward is equally alarming as the danger of alienated from God. This explains why those who subscribe to this belief system do not have any assurance of their salvation.
+Paul was talking about a recompense before the judgement seat of Christ where the choice to believe in him leads to life while the choice of not believing leads to death. Therefore, in verse 11, Paul was conveying a message of reconciliation to his audience. He was not at all talking about rewards or the lack there of. The author of 7 Days, though tried to assure his audience that their salvation is secure, by presenting the parable of the talents or 2 Corinthians 5:10 in this manner, puts them in the same footing with unbelievers where the deprivation of reward is equally alarming as the danger of being alienated from God. This explains why those who subscribe to this belief system do not have any assurance of their salvation.
 
 ## In conclusion
 
