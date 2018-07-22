@@ -4,7 +4,7 @@ excerpt: "Một nhà giải kinh viết sách với tựa đề được mượn
 modified: 2018-06-22T12:14:45-04:00
 image:
   teaser: 7-days-teaser.jpg
-tags: [cứu-rỗi, sẵn-sàng, đức-tin, assurance, condemnation] 
+tags: [cứu-rỗi, sẵn-sàng, đức-tin, đoán-phạt] 
 featured: true
 comments: true
 
