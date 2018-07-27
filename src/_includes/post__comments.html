@@ -45,10 +45,8 @@
           <input type="hidden" name="options[parent]" value="{{ page.url | relative_url }}">
           <input type="hidden" id="comment-replying-to" name="fields[replying_to]" value="">
           <input type="hidden" id="comment-post-id" name="options[slug]" value="{{ page.slug }}">
-<!--
           <input type="hidden" name="options[reCaptcha][siteKey]" value="{{ site.reCaptcha.siteKey }}">
           <input type="hidden" name="options[reCaptcha][secret]" value="{{ site.reCaptcha.secret }}">
--->
 	</div>
 	<!-- Start comment form alert messaging -->
 	<p class="hidden js-notice">
@@ -56,7 +54,7 @@
 	</p>
 	<!-- End comment form alert messaging -->
 	<div class="form-group">
-	  <!-- div class="g-recaptcha" data-sitekey="{{ site.reCaptcha.siteKey }}"></div -->
+	  <div class="g-recaptcha" data-sitekey="{{ site.reCaptcha.siteKey }}"></div>
 	  <label class="comment-reply-notifications" for="comment-form-reply">
 	  <input type="checkbox" id="comment-form-reply" name="options[subscribe]" value="email">
 	    Notify me of replies by email.
@@ -65,6 +63,7 @@
 	</div>
       </form>
       <!-- End new comment form -->
+      <script async defer src="https://www.google.com/recaptcha/api.js"></script>
       {% else %}
         <p><em>Adding new comments to this page has been disabled.</em></p>
       {% endunless %}
