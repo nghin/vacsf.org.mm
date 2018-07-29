@@ -8,7 +8,7 @@ tags: [repentance, faith, maturity]
 featured: false
 comments: true
 ---
- 
+
 {{ page.excerpt | markdownify }}
 
 {% include toc.html %}
@@ -82,17 +82,27 @@ While it's entirely possible that their faith in God is like a bruised reed or a
 
 Yes, focus on the object of their faith, not in faith itself.
 
-## I will be their God
-> “For this is the covenant that I will establish with the house of Israel after those days, says the Lord. I will put my laws in their minds and I will inscribe them on their hearts. And <strong>I will be their God and they will be my people</strong>.
-> 
-> “And <strong>there will be no need at all for each one to teach his countryman or each one to teach his brother saying, ‘Know the Lord,’ since they will all know me, from the least to the greatest</strong>.
-> “For I will be merciful toward their evil deeds, and <strong>their sins I will remember no longer</strong>.” (Hebrews 8:10-12; Jeremiah 31:33-34)
+## The real dead works
 
-The elementary teachings keep Christians from maturing in their faith. Instead of helping the believers fix their eyes on Christ, they keep them fixated on themselves, their sins and the never-ending state of guilt expressed through repentance&mdash; I'm not, of course, talking about the repentance that brought them to Christ, but about the repentance the average Christians equate with remorse, with feeling sorry for their sinful actions&mdash;.
+But is the Hebrews writer talking about the same dead works as what is being taught predominantly in the church? Most sermons I heard and books I read seem to refer to dead works as sinful actions, even the NLT version of Hebrews 6:1 uses the term *"evil deeds,"*but if dead works are the same as sins then how do you explain Ephesians 2:8-9 which says we're saved by grace, not works? The works in this Ephesians context are not sinful activities, but flesh-powered deeds toward salvation, therefore to equate these dead works with sins is to compare apples with oranges. This is exactly how the parts leading to Hebrews 6:1 describe dead works: the works that are as good as dead in their effort to save man, the old sacrificial system, the reliance on human effort to attain God's righteousness. Christians must repent from relying on their fleshly efforts, or dead works for that matter. In this sense, flesh-based pious deeds are actually evil according to the Hebrews context, and the term *"dead works"* does not refer at all to sins common to man.
 
-Finally, Hebrews 6:1 tells us to no longer build our faith on the foundation of *"repentance from dead works,"* which means to no longer make sins and repentance the focal point of our ministries, our sermons, our Sunday School studies, and many other means of teaching. Only then can we move on to maturity.
+Dead works are not bad behaviors, they're not only useless toward salvation, they may actually alienate man from God (Galatians 5:4).
 
-Live in this truth, and teach it to your congregation: *"their sins I will remember no longer."* If God had said so, and you believed it, then don't parade your sins before Him anymore.
+Hebrews 6:1 tells us that the elementary foundation of *"repentance from dead works,"* and of *"faith in God,"* should have been already firmly grasped by the believers, so no more effort should be spent on such basic understanding. Only then can we move on to maturity. The sad thing though is the majority of Christians still rely on dead works and still don't place their full faith in what Christ had already accomplished on the cross. This must be the reason why the major epistles such as Romans, Galatians, Colossians, and Hebrews, had to be written to address this very issue.
+
+## The apostasy
+
+At this point, it may be beneficial to address Hebrews 6:4-6 which tends to be just as easily misunderstood as the preceding verse 1 involving *"dead works."*
+
+> For it is impossible in the case of those who have once been enlightened, tasted the heavenly gift, become partakers of the Holy Spirit,  tasted the good word of God and the miracles of the coming age,  and then have committed ***apostasy***, to ***renew them again to repentance***, since they are ***crucifying the Son of God for themselves all over again*** and holding him up to contempt. (Hebrews 6:4-6)
+
+If the true meaning of *"dead works"* can be accepted as not being behavioral sinful actions but as flesh-based pious deeds that have no true spiritual value, the true meaning of the concepts in bold text above can be arrived at from the same context. The apostasy is the returning to the law, the repentance is the turning away from flesh-powered pious deeds toward faith alone in Christ's finished work on the cross, and the crucifying again of the Son of God is the refusal to believe that Christ had dealt with the sin issue of his believer once for all.
+
+## In conclusion
+
+I became a Christian in my mid-thirties after many years of searching for ways to get relief for my burdened soul. O how I came to the foot of the cross with so much joy. But it didn't take long before I came back full circle to work-based religion, and engaged in *"dead works"* for almost three decades that followed. I got busier with church activities with ever increasing burden but ever decreasing joy.
+
+This article, though I had written it around Sept 2017, has now been revised with much more clarity thanks to a reader  who gave insightful comments which forced me to revisit Hebrews and came to a more complete understanding of the key concept that gave this writing its title. I'm eternally grateful.
 
 {% include bible-study/bible-study-footer %}
 

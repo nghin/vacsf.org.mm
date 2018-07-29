@@ -8,7 +8,7 @@ tags: [ăn-năn, đức-tin, trưởng-thành]
 featured: false
 comments: true
 ---
- 
+
 {{ page.excerpt | markdownify }}
 
 {% include toc.html %}
@@ -78,14 +78,27 @@ Rất có thể là đức tin người tín hữu đó mỏng manh như cây s�
 
 Thật vậy, chúng ta nên đặt trọng tâm vào đối tượng của đức tin thay vì vào chính đức tin.
 
-## Ta sẽ là Đức Chúa Trời của họ
-> “Chúa lại phán: Nầy là lời ước mà ta sẽ lập với nhà Y-sơ-ra-ên Sau những ngày đó: Ta sẽ để luật pháp ta trong trí họ Và ghi tạc vào lòng; Ta sẽ làm Ðức Chúa Trời họ, Họ sẽ làm dân ta. Trong vòng họ sẽ <strong>chẳng cần ai dạy bảo công dân mình Và anh em mình, rằng: Hãy nhìn biết Chúa</strong>; Vì hết thảy trong vòng họ, Từ kẻ rất nhỏ cho đến kẻ rất lớn đều sẽ biết ta. Nhơn ta sẽ tha sự gian ác của họ, Và <strong>không nhớ đến tội lỗi họ nữa</strong>.” (Hebrews 8:10-12; Jeremiah 31:33-34)
+## The real dead works
 
-Những sự dạy dỗ ấu trĩ cản ngăn người tín hữu Cơ-đốc không trưởng thành được trong đức tin. Thay vì giúp họ chú nhìn Đấng Christ, lại khiến họ chú nhìn chính mình, hướng về nội tại, tội lỗi và mặc cảm tội lỗi miên viễn thể hiện qua sự ăn năn&mdash;hẳn nhiên, tôi không nói về sự ăn năn đưa họ đến với Đấng Christ, nhưng về sự ăn năn mà người tín hữu thường nghĩ giống như sự hối hận về những việc làm sai quấy của mình.
+But is the Hebrews writer talking about the same dead works as what is being taught predominantly in the church? Most sermons I heard and books I read seem to refer to dead works as sinful actions, even the NLT version of Hebrews 6:1 uses the term *"evil deeds,"*but if dead works are the same as sins then how do you explain Ephesians 2:8-9 which says we're saved by grace, not works? The works in this Ephesians context are not sinful activities, but flesh-powered deeds toward salvation, therefore to equate these dead works with sins is to compare apples with oranges. This is exactly how the parts leading to Hebrews 6:1 describe dead works: the works that are as good as dead in their effort to save man, the old sacrificial system, the reliance on human effort to attain God's righteousness. Christians must repent from relying on their fleshly efforts, or dead works for that matter. In this sense, flesh-based pious deeds are actually evil according to the Hebrews context, and the term *"dead works"* does not refer at all to sins common to man.
 
-Kết luận, Hebrews 6:1 dạy chúng ta đừng tiếp tục gây dựng đức tin trên nền tảng *"từ bỏ các việc chết"* nữa, nghĩa là đừng đặt vấn đề tội lỗi và sự ăn năn làm trọng tâm trong các mục vụ, bài giảng, bài học Trường Chúa Nhật, và các phương tiện dạy dỗ khác nữa. Chỉ khi đó chúng ta mới *"tấn tới sự trọn lành,"* hay nói cách khác là tấn tới sự trưởng thành.
+Dead works are not bad behaviors, they're not only useless toward salvation, they may actually alienate man from God (Galatians 5:4).
 
-Hãy sống trong chân lý đó, và dạy cho hội chúng rằng Chúa *"không nhớ đến tội lỗi họ nữa."* Và nếu chính Đức Chúa Trời đã phán như vậy, và chúng ta thực sự tin, thì đừng diễn hành tội lỗi mình trước mặt Ngài nữa.
+Hebrews 6:1 tells us that the elementary foundation of *"repentance from dead works,"* and of *"faith in God,"* should have been already firmly grasped by the believers, so no more effort should be spent on such basic understanding. Only then can we move on to maturity. The sad thing though is the majority of Christians still rely on dead works and still don't place their full faith in what Christ had already accomplished on the cross. This must be the reason why the major epistles such as Romans, Galatians, Colossians, and Hebrews, had to be written to address this very issue.
+
+## The apostasy
+
+At this point, it may be beneficial to address Hebrews 6:4-6 which tends to be just as easily misunderstood as the preceding verse 1 involving *"dead works."*
+
+> For it is impossible in the case of those who have once been enlightened, tasted the heavenly gift, become partakers of the Holy Spirit,  tasted the good word of God and the miracles of the coming age,  and then have committed ***apostasy***, to ***renew them again to repentance***, since they are ***crucifying the Son of God for themselves all over again*** and holding him up to contempt. (Hebrews 6:4-6)
+
+If the true meaning of *"dead works"* can be accepted as not being behavioral sinful actions but as flesh-based pious deeds that have no true spiritual value, the true meaning of the concepts in bold text above can be arrived at from the same context. The apostasy is the returning to the law, the repentance is the turning away from flesh-powered pious deeds toward faith alone in Christ's finished work on the cross, and the crucifying again of the Son of God is the refusal to believe that Christ had dealt with the sin issue of his believer once for all.
+
+## In conclusion
+
+I became a Christian in my mid-thirties after many years of searching for ways to get relief for my burdened soul. O how I came to the foot of the cross with so much joy. But it didn't take long before I came back full circle to work-based religion, and engaged in *"dead works"* for almost three decades that followed. I got busier with church activities with ever increasing burden but ever decreasing joy.
+
+This article, though I had written it around Sept 2017, has now been revised with much more clarity thanks to a reader  who gave insightful comments which forced me to revisit Hebrews and came to a more complete understanding of the key concept that gave this writing its title. I'm eternally grateful.
 
 {% include bible-study/bible-study-footer %}
 
