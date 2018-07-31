@@ -347,3 +347,4 @@ paginate_multiple:
   - paginate: 20
     paginate_path: '/articles-viet/page:num/'
     sub_dir: '/articles-viet'
+

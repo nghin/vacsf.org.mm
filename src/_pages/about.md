@@ -40,7 +40,7 @@ Tel. 650-892-5270, Email: contact@vacsf.org
 * Friday: Youth Fellowship
 * Saturday: Church Renovation
 
-## VACSF Calendar 2017
+## VACSF Calendar
 <p>
   <iframe src="https://docs.google.com/document/d/1mfb0CUYE1M3j6TaG96dfwBy9IQFQGxFnzEwF747xmtk/pub?embedded=true" width="100%;" height="1000px;"></iframe>
 </p>
