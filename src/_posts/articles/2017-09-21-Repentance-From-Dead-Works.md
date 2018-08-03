@@ -102,7 +102,7 @@ If the true meaning of *"dead works"* can be accepted as not being behavioral si
 
 I became a Christian in my mid-thirties after many years of searching for ways to get relief for my burdened soul. O how I came to the foot of the cross with so much joy. But it didn't take long before I came back full circle to work-based religion, and engaged in *"dead works"* for almost three decades that followed. I got busier with church activities with ever increasing burden but ever decreasing joy.
 
-This article, though I had written it around Sept 2017, has now been revised with much more clarity thanks to a reader  who gave insightful comments which forced me to revisit Hebrews and came to a more complete understanding of the key concept that gave this writing its title. I'm eternally grateful.
+This article, though had been written around Sept 2017, has now been revised with much more clarity thanks to a reader  who gave insightful comments which forced me to revisit Hebrews and came to a more complete understanding of the key concept that gave this writing its title. I'm eternally grateful.
 
 {% include bible-study/bible-study-footer %}
 
