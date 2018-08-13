@@ -114,7 +114,7 @@ Verse 3 above shows us the struggle against sin that Jesus endured is from sinne
 
 ## In Conclusion
 
-The shedding of blood has nothing to do with battling against the flesh, but it has to do with the forgiveness of sin that only Jesus can provide. The shedding of blood prescribed by our God can only come through the unblemished bulls or goats of the Old Covenant to a limitted extent, and ultimately, and exclusively only through the Son of God in the New Covenant to grant life giving righteousness to those that believe. Other than these, there is no human sacrifice in God's salvation plan.
+The shedding of blood has nothing to do with battling against the flesh, but it has to do with the forgiveness of sin that only Jesus can provide. The shedding of blood prescribed by our God can only come through the unblemished bulls or goats of the Old Covenant to a limitted extent, and ultimately, and exclusively only through the Son of God in the New Covenant to grant life giving righteousness to those that believe. Other than these, there is no other shedding of blood in God's salvation plan.
 
 The sin that easily entangles is the sin of unbelief, of not putting your full trust of your salvation in Christ's finished work on the cross.
 
