@@ -17,7 +17,7 @@ comments: true
 
 ## Nicodemus
 <img alt src="{{ site.url }}/assets/images/born-again-teaser.jpg" style="border: 1px solid #cccccc; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;">
-In the gospel of John, chapter 3, it is recorded of a man named Nicodemus, who was a rabbi of rabbi who taught the law of God to all of Israel. He had always been highly regarded in Isarael all his life, yet something began to gnaw at him since the time he resolved in his heart that he would learn God's law and keep them the best he could. His photographic memory allowed him to learn and remember things he read, and he kept growing larger in the mind of his contemporary, until one day he became the greatest of them all.
+In the gospel of John, chapter 3, it is recorded of a man named Nicodemus, who was a rabbi of rabbi who taught the law of God to all of Israel. He had always been highly regarded in Isarael all his life, yet something began to gnaw at him since the time he resolved in his heart that he would learn God's law and keep them the best he could. His photographic memory allowed him to learn and remember things he read, and he kept growing larger in the mind of his contemporary, until one day he became the greatest of them all. But somehow he felt all his effort to reach perfection was not enough, his credentials could fool all his peers but not his own heart that all the accomplishments, though as impressive as they were, would not be enough for him to enter the kingdom of God.
 
 > <sup>1</sup> Now a certain man, a Pharisee named Nicodemus, who was a member of the Jewish ruling council,  <sup>2</sup> came to Jesus at night and said to him, "Rabbi, we know that you are a teacher who has come from God. For no one could perform the miraculous signs that you do unless God is with him." (John 3:1-2)
 
@@ -57,7 +57,7 @@ Furthermore, the work of God that born a man again from above is mysterious even
 
 While it is true that God may have prepared from everlasting the works of his kingdom for those who have been called by him (Ephesians 2:10), he only does so for those who have been born from above, as no works will ever be the cause, or the requirements, of such spiritual rebirth.
 
-Yet there is one work, the only one by the Son of God, that is powerful enough and acceptable to God to bridge heaven and earth, sinful man and holy God, the prodigal and the father, to grant us the rebirth that is absolutely required to usher us into God's presence. Any work proposed by anyone or any other system of faith is in direct competition to what Christ had accomplished on the cross.
+Yet there is one work, the only one by the Son of God, that is powerful enough and acceptable to God to bridge heaven and earth, to reconcile sinful man and the holy God, to bring the prodigal son back to the father, to grant us the rebirth that is absolutely required to usher us into God's presence. Any work proposed by anyone or any other system of faith is in direct competition to what Christ had accomplished on the cross.
 
 In short, the only means through which one inherits a spiritual rebirth is:
 
