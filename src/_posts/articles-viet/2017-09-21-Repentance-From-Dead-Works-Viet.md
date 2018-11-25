@@ -8,7 +8,7 @@ tags: [ăn-năn, đức-tin, trưởng-thành]
 featured: false
 comments: true
 ---
- 
+
 {{ page.excerpt | markdownify }}
 
 {% include toc.html %}
@@ -78,14 +78,27 @@ Rất có thể là đức tin người tín hữu đó mỏng manh như cây s�
 
 Thật vậy, chúng ta nên đặt trọng tâm vào đối tượng của đức tin thay vì vào chính đức tin.
 
-## Ta sẽ là Đức Chúa Trời của họ
-> “Chúa lại phán: Nầy là lời ước mà ta sẽ lập với nhà Y-sơ-ra-ên Sau những ngày đó: Ta sẽ để luật pháp ta trong trí họ Và ghi tạc vào lòng; Ta sẽ làm Ðức Chúa Trời họ, Họ sẽ làm dân ta. Trong vòng họ sẽ <strong>chẳng cần ai dạy bảo công dân mình Và anh em mình, rằng: Hãy nhìn biết Chúa</strong>; Vì hết thảy trong vòng họ, Từ kẻ rất nhỏ cho đến kẻ rất lớn đều sẽ biết ta. Nhơn ta sẽ tha sự gian ác của họ, Và <strong>không nhớ đến tội lỗi họ nữa</strong>.” (Hebrews 8:10-12; Jeremiah 31:33-34)
+## Điều thực là việc chết
 
-Những sự dạy dỗ ấu trĩ cản ngăn người tín hữu Cơ-đốc không trưởng thành được trong đức tin. Thay vì giúp họ chú nhìn Đấng Christ, lại khiến họ chú nhìn chính mình, hướng về nội tại, tội lỗi và mặc cảm tội lỗi miên viễn thể hiện qua sự ăn năn&mdash;hẳn nhiên, tôi không nói về sự ăn năn đưa họ đến với Đấng Christ, nhưng về sự ăn năn mà người tín hữu thường nghĩ giống như sự hối hận về những việc làm sai quấy của mình.
+Nhưng phải chăng tác giả đang nói về cùng một việc chết theo cùng một ý nghĩa như thường được giảng dạy trong hội thánh? Đa số những bài giảng và sách vở thường cho các việc chết là những hành động tội lỗi, ngay cả bản dịch NLT của Hebrews 6:1 cũng dùng từ *"việc ác (evil deeds),"*nhưng nếu việc chết là những hành động tội lỗi thì chúng ta phải giải thích làm sao về Ephesians 2:8-9 viết rằng chúng ta được cứu bởi ân điển, không phải bởi việc làm? Việc làm trong đoạn Ê-phê-sô thực không phải là những điều ác của đời, nhưng là những việc làm nhằm mục đích đạt được sự cứu rỗi, do đó khi chúng ta đặt các việc này vào đồng hạng thì chẳng khác gì so sánh hai vật khác loại. Đây mới thực là cách các đoạn Kinh thánh dẫn đến Hebrews 6:1 diễn tả việc chết: những việc kể như chết trong nỗ lực tìm sự cứu rỗi, hệ thống dâng của tế lễ của thời cựu ước, sự cậy vào nỗ lực của xác thịt để đạt được sự công bình của Đức Chúa Trời. Những người tin Chúa phải ăn năn về sự cậy vào nỗ lực của xác thịt, là những việc chết. Trong ý nghĩa đó, những việc đạo đức từ xác thịt thực ra chính là những việc ác theo văn mạch của Hê-bơ-rơ, và như thế từ ngữ *"việc chết"* không phải để nói về những hành động sai quấy thông thường.
 
-Kết luận, Hebrews 6:1 dạy chúng ta đừng tiếp tục gây dựng đức tin trên nền tảng *"từ bỏ các việc chết"* nữa, nghĩa là đừng đặt vấn đề tội lỗi và sự ăn năn làm trọng tâm trong các mục vụ, bài giảng, bài học Trường Chúa Nhật, và các phương tiện dạy dỗ khác nữa. Chỉ khi đó chúng ta mới *"tấn tới sự trọn lành,"* hay nói cách khác là tấn tới sự trưởng thành.
+Việc chết không phải là những hành vi xấu, chúng không những chỉ vô ích về sự cứu rỗi, mà còn đem đến sự ngăn cách với Đức Chúa Trời (Galatians 5:4).
 
-Hãy sống trong chân lý đó, và dạy cho hội chúng rằng Chúa *"không nhớ đến tội lỗi họ nữa."* Và nếu chính Đức Chúa Trời đã phán như vậy, và chúng ta thực sự tin, thì đừng diễn hành tội lỗi mình trước mặt Ngài nữa.
+Hebrews 6:1 nói với chúng ta rằng những điều sơ học về sự *"từ bỏ các việc chết"* và sự *"tin Đức Chúa Trời"* chính ra phải được thấu hiểu rồi bởi các tín hữu, và vì thế không cần phải cứ quay về để nhắc lại những tín lý căn bản đó nữa. Chỉ khi đó chúng ta mới tiến lên đến mức trưởng thành. Điều đáng buồn là phần đông các tín hữu vẫn cậy vào các việc chết và không đặt trọn niềm tin vào sự làm trọn của Đấng Christ trên thập tự giá. Đây phải là lý do khiến các thư tín quan trọng như Rô-ma, Ga-la-ti, Cơ-lô-se, và Hê-bơ-rơ đã được viết để làm sáng tỏ vấn đề này.
+
+## Vấp ngã
+
+Đến đây, một điều hữu ích chúng ta có thể làm là tìm hiểu ý nghĩa của đoạn  Hebrews 6:4-6 là một đoạn Kinh thánh cũng thường dễ bị hiểu lầm giống như câu 1 nói về *"việc chết."*
+
+> Vì chưng những kẻ đã được soi sáng một lần, đã nếm sự ban cho từ trên trời, dự phần về Ðức Thánh Linh,  nếm đạo lành Ðức Chúa Trời, và quyền phép của đời sau,  nếu lại ***vấp ngã***, thì không thể khiến họ ***lại ăn năn nữa***, vì họ đóng đinh Con Ðức Chúa Trời trên thập tự giá cho mình một lần nữa, ***làm cho Ngài sỉ nhục tỏ tường***. (Hebrews 6:4-6)
+
+Nếu chúng ta chấp nhận ý nghĩa thực của *"việc chết"* không phải là các hành động xấu xa thông thường nhưng là các việc công đức bởi xác thịt không có giá trị tâm linh, thì chúng ta có thể rút tỉa được ý nghĩa chân thực của các từ được in chữ đậm trong đoạn Kinh thánh theo cùng nguyên tắc. Vấp ngã là khi người tín hữu trở về với luật pháp, ăn năn là từ bỏ sự trông cậy vào việc công đức của xác thịt mà đặt niềm tin trọn vẹn nơi sự làm trọn của Đấng Christ trên thập tự giá, còn làm cho Ngài sỉ nhục tỏ tường là khi từ chối không tin rằng Đấng Christ đã giải quyết vấn đề tội lỗi một lần đủ cả.
+
+## Kết luận
+
+Tôi tin Chúa khi tuổi ngoài ba mươi sau nhiều năm tìm kiếm sự an nghỉ cho tâm hồn nặng chĩu. Tôi đã đến chân thập tự với bao nỗi vui mừng. Nhưng chẳng bao lâu sau lại quay về với tôn giáo đặt nền tảng trên việc làm, công đức, và cứ làm *"việc chết"* trong suốt gần ba mươi năm sau đó. Bận rộn hơn với những sinh hoạt trong hội thánh nhưng sự vui mừng càng hiếm hoi trong khi gánh nặng cứ gia tăng.
+
+Bài viết này, mặc dầu tôi đã viết vào khoảng tháng 9 năm 2017, nhưng nay vừa được sửa đổi hoàn chỉnh hơn nhờ những đối thoại với một độc giả đã có những lời bàn sắc bén khiến tôi phải suy gẫm lại đoạn Hê-bơ-rơ và đi đến một nhận thức sâu xa hơn về đề tài chính của bài. Rất cảm ơn.
 
 {% include bible-study/bible-study-footer %}
 

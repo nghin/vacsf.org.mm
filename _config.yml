@@ -45,8 +45,8 @@ owner:
 # Staticman comments (full configuration in staticman.yml)
 comments:
   provider       : "staticman_v2"
-# staticman:
-#   branch         : "master"
+staticman:
+  branch         : "master"
 #   allowedFields  : ['name', 'email', 'url', 'message']
 #   commitMessage  : "New comment."
 #   filename       : comment-{@timestamp}
@@ -65,8 +65,8 @@ comments:
 # Jekyll configuration
 
 reCaptcha:
- siteKey: "6Le7lFsUAAAAAIMmLRcw8jdQtxmCGoMepkzmQx4d"
- secret: "MrKunsAVrlVOoUJnwEwI7zjRcuNbyRuTtHlIMNbHHHASP952RITgZf5+eosPpxBpc+djk8dKgMkTP2Rvu+NE7eHcwQJWULkAn6dSSUNnWajn0iK3GZZKHqfYnRq1xZERkANMvhSUqthfkblI3MKQdWZgvgtMECrqIvEm2clGpM4="
+  siteKey: "6Le7lFsUAAAAAIMmLRcw8jdQtxmCGoMepkzmQx4d"
+  secret: "MrKunsAVrlVOoUJnwEwI7zjRcuNbyRuTtHlIMNbHHHASP952RITgZf5+eosPpxBpc+djk8dKgMkTP2Rvu+NE7eHcwQJWULkAn6dSSUNnWajn0iK3GZZKHqfYnRq1xZERkANMvhSUqthfkblI3MKQdWZgvgtMECrqIvEm2clGpM4="
 
 permalink        : /:categories/:title/
 lsi              : true
@@ -347,3 +347,4 @@ paginate_multiple:
   - paginate: 20
     paginate_path: '/articles-viet/page:num/'
     sub_dir: '/articles-viet'
+
