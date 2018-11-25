@@ -5,7 +5,7 @@ modified: 2017-09-14T12:14:45-04:00
 image:
   teaser: Change-my-heart-oh-God-teaser.jpg
 tags: [worship, prayer] 
-featured: true
+featured: false
 comments: true
 
 ---
