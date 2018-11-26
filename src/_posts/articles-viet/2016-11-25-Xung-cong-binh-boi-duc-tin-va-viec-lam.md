@@ -135,7 +135,7 @@ Và ở đây trong Công-vụ chương 15, nhiều năm sau khi Đấng Christ 
 
 ## Được Đức Chúa Trời hoàn toàn chấp nhận
 
-Theo cách xưng công bình của Gia-cơ, mặc dầu bạn có thể được cứu bởi đức tin, nhưng chưa được trọn vẹn, hay nói đúng hơn đức tin chưa được trọn vẹn cho đến khi một số việc làm nào đó được thêm vào để đem đức tin đó đến chỗ hoàn tất. Đức Chúa Trời yêu bạn nhưng Ngài chưa hoàn toàn chấp nhận bạn. Vẫn còn một số việc bạn phải làm để được nên thánh hơn, thiêng liêng hơn, <a href="{{ site.url }}{% post_url 2016-11-13-Theo-guong-Gie-su %}"><em>trở nên giống Chúa hơn</em></a>. Như đã được nói đến trước đây, vì bạn không thể gặp Chúa cho đến khi toàn hảo, do đó theo cách của Gia-cơ, chừng nào bạn đạt được sự toàn hảo đó?
+Theo cách xưng công bình của Gia-cơ, mặc dầu bạn có thể được cứu bởi đức tin, nhưng chưa được trọn vẹn, hay nói đúng hơn đức tin chưa được trọn vẹn cho đến khi một số việc làm nào đó được thêm vào để đem đức tin đó đến chỗ hoàn tất. Đức Chúa Trời yêu bạn nhưng Ngài chưa hoàn toàn chấp nhận bạn. Vẫn còn một số việc bạn phải làm để được nên thánh hơn, thiêng liêng hơn, <a href="{{ site.url }}{% post_url articles-viet/2016-11-13-Theo-guong-Gie-su %}"><em>trở nên giống Chúa hơn</em></a>. Như đã được nói đến trước đây, vì bạn không thể gặp Chúa cho đến khi toàn hảo, do đó theo cách của Gia-cơ, chừng nào bạn đạt được sự toàn hảo đó?
 
 Ngược lại, nếu sự xưng công bình chỉ hoàn toàn bởi đức tin, bạn sẽ không còn hồ nghi gì nữa về chỗ đứng của mình trước mặt Chúa và trong nước Ngài. Vì sự trọn vẹn của mình không tùy thuộc vào chính bản thân bạn, nhưng vào Đấng Christ, và trong Ngài, Đức Chúa Trời đã ban cho mọi điều cần thiết để đứng vững khi Ngài đến.
 

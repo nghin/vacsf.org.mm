@@ -17,7 +17,7 @@ Above is an excerpt from The Imitation of Christ by Thomas A. Kempis, the first 
 
 {% include toc.html %}
 
-<a href="{{ site.url }}{% post_url 2016-11-13-Theo-guong-Gie-su %}"><em>(Bấm vào đây để đọc tiếng Việt)</em></a>
+<a href="{{ site.url }}{% post_url articles-viet/2016-11-13-Theo-guong-Gie-su %}"><em>(Bấm vào đây để đọc tiếng Việt)</em></a>
 
 ## An assumption about Jesus
 

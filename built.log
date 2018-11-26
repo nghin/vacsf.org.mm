@@ -1,0 +1,122 @@
+[22:09:36] Using gulpfile /home/Documents/Jekyll/vacsf.org.mm/gulpfile.js
+[22:09:36] Starting 'build'...
+[22:09:36] Starting 'clean'...
+[22:09:36] Starting 'clean:assets'...
+[22:09:36] Starting 'clean:gzip'...
+[22:09:36] Starting 'clean:dist'...
+[22:09:36] Starting 'clean:site'...
+[22:09:36] Finished 'clean:gzip' after 217 ms
+[22:09:36] Finished 'clean:assets' after 468 ms
+[22:09:36] Finished 'clean:site' after 468 ms
+[22:09:36] Finished 'clean:dist' after 468 ms
+[22:09:36] Finished 'clean' after 469 ms
+[22:09:36] Starting 'assets'...
+[22:09:36] Starting 'styles'...
+[22:09:36] Starting 'scripts'...
+[22:09:36] Starting 'fonts'...
+[22:09:36] index.js 143.51 kB
+[22:09:36] Finished 'scripts' after 84 ms
+[22:09:36] fonts all files 1.98 MB
+[22:09:36] Finished 'fonts' after 95 ms
+[22:09:37] style.css 103.4 kB
+[22:09:37] Finished 'styles' after 392 ms
+[22:09:37] Starting 'images'...
+[22:09:37] gulp-imagemin: Minified 0 images
+[22:09:37] Finished 'images' after 164 ms
+[22:09:37] Starting 'images:feature'...
+[22:09:37] gulp-imagemin: Minified 0 images
+[22:09:37] gulp-imagemin: Minified 0 images
+[22:09:37] gulp-imagemin: Minified 0 images
+[22:09:37] gulp-imagemin: Minified 0 images
+[22:09:37] gulp-imagemin: Minified 0 images
+[22:09:37] gulp-imagemin: Minified 0 images
+[22:09:37] Finished 'images:feature' after 97 ms
+[22:09:37] Starting 'copy:assets'...
+[22:09:37] Finished 'copy:assets' after 189 ms
+[22:09:37] Finished 'assets' after 842 ms
+[22:09:37] Starting 'build:site'...
+[22:09:37] Starting 'site:tmp'...
+[22:09:37] Jekyll all files 2.88 MB
+[22:09:37] Finished 'site:tmp' after 164 ms
+[22:09:37] Starting 'inject'...
+[22:09:37] Starting 'inject:css'...
+[22:09:37] Starting 'inject:scripts'...
+[22:09:37] gulp-inject 2 files into loadcss.html.
+[22:09:37] gulp-inject 1 files into scripts.html.
+[22:09:37] Finished 'inject:css' after 8.56 ms
+[22:09:37] Finished 'inject:scripts' after 8.98 ms
+[22:09:37] Finished 'inject' after 9.17 ms
+[22:09:37] Starting 'site'...
+Configuration file: _config.yml
+Configuration file: _config.dev.yml
+            Source: .tmp/src
+       Destination: .tmp/dist
+ Incremental build: enabled
+      Generating... 
+[33m       Deprecation: A call to '{% post_url 2016-11-25-Justification-by-faith-works %}' did not match a post using the new matching method of checking name (path-date-slug) equality. Please make sure that you change this tag to match the post's name exactly.[0m
+[33m       Deprecation: A call to '{% post_url 2017-02-09-Parable-Ten-Virgins %}' did not match a post using the new matching method of checking name (path-date-slug) equality. Please make sure that you change this tag to match the post's name exactly.[0m
+[33m       Deprecation: A call to '{% post_url 2017-01-04-The-Will-of-God %}' did not match a post using the new matching method of checking name (path-date-slug) equality. Please make sure that you change this tag to match the post's name exactly.[0m
+
+Filename                                         | Count |     Bytes |  Time
+-------------------------------------------------+-------+-----------+------
+_layouts/article.html                            |   154 |  4972.34K | 1.992
+_layouts/default.html                            |   286 | 14131.54K | 1.394
+_layouts/tag_index.html                          |   114 |  1023.92K | 1.169
+_includes/masthead.html                          |   286 |  1089.19K | 0.917
+_includes/archive__item.html                     |   122 |   560.52K | 0.807
+_includes/feed/entry.xml                         |     2 |   415.63K | 0.381
+_includes/sharing-meta.html                      |   286 |   229.34K | 0.341
+sitemap.xml                                      |     1 |    25.88K | 0.332
+_includes/related.html                           |   117 |   325.76K | 0.320
+atom.xml                                         |     1 |   261.53K | 0.233
+_includes/post__comments.html                    |   154 |   515.31K | 0.232
+_includes/post__social.html                      |   154 |   106.96K | 0.211
+_includes/page__hero.html                        |   285 |    19.70K | 0.157
+_layouts/archive.html                            |    17 |   460.05K | 0.156
+articles-feed.xml                                |     1 |   155.81K | 0.154
+_includes/post__taxonomy.html                    |   134 |    49.34K | 0.111
+_includes/scripts.html                           |   286 |   456.92K | 0.079
+_includes/colophon.html                          |   285 |   217.09K | 0.078
+_pages/viet-articles.md                          |     1 |    48.55K | 0.066
+_includes/breadcrumbs.html                       |   285 |    80.25K | 0.065
+_pages/home.md                                   |     1 |    45.82K | 0.063
+_includes/ad.html                                |   279 |    63.84K | 0.048
+_includes/post__author.html                      |   152 |    68.43K | 0.044
+_includes/featured.html                          |     8 |    23.05K | 0.043
+_includes/loadcss.html                           |   286 |  1281.41K | 0.035
+articles-viet/page2/index.html                   |     1 |    25.58K | 0.033
+articles-viet/index.html                         |     1 |    23.69K | 0.030
+page2/index.html                                 |     1 |    22.43K | 0.030
+_includes/critical-archive.css                   |   285 |  3109.39K | 0.028
+_includes/comment.html                           |     8 |    40.40K | 0.026
+_includes/feed/footer.xml                        |     2 |     9.68K | 0.023
+index.html                                       |     1 |    22.30K | 0.022
+_pages/style-guide.md                            |     1 |    74.20K | 0.019
+_includes/bible-study/meditations                |    40 |   168.75K | 0.019
+_includes/archive__tiles.html                    |     4 |     7.05K | 0.017
+_includes/component.html                         |     1 |    65.81K | 0.016
+_includes/icons.svg                              |   286 |  1493.12K | 0.015
+_includes/toc.html                               |   136 |    36.66K | 0.011
+_posts/bible-studies-Viet/2015-01-17-Ro-ma.md    |     1 |    10.33K | 0.008
+_pages/sitemap.md                                |     1 |    19.52K | 0.008
+_includes/browser-upgrade.html                   |   285 |    59.84K | 0.008
+_includes/bible-study/suy-gam                    |    16 |    71.47K | 0.007
+_posts/bible-studies/2015-01-17-Romans.md        |     1 |     8.00K | 0.007
+page3/index.html                                 |     1 |     7.02K | 0.006
+_pages/tag.md                                    |     1 |    18.19K | 0.005
+_includes/bible-study/bible-study-footer         |   148 |   110.42K | 0.004
+_includes/bible-study/romans-chapters            |    12 |    26.53K | 0.004
+articles-viet/page3/index.html                   |     1 |     5.29K | 0.004
+_includes/bible-study/ro-ma                      |    12 |    25.91K | 0.004
+_posts/bible-studies-Viet/2015-01-16-Ga-la-ti.md |     1 |     4.34K | 0.004
+
+ 
+                    done in 11.503 seconds.
+ Auto-regeneration: disabled. Use --watch to enable.
+[22:09:50] Finished 'site' after 12 s
+[22:09:50] Starting 'copy:site'...
+[22:09:50] Finished 'copy:site' after 259 ms
+[22:09:50] Finished 'build:site' after 13 s
+[22:09:50] Starting 'html'...
+[22:09:50] Finished 'html' after 122 ms
+[22:09:50] Finished 'build' after 14 s

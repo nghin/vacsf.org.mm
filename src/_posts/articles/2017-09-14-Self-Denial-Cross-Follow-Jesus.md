@@ -13,7 +13,7 @@ comments: true
 
 {% include toc.html %}
 
-<a href="{{ site.url }}{% post_url 2017-09-14-Self-Denial-Cross-Follow-Jesus-Viet %}"><em>(Bấm vào đây để đọc tiếng Việt)</em></a>
+<a href="{{ site.url }}{% post_url articles-viet/2017-09-14-Self-Denial-Cross-Follow-Jesus-Viet %}"><em>(Bấm vào đây để đọc tiếng Việt)</em></a>
 
 <img alt src="{{ site.url }}/assets/images/deny-yourself-teaser.jpg" style="border: 1px solid #cccccc; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;">
 At first glance, the three aspects of what Jesus spoke in Matthew 16:24 appear to be achievable goals, and Christians set out to achieve these goals with a vengeance. A huge amount of communication is dedicated toward teaching Christians how to achieve a measure of success toward these goals. But is a measure of success good enough? For certainly Jesus was not speaking to those who were already in God's kingdom, but to the lost world of the requirements for entering it. He is posing an impossible standard that only he could achieve: to deny one's self, to bear the cross, and to follow in his footstep. This article will show that these are not challenges to see who qualifies for God's kingdom, but are stern ominous shouts from the One who is going to the cross: "Will you surrender?". We should not hear it with any less alarm than the terrifying scene around mount Sinai when the law was about to be delivered.

@@ -20,7 +20,7 @@ Grace can be just a word to fill a part of a theology, or it can be something so
 {% include toc_spacer.html %}
 {% include bible-study/meditations %}
 
-[(<em>Bấm vào đây để đọc tiếng Việt</em>)]({{ site.url }}{% post_url 2016-03-21-Lam-dung-an-dien %})
+[(<em>Bấm vào đây để đọc tiếng Việt</em>)]({{ site.url }}{% post_url articles-viet/2016-03-21-Lam-dung-an-dien %})
 
 ## Introduction
 

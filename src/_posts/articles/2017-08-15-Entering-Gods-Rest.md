@@ -14,7 +14,7 @@ comments: true
 {% include toc.html %}
 
 ## The burden that man carries
-<a href="{{ site.url }}{% post_url 2017-08-15-Entering-Gods-Rest-Viet %}"><em>(Bấm vào đây để đọc tiếng Việt)</em></a>
+<a href="{{ site.url }}{% post_url articles-viet/2017-08-15-Entering-Gods-Rest-Viet %}"><em>(Bấm vào đây để đọc tiếng Việt)</em></a>
 
 <img alt src="{{ site.url }}/assets/images/entering-Gods-rest-teaser.jpg" style="border: 1px solid #cccccc; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;">
 The burden that man must carry is both physical and spiritual, however, Jesus came to address mainly the later. Physical burden must be born by both believers and unbelievers alike, some enjoy a life of ease while others toil for their survival irrespective of spiritual condition. But when Jesus spoke the following well known verse: *"Come to me, all you who are weary and burdened, and I will give you rest" (Matthew 11:28)*, was he not also talking about the physical burden, or perhaps at least together with the spiritual as well?

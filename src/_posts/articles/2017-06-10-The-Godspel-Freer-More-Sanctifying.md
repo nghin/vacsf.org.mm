@@ -13,7 +13,7 @@ comments: true
 
 {% include toc.html %}
 
-<a href="{{ site.url }}{% post_url 2017-06-10-The-Godspel-Freer-More-Sanctifying-Viet %}"><em>(Bấm vào đây để đọc tiếng Việt)</em></a>
+<a href="{{ site.url }}{% post_url articles-viet/2017-06-10-The-Godspel-Freer-More-Sanctifying-Viet %}"><em>(Bấm vào đây để đọc tiếng Việt)</em></a>
 
 ## Dr. Chalmers on the gospel
 

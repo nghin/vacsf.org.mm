@@ -18,7 +18,7 @@ comments_locked: false
 
 {{ page.excerpt | markdownify }}
 
-[(<em>Bấm vào đây để đọc tiếng Việt</em>)]({{ site.url }}{% post_url 2015-05-20-Ga-la-ti-Chuong-01 %})
+[(<em>Bấm vào đây để đọc tiếng Việt</em>)]({{ site.url }}{% post_url bible-studies-Viet/Galatians/2015-05-20-Ga-la-ti-Chuong-01 %})
 
 He was so shocked the Galatians so quickly returned to the Mosaic law system, and he calls that the perversion of the gospel: the mixing of works with grace. He warned them of anathema, translated as eternal damnation in some translation, if they pursue a gospel that is not based on grace alone.
 

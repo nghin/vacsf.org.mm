@@ -19,7 +19,7 @@ A warning to Christ's Ambassadors: Don't change your Lord's message of reconcili
 
 {% include bible-study/meditations %}
 
-[(<em>Bấm vào đây để đọc tiếng Việt</em>)]({{ site.url }}{% post_url 2015-11-30-Quan-Kham-Sai %})
+[(<em>Bấm vào đây để đọc tiếng Việt</em>)]({{ site.url }}{% post_url articles-viet/2015-11-30-Quan-Kham-Sai %})
 
 <div>
 <p>

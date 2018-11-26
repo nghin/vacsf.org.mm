@@ -18,7 +18,7 @@ comments_locked: false
 
 {{ page.excerpt | markdownify }}
 
-[(<em>Bấm vào đây để đọc tiếng Việt</em>)]({{ site.url }}{% post_url 2015-05-15-Ga-la-ti-Chuong-06 %})
+[(<em>Bấm vào đây để đọc tiếng Việt</em>)]({{ site.url }}{% post_url bible-studies-Viet/Galatians/2015-05-15-Ga-la-ti-Chuong-06 %})
 
 ## Gentleness toward a weak brother
 

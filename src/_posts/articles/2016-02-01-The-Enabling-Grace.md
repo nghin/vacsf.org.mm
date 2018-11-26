@@ -21,7 +21,7 @@ An amazing real life illustration of how God's grace enables us to do what we co
 {% include toc_spacer.html %}
 {% include bible-study/meditations %}
 
-[(<em>Bấm vào đây để đọc tiếng Việt</em>)]({{ site.url }}{% post_url 2016-02-01-Quyen-nang-an-dien %})
+[(<em>Bấm vào đây để đọc tiếng Việt</em>)]({{ site.url }}{% post_url articles-viet/2016-02-01-Quyen-nang-an-dien %})
 
 ## Moaning Cave in Jackson, CA
 

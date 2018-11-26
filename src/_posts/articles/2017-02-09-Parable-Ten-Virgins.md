@@ -24,7 +24,7 @@ comments: true
 
 {% include toc.html %}
 
-<a href="{{ site.url }}{% post_url 2017-02-09-Ngu-Ngon-Muoi-Nguoi-Nu-Dong-Trinh %}"><em>(Bấm vào đây để đọc tiếng Việt)</em></a>
+<a href="{{ site.url }}{% post_url articles-viet/2017-02-09-Ngu-Ngon-Muoi-Nguoi-Nu-Dong-Trinh %}"><em>(Bấm vào đây để đọc tiếng Việt)</em></a>
 
 ## Watchfulness
 

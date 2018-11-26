@@ -16,7 +16,7 @@ comments: true
 
 There are two passages in the Bible that appear to be in direct conflict with each other: Romans 3:23-28, with verse 28 which says <em>"One is justified by faith apart from works of the law,"</em> and James 2:20-26, with verse 24 which says <em>"You see that a person is justified by works and not by faith alone."</em>. How do we reconcile these apparent differences?
 
-<a href="{{ site.url }}{% post_url 2016-11-25-Xung-cong-binh-boi-duc-tin-va-viec-lam %}"><em>(Bấm vào đây để đọc tiếng Việt)</em></a>
+<a href="{{ site.url }}{% post_url articles-viet/2016-11-25-Xung-cong-binh-boi-duc-tin-va-viec-lam %}"><em>(Bấm vào đây để đọc tiếng Việt)</em></a>
 
 ## The two opposing views of justification
 
@@ -142,7 +142,7 @@ Here Paul made it clear that his gospel applies to both Jews and Gentiles alike 
 
 ## You're fully accepted by God
 
-In James' version of justification, though you may be saved through faith, you're not yet perfect, or rather your faith is not yet perfect until a certain amount of works is added to bring that faith to completion. God loves you but He hasn't fully accepted you yet. There's more work to do before you become more holy, more sanctified, <a href="{{ site.url }}{% post_url 2016-11-13-Immitation-of-Christ %}"><em>becoming more like Christ</em></a>. As already discussed earlier, since you cannot meet God without being perfect, when will you be perfect enough to meet God according to James?
+In James' version of justification, though you may be saved through faith, you're not yet perfect, or rather your faith is not yet perfect until a certain amount of works is added to bring that faith to completion. God loves you but He hasn't fully accepted you yet. There's more work to do before you become more holy, more sanctified, <a href="{{ site.url }}{% post_url articles/2016-11-13-Immitation-of-Christ %}"><em>becoming more like Christ</em></a>. As already discussed earlier, since you cannot meet God without being perfect, when will you be perfect enough to meet God according to James?
 
 On the other hand if justification is entirely by faith, you will know without any doubt your place in the heart of God and His kingdom. Because your perfection is not based on you, but on Christ, and in Him God has given all you need to stand against that day.
 

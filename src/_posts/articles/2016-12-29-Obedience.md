@@ -14,7 +14,7 @@ comments: true
 
 {% include toc.html %}
 
-<a href="{{ site.url }}{% post_url 2016-12-29-Su-vang-loi %}"><em>(Bấm vào đây để đọc tiếng Việt)</em></a>
+<a href="{{ site.url }}{% post_url articles-viet/2016-12-29-Su-vang-loi %}"><em>(Bấm vào đây để đọc tiếng Việt)</em></a>
 
 <img alt src="{{ site.url }}/assets/images/Obedience-teaser.jpg" style="border: 1px solid #cccccc; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;">
 There are more than a few dozens of verses in the Bible that contain the word obedience or other forms of it, but none are as well remembered as the refrain of the hymn Trust and Obey. This article aims to show that there are two ways the term is interpreted and applied, one is of the obedience to avoid sins, or to do what is good&mdash;this is the most common, and is the type that I call "rudimentary obedience"&mdash;, and one of a response to the gospel to enter into a trust relationship with God through Christ&mdash;this is rarely taught as an act of obedience as compared to the other.

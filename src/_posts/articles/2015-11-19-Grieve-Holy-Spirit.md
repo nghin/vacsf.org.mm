@@ -16,7 +16,7 @@ comments: true
 
 A very common mis-interpretation of a familiar Bible verse. It is not taught in seminary, but widely preached and accepted by many Christians. What is the impact of this interpretation on a Christian's relationship with God? Is it in harmony with the rest of Scriptures? Let us explore.
 
-[(<em>Bấm vào đây để đọc tiếng Việt</em>)]({{ site.url }}{% post_url 2015-11-19-Lam-Buon-Thanh-Linh %})
+[(<em>Bấm vào đây để đọc tiếng Việt</em>)]({{ site.url }}{% post_url articles-viet/2015-11-19-Lam-Buon-Thanh-Linh %})
 
 ## Where is this verse which states such theology?
 

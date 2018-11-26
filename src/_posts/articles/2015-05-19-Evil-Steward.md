@@ -15,7 +15,7 @@ feature:
 
 {{ page.excerpt | markdownify }}
 
-[(<em>Bấm vào đây để đọc tiếng Việt</em>)]({{ site.url }}{% post_url 2015-05-19-Quan-Gia %})
+[(<em>Bấm vào đây để đọc tiếng Việt</em>)]({{ site.url }}{% post_url articles-viet/2015-05-19-Quan-Gia %})
 
 <div>
 <p>

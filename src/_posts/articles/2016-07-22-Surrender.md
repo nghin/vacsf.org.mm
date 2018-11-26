@@ -20,7 +20,7 @@ comments: true
 {% include toc_spacer.html %}
 {% include bible-study/meditations %}
 
-[(<em>Bấm vào đây để đọc tiếng Việt</em>)]({{ site.url }}{% post_url 2016-07-22-Dau-Phuc-Chua %})
+[(<em>Bấm vào đây để đọc tiếng Việt</em>)]({{ site.url }}{% post_url articles-viet/2016-07-22-Dau-Phuc-Chua %})
 
 ## The dilemma
 

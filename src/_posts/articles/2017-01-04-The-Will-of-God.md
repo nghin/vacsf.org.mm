@@ -15,7 +15,7 @@ The question most often asked by Christians is, "What is the will of God for my 
 
 {% include toc.html %}
 
-<a href="{{ site.url }}{% post_url 2017-01-04-Y-Chua %}"><em>(Bấm vào đây để đọc tiếng Việt)</em></a>
+<a href="{{ site.url }}{% post_url articles-viet/2017-01-04-Y-Chua %}"><em>(Bấm vào đây để đọc tiếng Việt)</em></a>
 
 <img alt src="{{ site.url }}/assets/images/the-will-of-God-teaser.jpg" style="border: 1px solid #cccccc; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;">
 God creates man with a heart that longs for meaning, for a sense of purpose, and self-worth, reflecting King David's assessment of himself: <em>"I praise you because I'm fearfully and wonderfully made (Psalm139:14)."</em> But sadly their hearts are now empty, and there is nothing in this world that can fill that God-shaped vacuum. However this article is not an apologetic about man's need for God, but about people who already believe in God yet they're still lost. Perhaps they're not lost in relation to their place in God's kingdom, but to the time between the present and when God calls them home; and they found their lives in Christ anything but abundant. Might this also be the reason why many Christians do not have that blessed assurance of their salvation?

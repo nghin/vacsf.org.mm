@@ -20,7 +20,7 @@ Have you always lived the Christian life like walking a tightrope? One misstep a
 {% include toc_spacer.html %}
 {% include bible-study/meditations %}
 
-[(<em>Bấm vào đây để đọc tiếng Việt</em>)]({{ site.url }}{% post_url 2016-03-06-Trat-phan-an-dien %})
+[(<em>Bấm vào đây để đọc tiếng Việt</em>)]({{ site.url }}{% post_url articles-viet/2016-03-06-Trat-phan-an-dien %})
 
 > You who are trying to be justified by the law have been alienated from Christ; you have <strong>fallen away from grace</strong> (Galatians 5:4).
 

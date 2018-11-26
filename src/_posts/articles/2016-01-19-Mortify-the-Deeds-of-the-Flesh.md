@@ -20,7 +20,7 @@ At first glance, almost without being taught by anyone, most come to the conclus
 {% include toc_spacer.html %}
 {% include bible-study/meditations %}
 
-[(<em>Bấm vào đây để đọc tiếng Việt</em>)]({{ site.url }}{% post_url 2016-01-19-Lam-chet-cac-viec-cua-chi-the %})
+[(<em>Bấm vào đây để đọc tiếng Việt</em>)]({{ site.url }}{% post_url articles-viet/2016-01-19-Lam-chet-cac-viec-cua-chi-the %})
 
 > For if ye live after the flesh, ye shall die: but if ye through the Spirit do mortify the deeds of the body, ye shall live. <cite>(Romans 8:13)</cite>
 

@@ -13,7 +13,7 @@ comments: true
 
 {% include toc.html %}
 
-<a href="{{ site.url }}{% post_url 2016-12-20-Duong-Hep %}"><em>(Bấm vào đây để đọc tiếng Việt)</em></a>
+<a href="{{ site.url }}{% post_url articles-viet/2016-12-20-Duong-Hep %}"><em>(Bấm vào đây để đọc tiếng Việt)</em></a>
 
 <img alt src="{{ site.url }}/assets/images/The_narrow_way-teaser.jpg" style="border: 1px solid #cccccc; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;">
 According to most common interpretations, the narrow gate, or path, denotes troubles and challenges awaiting those who choose to embark on it. However there is curiously a paradoxical expectation that the life of a good Christian is filled with God's blessings, especially material blessings, great financial rewards and a vibrant family life; a projection of God's goodness to those who belong to Him as a testimony to the unbelieving world. But there is nothing in the immediate context of these verses that warrants such interpretations, of promises of either difficulties or smooth sailings. Yet this is what one often hears from pulpits everywhere across the entire spectrum.
@@ -65,7 +65,7 @@ The world has always tried to access God through their own efforts, through work
 
 By defining the narrow path as a difficult road, people change its meaning from grace to works, from the singular trust in Christ to the myriad possibilities of man's efforts, from the assurance of salvation to the uncertainty of random choices to meet arbitrary man-made standards.
 
-The true narrow path is in fact the easiest one as it is straight and narrow with no deviations or detours, it leads straight from captivities to the promised land. On it, God takes us home on <a href="{{ site.url }}{% post_url 2016-11-01-Exodus-19-04-25 %}"><em>wings of eagles</em></a> (Exodus 19:4).
+The true narrow path is in fact the easiest one as it is straight and narrow with no deviations or detours, it leads straight from captivities to the promised land. On it, God takes us home on <a href="{{ site.url }}{% post_url articles/2016-11-01-Exodus-19-04-25 %}"><em>wings of eagles</em></a> (Exodus 19:4).
 
 However this narrow path may prove difficult to those who walk by the flesh&mdash;keep in mind that it is not about falling into sinful temptations, but about using fleshly efforts to draw near to God&mdash;. As this article attempts to show that the difficulties lie not in trying circumstances, but in the choice that one makes. Those who rely on the law, or the works of it, or the obedience of the flesh, have much to lose like the rich young ruler who met Jesus in Matthew 19:16-22. Without works as their trophies they cannot boast from their self righteousness.
 

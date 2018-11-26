@@ -12,7 +12,7 @@ teaser: "How do we disciple a new believer, one who first discovered that Jesus 
 
 {{ page.teaser | markdownify }}
 
-<a href="{{ site.url }}{% post_url 2017-04-05-Hieu-Biet-Su-Tha-Thu %}"><em>(Bấm vào đây để đọc tiếng Việt)</em></a>
+<a href="{{ site.url }}{% post_url articles-viet/2017-04-05-Hieu-Biet-Su-Tha-Thu %}"><em>(Bấm vào đây để đọc tiếng Việt)</em></a>
 
 {% include toc.html %}
 

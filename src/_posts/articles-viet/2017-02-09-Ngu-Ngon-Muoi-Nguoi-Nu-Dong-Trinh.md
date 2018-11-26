@@ -21,8 +21,6 @@ comments: true
 
 {% include toc.html %}
 
-<!-- a href="{{ site.url }}{% post_url 2016-12-29-Su-vang-loi %}"><em>(Bấm vào đây để đọc tiếng Việt)</em></a -->
-
 ## Hãy tỉnh thức
 
 <img alt src="{{ site.url }}/assets/images/ten-virgins-teaser.jpg" style="border: 1px solid #cccccc; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;">

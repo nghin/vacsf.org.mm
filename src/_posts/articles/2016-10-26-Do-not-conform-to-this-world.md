@@ -17,7 +17,7 @@ comments: true
 {% include toc_spacer.html %}
 {% include bible-study/meditations %}
 
-<a href="{{ site.url }}{% post_url 2016-10-26-Dung-lam-theo-doi-nay %}"><em>(Bấm vào đây để đọc tiếng Việt)</em></a>
+<a href="{{ site.url }}{% post_url articles-viet/2016-10-26-Dung-lam-theo-doi-nay %}"><em>(Bấm vào đây để đọc tiếng Việt)</em></a>
 
 ## The world, the flesh, and sin
 

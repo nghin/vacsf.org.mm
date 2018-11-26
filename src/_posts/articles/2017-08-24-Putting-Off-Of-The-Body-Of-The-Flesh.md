@@ -14,7 +14,7 @@ comments: true
 {% include toc.html %}
 
 ## Coram Deo
-<a href="{{ site.url }}{% post_url 2017-08-24-Putting-Off-Of-The-Body-Of-The-Flesh-Viet %}"><em>(Bấm vào đây để đọc tiếng Việt)</em></a>
+<a href="{{ site.url }}{% post_url articles-viet/2017-08-24-Putting-Off-Of-The-Body-Of-The-Flesh-Viet %}"><em>(Bấm vào đây để đọc tiếng Việt)</em></a>
 
 <img alt src="{{ site.url }}/assets/images/putting-off-of-the-body-of-the-flesh-teaser.jpg" style="border: 1px solid #cccccc; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;">
 An article of a similar topic was written previously under the title ["Mortify The Deeds Of The Flesh."](http://vacsf.org/articles/Mortify-the-Deeds-of-the-Flesh/) This article is not a rewrite, but another look at it from a different angle based on a different verse. It is inspired from a sermon I heard at a Summer camp based on Colossians 2:11-12. During the sermon, the speaker refered to R. C. Sproul's Coram Deo on the same verse. Interestingly, as I queried the world wide web to take the pulse of the general population in how they interpret these verses, R. C. Sproul's Coram Deo on Colossians 2:11-12 showed up as follows:

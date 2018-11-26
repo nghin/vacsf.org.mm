@@ -13,7 +13,7 @@ comments: true
 
 Christians usually are advised to examine themselves in preparation for the communion based on the passage in 1 Corinthians 11, but most assuredly the passage they should base it on is Matthew 26 which recorded what is known as The Lord's Supper, which in turn should be understood from the context of the Passover.
 
-<a href="{{ site.url }}{% post_url 2017-02-18-Tiec-Thanh %}"><em>(Bấm vào đây để đọc tiếng Việt)</em></a>
+<a href="{{ site.url }}{% post_url articles-viet/2017-02-18-Tiec-Thanh %}"><em>(Bấm vào đây để đọc tiếng Việt)</em></a>
 
 ## Matthew 26:17-30
 

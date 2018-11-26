@@ -111,7 +111,7 @@ exclude:
 
 # Plugins
 
-gems:
+plugins:
   - jekyll-archives
   - jekyll-sitemap
   - jekyll-tagging-related_posts

@@ -13,7 +13,7 @@ Most people cite Galatians 6:2 as the definition for the new law of Christ: <em>
 
 {% include toc.html %}
 
-<a href="{{ site.url }}{% post_url 2016-11-22-luat-phap-cua-Dang-Christ %}"><em>(Bấm vào đây để đọc tiếng Việt)</em></a>
+<a href="{{ site.url }}{% post_url articles-viet/2016-11-22-luat-phap-cua-Dang-Christ %}"><em>(Bấm vào đây để đọc tiếng Việt)</em></a>
 
 ## The purpose of the law
 

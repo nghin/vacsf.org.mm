@@ -18,7 +18,7 @@ comments_locked: false
 
 {{ page.excerpt | markdownify }}
 
-[(<em>Bấm vào đây để đọc tiếng Việt</em>)]({{ site.url }}{% post_url 2015-05-17-Ro-ma-Chuong-04 %})
+[(<em>Bấm vào đây để đọc tiếng Việt</em>)]({{ site.url }}{% post_url bible-studies-Viet/Romans/2015-05-17-Ro-ma-Chuong-04 %})
 
 ## The law and boasting — Faith is enough
 

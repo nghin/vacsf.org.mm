@@ -23,7 +23,7 @@ comments: true
 {% include toc_spacer.html %}
 {% include bible-study/meditations %}
 
-<a href="{{ site.url }}{% post_url 2016-08-08-Chong-tra-toi-loi  %}"><em>(Bấm vào đây để đọc tiếng Việt)</em></a>
+<a href="{{ site.url }}{% post_url articles-viet/2016-08-08-Chong-tra-toi-loi  %}"><em>(Bấm vào đây để đọc tiếng Việt)</em></a>
 
 ## Introduction
 
