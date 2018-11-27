@@ -1,10 +1,10 @@
 ---
 title: "To Be Born Again"
 excerpt: "You must have heard people refer to themselves as born-again Christians, but what does it really mean to be born again?"
-modified: 2018-06-18T12:14:45-04:00
+modified: 2018-10-18T12:14:45-04:00
 image:
   teaser: born-again-teaser.jpg
-tags: [submission, surrender, authority, flesh, spirit, slavery] 
+tags: [rebirth, flesh, spirit, eternal-life, water] 
 featured: true
 comments: true
 ---
@@ -13,7 +13,7 @@ comments: true
 
 {% include toc.html %}
 
-<a href="{{ site.url }}{% post_url articles-viet/2018-05-08-The-Old-and-the-New-Viet %}"><em>(Bấm vào đây để đọc tiếng Việt)</em></a>
+<a href="{{ site.url }}{% post_url articles-viet/2018-06-22-To-Be-Born-Again-Viet %}"><em>(Bấm vào đây để đọc tiếng Việt)</em></a>
 
 ## Nicodemus
 <img alt src="{{ site.url }}/assets/images/born-again-teaser.jpg" style="border: 1px solid #cccccc; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;">
@@ -39,7 +39,7 @@ But this is not a prescription to either Jews or Gentiles for an admission to th
 
 >  <sup>5</sup>Jesus answered, "I tell you the solemn truth, unless a person is born of water and spirit, he cannot enter the kingdom of God.  ...  <sup>7</sup> Do not be amazed that I said to you, 'You must all be born from above.' (John 4:5,7)
 
-The answer is NO. This rebirth is from above, by the spirit of God. Even the person who experiences this rebirth does not know how it comes about. This is how it is different from the experiences of either the Israelites or in the common perception of most Christians. Yet when asked in our Sunday School class for a definition of the meaning of the term "born again," the answer of most never failed to point to an expectation of some positive changes in something they do or in their lifestyle.
+The answer is NO. This rebirth is from above, by the spirit of God. Even the person who experiences this rebirth does not know how it comes about. This is how it is different from the experiences of either the Israelites or in the common perception of most Christians. This must be the reason why when asked in our Sunday School class for a definition of the meaning of the term "born again," the answer of most never failed to point to an expectation of some positive changes in something they do or in their lifestyle.
 
 At least in Nicodemus' experience, his rebirths were more well defined and agreed upon by most if not all Israelites. The Christians on the contrary cannot point their finger at something that can define their rebirth, so they keep chasing it until they become resigned to the possibility that it's just a nice theological term to be preached on ad nauseam without producing any lasting effect.
 
