@@ -23,7 +23,7 @@ In the gospel of John, chapter 3, it is recorded of a man named Nicodemus, who w
 
 Having seen Jesus perform miracles that had never been done before, and having heard him debate the teachers of the law as well as teach the common folks with such authority, he felt a strange but wonderful sense of hope rising up in his heart. He pondered if this man might be the Messiah that our people have been waiting for?
 
-## Born again
+## Born by flesh
 
 > <sup>3</sup> Jesus replied, "I tell you the solemn truth, unless a person is born from above, he cannot see the kingdom of God."  <sup>4</sup> Nicodemus said to him, "How can a man be born when he is old? He cannot enter his mother's womb and be born a second time, can he?" (John 3:3-4)
 
@@ -33,7 +33,9 @@ In his Jewish tradition, Nicodemus had experienced being born again several time
 
 Note that in the mindset of a Jew, a rebirth has to do with a transition from one position in life to another as in Nicodemus' experience. This is not much different from the way many Christians think of a rebirth: you used to do something, now you do something else. You used to spend the weekends in worldly pursuits, now you spend time in the Word, in fellowship with other believers and worshipping God. And many other positive changes that must occur as a proof of one's rebirth.
 
-But this is not a prescription to either Jews or Gentiles for an admission to the kingdom of God according to Jesus.
+
+
+According to Jesus, this is not a prescription to either Jews or Gentiles for an admission to the kingdom of God.
 
 ## Born from above
 

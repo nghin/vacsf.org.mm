@@ -1,6 +1,6 @@
 ---
 title: "Change My Heart Oh God"
-excerpt: "The title of a popular Christian song that expresses the desire for change in a believer's heart. This crying out from deep within of large majority of believers is emblematic of their understanding of the gospel. How do they expect their hearts to be changed? This article will show where the real issues are and a real and realizable answer to a yearning that may not need to be."
+excerpt: "The title of a popular Christian song that expresses the desire for change in a believer's heart. This crying out from deep within of large majority of believers is emblematic of their understanding of the gospel. How do they expect their hearts to be changed? This article will show where the real issues are and a real and realizable answer to a yearning, a thirst that should have been quenched by the water of l."
 modified: 2017-09-14T12:14:45-04:00
 image:
   teaser: Change-my-heart-oh-God-teaser.jpg
@@ -14,11 +14,11 @@ comments: true
 
 {% include toc.html %}
 
-<!-- a href="{{ site.url }}{% post_url articles-viet/2017-10-12-Work-Out-Your-Own-Salvation-Viet %}"><em>(Bấm vào đây để đọc tiếng Việt)</em></a -->
+<a href="{{ site.url }}{% post_url articles-viet/2018-01-12-Change-My-Heart-Oh-God-Viet %}"><em>(Bấm vào đây để đọc tiếng Việt)</em></a>
 
 ## The initial joy of salvation
 <img alt src="{{ site.url }}/assets/images/Change-my-heart-oh-God-teaser.jpg" style="border: 1px solid #cccccc; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;">
-Though I didn't walk down the aisle to answer the call to place my trust in Christ in the manner commonly observed at evangelistic events, there were tears streaming down my face, there was a lightness of being as I felt my soul being cleansed from the burden of sin, there was a profound sense of being loved by a power external to my heart that caused me to tremble in a strange but wonderful gladness, and a waterfall of joy that flooded my being. But this is by no means more special or valid than the experiences of others that may be more subtle, and perhaps more from the mind than the heart.  I believe God gives each person an entrance into his kingdom in as unique a way as the individuality that he skillfully crafted into them. Yet for those whose conversion to Christianity is less than spectacular, they yearn for the glorious experiences just the same.
+Though I didn't walk down the aisle to answer the call to place my trust in Christ in the manner commonly observed at evangelistic events, there were tears streaming down my face, there was a lightness of being as I felt my soul being cleansed from the burden of sin, there was a profound sense of being loved by a power external to my heart that caused me to tremble in a strange but wonderful gladness, and a waterfall of joy that flooded my being. But this is by no means more special or valid than the experiences of others that may be more subtle, and perhaps more from the mind than the heart.  I believe God gives each person an entrance into his kingdom in as unique a way as the individuality that he skillfully crafted into them. Yet for those whose conversion to Christianity is less than spectacular, they yearn for the glorious experiences that they heard from other's t.
 
 But no matter how glorious the initial joy of salvation might have been, it's not meant to last forever. Most testimonies only record the mountain top moments, and though they're far and few in between what commonly experienced by the large majority of Christians, they're often cited as the standard against which we must measure our faith. Shortly after the glorious moment of conversion, the Christian begins to wonder if their heart might have grown cold, if they might have failed God, that there might be something more that they missed, and there's more to be done.
 
@@ -52,7 +52,7 @@ All things means exactly that: ALL things. All things you need for godliness and
 
 So are you in Christ? If you are, your soul can rest, your work is done, the work of believing in the One God has sent (John 6:29).
 
-If God has fully accepted you, he must have also fully accepted your heart. But the peculiar thing is week in, week out, this heart still cries out to God to be changed. How can it be that a child of God who is so loved and accepted by God still find it difficult to love and accept himself? Were it the Lord's will to change the believer's heart, wouldn't he be the best one to know when and how to get it done? The Lord is the molder and his subject is but clay in his hand. If he's pleased of the state of his creation, who are we to question his work, or to hurry his hand?
+If God has fully accepted you, he must have also fully accepted your heart. Then why week in, week out, your heart still cries out to God to be changed? How can it be that a child of God who is so loved and accepted by God still find it difficult to love and accept himself? Were it the Lord's will to change the believer's heart, wouldn't he be the best one to know when and how to get it done? The Lord is the molder and his subject is but clay in his hand. If he's pleased of the state of his creation, who are we to question his work, or to hurry his hand?
 
 > ... Now he has reconciled you by his physical body through death to present you holy, without blemish, and blameless before him -  if indeed you remain in the faith, established and firm, without shifting from the hope of the gospel that you heard (Colossians 1:22-23).
 
