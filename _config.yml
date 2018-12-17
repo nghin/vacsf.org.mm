@@ -12,7 +12,7 @@ words_per_minute : 200
 title_separator  : "×"
 
 repository       : "nghin/vacsf.org.mm"
-url              : "http://vacsf.org"
+url              : "https://vacsf.org"
 # url              : "https://localhost:4000"
 
 
