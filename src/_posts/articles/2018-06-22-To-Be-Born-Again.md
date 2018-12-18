@@ -1,10 +1,10 @@
 ---
 title: "To Be Born Again"
 excerpt: "You must have heard people refer to themselves as born-again Christians, but what does it really mean to be born again?"
-modified: 2018-06-18T12:14:45-04:00
+modified: 2018-10-18T12:14:45-04:00
 image:
   teaser: born-again-teaser.jpg
-tags: [submission, surrender, authority, flesh, spirit, slavery] 
+tags: [rebirth, flesh, spirit, eternal-life, water] 
 featured: true
 comments: true
 ---
@@ -13,7 +13,7 @@ comments: true
 
 {% include toc.html %}
 
-<a href="{{ site.url }}{% post_url articles-viet/2018-05-08-The-Old-and-the-New-Viet %}"><em>(Bấm vào đây để đọc tiếng Việt)</em></a>
+<a href="{{ site.url }}{% post_url articles-viet/2018-06-22-To-Be-Born-Again-Viet %}"><em>(Bấm vào đây để đọc tiếng Việt)</em></a>
 
 ## Nicodemus
 <img alt src="{{ site.url }}/assets/images/born-again-teaser.jpg" style="border: 1px solid #cccccc; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;">
@@ -23,7 +23,7 @@ In the gospel of John, chapter 3, it is recorded of a man named Nicodemus, who w
 
 Having seen Jesus perform miracles that had never been done before, and having heard him debate the teachers of the law as well as teach the common folks with such authority, he felt a strange but wonderful sense of hope rising up in his heart. He pondered if this man might be the Messiah that our people have been waiting for?
 
-## Born again
+## Born by flesh
 
 > <sup>3</sup> Jesus replied, "I tell you the solemn truth, unless a person is born from above, he cannot see the kingdom of God."  <sup>4</sup> Nicodemus said to him, "How can a man be born when he is old? He cannot enter his mother's womb and be born a second time, can he?" (John 3:3-4)
 
@@ -33,13 +33,15 @@ In his Jewish tradition, Nicodemus had experienced being born again several time
 
 Note that in the mindset of a Jew, a rebirth has to do with a transition from one position in life to another as in Nicodemus' experience. This is not much different from the way many Christians think of a rebirth: you used to do something, now you do something else. You used to spend the weekends in worldly pursuits, now you spend time in the Word, in fellowship with other believers and worshipping God. And many other positive changes that must occur as a proof of one's rebirth.
 
-But this is not a prescription to either Jews or Gentiles for an admission to the kingdom of God according to Jesus.
+
+
+According to Jesus, this is not a prescription to either Jews or Gentiles for an admission to the kingdom of God.
 
 ## Born from above
 
 >  <sup>5</sup>Jesus answered, "I tell you the solemn truth, unless a person is born of water and spirit, he cannot enter the kingdom of God.  ...  <sup>7</sup> Do not be amazed that I said to you, 'You must all be born from above.' (John 4:5,7)
 
-The answer is NO. This rebirth is from above, by the spirit of God. Even the person who experiences this rebirth does not know how it comes about. This is how it is different from the experiences of either the Israelites or in the common perception of most Christians. Yet when asked in our Sunday School class for a definition of the meaning of the term "born again," the answer of most never failed to point to an expectation of some positive changes in something they do or in their lifestyle.
+The answer is NO. This rebirth is from above, by the spirit of God. Even the person who experiences this rebirth does not know how it comes about. This is how it is different from the experiences of either the Israelites or in the common perception of most Christians. This must be the reason why when asked in our Sunday School class for a definition of the meaning of the term "born again," the answer of most never failed to point to an expectation of some positive changes in something they do or in their lifestyle.
 
 At least in Nicodemus' experience, his rebirths were more well defined and agreed upon by most if not all Israelites. The Christians on the contrary cannot point their finger at something that can define their rebirth, so they keep chasing it until they become resigned to the possibility that it's just a nice theological term to be preached on ad nauseam without producing any lasting effect.
 
