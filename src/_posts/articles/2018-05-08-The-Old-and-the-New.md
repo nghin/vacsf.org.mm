@@ -5,7 +5,7 @@ modified: 2018-05-14T12:14:45-04:00
 image:
   teaser: old-vs-new.jpg
 tags: [covenant, law, grace, salvation, sanctification, righteousness, sacrifices, offerings, worship, devotion] 
-featured: true
+featured: false
 comments: true
 
 ---
