@@ -13,7 +13,7 @@ comments: true
 
 {% include toc.html %}
 
-<!--a href="{{ site.url }}{% post_url articles-viet/2018-06-16-7-Days-Until-Christ-Returns-Viet %}"><em>(Bấm vào đây để đọc tiếng Việt)</em></a-->
+<a href="{{ site.url }}{% post_url articles-viet/2018-12-05-Awake-O-Sleeper-Viet %}"><em>(Bấm vào đây để đọc tiếng Việt)</em></a>
 
 ## Not applicable
 <img alt src="{{ site.url }}/assets/images/awake-o-sleeper-teaser.jpg" style="border: 1px solid #cccccc; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;">
@@ -23,11 +23,11 @@ Ephesians 5:14, which is a direct quote of Isaiah 51:17: *"Awake, O sleeper! Ris
 
  In John 11:1-44 where Jesus raised Lazarus from the dead, he spoke: *"Lazarus, come forth."* Do you think Jesus waited for Lazarus to hear his call and to make a decision whether he should come out or not? There is no way a man who had been dead for four days would be able to hear the call and walk out of his tomb. It was more for the observers around him at that time, Lazarus' sister Martha and perhaps others who were present there to know what was about to take place, a miracle that they had never seen before, a demonstration of the power of God, and ultimately the announcement of the coming of a new era, the introduction of the New Covenant between God and Man.
  
-Therefore it can be asserted that this verse, Isaiah 51:17, cannot be used for evangelistic purposes, let alone to be used to wake those who are already alive in Christ. For all practical intents and purposes, it's an announcement of what is to come, not a call.
+Therefore it can be asserted that this verse, Isaiah 51:17, cannot be used for evangelistic purposes, neither should it be used to wake those who are already alive in Christ. For all practical intents and purposes, it's an announcement of what is to come.
 
 ## For sanctification?
 
-What can be the application of Isaiah 51:17 to believers? To wake them up from their spiritual lethargy? Even assuming that it is scripturally correct to do so, what is the success rate? Practically zero in my experience. But it's not even scripturally correct, unless you hold the theology that believers, most of them, are still dead, which means Christ's death on the cross was in vain, that they're still in their sins (1 Corinthians 15:17).
+What can be the application of Isaiah 51:17 to believers? To wake them up from their spiritual lethargy? Even assuming that it is scripturally correct to do so, what is the success rate? Practically zero in my experience. But it's not even scripturally correct as the attempt to apply this verse to believers assums a theology that believers, at least most of them, are still dead, which means Christ's death on the cross was in vain, that they're still in their sins (1 Corinthians 15:17).
 
 ## It's a prophecy
 
@@ -41,7 +41,7 @@ If we're more than conquerors according to Romans 8:37, how can it be that someo
 
 > And if Christ has not been raised, your faith is useless; you are still in your sins. (1 Corinthians 15:17)
 >
-> Now if we died with Christ, we believe that we will also live with him. (Romans 6:8)
+> Now if we died with Christ, we believe that we will also live with him.  We know that since Christ has been raised from the dead, he is never going to die again; death no longer has mastery over him.. (Romans 6:8-9)
 >
 > Therefore we have been buried with him through baptism into death, in order that just as Christ was raised from the dead through the glory of the Father, so we too may live a new life. (Romans 6:4)​	
 
@@ -74,6 +74,8 @@ The call for dead souls to awake from their slumber of death no longer applies t
 It's a big deal because if the critical matter of assurance of salvation cannot be settled, the believers will spend the rest of their lives trying to achieve what Christ already accomplished for them. They will be like a dog chasing its own tail, toiling in the circle of frustration.
 
 Though the believers may at times grow weary, or become drowsy and fall asleep as the time of Christ's second coming may not happen in their lifetime, they don't need to be awakened as if they might be in a sleep of death. No matter what state they might be in, their place in the heart of God is secure as it is signed and sealed by the blood of the Lamb of God and the very breath of Life of the Holy Spirit just as it was when he breathed into the nostril of Adam and he became a living being. No matter what their temporal state might be, living in peace and tranquility with good health, or attacked from all sides by circumstances beyond their feeble attempt to control, there is a certainty in their hearts of their perfect standing before the Most High God as they're fully clothed in the righteousness of Christ.
+
+A misapplication of Isaiah 51:17 may be consequential in that the central focus of the verse is shifted from what God will do to what man will try to achieve, from God's immovable plan of salvation to man's futile attempt to achieve what only Christ can. One brings hope, the other brings hopelessness. How this little verse is interpreted can tell you a lot about the ministry that uses it.
 
 Grace and peace be with you.
 
