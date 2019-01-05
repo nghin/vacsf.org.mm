@@ -5,7 +5,7 @@ modified: 2018-05-14T12:14:45-04:00
 image:
   teaser: old-vs-new.jpg
 tags: [giao-ước, luật-pháp, ân-điển, cứu-rỗi, nên-thánh, công-bình, hy-sinh, dâng-hiến, thờ-phượng, tin-kính] 
-featured: true
+featured: false
 comments: true
 
 ---

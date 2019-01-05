@@ -5,7 +5,7 @@ modified: 2017-09-14T12:14:45-04:00
 image:
   teaser: what-is-good-teaser.jpg
 tags: [việc-làm, đức-tin, ân-điển, công-bình] 
-featured: true
+featured: false
 comments: true
 ---
  
