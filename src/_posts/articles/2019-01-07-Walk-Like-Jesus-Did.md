@@ -81,7 +81,7 @@ Can we say the same thing of fallen humanity? We face a never-ending struggle wi
 #### Luke 23:34
 > But Jesus said, “Father, forgive them, for they don’t know what they are doing.”
 
-There is no doubt Jesus forgave those who had committed unspeakable acts against him, but this does not imply this is what we can or should do.
+There is no doubt Jesus forgave those who had committed unspeakable acts against him, but this does not imply this is what we must or have the ability to do.
 
 #### Matthew 6:12
 > and forgive us our debts, as we ourselves have forgiven our debtors.
@@ -95,13 +95,13 @@ Jesus being Love himself is more than capable to forgive as he did. And more tha
 
 ## In conclusion
 
-Let's review the various things we learn about Jesus. He is God. He is a sinless man. He can forgive sins, the kind of forgiveness that can bridge the gap between God and Man. He can raise the dead. He can heal the sick, the kind of sickness that only the Messiah can heal. Sickness such as leprosy, blindness since birth, or other severe illness. He made enough food from a few man's lunch to feed thousands. He died on the cross to carry the weight of the sins of the world. He rose from the dead.
+Let's review the various things we learn about Jesus. He is God. He is a sinless man. He can forgive sins with the kind of forgiveness that can bridge the gap between God and Man. He can raise the dead. He can heal the sick, those with the kind of sickness that only the Messiah can heal. Such sickness as leprosy, blindness since birth, or other severe illness. He made enough food from a few man's lunch to feed thousands. He died on the cross to carry the weight of the sins of the world. He rose from the dead.
 
-The premise of the bookmark is: "The one who says he resides in God ought himself to walk just as Jesus walked." Shouldn't this rule include all attributes of Jesus listed above? Why pick and choose only from those in the bookmark? But according to each rebuttal shown for the bookmark above, Man can't even imitate any of those attributes.
+The premise of the bookmark is: "The one who says he resides in God ought himself to walk just as Jesus walked." Can you walk just as he did? Why pick and choose only from those in the bookmark? Those that seem to be within their grasp yet are still impossible to fallen Man.
 
 > For the flesh has desires that are opposed to the Spirit, and the Spirit has desires that are opposed to the flesh, for these are in opposition to each other, so that you cannot do what you want. (Galatians 5:17)
 
-To ask Christians to do what only Christ can do is to hold them captive for a lifetime of frustration. Their belief in eternal security will always be shaky ground. Frequent tripping over the high bar of imitating Christ creates doubt nonetheless. This sort of teaching takes the believer's eyes off of Christ. They may start out studying Christ, but eventually, their eyes will return to themselves. That is what the law does. Faith focuses one's eyes upon Christ, but the law draws them toward self.
+To ask Christians to do what only Christ can do is to hold them captive for a lifetime of frustration. Their belief in eternal security will always be on shaky ground. Frequent tripping over the high bar of imitating Christ creates doubt nonetheless. This sort of teaching takes the believer's eyes off of Christ. They may start out studying Christ, but eventually, their eyes will return to themselves. That is what the law does. Faith focuses one's eyes upon Christ, but the law draws them toward self.
 
 We would do well to view virtues promoted by the bookmark as the fruit of the Spirit which can only be born from above. Fruits imply the person from whom they came had no prior knowledge of their appearance. The more they focus upon their fruit, the more failure they will experience, but if they fix their eyes on Christ, it will be God who will bear fruit in them.
 
