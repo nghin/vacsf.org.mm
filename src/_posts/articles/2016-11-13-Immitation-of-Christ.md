@@ -4,7 +4,7 @@ excerpt: "Imitation of Christ &mdash; Thomas A. Kempis Can Man Really Imitate Go
 modified: 2016-11-19T12:14:45-04:00
 image: 
   teaser: Imitating-Christ-teaser.jpg
-tags: [spirit, flesh]
+tags: [spirit, flesh, imitation]
 featured: false
 comments: true
 ---

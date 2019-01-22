@@ -5,7 +5,7 @@ modified: 2018-06-18T12:14:45-04:00
 image:
   teaser: 7-days-teaser.jpg
 tags: [salvation, readiness, faith, assurance, condemnation] 
-featured: true
+featured: false
 comments: true
 
 
