@@ -54,13 +54,15 @@ What do Scriptures say about "The Narrow Path?" *(Kinh thánh nói gì về "Con
 
 **Question**: What then is the purpose of the law? *(Hỏi: Vậy thì mục đích của luật pháp là gì?)*
 
-**It is written**: Now we know that whatever the law says, it says to those who are under the law, so that every mouth may be silenced and the whole world held accountable to God. Therefore no one will be declared righteous in God’s sight by the works of the law; rather, through the law we become conscious of our sin *(Kinh thánh viết:  Vả, chúng ta biết rằng những điều mà luật pháp nói, là nói cho mọi kẻ ở dưới luật pháp, hầu cho miệng nào cũng phải ngậm lại, cả thiên hạ đều nhận tội trước mặt Đức Chúa Trời; vì chẳng có một người nào bởi việc làm theo luật pháp mà sẽ được xưng công bình trước mặt Ngài, vì luật pháp cho người ta biết tội lỗi. - Romans 3:19-20)*.
+**It is written** *(Kinh thánh viết)*:
+
+> Now we know that whatever the law says, it says to those who are under the law, so that every mouth may be silenced and the whole world held accountable to God. Therefore no one will be declared righteous in God’s sight by the works of the law; rather, through the law we become conscious of our sin *(Kinh thánh viết:  Vả, chúng ta biết rằng những điều mà luật pháp nói, là nói cho mọi kẻ ở dưới luật pháp, hầu cho miệng nào cũng phải ngậm lại, cả thiên hạ đều nhận tội trước mặt Đức Chúa Trời; vì chẳng có một người nào bởi việc làm theo luật pháp mà sẽ được xưng công bình trước mặt Ngài, vì luật pháp cho người ta biết tội lỗi. - Romans 3:19-20)*.
 
 **Question**: Who are under the law? **Answer**: Everyone, those who have not accepted Christ as their Savior *(Hỏi: Ai là những kẻ ở dưới luật pháp? Trả lời: Cả thế gian, tất cả những người chưa tin nhận Chúa Giê-su là Cứu Chúa)*.
 
 **Question**: What role then does the law play in the life of believers? *(Hỏi: Vậy luật pháp đóng vai trò gì  trong đời sống những kẻ tin?)*
 
-**It is written** *(Kinh thánh chép)*:  
+**It is written** *(Kinh thánh viết)*:  
 
 > Before the coming of this faith, we were held in custody under the law, locked up until the faith that was to come would be revealed *(Trước khi đức tin chưa đến, chúng ta bị nhốt dưới sự canh giữ của luật pháp mà chờ đức tin phải bày ra - Galatians 3:23)*.
 >
@@ -86,7 +88,7 @@ What do Scriptures say about "The Narrow Path?" *(Kinh thánh nói gì về "Con
 >
 > And if by grace, then it cannot be based on works; if it were, grace would no longer be grace *(Nhưng nếu bởi ơn thì chẳng phải bởi việc làm nữa; bằng chẳng, thì ơn không còn phải là ơn - Romans 11:6)*.
 
-**Question** How does reliance on obedience to the law affect one's faith in God? *(Hỏi: Sự nương cậy vào luật pháp có ảnh hưởng gì đến đức tin?
+**Question** How does reliance on obedience to the law affect one's faith in God? *(Hỏi: Sự nương cậy vào luật pháp có ảnh hưởng gì đến đức tin?)*
 
 **It is written** *(Kinh thánh viết)*
 
@@ -94,7 +96,7 @@ What do Scriptures say about "The Narrow Path?" *(Kinh thánh nói gì về "Con
 
 ## In conclusion - *Kết luận* 
 
-The narrow path that Jesus spoke of is the path of faith apart from the law *(Con đường hẹp mà Chúa Giê-su nói đến là con đường của đức tin không lệ thuộc vào luật pháp
+The narrow path that Jesus spoke of is the path of faith apart from the law *(Con đường hẹp mà Chúa Giê-su nói đến là con đường của đức tin không lệ thuộc vào luật pháp)*
   
 > Therefore no one will be declared righteous in God’s sight by the works of the law; rather, through the law we become conscious of our sin. But now apart from the law the righteousness of God has been made known, to which the Law and the Prophets testify. This righteousness is given through faith in Jesus Christ to all who believe *(Sự công bình của Đức Chúa Trời được bày tỏ ra ngoài luật pháp cho mọi kẻ tin. Vì chẳng có việc làm nào theo luật pháp mà được xưng công bình trước mặt Đức Chúa Trời - Romans 3:20 -22)*.
 
