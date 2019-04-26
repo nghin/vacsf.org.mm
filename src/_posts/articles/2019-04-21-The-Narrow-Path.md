@@ -102,4 +102,9 @@ The narrow path that Jesus spoke of is the path of faith apart from the law *(Co
 
 At this point, it should become clear what God wants to convey to us through Paul. May God's grace always be your greatest blessings *(Đến đây, chắc chắn chúng ta phải được sáng tỏ về điều Chúa muốn truyền đạt cho chúng ta qua Phao-lô. Nguyền xin ân điển Chúa mãi luôn là nguồn phước lớn nhất cho các bạn đọc)*.
 
-{% include bible-study/bible-study-footer %}
+*Ngô Vui*
+
+<!-- {% include bible-study/bible-study-footer %} -->
+<p abp="1999" style="text-align: left;"><em abp="2000" style="color: #666666;"><span abp="2001" style="font-size: 10pt;">
+- Scripture quoted by permission. All scripture quotations, unless otherwise indicated, are taken from the NET Bible® copyright ©1996-2006 by Biblical Studies Press, L.L.C. All rights reserved.</span></em></p>
+<div class="alert-box text radius"><p><em abp="2000" style="color: #888888;"><span abp="2001" style="font-size: 10pt;">Disclaimer: This is my own opinion on the topic, which does not necessarily reflect the church's theology, or beliefs of the individuals in it — Nghi Nguyen</span></em></p></div>
