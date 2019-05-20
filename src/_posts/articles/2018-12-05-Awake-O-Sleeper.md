@@ -5,7 +5,7 @@ modified: 2018-12-10T12:14:45-04:00
 image:
   teaser: awake-o-sleeper-teaser.jpg
 tags: [salvation, awakening, death, work, faith] 
-featured: true
+featured: false
 comments: true
 ---
 
