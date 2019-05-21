@@ -150,7 +150,7 @@ The perpetual quest of man to reach perfection through their own flesh effort pr
 
 > Where, then, is boasting? It is excluded. Because of what law? The law that requires works? No, because of the law that requires faith. (Romans 3:27)
 
-Here, then lies the cure for the incurable perfectionist: Christ has already made syou perfect through his redemption on the cross. Christ has set you free so you may know him.
+Here, then lies the cure for the incurable perfectionist: Christ has already made you perfect through his redemption on the cross. Christ has set you free so you may know him.
 
 If the Be-Ye-Perfect command, or any among the Ten Commandments, or any command that has dwelled in man's conscience since they acquired the knowledge of good and evil in the garden of Eden, must be fulfilled by candidates for the kingdom of God, no one will enter it. Don't even try, and don't teach others to do what you can't do.
 
