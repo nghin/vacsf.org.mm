@@ -74,7 +74,7 @@ I believe the true will of God is the description of the indescribable inheritan
 
 Do you see the significance of this verse? God gave us many foreshadows of rest only to point to the ultimate rest from the work of restoring man's fellowship with God. The Sabbath gave the Israelite physical rest, but it points to our spiritual rest. Jesus spoke often of the rest of those who were heavily burdened, but not at all of the physical burden that must be borne by all of earth dwellers. He talked of the spiritual burden that is borne of a life trying to get right with God.
 
-At the final moment on the cross, Jesus spoke: *"It's finished."* The work of restoring the perfect status of man before God was finished. It was done, some two thousand years ago. If only people accept his finished work and rest in it they would have entered into his peace. But unfortunately, most Christians refuse to enter this rest, much like the Israelite of old who refused to enter the promised land upon their first arrival and ended up going in circles for the next 40 years. This rest is so important that the author of Hebrews calls their refusal to enter the promised land the rebellion.
+At the final moment on the cross, Jesus spoke: *"It's finished."* The work of restoring the perfect status of man before God was finished. It was done, some two thousand years ago. Anyone who accepts his finished work and rest in it, will enter into his peace. But unfortunately, most Christians refuse to enter this rest, much like the Israelite of old who refused to enter the promised land upon their first arrival and ended up going in circles for the next 40 years. This rest is so important that the author of Hebrews calls their refusal to enter the promised land the rebellion.
 
 > So, as the Holy Spirit says: “Today, if you hear his voice, do not harden your hearts as you did in **the rebellion**, during the time of testing in the wilderness, where your ancestors tested and tried me, though for forty years they saw what I did. That is why I was angry with that generation; I said, ‘Their hearts are always going astray, and **they have not known my ways**.’ So I declared on oath in my anger, ‘**They shall never enter my rest**.’ ” (Hebrews 3:7-11)
 
@@ -138,7 +138,7 @@ Verse 23: *"Before the coming of this faith."* This faith is the faith that says
 
 ## Be Ye Perfect
 
-To receive the Holy Spirit means to receive everlasting life, to once again receive the Life that was infused into Adam when God created the world. However, in order for God to indwell your heart, one condition must have been met: you're perfect. But are you? No, you're not, for *"All have sinned and fall short of the glory of God (Romans 3:23),"* and *"None is righteous, no, not one (Romans 3:10),"* and *"all our righteous acts are like filthy rags (Isaiah 64:6)." So, how have you become so pure and sanctified that God could take residence in your heart? Because we all are *"justified freely by his grace through the redemption that came by Christ Jesus (Romans 3:24)."*
+To receive the Holy Spirit means to receive everlasting life, to once again receive the Life that was infused into Adam when God created the world. However, in order for God to indwell your heart, one condition must have been met: you're perfect. But are you? No, you're not, for *"All have sinned and fall short of the glory of God (Romans 3:23),"* and *"None is righteous, no, not one (Romans 3:10),"* and *"all our righteous acts are like filthy rags (Isaiah 64:6)."* So, how have you become so pure and sanctified that God could take residence in your heart? Because we all are *"justified freely by his grace through the redemption that came by Christ Jesus (Romans 3:24)."*
 
 We are perfect because we have been justified, and it is by grace through faith, and not by even the best of our righteous acts.
 
@@ -152,7 +152,7 @@ The perpetual quest of man to reach perfection through their own flesh effort pr
 
 Here, then lies the cure for the incurable perfectionist: Christ has already made you perfect through his redemption on the cross. Christ has set you free so you may know him.
 
-If the Be-Ye-Perfect command, or any among the Ten Commandments, or any command that has dwelled in man's conscience since they acquired the knowledge of good and evil in the garden of Eden, must be fulfilled by candidates for the kingdom of God, no one will enter it. Don't even try, and don't teach others to do what you can't do.
+If the Be-Ye-Perfect command, or any among the Ten Commandments, or any command that has dwelled in man's conscience since they acquired the knowledge of good and evil in the garden of Eden, must be fulfilled by candidates for the kingdom of God, no one will enter it. Don't even try, and don't teach others to do what you can't do. Jesus gave the command *"Be Ye Perfect"*, and many others like it in the Old Covenant context, only to show man's utter helplessness and their need for God's grace and mercies. He wanted to nudge them toward a New Covenant relationship with him.
 
 > <sup>24</sup>What a wretched man I am! Who will rescue me from this body that is subject to death? <sup>25</sup>Thanks be to God, who delivers me through Jesus Christ our Lord! So then, I myself in my mind am a slave to God’s law, but in my sinful nature a slave to the law of sin. (Romans 7:24-25&mdash;NIV)
 
