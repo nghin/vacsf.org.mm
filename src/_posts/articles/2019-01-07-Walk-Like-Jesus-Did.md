@@ -10,20 +10,20 @@ comments: true
 ---
 {{ page.excerpt | markdownify }}
 {% include toc.html %}
-<!--a href="{{ site.url }}{% post_url articles-viet/2018-12-05-Awake-O-Sleeper-Viet %}"><em>(Bấm vào đây để đọc tiếng Việt)</em></a-->
+<a href="{{ site.url }}{% post_url articles-viet/2019-01-07-Walk-Like-Jesus-Did-Viet %}"><em>(Bấm vào đây để đọc tiếng Việt)</em></a>
 
 ## Learning from the best
 
 <img alt src="{{ site.url }}/assets/images/walk-like-jesus-did-teaser.jpg" style="border: 1px solid #cccccc; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;">
 
-Shortly after I became a Christian, "The Immitation of Christ" by Thomas A. Kempis became my first guide on Christian living. Then one day I received a stack of bookmarks with each having the title "Walk Like Jesus Did." A quick glance through it told me I had something great to write about. The bookmark suggests 5 ways in which we can imitate Christ. Let us tackle them one by one.
+Shortly after I became a Christian, "The Immitation of Christ" by Thomas A. Kempis became my first guide on Christian living. Then one day,  decades later, I received a stack of bookmarks with each having the title "Walk Like Jesus Did." A quick glance through it told me I had something great to write about. The bookmark suggests 5 ways, along with supporting Scriptures, in which we can imitate Christ. Let us tackle them one by one.
 
 ## 1. Student of Scriptures
 
 #### Luke 2:46
 > After three days they found him in the temple courts, sitting among the teachers, listening to them and asking them questions.
 
-Nothing in this verse indicates that Jesus went to the temple court to learn Scriptures. It's absurd to think that the author of the Word went to the temple court to learn about Himself. An absurdity that I used to subscribe to without ever questioning. Jesus came to the temple court not to be a student but to be a teacher.
+Nothing in this verse indicates that Jesus went to the temple court to learn Scriptures. It's absurd to think that the author of the Word needed to learn about Himself. An absurdity that I used to subscribe to without ever questioning. Jesus came to the temple court not to be a student but to be a teacher. Though the verse seems to suggest that Jesus asked questions of the teachers of the law, He didn't ask them for his lack of knowledge, but he did with the purpose of calling out their ignorance and hypocrisy.
 
 #### Matthew 4:4,4:7,4:10
 > <sup>4</sup>But he answered, “It is written, ‘Man does not live by bread alone, but by every word that comes from the mouth of God.’”
@@ -55,7 +55,7 @@ From the context of the passage we know that Naaman did not yield to God's will 
 #### John 4:34
 > Jesus said to them, “My food is to do the will of the one who sent me and to complete his work.
 
-It is foolish to think that Jesus has to make a choice between to do or not to do the Father's will. It is not in his divine nature to make such choices.
+It is foolish to think that Jesus has to make a choice between to do or not to do the Father's will. It is not in his divine nature to make such choices. He did all the right things because He is God.
 
 #### 1 John 2:6b
 > The one who says he resides in God ought himself to walk just as Jesus walked.
