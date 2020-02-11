@@ -7,7 +7,7 @@ image:
   teaser: death-deeds.jpg
 tags: [flesh]
 featured: false
-comments: true
+comments: false
 ---
 
 <!--more-->
@@ -211,3 +211,28 @@ There is one "deed," the work of faith, that God allowed and provided for throug
 Have you ever thought that "faith" is the greatest "work" in and of itself? Jesus said it, and I believe it.
 
 {% include bible-study/bible-study-footer %}
+
+## Comments
+*The comment system is currently broken. Please use the contact form for comments*.
+
+### crossroman
+In your web article titled "Mortify the deeds of the flesh" are some serious errors which need to be addressed. The article misses the point, although it touched on it at some time, in one paragraph it says "who wrestles with dead flesh? If indeed the deeds of the flesh could be put to death, then there would be no longer any struggles in the lives of Christians, wouldn't there? And who would want to wrestle with something that is dead?" But that is exactly the point. Jesus put the flesh to death FOR US and this is what we exercise faith in, His mortification of the flesh, "this body of death" (where he was NOT speaking as a Christian by the way) so that we don't have to, because we can't, and if we try to do so he is displeased because that is the whole point of salvation, faith in Him having done it for us!
+
+### Nghi Nguyen
+Dear crossroman. You're exactly right in calling me out on my problematic statement that the flesh cannot be put to death. Your concern is valid in that it's the crux of the frustration that prevents the overwhelmingly large majority of Christian from experiencing the victory that Christ has already achieved for them on the cross.
+
+I wrote this article when I was still rather new to this understanding that brought much joy to my heart, but I believe I can do a much better job now in explaining how I understand this topic. Four years have passed since then. My struggle to explain this topic to my Sunday School class has been extremely valuable in helping me sharpen my presentation of the gospel.
+
+When I question the reader, "If indeed the deeds of the flesh could be put to death," what I really meant was "Do you think you can stop sinning altogether?" I was challenging the majority of teaching that I heard from pulpits, books, and radio, which seems to make sinning less and less the main goal of every Christian.
+
+Self denial is the main goal of Eastern religion if they want to achieve a state of enlightenment, or reaching Nirvana. The Colossians want to achieve a state of death to self also through some forms of denial: Do not handle, do not touch, do not taste." Sadly, this sort of teaching is all pervasive in Christendom.
+
+Why so many are trying to do this? Because they think the less they sin, the closer they can get to God. They mistakenly think that the various sins that they commit are the culprits. But nothing is further from the truth. It's not the sins, but it's the SIN, it's their sin nature that separates them from God. Their sins are but byproducts of their fallen nature. The Vietnamese translation of Ephesians 2:1 demonstrates this faulty understanding. It translates *"As for you, you were dead in your transgressions and sins (NIV)"* into *"As for you, you were dead BECAUSE OF your transgressions and sins."* The change in meaning is profound.
+
+The only thing that can bring them closer to God is their faith in Christ, and the only thing that can drive a wedge between them and God is their unbelief in Him. None of what they do, whether good or bad, can make a difference, and they're all considered "filthy rags." Their sins will wrought them much pain, and their good deeds will bring them much joy, but it's only for the here and now, while for eternity, Christ and their faith in Him is their assurance of salvation.
+
+So the only way to truly mortify the deeds of the flesh is through Christ, and He's already counted that death to sin as ours as we cling to that matchless gift. And so it will be with our resurrection. Our mortal body, that can continue to sin, will be with us until the day we put on immortality (1 Corinthians 15) at the trumpet sound, but until then, we keep looking up, like the Israelites that must look up to the bronze snake that was hung on a pole in the desert despites potential snake bites all around them.
+
+A sister in our church asked for an advise on how to resist advances by a man who frequented her beauty salon. I told her she has to make a choice between looking up to Jesus, or spend all day long thinking about how she could resist him. So it is with the Christians who try to mortify the deeds of the flesh by thinking about them for the rest of their lives, or look to the One who already put them to death on the cross once for all.
+
+I think I kind of wrote something like this at the conclusion part of the article, but I could have done it better. Thank you for posting an excellent comment.

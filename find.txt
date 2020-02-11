@@ -1,0 +1,643 @@
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./.tmp/dist/viet-studies/Quan-Gia/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./.tmp/dist/viet-studies/Hieu-Biet-Su-Tha-Thu/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./.tmp/dist/viet-studies/O-Trong-Toi-Loi/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./.tmp/dist/viet-studies/Tiec-Thanh/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./.tmp/dist/viet-studies/What-Is-Good-Viet/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./.tmp/dist/viet-studies/Lam-dung-an-dien/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./.tmp/dist/viet-studies/Awake-O-Sleeper-Viet/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./.tmp/dist/viet-studies/7-Days-Until-Christ-Returns-Viet/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./.tmp/dist/viet-studies/Dieu-Dang-Quan-Tam-Hon/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./.tmp/dist/viet-studies/Ta-Lang/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./.tmp/dist/viet-studies/The-Godspel-Freer-More-Sanctifying-Viet/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./.tmp/dist/viet-studies/E-phe-so-2-1/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./.tmp/dist/viet-studies/Nguoi-Gieo-Giong/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./.tmp/dist/viet-studies/To-Be-Born-Again-Viet/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./.tmp/dist/viet-studies/Lam-Buon-Thanh-Linh/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./.tmp/dist/viet-studies/Putting-Off-Of-The-Body-Of-The-Flesh-Viet/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./.tmp/dist/viet-studies/Trat-phan-an-dien/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./.tmp/dist/viet-studies/Hau-Viec-Chua/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./.tmp/dist/viet-studies/Dau-Phuc-Chua/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./.tmp/dist/viet-studies/Loi-Cau-Nguyen-cua-Abraham/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./.tmp/dist/viet-studies/Luoi-Ca/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./.tmp/dist/viet-studies/Co-y-pham-toi/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./.tmp/dist/viet-studies/Quan-Kham-Sai/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./.tmp/dist/viet-studies/Walk-Like-Jesus-Did-Viet/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./.tmp/dist/viet-studies/Repentance-From-Dead-Works-Viet/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./.tmp/dist/viet-studies/Dung-lam-theo-doi-nay/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./.tmp/dist/viet-studies/Su-vang-loi/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./.tmp/dist/viet-studies/Yeu-Chua/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./.tmp/dist/viet-studies/Xung-cong-binh-boi-duc-tin-va-viec-lam/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./.tmp/dist/viet-studies/Chong-tra-toi-loi/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./.tmp/dist/viet-studies/Quyen-nang-an-dien/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./.tmp/dist/viet-studies/Self-Denial-Cross-Follow-Jesus-Viet/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./.tmp/dist/viet-studies/Phan-thuong-tren-troi/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./.tmp/dist/viet-studies/Entering-Gods-Rest-Viet/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./.tmp/dist/viet-studies/Lam-chet-cac-viec-cua-chi-the/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./.tmp/dist/viet-studies/Work-Out-Your-Own-Salvation-Viet/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./.tmp/dist/viet-studies/Duong-Hep/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./.tmp/dist/viet-studies/The-Old-and-the-New-Viet/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./.tmp/dist/viet-studies/Chiu-kho-voi-Chua/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./.tmp/dist/viet-studies/Y-Chua/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./.tmp/dist/viet-studies/Theo-guong-Gie-su/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./.tmp/dist/viet-studies/Change-My-Heart-Oh-God-Viet/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./.tmp/dist/viet-studies/Khi-Duoc-Chua-Giai-Thoat/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./.tmp/dist/viet-studies/Xuat-E-gyp-to-19-4-25/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./.tmp/dist/viet-studies/luat-phap-cua-Dang-Christ/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./.tmp/dist/viet-studies/Ngu-Ngon-Muoi-Nguoi-Nu-Dong-Trinh/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./.tmp/dist/ngu-ngon/Quan-Gia/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./.tmp/dist/ngu-ngon/Ta-Lang/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./.tmp/dist/ngu-ngon/Nguoi-Gieo-Giong/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./.tmp/dist/ngu-ngon/Luoi-Ca/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./.tmp/dist/parable/Sower/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./.tmp/dist/parable/The-Net/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./.tmp/dist/parable/Talents/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./.tmp/dist/parable/Evil-Steward/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./.tmp/dist/baptism/in-the-name/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./.tmp/dist/baptism/summary/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./.tmp/dist/baptism/cuu-roi/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./.tmp/dist/baptism/purposes/jesus/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./.tmp/dist/baptism/purposes/apostle/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./.tmp/dist/baptism/purposes/paul/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./.tmp/dist/baptism/purposes/john/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./.tmp/dist/baptism/purposes/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./.tmp/dist/baptism/history/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./.tmp/dist/baptism/muc-dich/chua-gie-su/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./.tmp/dist/baptism/muc-dich/phao-lo/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./.tmp/dist/baptism/muc-dich/giang/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./.tmp/dist/baptism/muc-dich/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./.tmp/dist/baptism/muc-dich/su-do/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./.tmp/dist/baptism/ket-luan/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./.tmp/dist/baptism/trong-danh/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./.tmp/dist/baptism/essential/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./.tmp/dist/baptism/lich-su/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./.tmp/dist/romans/Romans-Chapter-06/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./.tmp/dist/romans/Romans-Chapter-09/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./.tmp/dist/romans/Romans-Chapter-04/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./.tmp/dist/romans/Romans-Chapter-02/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./.tmp/dist/romans/Romans-Chapter-05/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./.tmp/dist/romans/Romans-Chapter-01/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./.tmp/dist/romans/Romans-Chapter-07/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./.tmp/dist/romans/Romans-Chapter-10/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./.tmp/dist/romans/Romans-Chapter-08/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./.tmp/dist/romans/Romans-Chapter-11/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./.tmp/dist/romans/Romans-Chapter-03/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./.tmp/dist/galatians-viet/Ga-la-ti-Chuong-03/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./.tmp/dist/galatians-viet/Ga-la-ti-Chuong-06/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./.tmp/dist/galatians-viet/Ga-la-ti-Chuong-02/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./.tmp/dist/galatians-viet/Ga-la-ti-Chuong-04/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./.tmp/dist/galatians-viet/Ga-la-ti-Chuong-05/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./.tmp/dist/galatians-viet/Ga-la-ti-Chuong-01/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./.tmp/dist/bible-studies-viet/Ro-ma/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./.tmp/dist/bible-studies-viet/Bap-tem/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./.tmp/dist/bible-studies/Romans/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./.tmp/dist/bible-studies/Baptism/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./.tmp/dist/romans-viet/Ro-ma-Chuong-02/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./.tmp/dist/romans-viet/Ro-ma-Chuong-07/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./.tmp/dist/romans-viet/Ro-ma-Chuong-05/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./.tmp/dist/romans-viet/Ro-ma-Chuong-11/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./.tmp/dist/romans-viet/Ro-ma-Chuong-03/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./.tmp/dist/romans-viet/Ro-ma-Chuong-06/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./.tmp/dist/romans-viet/Ro-ma-Chuong-04/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./.tmp/dist/romans-viet/Ro-ma-Chuong-01/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./.tmp/dist/romans-viet/Ro-ma-Chuong-10/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./.tmp/dist/romans-viet/Ro-ma-Chuong-09/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./.tmp/dist/romans-viet/Ro-ma-Chuong-08/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./.tmp/dist/galatians/Galatians-Chapter-04/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./.tmp/dist/galatians/Galatians-Chapter-05/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./.tmp/dist/galatians/Galatians-Chapter-06/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./.tmp/dist/galatians/Galatians-Chapter-02/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./.tmp/dist/galatians/Galatians-Chapter-03/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./.tmp/dist/galatians/Galatians-Chapter-01/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./.tmp/dist/articles/Sower/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./.tmp/dist/articles/Justification-by-faith-works/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./.tmp/dist/articles/Surrender/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./.tmp/dist/articles/Understanding-Forgiveness/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./.tmp/dist/articles/The-Lords-Supper/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./.tmp/dist/articles/Deliberate-Sin/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./.tmp/dist/articles/Obedience/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./.tmp/dist/articles/When-the-Son-Sets-You-Free/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./.tmp/dist/articles/The-Will-of-God/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./.tmp/dist/articles/The-Net/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./.tmp/dist/articles/Ephesians-2-1/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./.tmp/dist/articles/Rewards-in-heaven/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./.tmp/dist/articles/Danger-of-Erroneous-Teaching/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./.tmp/dist/articles/The-Narrow-Path/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./.tmp/dist/articles/Awake-O-Sleeper/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./.tmp/dist/articles/The-Old-and-the-New/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./.tmp/dist/articles/The-Enabling-Grace/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./.tmp/dist/articles/Grieve-Holy-Spirit/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./.tmp/dist/articles/What-Is-Good/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./.tmp/dist/articles/Law-of-Christ/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./.tmp/dist/articles/Serving-God/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./.tmp/dist/articles/Experiencing-God/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./.tmp/dist/articles/Putting-Off-Of-The-Body-Of-The-Flesh/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./.tmp/dist/articles/Exodus-19-04-25/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./.tmp/dist/articles/Talents/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./.tmp/dist/articles/To-Be-Born-Again/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./.tmp/dist/articles/Abrahams-Prayer/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./.tmp/dist/articles/The-Godspel-Freer-More-Sanctifying/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./.tmp/dist/articles/Change-My-Heart-Oh-God/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./.tmp/dist/articles/7-Days-Until-Christ-Returns/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./.tmp/dist/articles/Missing-Gods-Grace/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./.tmp/dist/articles/Suffer-with-Christ/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./.tmp/dist/articles/Entering-Gods-Rest/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./.tmp/dist/articles/Resist-unto-blood/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./.tmp/dist/articles/Be-Ye-Perfect/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./.tmp/dist/articles/Evil-Steward/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./.tmp/dist/articles/Mortify-the-Deeds-of-the-Flesh/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./.tmp/dist/articles/Immitation-of-Christ/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./.tmp/dist/articles/Remain-in-Sin/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./.tmp/dist/articles/Self-Denial-Cross-Follow-Jesus/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./.tmp/dist/articles/Do-not-conform-to-this-world/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./.tmp/dist/articles/Abusing-Grace/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./.tmp/dist/articles/Parable-Ten-Virgins/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./.tmp/dist/articles/Loving-God/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./.tmp/dist/articles/The-Ambassador/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./.tmp/dist/articles/The-Narrow-Path-2/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./.tmp/dist/articles/Work-Out-Your-Own-Salvation/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./.tmp/dist/articles/Repentance-From-Dead-Works/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./.tmp/dist/articles/Walk-Like-Jesus-Did/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/{{ site.repository }}/{{ site.staticman.branch }}/comments">
+./.tmp/src/_includes/post__comments.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/{{ site.repository }}/{{ site.staticman.branch }}/comments">
+./src/_includes/post__comments.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./dist/viet-studies/Quan-Gia/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./dist/viet-studies/Hieu-Biet-Su-Tha-Thu/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./dist/viet-studies/O-Trong-Toi-Loi/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./dist/viet-studies/Tiec-Thanh/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./dist/viet-studies/What-Is-Good-Viet/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./dist/viet-studies/Lam-dung-an-dien/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./dist/viet-studies/Awake-O-Sleeper-Viet/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./dist/viet-studies/7-Days-Until-Christ-Returns-Viet/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./dist/viet-studies/Dieu-Dang-Quan-Tam-Hon/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./dist/viet-studies/Ta-Lang/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./dist/viet-studies/The-Godspel-Freer-More-Sanctifying-Viet/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./dist/viet-studies/E-phe-so-2-1/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./dist/viet-studies/Nguoi-Gieo-Giong/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./dist/viet-studies/To-Be-Born-Again-Viet/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./dist/viet-studies/Lam-Buon-Thanh-Linh/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./dist/viet-studies/Putting-Off-Of-The-Body-Of-The-Flesh-Viet/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./dist/viet-studies/Trat-phan-an-dien/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./dist/viet-studies/Hau-Viec-Chua/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./dist/viet-studies/Dau-Phuc-Chua/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./dist/viet-studies/Loi-Cau-Nguyen-cua-Abraham/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./dist/viet-studies/Luoi-Ca/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./dist/viet-studies/Co-y-pham-toi/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./dist/viet-studies/Quan-Kham-Sai/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./dist/viet-studies/Walk-Like-Jesus-Did-Viet/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./dist/viet-studies/Repentance-From-Dead-Works-Viet/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./dist/viet-studies/Dung-lam-theo-doi-nay/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./dist/viet-studies/Su-vang-loi/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./dist/viet-studies/Yeu-Chua/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./dist/viet-studies/Xung-cong-binh-boi-duc-tin-va-viec-lam/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./dist/viet-studies/Chong-tra-toi-loi/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./dist/viet-studies/Quyen-nang-an-dien/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./dist/viet-studies/Self-Denial-Cross-Follow-Jesus-Viet/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./dist/viet-studies/Phan-thuong-tren-troi/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./dist/viet-studies/Entering-Gods-Rest-Viet/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./dist/viet-studies/Lam-chet-cac-viec-cua-chi-the/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./dist/viet-studies/Work-Out-Your-Own-Salvation-Viet/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./dist/viet-studies/Duong-Hep/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./dist/viet-studies/The-Old-and-the-New-Viet/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./dist/viet-studies/Chiu-kho-voi-Chua/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./dist/viet-studies/Y-Chua/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./dist/viet-studies/Theo-guong-Gie-su/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./dist/viet-studies/Change-My-Heart-Oh-God-Viet/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./dist/viet-studies/Khi-Duoc-Chua-Giai-Thoat/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./dist/viet-studies/Xuat-E-gyp-to-19-4-25/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./dist/viet-studies/luat-phap-cua-Dang-Christ/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./dist/viet-studies/Ngu-Ngon-Muoi-Nguoi-Nu-Dong-Trinh/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./dist/ngu-ngon/Quan-Gia/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./dist/ngu-ngon/Ta-Lang/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./dist/ngu-ngon/Nguoi-Gieo-Giong/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./dist/ngu-ngon/Luoi-Ca/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./dist/parable/Sower/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./dist/parable/The-Net/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./dist/parable/Talents/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./dist/parable/Evil-Steward/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./dist/baptism/in-the-name/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./dist/baptism/summary/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./dist/baptism/cuu-roi/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./dist/baptism/purposes/jesus/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./dist/baptism/purposes/apostle/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./dist/baptism/purposes/paul/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./dist/baptism/purposes/john/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./dist/baptism/purposes/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./dist/baptism/history/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./dist/baptism/muc-dich/chua-gie-su/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./dist/baptism/muc-dich/phao-lo/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./dist/baptism/muc-dich/giang/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./dist/baptism/muc-dich/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./dist/baptism/muc-dich/su-do/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./dist/baptism/ket-luan/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./dist/baptism/trong-danh/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./dist/baptism/essential/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./dist/baptism/lich-su/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./dist/romans/Romans-Chapter-06/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./dist/romans/Romans-Chapter-09/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./dist/romans/Romans-Chapter-04/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./dist/romans/Romans-Chapter-02/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./dist/romans/Romans-Chapter-05/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./dist/romans/Romans-Chapter-01/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./dist/romans/Romans-Chapter-07/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./dist/romans/Romans-Chapter-10/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./dist/romans/Romans-Chapter-08/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./dist/romans/Romans-Chapter-11/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./dist/romans/Romans-Chapter-03/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./dist/galatians-viet/Ga-la-ti-Chuong-03/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./dist/galatians-viet/Ga-la-ti-Chuong-06/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./dist/galatians-viet/Ga-la-ti-Chuong-02/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./dist/galatians-viet/Ga-la-ti-Chuong-04/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./dist/galatians-viet/Ga-la-ti-Chuong-05/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./dist/galatians-viet/Ga-la-ti-Chuong-01/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./dist/bible-studies-viet/Ro-ma/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./dist/bible-studies-viet/Bap-tem/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./dist/bible-studies/Romans/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./dist/bible-studies/Baptism/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./dist/romans-viet/Ro-ma-Chuong-02/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./dist/romans-viet/Ro-ma-Chuong-07/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./dist/romans-viet/Ro-ma-Chuong-05/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./dist/romans-viet/Ro-ma-Chuong-11/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./dist/romans-viet/Ro-ma-Chuong-03/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./dist/romans-viet/Ro-ma-Chuong-06/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./dist/romans-viet/Ro-ma-Chuong-04/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./dist/romans-viet/Ro-ma-Chuong-01/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./dist/romans-viet/Ro-ma-Chuong-10/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./dist/romans-viet/Ro-ma-Chuong-09/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./dist/romans-viet/Ro-ma-Chuong-08/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./dist/galatians/Galatians-Chapter-04/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./dist/galatians/Galatians-Chapter-05/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./dist/galatians/Galatians-Chapter-06/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./dist/galatians/Galatians-Chapter-02/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./dist/galatians/Galatians-Chapter-03/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./dist/galatians/Galatians-Chapter-01/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./dist/articles/Sower/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./dist/articles/Justification-by-faith-works/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./dist/articles/Surrender/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./dist/articles/Understanding-Forgiveness/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./dist/articles/The-Lords-Supper/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./dist/articles/Deliberate-Sin/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./dist/articles/Obedience/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./dist/articles/When-the-Son-Sets-You-Free/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./dist/articles/The-Will-of-God/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./dist/articles/The-Net/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./dist/articles/Ephesians-2-1/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./dist/articles/Rewards-in-heaven/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./dist/articles/Danger-of-Erroneous-Teaching/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./dist/articles/The-Narrow-Path/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./dist/articles/Awake-O-Sleeper/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./dist/articles/The-Old-and-the-New/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./dist/articles/The-Enabling-Grace/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./dist/articles/Grieve-Holy-Spirit/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./dist/articles/What-Is-Good/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./dist/articles/Law-of-Christ/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./dist/articles/Serving-God/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./dist/articles/Experiencing-God/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./dist/articles/Putting-Off-Of-The-Body-Of-The-Flesh/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./dist/articles/Exodus-19-04-25/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./dist/articles/Talents/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./dist/articles/To-Be-Born-Again/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./dist/articles/Abrahams-Prayer/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./dist/articles/The-Godspel-Freer-More-Sanctifying/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./dist/articles/Change-My-Heart-Oh-God/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./dist/articles/7-Days-Until-Christ-Returns/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./dist/articles/Missing-Gods-Grace/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./dist/articles/Suffer-with-Christ/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./dist/articles/Entering-Gods-Rest/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./dist/articles/Resist-unto-blood/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./dist/articles/Be-Ye-Perfect/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./dist/articles/Evil-Steward/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./dist/articles/Mortify-the-Deeds-of-the-Flesh/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./dist/articles/Immitation-of-Christ/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./dist/articles/Remain-in-Sin/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./dist/articles/Self-Denial-Cross-Follow-Jesus/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./dist/articles/Do-not-conform-to-this-world/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./dist/articles/Abusing-Grace/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./dist/articles/Parable-Ten-Virgins/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./dist/articles/Loving-God/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./dist/articles/The-Ambassador/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./dist/articles/The-Narrow-Path-2/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./dist/articles/Work-Out-Your-Own-Salvation/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./dist/articles/Repentance-From-Dead-Works/index.html
+      <form id="comment-form" class="post__comments-form js-form form" method="post" action="https://api.staticman.net/v2/entry/nghin/vacsf.org.mm/master/comments">
+./dist/articles/Walk-Like-Jesus-Did/index.html
+grep: input file ‘./find.txt’ is also the output
+# https://api.staticman.net/v2/encrypt/{TEXT TO BE ENCRYPTED}
+./staticman.yml
