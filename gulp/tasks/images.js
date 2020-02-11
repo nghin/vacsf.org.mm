@@ -13,6 +13,7 @@ const rename   = require('gulp-rename');
 const resize   = require('./resize-images');
 const size     = require('gulp-size');
 const util     = require('gulp-util');
+const imageminJpegtran = require('imagemin-jpegtran');
 
 // 'gulp images' -- resizes, optimizes, and caches images
 gulp.task('images', () =>
@@ -20,7 +21,8 @@ gulp.task('images', () =>
     .pipe(newer('.tmp/assets/images'))
     .pipe(imagemin([
       imagemin.gifsicle({interlaced: true}),
-      imagemin.jpegtran({progressive: true}),
+      // imagemin.jpegtran({progressive: true}),
+      imageminJpegtran({progressive: true}),
       imagemin.optipng(),
       imagemin.svgo({plugins: [{cleanupIDs: false}]})
     ]))
@@ -51,7 +53,8 @@ gulp.task('images:feature', function() {
       .pipe(newer('.tmp/assets/images'))
       .pipe(resize(el))
       .pipe(imagemin([
-        imagemin.jpegtran({progressive: true}),
+        // imagemin.jpegtran({progressive: true}),
+        imageminJpegtran({progressive: true}),
         imagemin.optipng()
       ]))
       .pipe(gulp.dest('.tmp/assets/images'))
@@ -61,7 +64,8 @@ gulp.task('images:feature', function() {
   streams.push(gulp.src('src/assets/images/feature/**/*')
     .pipe(newer('.tmp/assets/images'))
     .pipe(imagemin([
-      imagemin.jpegtran({progressive: true}),
+      // imagemin.jpegtran({progressive: true}),
+      imageminJpegtran({progressive: true}),
       imagemin.optipng()
     ]))
     .pipe(gulp.dest('.tmp/assets/images')))
