@@ -7,7 +7,7 @@ image:
   teaser: death-deeds.jpg
 tags: [flesh]
 featured: false
-comments: false
+comments: true
 ---
 
 <!--more-->

@@ -1,1 +1,0 @@
-/drive_d/Google Drive/Documents/vacsf.org posts/2019-10-23-Experiencing-God.md
