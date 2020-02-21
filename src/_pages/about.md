@@ -30,15 +30,14 @@ Tel. 650-892-5270, Email: contact@vacsf.org
 
 ## Sunday Schedule
 
-* 11:00 - 11:30 AM: Prayer Gathering (in main sanctuary)
-* 11:30 -12:30 PM: Trường Ch.Nhật - Sunday School.
-* 12:30 -2:00 PM: Thờ Phượng (bilingual) - Worship.
-* 2:00-3:00 PM: Thông Công - Fellowship
+* 10:45 - 11:15 AM: Prayer Gathering (in main sanctuary)
+* 11:30 - 12:30 PM: 1<sup>st</sup> Service (English)
+* 12:30 - 2:00 PM: 2<sup>nd</sup> Service (Bilingual)
+* 2:00-3:00 PM: Fellowship
 
 ## Weekly Activities
 
-* Friday: Youth Fellowship
-* Saturday: Church Renovation
+* Youth Fellowship: Every 1<sup>st</sup> & 3<sup>rd</sup> Friday, 7:30 - 9:30 pm
 
 ## VACSF Calendar
 <p>
