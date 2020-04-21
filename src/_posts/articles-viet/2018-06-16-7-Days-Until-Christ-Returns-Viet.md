@@ -5,7 +5,7 @@ modified: 2018-06-22T12:14:45-04:00
 image:
   teaser: 7-days-teaser.jpg
 tags: [cứu-rỗi, sẵn-sàng, đức-tin, đoán-phạt] 
-featured: true
+featured: false
 comments: true
 
 
