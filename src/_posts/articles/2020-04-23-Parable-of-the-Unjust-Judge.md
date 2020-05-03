@@ -63,6 +63,6 @@ Will you know that God is not like that judge? Will you know that  he desires a 
 
 Great faith may prompt one who is in need to raise their concern to God, then leave it at that, knowing that they do not have to pray long and hard, they don't have to try to move his hands with long extended prayers, but leave their burden at the throne of grace knowing that all things will work out for them in due time. But such faith is rare, as most believe that God reciprocates the amount of time they spend on their knees. Their god is deaf, our God can hear the saint's prayer even before it is spoken, their god cannot hear the cry of the little people, our God cares for even a little sparrow.
 
-It won't just be whether, when the Son of Man returns, he will find faith, but will he find faith on earth. He will predominantly many who have the kind of faith like that of the widow toward the unjust judge, and just as many who read this parable and draw the conclusion that it's about persistence in prayer. Will he find true faith?
+It won't just be whether, when the Son of Man returns, he will find faith, but will he find faith *"on earth."* He will find predominantly many who have the kind of faith like that of the widow toward the unjust judge, and just as many who read this parable and draw the conclusion that it's about persistence in prayer. Will he find true faith on earth?
 
 {% include bible-study/bible-study-footer %}
