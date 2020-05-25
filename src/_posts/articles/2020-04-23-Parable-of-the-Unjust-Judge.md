@@ -12,7 +12,7 @@ teaser: "After telling this parable, Jesus pondered out loud whether He would fi
 ---
 {{ page.excerpt | markdownify }}
 {% include toc.html %}
-<!--a href="{{ site.url }}{% post_url articles-viet/2018-12-05-Awake-O-Sleeper-Viet %}"><em>(Bấm vào đây để đọc tiếng Việt)</em></a-->
+<a href="{{ site.url }}{% post_url articles-viet/2020-04-23-Parable-of-the-Unjust-Judge-Viet %}"><em>(Bấm vào đây để đọc tiếng Việt)</em></a>
 
 ## The parable
 <img alt src="{{ site.url }}/assets/images/persistent-widow-teaser.jpg" style="border: 1px solid #cccccc; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;">
@@ -43,7 +43,7 @@ The inclination to believe that unless you pray long and hard, you won't move th
 
 The principle reason for this approach toward deities is they're mostly conjured up in the mind of the believer from their life's experiences. The deity takes on the personality of the powerful figure in their life. His ability to respond to their request, his fairness in dealing with his subjects, his temper tantrums and what not.
 
-Such is the relationship between the widow and her judge in the parable. He's hard of hearing, so she has to knock long and hard. Furthermore, he's known to be unjust, so though he responded to her tenacious knocking, his answers may not spring from his of her situation, or how his decision may affect her life.
+Such is the relationship between the widow and her judge in the parable. He's hard of hearing, so she has to knock long and hard. Furthermore, he's known to be unjust, so though he responded to her tenacious knocking, his answers may not spring from his knowledge of her situation, or how his decision may affect her life.
 
 Therefore, when Jesus parabolically concluded the story with *"When the Son of Man comes, will he find faith on earth?"*, he was hinting at something completely different than Luke's introduction to the parable. He was asking his listeners whether they would know God as he should be known, because he knew the widow, who is perhaps no different than the disciples that surrounded him, though may have faith, her faith, and theirs, was a faith in a god created in their own image.
 
