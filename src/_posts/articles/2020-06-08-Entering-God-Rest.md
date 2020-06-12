@@ -35,7 +35,7 @@ What more sacrifices, penances, or acts of contrition, are needed if Jesus had m
 
 ## What are you doing?
 
-Yet, the purveyors of the business of sins thrive in the guilty conscience of "unbelieving" believers. They, the believers, should be put on *"full assurance of faith"* to come boldly to the throne of grace, believing that God no longer counts their sins against them. But the grip on their insecurity is strong. Every time a point is being made about God's grace, or His unconditional love, or the total forgiveness of their sins, they raise their objections: "Such unrestricted forgiveness of sins will give people a license to sin." They mistakenly believe that the law will keep the believers in the straight and narrow, that the guilt of sin will reduce the sinful proclivity in their hearts. The truth is the law actually arouses sinful passions (Romans 7:5). Its effect is contrary to the hope of those who rely on it.
+Yet, the purveyors of the business of sins thrive in the guilty conscience of "unbelieving" believers. They, the believers, should put on *"full assurance of faith"* to come boldly to the throne of grace, believing that God no longer counts their sins against them. But the grip on their insecurity is strong. Every time a point is being made about God's grace, or His unconditional love, or the total forgiveness of their sins, they raise their objections: "Such unrestricted forgiveness of sins will give people a license to sin." They mistakenly believe that the law will keep the believers in the straight and narrow, that the guilt of sin will reduce the sinful proclivity in their hearts. The truth is the law actually arouses sinful passions (Romans 7:5). Its effect is contrary to the hope of those who rely on it.
 
 So the believers continue to deal with sins the way they had always done. They offer sacrifices in various forms. The Jews offered their animal sacrifices, people of the world's religions offer things that prove their repentance, and the Christians offer their lip service of asking for forgiveness. They have all forgotten, or have read but still been uninformed that God no longer accepts any further sacrifices for sins; sacrifices in whatever forms; be they confessions to a priest, or directly to God.
 
@@ -53,7 +53,7 @@ Are you still trying to relate to God through sins, through the permissible or f
 
 But the Bible says that you're no longer in sin because Christ had been raised.
 
-> if Christ has not been raised, your faith is useless; you are still in your sins.
+> if Christ has not been raised, your faith is useless; you are still in your sins (1 Corinthians 15:17).
 
 The sole reason God considers you as not in your sins is because Christ had been raised. It's not because you're living a perfect life. It's not because you can no longer sin like a common man. The fact is the capacity for sins is ever present in everyone's flesh.
 
