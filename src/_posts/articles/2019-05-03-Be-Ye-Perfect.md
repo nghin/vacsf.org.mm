@@ -5,7 +5,7 @@ modified: 2019-05-03T12:14:45-04:00
 image:
   teaser: be-ye-perfect-teaser.jpg
 tags: [faith, works, grace, holiness, sanctification]
-featured: true
+featured: false
 comments: true
 ---
 {{ page.excerpt | markdownify }}
