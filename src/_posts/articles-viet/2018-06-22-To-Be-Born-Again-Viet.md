@@ -5,7 +5,7 @@ modified: 2018-10-18T12:14:45-04:00
 image:
   teaser: born-again-teaser.jpg
 tags: [tái-sinh, xác-thịt, tâm-linh, sự-sống-vĩnh-cửu, nước] 
-featured: true
+featured: false
 comments: true
 ---
 

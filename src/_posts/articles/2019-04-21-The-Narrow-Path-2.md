@@ -5,7 +5,7 @@ modified: 2019-01-07T12:14:45-04:00
 image:
   teaser: the-narrow-path-2-teaser.jpg
 tags: [salvation, grace, works, faith, narrow, wide]
-featured: true
+featured: false
 comments: true
 ---
 {{ page.excerpt | markdownify }}

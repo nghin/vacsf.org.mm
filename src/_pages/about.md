@@ -9,6 +9,16 @@ share: false
 author: false
 ---
 
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<input type="hidden" name="cmd" value="_donations" />
+<input type="hidden" name="business" value="vacsf1@gmail.com" />
+<input type="hidden" name="item_name" value="Offering" />
+<input type="hidden" name="currency_code" value="USD" />
+<!-- input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" style="width: 147px" / -->
+<input type="image" src="https://vacsf.org/assets/images/btn_donateCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" style="width: 147px" />
+<img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
+</form>
+
 Welcome to VACSF. We hope you'd find our church a place to rest your weary soul, just as Jesus had promised in Matthew 11:28: <em>"Come to me, all you who are weary and burdened, and I will give you rest."</em>
 
 {% include toc.html %}
@@ -30,15 +40,14 @@ Tel. 650-892-5270, Email: contact@vacsf.org
 
 ## Sunday Schedule
 
-* 11:00 - 11:30 AM: Prayer Gathering (in main sanctuary)
-* 11:30 -12:30 PM: Trường Ch.Nhật - Sunday School.
-* 12:30 -2:00 PM: Thờ Phượng (bilingual) - Worship.
-* 2:00-3:00 PM: Thông Công - Fellowship
+* 10:45 - 11:15 AM: Prayer Gathering (in main sanctuary)
+* 11:30 - 12:30 PM: 1<sup>st</sup> Service (English)
+* 12:30 - 2:00 PM: 2<sup>nd</sup> Service (Bilingual)
+* 2:00-3:00 PM: Fellowship
 
 ## Weekly Activities
 
-* Friday: Youth Fellowship
-* Saturday: Church Renovation
+* Youth Fellowship: Every 1<sup>st</sup> & 3<sup>rd</sup> Friday, 7:30 - 9:30 pm
 
 ## VACSF Calendar
 <p>
