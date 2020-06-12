@@ -5,7 +5,7 @@ modified: 2019-01-07T12:14:45-04:00
 image:
   teaser: walk-like-jesus-did-teaser.jpg
 tags: [sanctification, work, imitation, fruit, spirit, rest]
-featured: true
+featured: false
 comments: true
 ---
 {{ page.excerpt | markdownify }}
