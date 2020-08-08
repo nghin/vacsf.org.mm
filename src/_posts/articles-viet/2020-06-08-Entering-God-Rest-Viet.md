@@ -1,18 +1,17 @@
 ---
-title: "Entering God's Rest"
-excerpt: "What is God resting from? Many think that he rests from the 6-day labor of creation. Nothing is further from the truth as God cannot be tired. He does everything with a purpose. All things He did before Christ were shadows of things to come after him. Though he started with the rest from the work of creating man, he ended with the rest from the work of saving them. This rest began after Jesus uttered his last words on the cross: &#8220;It is finished.&#8221; It is this second rest that he wants you to enter with him, but you must first understand the meaning of this rest."
+title: "Vào Nơi An Nghỉ Chúa"
+excerpt: "Chúa đang nghỉ ngơi về việc gì? Nhiều người nghĩ rằng đó là Ngài nghỉ sau sáu ngày sáng tạo thế giới. Thật điều này không thể nào đúng vì Đức Chúa trời không hề mỏi mệt. Chúa làm điều gì cũng có mục đích. Mọi việc Ngài làm trước sự đến của Đấng Christ đều là hình bóng của những việc đến sau Ngài. Dầu Ngài khởi đầu với sự an nghỉ sau khi tạo nên loài người, Ngài vào sự an nghỉ cuối cùng sau khi ban sự cứu rỗi cho họ. Sự nghỉ này bắt đầu vào thời điểm Chúa Giê-su thốt lên lời cuối cùng trên cây thập tự: &#8220;Mọi sự đã được trọn.&#8221; Chính sự an nghỉ thứ nhì này là nơi Chúa muốn bạn vào với Ngài, nhưng trước hết, bạn phải hiểu đúng ý nghĩa của nó."
 modified: 2020-06-08T21:00:45-07:00
 image:
   teaser: God-rest-teaser.jpg
-tags: [faith, rest, law, grace, sin, repentance]
+tags: [đức-tin, an-nghỉ, luật-pháp, ân-điển, tội-lỗi, ăn-năn]
 featured: true
 comments: true
-teaser: "What is God resting from? Many think that he rests from the 6-day labor of creation. Nothing is further from the truth as God cannot be tired. He does everything with a purpose. All things He did before Christ were shadows of things to come after him. Though he started with the rest from the work of creating man, he ended with the rest from the work of saving them. This rest began after Jesus uttered his last words on the cross: &#8220;It is finished.&#8221; It is this second rest that he wants you to enter with him, but you must first understand the meaning of this rest."
-
 ---
+
 {{ page.excerpt | markdownify }}
 {% include toc.html %}
-<a href="{{ site.url }}{% post_url articles-viet/2020-06-08-Entering-God-Rest-Viet %}"><em>(Bấm vào đây để đọc tiếng Việt)</em></a>
+<!--a href="{{ site.url }}{% post_url articles-viet/2018-12-05-Awake-O-Sleeper-Viet %}"><em>(Bấm vào đây để đọc tiếng Việt)</em></a-->
 
 ## From what did God rest?
 <img alt src="{{ site.url }}/assets/images/God-rest-teaser.jpg" style="border: 1px solid #cccccc; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;">
@@ -23,7 +22,7 @@ For thousands of years, since man fell short of the glory they had when they wer
 
 Jesus entered this rest when he gently whispered as he took his last breath on the cross: *"It's finished."* But it was several years before when Jesus looked forward to this moment when he said: *"Come to me, all you who are weary and burdened, and I will give you rest (Matthew 11:28)"*
 
-It is also to this point at the cross when the Hebrews writer admonished his readers: *"Make every effort to enter into my rest (Hebrews 4:11)"*
+It is also to this point at the cross when the Hebrews writer admonished his readers: *"Make every effort to enter into my rest (Hebrews 4:1)"*
 
 There was no rest for the Levitical priesthood, as there were no chairs in the Holy of Holies. Sacrifices had to be continually offered for the sins of the people. But these rituals were ended at the cross when Jesus, being the Great High Priest of the line of Melchizedek offered himself, the Lamb of God, once for all for all the sins of mankind. Then he sat down at the right hand of the Father. The work of saving man was finished. He's made them perfect once for all. Hence he rested.
 
