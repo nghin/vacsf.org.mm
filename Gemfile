@@ -14,4 +14,5 @@ group :jekyll_plugins do
   gem 'jekyll-admin'
   gem 'jekyll-paginate'
   gem 'jekyll-paginate-multiple'
+  gem 'kramdown-parser-gfm'
 end
