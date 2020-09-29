@@ -8,55 +8,54 @@ tags: [đức-tin, an-nghỉ, luật-pháp, ân-điển, tội-lỗi, ăn-năn]
 featured: true
 comments: true
 ---
-
 {{ page.excerpt | markdownify }}
 {% include toc.html %}
 <!--a href="{{ site.url }}{% post_url articles-viet/2018-12-05-Awake-O-Sleeper-Viet %}"><em>(Bấm vào đây để đọc tiếng Việt)</em></a-->
 
-## From what did God rest?
+## Chúa an nghỉ về điều gì?
 <img alt src="{{ site.url }}/assets/images/God-rest-teaser.jpg" style="border: 1px solid #cccccc; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;">
 
-The Jewish Sabbath, which Christianity adopts though may be on a different day, symbolizes God's rest after creation. However, the rest Jesus alludes to is about a different kind of rest.
+Ngày Sa-bát của người Do-thái mà đã được người tin Chúa tuân giữ, mặc dầu có thể vào một ngày khác ngày thứ Bảy trong tuần, là biểu tượng của sự an nghỉ của Chúa sau khi Ngài sáng tạo thế giới. Nhưng sự an nghỉ mà Chúa Giê-su nói đến thì nói về một sự an nghỉ khác.
 
-For thousands of years, since man fell short of the glory they had when they were still in the garden of Eden, God gave them a means to reconnect with the divine. But the sacrifices they perpetually brought to the temples could only go so far in giving them a glimpse of the glory that was lost. The Lord never meant to give such means to them as the ultimate solution to their loss of eternal life. They were only meant as a foreshadow of the true means of reconciliation between God and man: Jesus Christ.
+Trong nhiều ngàn năm qua, kể từ khi loài người thiếu mất sự vinh hiển của Đức Chúa Trời lúc họ còn ở trong vườn Địa Đàng, Ngài đã ban cho họ một phương cách để được nối lại mối tương giao với Ngài. Nhưng các của lễ họ thường xuyên mang vào đền thờ chỉ cho họ được nhìn từ đàng xa sự vinh hiển đã bị đánh mất. Những nghi lễ đó không phải là giải pháp tối hậu để ban lại cho họ sự sống đời đời. Chúng chỉ là hình bóng của một giải pháp chân thật giải hòa giữa Đức Chúa Trời và loài người: đó là Đấng Christ.
 
-Jesus entered this rest when he gently whispered as he took his last breath on the cross: *"It's finished."* But it was several years before when Jesus looked forward to this moment when he said: *"Come to me, all you who are weary and burdened, and I will give you rest (Matthew 11:28)"*
+Chúa Giê-su đã vào sự an nghỉ này khi Ngài nói lên lời cuối trước khi trút hơi thở cuối cùng: *"Mọi sự đã được trọn."* Nhưng thực ra, trước đó vài năm, Ngài đã nhìn đến thời điểm đó khi Ngài phán: *"Hỡi những kẻ mệt mỏi và gánh nặng, hãy đến cùng ta, ta sẽ cho các ngươi được yên nghỉ (Matthew 11:28)."*
 
-It is also to this point at the cross when the Hebrews writer admonished his readers: *"Make every effort to enter into my rest (Hebrews 4:1)"*
+Đây chắc chắn cũng là sự yên nghỉ tại nơi thập tự giá khi tác giả Hê-bơ-rơ khuyên giục người đọc: *"Vậy, chúng ta phải gắng sức vào sự yên nghỉ đó (Hebrews 4:11)"*
 
-There was no rest for the Levitical priesthood, as there were no chairs in the Holy of Holies. Sacrifices had to be continually offered for the sins of the people. But these rituals were ended at the cross when Jesus, being the Great High Priest of the line of Melchizedek offered himself, the Lamb of God, once for all for all the sins of mankind. Then he sat down at the right hand of the Father. The work of saving man was finished. He's made them perfect once for all. Hence he rested.
+Công việc của các thầy tế lễ dòng Lê-vi sẽ không bao giờ đi đến chỗ kết thúc, vì chẳng hề có ghế cho họ ngồi nơi chí thánh. Các của tế lễ phải được dâng lên bất tận vì tội lỗi của dân sự. Nhưng tại nơi thập tự giá, khi Chúa Giê-su là Thầy Tế Lễ Thượng Phẩm thuộc dòng Mên-chi-xe-đéc tự dâng chính mình, là Chiên Con của Đức Chúa Trời, làm của lễ để chuộc tội cho cả nhân loại, thì sự dâng các của lễ đã đến hồi kết cuộc. Rồi Ngài ngồi xuống bên hữu Đức Chúa Cha. Công cuộc cứu rỗi nhân loại đã được làm trọn. Ngài đã khiến họ được trở nên toàn hảo một lần đủ cả. Vì thế Ngài đã vào trong sự an nghỉ.
 
-> *“Day after day every priest stands and performs his religious duties; again and again he offers the same sacrifices, which can never take away sins. But when this priest had offered for all time one sacrifice for sins, he sat down at the right hand of God. Since that time he waits for his enemies to be made his footstool, because by one sacrifice he has made <u>perfect forever</u> those who are being made holy” ( Hebrews 10:11-14 )*
+> *<sup>11</sup>Phàm thầy tế lễ mỗi ngày đứng hầu việc và năng dâng của lễ đồng một thức, là của lễ không bao giờ cất tội lỗi được, <sup>12</sup>còn như Ðấng nầy, đã vì tội lỗi dâng chỉ một của lễ, rồi ngồi đời đời bên hữu Ðức Chúa Trời. <sup>13</sup>Từ rày về sau đương đợi những kẻ thù nghịch Ngài bị để làm bệ dưới chơn Ngài vậy. <sup>14</sup>Vì nhờ dâng chỉ một của tế lễ, Ngài làm cho những kẻ nên thánh được trọn vẹn đời đời.” ( Hebrews 10:11-14 )*
 
-What more sacrifices, penances, or acts of contrition, are needed if Jesus had made you *"perfect forever"*? What sins need to be forgiven if Jesus' blood had already covered them? If one has been cleansed from a guilty conscience, why the need to drag out what God had forgotten? This truth is asserted in the following Hebrews verses: 
+Nếu Chúa đã làm cho chúng ta được *"trọn vẹn đời đời,"* thì những của tế lễ, những sự đày đọa thân xác, những hành động bày tỏ sự ăn năn, có làm cho chúng ta thêm sự trọn vẹn chăng? Còn tội lỗi nào cần được thứ tha nếu huyết Chúa đã tẩy sạch rồi? Nếu lòng một người đã được tẩy sạch khỏi lương tâm xấu, thì tại sao lại còn đào bới những điều Chúa đã không còn nhớ đến nữa? Chân lý này đã được khẳng định trong các câu trong sách Hê-bơ-rơ dưới đây: 
 
-> *"<sup>17</sup>Their sins and lawless acts I will remember no more." <sup>18</sup>And where these have been forgiven, there is <u>no longer any sacrifice for sin</u>. <sup>19</sup>Therefore, brothers, since we have confidence to enter the Most Holy Place by the blood of Jesus, <sup>20</sup>by a new and living way opened for us through the curtain, that is, his body, <sup>21</sup>and since we have a great priest over the house of God, <sup>22</sup>let us draw near to God with a sincere heart in <u>full assurance of faith</u>, having our hearts sprinkled to cleanse us from a guilty conscience and having our bodies washed with pure water. (Hebrews 10:17-22)*
+> *"<sup>17</sup>[Chúa] Lại phán: "Ta sẽ chẳng còn nhớ đến tội lỗi gian ác của chúng nó nữa." <sup>18</sup>Bởi hễ có sự tha thứ thì <u>không cần dâng của lễ vì tội lỗi nữa</u>.  <sup>19</sup>Hỡi anh em, vì chúng ta nhờ huyết Ðức Chúa Jêsus được dạn dĩ vào nơi rất thánh, <sup>20</sup>bởi đường mới và sống mà Ngài đã mở ngang qua cái màn, nghĩa là ngang qua xác Ngài, <sup>21</sup>lại vì chúng ta có một thầy tế lễ lớn đã lập lên cai trị nhà Ðức Chúa Trời, <sup>22</sup>nên chúng ta hãy lấy lòng thật thà với <u>đức tin đầy dẫy trọn vẹn, lòng được tưới sạch khỏi lương tâm xấu, thân thể rửa bằng nước trong, mà đến gần Chúa</u>. (Hebrews 10:17-22)*
 
-## What are you doing?
+## Vậy bạn đang làm gì?
 
-Yet, the purveyors of the business of sins thrive in the guilty conscience of "unbelieving" believers. They, the believers, should put on *"full assurance of faith"* to come boldly to the throne of grace, believing that God no longer counts their sins against them. But the grip on their insecurity is strong. Every time a point is being made about God's grace, or His unconditional love, or the total forgiveness of their sins, they raise their objections: "Such unrestricted forgiveness of sins will give people a license to sin." They mistakenly believe that the law will keep the believers in the straight and narrow, that the guilt of sin will reduce the sinful proclivity in their hearts. The truth is the law actually arouses sinful passions (Romans 7:5). Its effect is contrary to the hope of those who rely on it.
+Thế nhưng, những thương gia về sự phạm phép thì làm giàu trên mặc cảm tội lỗi của những tín hữu "vô tín." Chính ra, những tín hữu phải mặc lấy "đức tin trọn vẹn" để dạn dĩ bước vào nơi rất thánh, tin cậy rằng Chúa chẳng còn đếm xỉa đến tội lỗi họ nữa. Nhưng sự nghi ngờ vẫn bám chặt lấy họ. Mỗi khi nghe nói đến ý niệm về ân điển, về tình yêu vô điều kiện của Đức Chúa Trời, hoặc về sự tha thứ trọn vẹn mọi tội lỗi, thì họ phản đối: "Giảng về sự tha thứ vô giới hạn như vậy chỉ khiến người ta tự do phạm tội." Vì họ lầm tưởng rằng luật pháp sẽ giúp người tín hữu giữ mình trong đường thẳng và hẹp, rằng mặc cảm tội lỗi sẽ làm giảm đi khuynh hướng phạm tội trong lòng họ. Nhưng thực ra, luật pháp chỉ khích động thêm dục tính trong lòng (Romans 7:5). Nó đem lại một ảnh hưởng trái nghịch với sự ước muốn của người cậy vào nó.
 
-So the believers continue to deal with sins the way they had always done. They offer sacrifices in various forms. The Jews offered their animal sacrifices, people of the world's religions offer things that prove their repentance, and the Christians offer their lip service of asking for forgiveness. They have all forgotten, or have read but still been uninformed that God no longer accepts any further sacrifices for sins; sacrifices in whatever forms; be they confessions to a priest, or directly to God.
+Vì thế, người tín hữu cứ tiếp tục đương đầu với tội lỗi như cách họ vẫn thường làm. Họ dâng những của tế lễ theo nhiều phương cách khác nhau. Người Do-thái thì dâng những con sinh tế, người theo các tôn giáo trong thế gian thì dâng những của lễ nào đó để bày tỏ tấm lòng ăn năn, còn tín hữu thời nay thì dùng lời xưng tội để nhận sự tha thứ. Họ thảy đều đã quên, hoặc đã từng học nhưng không hiểu rằng Chúa chẳng còn nhận bất kỳ của lễ chuộc tội nào nữa; của lễ dưới bất kỳ dạng thức nào; xưng tội với một lãnh đạo tâm linh, hoặc dù trực tiếp với chính Ngài.
 
-## Enter God's rest
+## Vào nơi an nghỉ Chúa
 
-Jesus is calling out to all those who are still under the weight of the law: *"Come to me, all you who are weary and burdened, and I will give you rest"*, while the Hebrews writer points back to that pivotal point at Calvary: *"Make every effort to enter into my rest."* However, I have a strong suspicion that preciously few heed these declarations. Jesus knew this already when he said: *"Small is the gate and narrow the road that leads to life, and the only a few find it."*  Few, like the only two Israelites, Joshua and Caleb, that had enough faith to come into the promised land while more than 600 thousands would rather perish than enter God's land of rest.
+Chúa Giê-su gọi những người đang ở dưới gánh nặng của luật pháp: *"Hỡi những kẻ mệt mỏi và gánh nặng, hãy đến cùng ta, ta sẽ cho các ngươi được yên nghỉ."*, còn tác giả Hê-bơ-rơ hướng chúng ta về cao điểm ở nơi Chúa chịu đóng đinh: *"Hãy gắng sức vào nơi an nghỉ ta."* Dầu vậy, tôi nghi ngại lắm, rằng rất ít người nghe những lời tuyên phán này. Chúa Giê-su đã phán trước về điều này: *"Song cửa hẹp và đường chật dẫn đến sự sống, kẻ kiếm được thì ít."*  Ít người, cũng như chỉ có hai người Ích-ra-ên là Giô-suê và Ca-lép, có đủ đức tin để vào nơi đất hứa trong khi hơn 600 ngàn người chọn sự chết trong đồng vắng hơn vào nơi an nghỉ Chúa.
 
-We would do well to learn from the Galatians by avoiding their insistence in relying on their own effort to bring to completion what Christ had finished:
+Chúng ta cũng cần phải ôn lại bài học của tín hữu Ga-la-ti về sự cứng lòng của họ cứ cậy vào sức mình để hoàn tất điều mà Chúa Giê-su đã làm trọn:
 
-> *<sup>1</sup>O foolish Galatians, who hath bewitched you, that ye should not obey the truth, before whose eyes Jesus Christ hath been evidently set forth, crucified among you? <sup>2</sup>This only would I learn of you, Received ye the Spirit by the works of the law, or by the hearing of faith? <sup>3</sup>Are ye so foolish? having begun in the Spirit, are ye now made perfect by the flesh? (Galatians 3:1-3)*
+> *<sup>1</sup>Hỡi người Ga-la-ti ngu muội kia, ai bùa ếm anh em là người Ðức Chúa Jêsus Christ bị đóng đinh trên thập tự giá?  <sup>2</sup>Tôi chỉ hỏi anh em một câu nầy: Ấy là cậy các việc luật pháp hay là bởi nghe và tin mà anh em đã nhận được Ðức Thánh Linh?  <sup>3</sup>Sao anh em ngu muội dường ấy? Sau khi đã khởi sự nhờ Ðức Thánh Linh, nay sao lại cậy xác thịt mà làm cho trọn? (Galatians 3:1-3)*
 
-## How to tell
+## Tự xét mình
 
-Are you still trying to relate to God through sins, through the permissible or forbidden things you do, or not do? As these things determine your relationship with God, whether they bring you closer to God or drive you apart from him? If you do, the Bible says you're living in sin.
+Bạn vẫn còn nỗ lực để liên hệ với Chúa qua tội lỗi, qua sự xét đoán của luật pháp về điều nên làm hoặc nên tránh? Như thể những điều này là yếu tố xác định mối tương quan với Chúa, rằng chúng đem bạn đến gần Chúa hoặc xa cách Ngài? Nếu bạn vẫn còn sống dưới khuôn khổ đó, Kinh thánh nói rằng bạn đang sống trong tội lỗi.
 
-But the Bible says that you're no longer in sin because Christ had been raised.
+Nhưng Kinh thánh cho biết rằng chúng ta không còn trong tội lỗi nữa vì Chúa Giê-su đã sống lại rồi.
 
-> if Christ has not been raised, your faith is useless; you are still in your sins (1 Corinthians 15:17).
+> Và nếu Ðấng Christ đã chẳng sống lại, thì đức tin anh em cũng vô ích, anh em còn ở trong tội lỗi mình. (1 Corinthians 15:17).
 
-The sole reason God considers you as not in your sins is because Christ had been raised. It's not because you're living a perfect life. It's not because you can no longer sin like a common man. The fact is the capacity for sins is ever present in everyone's flesh.
+Yếu tố duy nhất khiến Chúa kể chúng ta không còn dưới tội lỗi nữa là sự sống lại của Đấng Christ. Điều đó không có nghĩa là chúng ta bắt đầu một cuộc sống toàn hảo. Cũng không có nghĩa là chúng ta không còn phạm tội như người phàm xác thịt. Vì thực tế là khả năng phạm tội vẫn còn tiềm tàng trong mỗi người còn sống trong xác thịt.
 
-Therefore, stop trying to rid sins from your life, but instead rest in the finished work of Christ on the cross. That is the only way to live a victorious life, and the only way to live a life that pleases the Lord. And don't be foolish like the Galatians who continually try to improve on Christ's work to present you perfect and blameless in God's sight. It's done. It's finished. REST.
+Vì thế, bạn hãy ngừng tìm cách bài trừ tội lỗi trong cuộc sống, nhưng thay vào đó, an nghỉ nơi sự Chúa đã làm trọn cho bạn trên thập giá. Đó là phương cách duy nhất để có đời sống đắc thắng, và là cách duy nhất để sống đẹp lòng Chúa. Và đừng dại dột như tín hữu Ga-la-ti cứ luôn tìm cách đạt được sự trọn lành trước mặt Chúa như thể Chúa Giê-su đã thiếu sót điều gì đó. Xong rồi. Mọi sự đã được trọn. AN NGHỈ.
 
 {% include bible-study/bible-study-footer %}
 

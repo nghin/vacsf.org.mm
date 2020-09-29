@@ -41,7 +41,7 @@ So the believers continue to deal with sins the way they had always done. They o
 
 ## Enter God's rest
 
-Jesus is calling out to all those who are still under the weight of the law: *"Come to me, all you who are weary and burdened, and I will give you rest"*, while the Hebrews writer points back to that pivotal point at Calvary: *"Make every effort to enter into my rest."* However, I have a strong suspicion that preciously few heed these declarations. Jesus knew this already when he said: *"Small is the gate and narrow the road that leads to life, and the only a few find it."*  Few, like the only two Israelites, Joshua and Caleb, that had enough faith to come into the promised land while more than 600 thousands would rather perish than enter God's land of rest.
+Jesus is calling out to all those who are still under the weight of the law: *"Come to me, all you who are weary and burdened, and I will give you rest"*, while the Hebrews writer points back to that pivotal point at Calvary: *"Make every effort to enter into my rest."* However, I have a strong suspicion that preciously few heed these declarations. Jesus knew this already when he said: *"Small is the gate and narrow the road that leads to life, and only a few find it."*  Few, like the only two Israelites, Joshua and Caleb, that had enough faith to come into the promised land while more than 600 thousands would rather perish than enter God's land of rest.
 
 We would do well to learn from the Galatians by avoiding their insistence in relying on their own effort to bring to completion what Christ had finished:
 
