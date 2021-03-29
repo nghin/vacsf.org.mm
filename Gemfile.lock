@@ -8,7 +8,7 @@ GEM
       tzinfo (~> 1.1)
     addressable (2.7.0)
       public_suffix (>= 2.0.2, < 5.0)
-    backports (3.18.1)
+    backports (3.20.2)
     breakpoint (2.7.1)
       sass (~> 3.3)
       sassy-maps (< 1.0.0)
@@ -65,7 +65,7 @@ GEM
       gemoji (~> 3.0)
       html-pipeline (~> 2.2)
       jekyll (>= 3.0, < 5.0)
-    kramdown (2.3.0)
+    kramdown (2.3.1)
       rexml
     kramdown-parser-gfm (1.1.0)
       kramdown (~> 2.0)
@@ -83,7 +83,7 @@ GEM
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
     public_suffix (4.0.5)
-    rack (2.2.3)
+    rack (1.6.13)
     rack-protection (1.5.5)
       rack
     rack-test (1.1.0)
