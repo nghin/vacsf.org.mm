@@ -236,3 +236,34 @@ So the only way to truly mortify the deeds of the flesh is through Christ, and H
 A sister in our church asked for an advise on how to resist advances by a man who frequented her beauty salon. I told her she has to make a choice between looking up to Jesus, or spend all day long thinking about how she could resist him. So it is with the Christians who try to mortify the deeds of the flesh by thinking about them for the rest of their lives, or look to the One who already put them to death on the cross once for all.
 
 I think I kind of wrote something like this at the conclusion part of the article, but I could have done it better. Thank you for posting an excellent comment.
+
+### P. W. from The Netherlands
+Dear sirs,
+Thank you very much for your article on Romans 8:13. I did a search on Romans 8:13 and found your article. I was so inspired by what you wrote.
+
+But here is the thing, you end it with this: the blood of Christ does not cover this....
+
+May I give you a hint: The Bloody and Body of Christ. The Blood of Christ deals with our sins, they are forgiven. The Body of Christ deals with this: the sinful state is mankind. The Fallen state since Adam. Mortifying of the flesh. Our old man is put into the Body of Christ, and died with Him, and is raised into Newness of life, in the Spirit.
+
+See the book of Watchmen Nee: The normal christian life.
+
+Thank you for you time. May God bless you
+
+### Nghi Nguyen
+Dear P. W.,
+
+You are an excellent reader, who focuses on the very phrase that needs much clarification. Your comments pick up on everything I'm trying to say, but in far fewer words.
+
+The phrase in question is: "However,  what the blood of Christ does not cover is the attempt to rely on something other than the cross of Christ as a means for salvation." What I mean by "something other than ..." is not sins, all of which are covered by the blood of Christ, but religious deeds as an attempt to gain God's righteousness.
+
+Let's consider Galatians 5:4: "You who are trying to be declared righteous by the law have been alienated from Christ; you have fallen away from grace!" These are pious, or religious, deeds done to fulfill the requirements of the law; they're actually the deeds of the flesh. In other words, any manner of sins can be forgiven, but relying on human or flesh-based efforts to be justified really leads its practitioners away from God.
+
+There are many other verses that convey the same meaning, even if written differently. Here are some examples:
+
+John 16:8-9: *"When he [the Holy Spirit] comes, he will prove the world to be in the wrong about sin ... : about sin, because people do not believe in me (NIV)."*
+
+The world has been wrong about sin because they place emphasis on stopping sinful man from sinning; but the Holy Spirit will show them that the true solution can only be found at the cross when they come and place their faith in the Redeemer.
+
+Hebrews 3:19: *"So we see that they were not able to enter [the promised land], because of their unbelief."*
+
+In short, what I meant to say is there is one thing that the blood of Christ does not cover: it's the sin of unbelief, of not trusting in the finished work of Christ on the cross.
