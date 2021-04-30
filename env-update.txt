@@ -1,0 +1,10 @@
+ rvm install 2.6.1
+ rvm use 2.6.1
+ gem update --system
+ gem install bundler
+ ruby -v
+ bundle -v
+ gem install nokogiri
+ gem install jekyll
+ gem install i18n
+ bundle update
