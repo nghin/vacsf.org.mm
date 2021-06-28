@@ -40,14 +40,14 @@ Tel. 650-892-5270, Email: contact@vacsf.org
 
 ## Sunday Schedule
 
-* 10:45 - 11:15 AM: Prayer Gathering (in main sanctuary)
-* 11:30 - 12:30 PM: 1<sup>st</sup> Service (English)
-* 12:30 - 2:00 PM: 2<sup>nd</sup> Service (Bilingual)
+* 12:30 - 2:00 PM: in-person service (bilingual Vietnamese & English), and on Zoom: Meeting ID: 558-560-3718 pw: 555413
 * 2:00-3:00 PM: Fellowship
 
-## Weekly Activities
+## Sunday School Classes
 
-* Youth Fellowship: Every 1<sup>st</sup> & 3<sup>rd</sup> Friday, 7:30 - 9:30 pm
+* For seniors led by Mr. Nhon Le: Meeting ID: 780-485-9331, password: 099868, Saturday evenings: 8 pm - 9 pm
+* For adults led by Mr. Nghi Nguyen: Meeting ID: 891 5324 5907, password: httlvn@sf,  Sunday mornings: 10-11 am
+* For young adults and youth led by Janet Nguyen: Meeting ID: 233-426-8211, password: *VACsf13322, Friday evenings: 7 pm - 8 pm
 
 ## VACSF Calendar
 <p>
