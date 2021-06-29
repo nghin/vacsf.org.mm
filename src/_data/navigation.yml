@@ -63,8 +63,8 @@ secondary:
     url: /tag/
   - title: "Sitemap"
     url: /sitemap/
-  - title: "Style Guide"
-    url: /style-guide/
+#  - title: "Style Guide"
+#    url: /style-guide/
 
 
 # Footer navigation links
