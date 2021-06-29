@@ -14,7 +14,7 @@ Jesus said: <em>"Come to me, all you who are weary and burdened, and I will give
 1332 Vermont Street San Francisco, CA 94110<br />
 Tel. 650-892-5270<br />
 Pastor: Rev. Andrew Ông<br />
-Tel. 650-892-5270, Email: contact@vacsf.org
+Tel. 650-892-5270, Email: vacsf1@gmail.com
 
 <script>{% include wufoo.js %}</script>
 
