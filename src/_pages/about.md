@@ -25,7 +25,7 @@ Welcome to VACSF. We hope you'd find our church a place to rest your weary soul,
 
 ## Statement of Faith
 
-... we have no *statement of faith* so high and mighty that scares the burdened and the weary. We only have Jesus who is so gentle—*He won't break a bruised reed or put out a smoldering wick (Matthew 12:20)* Here's the short version of our statement of faith: *We believe Jesus who is the only God/Man ever without sin, good enough to be the perfect Lamb of God, who willingly submitted Himself to the cross so whoever accepts His substitunary death as a payment for his sin nature will have eternal life.*
+... we have no *statement of faith* so high and mighty that scares the burdened and the weary. We only have Jesus who is so gentle—*He won't break a bruised reed or put out a smoldering wick (Matthew 12:20)* Here's the short version of our statement of faith: *We believe Jesus who is the only God/Man ever without sin, good enough to be the perfect Lamb of God, who willingly submitted Himself to the cross so whoever accepts His substitionary death as a payment for his sin nature will have eternal life.*
 
 <div class="row">
 <div class="medium-8 columns" markdown="1">
