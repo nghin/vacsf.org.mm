@@ -36,7 +36,7 @@ Welcome to VACSF. We hope you'd find our church a place to rest your weary soul,
 San Francisco, CA 94110<br/>
 Tel. 650-892-5270<br/>
 Pastor: Rev. Andrew Ông<br/>
-Tel. 650-892-5270, Email: contact@vacsf.org
+Tel. 650-892-5270, Email: vacsf1@gmail.com
 
 ## Sunday Schedule
 
