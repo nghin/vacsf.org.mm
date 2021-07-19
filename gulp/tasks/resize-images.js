@@ -13,7 +13,8 @@ module.exports = function(el) {
     gmfile.size(function(err, size) {
 
       // if(typeof el !== 'undefined' && el.width = size.width) {
-      if(typeof el !== 'undefined') {
+      if((typeof el && typeof size) !== 'undefined') {
+        // console.log(">>>>>>>>>>>" + typeof(size) + "<<<<<<<<<<<<<<<");
         gmfile
           .resize(el.width, (el.width / size.width) * size.height)
           .toBuffer(function (err, buffer) {
