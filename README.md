@@ -104,6 +104,7 @@ your posts and no drafts.
 
 This command is identical to the normal `gulp [--prod]` however it will not
 create a BrowserSync session in your browser.
+*** NOTES: For some strange reason, in the raspberry pi image, you have to run gulp like this: nodejs node_modules/gulp/bin/gulp.js build --prod ***
 
 ### `gulp (build) [--prod]` main subtasks
 
