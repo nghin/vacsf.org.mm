@@ -25,7 +25,7 @@ Welcome to VACSF. We hope you'd find our church a place to rest your weary soul,
 
 ## Statement of Faith
 
-... we have no *statement of faith* so high and mighty that scares the burdened and the weary. We only have Jesus who is so gentle—*He won't break a bruised reed or put out a smoldering wick (Matthew 12:20)* Here's the short version of our statement of faith: *We believe Jesus who is the only God/Man ever without sin, good enough to be the perfect Lamb of God, who willingly submitted Himself to the cross so whoever accepts His substitunary death as a payment for his sin nature will have eternal life.*
+... we have no *statement of faith* so high and mighty that scares the burdened and the weary. We only have Jesus who is so gentle—*He won't break a bruised reed or put out a smoldering wick (Matthew 12:20)* Here's the short version of our statement of faith: *We believe Jesus who is the only God/Man ever without sin, good enough to be the perfect Lamb of God, who willingly submitted Himself to the cross so whoever accepts His substitionary death as a payment for his sin nature will have eternal life.*
 
 <div class="row">
 <div class="medium-8 columns" markdown="1">
@@ -36,18 +36,18 @@ Welcome to VACSF. We hope you'd find our church a place to rest your weary soul,
 San Francisco, CA 94110<br/>
 Tel. 650-892-5270<br/>
 Pastor: Rev. Andrew Ông<br/>
-Tel. 650-892-5270, Email: contact@vacsf.org
+Tel. 650-892-5270, Email: vacsf1@gmail.com
 
 ## Sunday Schedule
 
-* 10:45 - 11:15 AM: Prayer Gathering (in main sanctuary)
-* 11:30 - 12:30 PM: 1<sup>st</sup> Service (English)
-* 12:30 - 2:00 PM: 2<sup>nd</sup> Service (Bilingual)
+* 12:30 - 2:00 PM: in-person service (bilingual Vietnamese & English), and on Zoom: Meeting ID: 558-560-3718 pw: 555413
 * 2:00-3:00 PM: Fellowship
 
-## Weekly Activities
+## Sunday School Classes
 
-* Youth Fellowship: Every 1<sup>st</sup> & 3<sup>rd</sup> Friday, 7:30 - 9:30 pm
+* For seniors led by Mr. Nhon Le: Meeting ID: 780-485-9331, password: 099868, Saturday evenings: 8 pm - 9 pm
+* For adults led by Mr. Nghi Nguyen: Meeting ID: 891 5324 5907, password: httlvn@sf,  Sunday mornings: 10-11 am
+* For young adults and youth led by Janet Nguyen: Meeting ID: 233-426-8211, password: *VACsf13322, Friday evenings: 7 pm - 8 pm
 
 ## VACSF Calendar
 <p>
