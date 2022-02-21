@@ -50,7 +50,7 @@
     "bl": "^1.2.3",
     "cryptiles": "^4.1.2",
     "decompress": "^4.2.1",
-    "follow-redirects": "^1.14.7",
+    "follow-redirects": "^1.14.8",
     "glob-parent": "^5.1.2",
     "gulp": "git://github.com/gulpjs/gulp.git#4.0",
     "http-proxy": "^1.18.1",
