@@ -291,6 +291,28 @@ defaults:
         - label: "Mục Đích Phép Báp-têm"
           url: /baptism-purposes-Viet/
 
+  # Colossians Study
+  - scope:
+      path: _posts/bible-studies/Colossians
+      type: posts
+    values:
+      layout: article
+      category: Colossians
+      breadcrumbs:
+        - label: "Colossians Study"
+          url: /bible-studies/Colossians/
+
+  # Co-lo-se Study
+  - scope:
+      path: _posts/bible-studies-Viet/Colossians
+      type: posts
+    values:
+      layout: article
+      category: Colossians-Viet
+      breadcrumbs:
+        - label: "Sách Cơ-lô-se"
+          url: /bible-studies-viet/Co-lo-se/
+
   # Pages
   - scope:
       path: _pages

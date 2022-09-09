@@ -5,7 +5,7 @@ modified: 2020-02-12T21:00:45-07:00
 image:
   teaser: enemies-of-the-cross-teaser.jpg
 tags: [faith, works, grace, sin, sanctification, cross, enemy]
-featured: true
+featured: false
 comments: true
 teaser: "Who is the enemy of the cross? You ponder. It can’t be me. It's most likely those who possess certain lifestyles, speech, or conducts, that we believe are sinful. This article will help you identify what makes one an enemy of the cross."
 

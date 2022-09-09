@@ -5,7 +5,7 @@ modified: 2020-02-12T21:00:45-07:00
 image:
   teaser: enemies-of-the-cross-teaser.jpg
 tags: [faith, works, grace, sin, sanctification, cross, enemy]
-featured: true
+featured: false
 comments: true
 teaser: "Ai là kẻ thù thập giá của Đấng Christ? Bạn tự hỏi. Chắc không thể là tôi. Nhưng chắc là những người có một lối sống, hay cách ăn ở nào đó, mà ai cũng tin là tội lỗi. Bài viết này sẽ giúp các bạn nhận diện được điều gì khiến một người trở nên kẻ thù thập giá."
 
