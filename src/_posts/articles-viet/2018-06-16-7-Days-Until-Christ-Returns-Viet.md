@@ -54,7 +54,7 @@ Do đó, khi ngụ ngôn này được áp dụng cho người tín hữu một 
 
 Đến đây, chúng ta nhận thấy hai tiền đề căn bản của sách 7-Ngày đặt người tín hữu vào một vị trí không thuận lợi trong mục đích chuẩn bị họ cho ngày Chúa tái lâm. Mặc dầu tác giả trấn an người đọc rằng họ đã được cứu, cách ông khuyên giục họ lại gây nên những nghi ngờ trong trí rằng rất có thể cuối cùng họ sẽ không được cứu. Ngụ ngôn về các ta-lâng là nguyên nhân chính nếu bị áp dụng cách sai lầm.
 
-Ngoài những áp dụng sai lầm về ý niệm phục vụ và ngụ ngôn các ta-lâng, còn có những ảnh hưởng tiêu cực lớn trong thực tế. Phục vụ bao nhiêu cho đủ, và phục vụ ai? Tôi có bao nhiêu ta-lâng và tôi đã làm được gì với những ta-lâng đó? Không ai có thể biết chắc chắn những thành quả của mình có đủ để được Chúa chấp nhận hay không khi Ngài trở lại. Tất cả đều dựa trên sự suy đoán và không nhất định. Đây chắc chắn không phải là cách mười người nữ đồng trinh chờ đón chàng rể<a href="{{ site.url }}{% post_url articles-viet/2017-02-09-Ngu-Ngon-Muoi-Nguoi-Nu-Dong-Trinh %}"><em>(Ngụ Ngôn Mười Người Nũ Đồng Trinh)</em></a>.
+Ngoài những áp dụng sai lầm về ý niệm phục vụ và ngụ ngôn các ta-lâng, còn có những ảnh hưởng tiêu cực lớn trong thực tế. Phục vụ bao nhiêu cho đủ, và phục vụ ai? Tôi có bao nhiêu ta-lâng và tôi đã làm được gì với những ta-lâng đó? Không ai có thể biết chắc chắn những thành quả của mình có đủ để được Chúa chấp nhận hay không khi Ngài trở lại. Tất cả đều dựa trên sự suy đoán và không nhất định. Đây chắc chắn không phải là cách mười người nữ đồng trinh chờ đón chàng rể<a href="{{ site.url }}/ngu-ngon/Ngu-Ngon-Muoi-Nguoi-Nu-Dong-Trinh/"><em>(Ngụ Ngôn Mười Người Nũ Đồng Trinh)</em></a>.
 
 Đức in trong Chúa, và niềm hy vọng về sự sống đời đời, phải được biết chắc vững vàng hơn những điều được đề ra trong sách *"7 Ngày Trước Chúa Tái Lâm."*
 
@@ -98,7 +98,7 @@ Có phần thưởng nào sánh bằng những thành phần trong cơ nghiệp 
 
 Cuối cùng nhưng không kém phần nghiêm trọng, những sự dạy dỗ như trong sách 7-Ngày khiến nếp sống bình thường của người tín hữu trở nên bị khinh rẻ, đem sự bất mãn vào thay thế cho sự thỏa lòng, thèm khát những điều họ nghĩ là phước hạnh trong đời sống người khác thay vì tạ ơn Chúa trong mọi cảnh ngộ.
 
-Trong ngụ ngôn *<a href="{{ site.url }}{% post_url articles-viet/2017-02-09-Ngu-Ngon-Muoi-Nguoi-Nu-Dong-Trinh %}">Mười Người Nữ Đồng Trinh</a>*, cả mười người, khôn cũng như dại, đều ngủ gật trong khi chờ đợi chàng rể đến từ phương xa. Ngụ ngôn này không cho thấy gì khác biệt giữa các người nữ khôn và dại, về nếp sống, các việc họ làm, hoặc sự tích cực, chỉ ngoại trừ một điều: họ có mang dầu khi khởi đầu cuộc hành trình. Đó là điều trọng yếu duy nhất. Đó là cách họ chuẩn bị để gặp Chúa, mà tinh thần phục vụ hoặc các ta-lâng không thể nào tạo ra dầu mà đèn họ cần.
+Trong ngụ ngôn *<a href="{{ site.url }}/ngu-ngon/Ngu-Ngon-Muoi-Nguoi-Nu-Dong-Trinh/">Mười Người Nữ Đồng Trinh</a>*, cả mười người, khôn cũng như dại, đều ngủ gật trong khi chờ đợi chàng rể đến từ phương xa. Ngụ ngôn này không cho thấy gì khác biệt giữa các người nữ khôn và dại, về nếp sống, các việc họ làm, hoặc sự tích cực, chỉ ngoại trừ một điều: họ có mang dầu khi khởi đầu cuộc hành trình. Đó là điều trọng yếu duy nhất. Đó là cách họ chuẩn bị để gặp Chúa, mà tinh thần phục vụ hoặc các ta-lâng không thể nào tạo ra dầu mà đèn họ cần.
 
 Nếu bạn không xác quyết được ngay tại thời điểm này về mối liên hệ giữa mình với Chúa, thì bạn nghĩ mình có thể làm được gì trong bảy ngày cuối cùng nếu quả thực Chúa cho bạn được sống còn trong bảy ngày đó?
 

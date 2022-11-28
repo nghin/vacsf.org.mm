@@ -1,0 +1,8 @@
+<nav class="js-toc toc" markdown="1">
+<h4 class="toc__title">John Epistles Study Notes<br /><span style="font-size: 0.6em; color: rgb(159, 29, 33);">
+<a href="{{ site.url }}/bible-studies-viet/Tho-Giang/"><em>(<u>Bấm vào đây để đọc tiếng Việt</u>)</em></a></span>
+</h4>
+<ul class="toc__menu" id="markdown-toc">
+  <li><a href="{{ site.url }}/john-epistles/1John-ch1-ch2-v6/"><u>1 John 1-2:6</u></a><span style="font-weight: normal; margin-left: 1em;">If we walk in the light. To know God is to keep his commandments. To abide in Christ is to walk just as Jesus walked.</span></li>
+</ul>
+</nav>

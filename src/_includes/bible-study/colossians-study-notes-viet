@@ -1,18 +1,7 @@
 <nav class="js-toc toc" markdown="1">
 <h4 class="toc__title">Sách Cơ-lô-se<br/></h4>
 <ul class="toc__menu" id="markdown-toc">
-  <li><a href="{{ site.url }}/colossians-viet/Co-lo-se-01-v01-06/"><u>Colossians 1:1-6</u></a><span style="font-weight: normal; margin-left: 1em;">Đức Tin, Sự Hy Vọng, và Tình Yêu Thương</span></li>
-{% comment %}
-  <li><a href="{{ site.url }}/romans/Romans-Chapter-02/"><u>Chapter 2</u></a><span style="font-weight: normal; margin-left: 1em;">True Repentance</span></li>
-  <li><a href="{{ site.url }}/romans/Romans-Chapter-03/"><u>Chapter 3</u></a><span style="font-weight: normal; margin-left: 1em;">God's Righteousness For All Who Believe</span></li>
-  <li><a href="{{ site.url }}/romans/Romans-Chapter-04/"><u>Chapter 4</u></a><span style="font-weight: normal; margin-left: 1em;">The Law Brings Wrath, Not Peace</span></li>
-  <li><a href="{{ site.url }}/romans/Romans-Chapter-05/"><u>Chapter 5</u></a><span style="font-weight: normal; margin-left: 1em;">The Gift Of Grace</span></li>
-  <li><a href="{{ site.url }}/romans/Romans-Chapter-06/"><u>Chapter 6</u></a><span style="font-weight: normal; margin-left: 1em;">Death Through Christ, Life Through Christ</span></li>
-  <li><a href="{{ site.url }}/romans/Romans-Chapter-07/"><u>Chapter 7</u></a><span style="font-weight: normal; margin-left: 1em;">To Bear Fruit To God, Die To The Law</span></li>
-  <li><a href="{{ site.url }}/romans/Romans-Chapter-08/"><u>Chapter 8</u></a><span style="font-weight: normal; margin-left: 1em;">No More Condemnation</span></li>
-  <li><a href="{{ site.url }}/romans/Romans-Chapter-09/"><u>Chapter 9</u></a><span style="font-weight: normal; margin-left: 1em;">God's Sovereignty</span></li>
-  <li><a href="{{ site.url }}/romans/Romans-Chapter-10/"><u>Chapter 10</u></a><span style="font-weight: normal; margin-left: 1em;">Do Not Seek Own Righteousness</span></li>
-  <li><a href="{{ site.url }}/romans/Romans-Chapter-11/"><u>Chapter 11</u></a><span style="font-weight: normal; margin-left: 1em;">Saved By Grace</span></li>
-{% endcomment %}
+  <li><a href="{{ site.url }}/colossians-viet/Co-lo-se-01-v01-06/"><u>Cơ-lô-se 1:1-6</u></a><span style="font-weight: normal; margin-left: 1em;">Đức Tin, Sự Hy Vọng, và Tình Yêu Thương</span></li>
+  <li><a href="{{ site.url }}/colossians-viet/Co-lo-se-01-v07-10/"><u>Cơ-lô-se 1:7-10</u></a><span style="font-weight: normal; margin-left: 1em;">Yêu thương trong Thánh Linh. Biết ý Chúa. Nẩy ra đủ các việc lành.</span></li>
 </ul>
 </nav>

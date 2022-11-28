@@ -12,6 +12,8 @@ feature:
 ---
 
 {% include toc.html %}
+{% include toc_spacer.html %}
+{% include bible-study/ngu-ngon %}
 
 {{ page.excerpt | markdownify }}
 
@@ -41,7 +43,7 @@ Theo Cô-rin-tô thứ nhất đoạn 13, có những người bố thí tất c
 
 Một người cũng không thể tự xét mình vì nhiều lý do, một là sự tự phán xét sẽ mang tính cách chủ quan, rồi lại có lời Kinh thánh khuyên chúng ta đừng cậy nơi sự thông sáng của chính mình nhưng hãy nương cậy nơi Đức Giê-hô-va. Vậy người đó có nên để một người khác xét đoán mình không? Đây cũng là một nan đề, người khác đó cũng có thể đoán xét sai lầm. Do đó sự chọn lựa đúng và hiển nhiên là để Chúa là Đấng phán đoán. Nhưng Chúa là Đức Chúa Trời khôn ngoan và yêu thương, lẽ nào Ngài lại bắt chúng ta mò mẫm tìm cách nào trở nên mảnh đất tốt? Không thể như vậy, Ngài sẽ để bánh nơi con trẻ có thể với tới; Ngài sẽ làm cho rõ ràng và đạt đến được cho bất cứ ai đang tìm cầu, vì chính Chúa phán: hãy tìm sẽ gặp, hãy gõ cửa thì cửa sẽ mở ra. Đức Chúa Trời của cả vũ trụ chẳng phải như các thần của người ngoại đạo, do đó chúng ta chớ xem Ngài như vậy. Với Chúa sẽ không có sự đoán mò, nhưng dựa trên những tiêu chuẩn bất biến.
 
-## Thiết lập một tiêu chuẩn
+## Bốn Nguyên Tắc
 
 Để thực sự hiểu, và giải thích cách đúng đắn châm ngôn này chúng ta phải thiết lập một hệ thống tương quan, a frame of reference, một số nguyên tắc để dựa trên đó chúng ta đặt nền tảng cho sự nhận biết. Và mỗi nguyên tắc này phải được rút tỉa từ chân lý bất biến của Thánh Kinh, mà không cần dựa trên những những quan niệm riêng của chúng ta.
 
@@ -50,19 +52,19 @@ Một người cũng không thể tự xét mình vì nhiều lý do, một là 
 - Nguyên tắc #3: Dựa trên nguyên tắc #1 và #2, tất cả Cơ-đốc Nhân đều là đất xấu, và không thể trở nên đất tốt; không có sự phân biệt giữa Cơ-đốc Nhân tốt hoặc xấu, chỉ có người tin Chúa hay người không tin Chúa.
 - Nguyên tắc #4: Loài người không thể có kết quả cho Chúa, chỉ ngoại trừ Đấng Christ
 
-### <strong>Nguyên tắc #1: Mọi người đều chết trong tội lỗi</strong><br />
+### <strong>1) Mọi người đều chết trong tội lỗi</strong><br />
 
 > “<sup>10</sup>Như có chép rằng: Chẳng có một người công bình nào hết, dẫu một người cũng không. <sup>11</sup>Chẳng có một người nào hiểu biết, Chẳng có một người nào tìm kiếm Đức Chúa Trời.” (Romans 3:10-11)<br />
 “Vì mọi người đều đã phạm tội, thiếu mất sự vinh hiển của Đức Chúa Trời.” (Romans 3:23)<br /><br />
 “Ví bằng chúng ta nói mình không có tội chi hết, ấy là chính chúng ta lừa dối mình, và lẽ thật không ở trong chúng ta.” (I John 1:8)
 
-### <strong>Nguyên tắc #2: Mọi người đều không có khả năng làm theo ý Đức Chúa Trời</strong><br />
+### <strong>2) Không ai làm theo ý Chúa</strong><br />
 
 > “Hễ chi sanh bởi xác thịt là xác thịt; hễ chi sanh bởi Thánh Linh là thần.” (John 3:6)<br />
 “Vả, tôi biết điều lành chẳng ở trong tôi đâu, nghĩa là trong xác thịt tôi, bởi tôi có ý muốn làm điều lành, nhưng không có quyền làm trọn;” (Romans 7:18)<br />
 “Hỡi anh em, tôi đoán quyết rằng thịt và máu chẳng hưởng nước Đức Chúa Trời được, và sự hay hư nát không hưởng sự không hay hư nát được.” (1 Corinthians 15:50)
 
-### <strong>Nguyên-tắc #3: Chẳng có sự phân biệt Cơ-đốc Nhân tốt hoặc xấu, chỉ có hoặc tin Chúa, hoặc không tin Chúa</strong><br />
+### <strong>3) Không phân biệt giai cấp</strong><br />
 
 > “... Đến tối, chủ vườn nho nói với người giữ việc rằng: Hãy gọi những người làm công mà trả tiền công cho họ, khởi từ người rốt cho đến người đầu.” (Matthew 20:8--trong đoạn này Chúa dạy: không những mọi người đều được trả công bằng nhau, kể cả người chưa hề bắt đầu công việc, không những thế, người đó lại được trả công đầu tiên)<br />
 “Vì người nào giữ trọn luật pháp, mà phạm một điều răn, thì cũng đáng tội như đã phạm hết thảy.” (James 2:10--Chắc chắn rằng mọi người đều phạm rất nhiều hơn một điểm trong luật pháp, do đó mọi người bị kể là phạm toàn bộ luật pháp. Như vậy thì ai "carnal," hoặc thiếu thiêng liêng, hơn ai?)
@@ -73,7 +75,7 @@ Và như vậy thẻ bài duy nhất cho chúng ta vào vườn nho của Chúa 
 
 > “Ai tin Ngài thì chẳng bị đoán xét đâu; ai không tin thì đã bị đoán xét rồi, vì không tin đến danh Con một Đức Chúa Trời.” (John 3:18)
 
-### <strong>Nguyên tắc #4: Loài người không thể có kết quả, duy chỉ Đấng Christ</strong><br />
+### <strong>4) Mọi kết quả đến từ Thánh Linh</strong><br />
 
 Dựa theo nguyên tắc #2, không một ai có khả năng làm theo ý Đức Chúa Trời, và vì thế họ cũng không thể sanh bông trái cho Ngài.
 

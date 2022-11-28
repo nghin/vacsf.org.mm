@@ -20,9 +20,7 @@ comments_locked: false
 
 {{ page.excerpt | markdownify }}
 
-{% comment %}
-[(<em>Bấm vào đây để đọc tiếng Việt</em>)]({{ site.url }}{% post_url bible-studies-Viet/2022-09-08-Co-lo-se %})
-{% endcomment %}
+[(<em>Bấm vào đây để đọc tiếng Việt</em>)]({{ site.url }}{% post_url bible-studies-Viet/2022-09-07-Co-lo-se %})
 
 Here is a collection of Colossians study notes.
 
@@ -30,7 +28,8 @@ Here is a collection of Colossians study notes.
 
 The key concepts gathered from the study of this passage: 1) Faith, Hope, and Love, 2) Truly Understand God's Grace, 3) Knowledge of God's Will, 4) What Is An Apostle? (10 minutes of video to inform class students of false doctrines)
 
+##  [<u>Colossians 1:7-10</u>]({{ site.url }}{% post_url bible-studies/Colossians/2022-09-08-Colossians-01-v07-10 %})
+
+The key concepts gathered from the study of this passage: 1) Love in the Spirit, 2) Knowledge of God's will, 3) Bearing fruit in all god deeds.
+
 As each Sunday School class recap becomes available, this series will grow weekly. If you find these studies useful in your Christian walk, you are welcome to join us on Zoom for our weekly Sunday School Bible Study.
-
-
-
