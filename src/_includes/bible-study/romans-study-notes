@@ -1,0 +1,10 @@
+<nav class="js-toc toc" markdown="1">
+<h4 class="toc__title">Romans Study Notes<br /><span style="font-size: 0.6em; color: rgb(159, 29, 33);">
+<a href="{{ site.url }}/bible-studies-viet/Ro-ma/"><em>(<u>Bấm vào đây để đọc tiếng Việt</u>)</em></a></span>
+</h4>
+<ul class="toc__menu" id="markdown-toc">
+  <li><a href="{{ site.url }}/romans/Romans-01-v01-16/"><u>Romans 1:1-16</u></a><span style="font-weight: normal; margin-left: 1em;">Paul was called to be an apostle. The promised gospel. The obedience of faith. Paul's debt. Not ashamed of the gospel.</span></li>
+  <li><a href="{{ site.url }}/romans/Romans-01-v17-32/"><u>Romans 1:17-32</u></a><span style="font-weight: normal; margin-left: 1em;">Living by faith. Condemnation of the unrighteous.
+</span></li>
+</ul>
+</nav>

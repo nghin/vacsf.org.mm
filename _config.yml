@@ -313,6 +313,50 @@ defaults:
         - label: "Sách Cơ-lô-se"
           url: /bible-studies-viet/Co-lo-se/
 
+  # Philippians Study
+  - scope:
+      path: _posts/bible-studies/Philippians
+      type: posts
+    values:
+      layout: article
+      category: Philippians
+      breadcrumbs:
+        - label: "Philippians Study"
+          url: /bible-studies/Philippians/
+
+  # Phi-lip Study
+  - scope:
+      path: _posts/bible-studies-Viet/Philippians
+      type: posts
+    values:
+      layout: article
+      category: Philippians-Viet
+      breadcrumbs:
+        - label: "Sách Phi-líp"
+          url: /bible-studies-viet/Phi-lip/
+
+  # John's Epistles Study
+  - scope:
+      path: _posts/bible-studies/John-Epistles
+      type: posts
+    values:
+      layout: article
+      category: John-Epistles
+      breadcrumbs:
+        - label: "John's Epistles Study"
+          url: /bible-studies/John-Epistles/
+
+  # Thơ Giăng Study
+  - scope:
+      path: _posts/bible-studies-Viet/John-Epistles
+      type: posts
+    values:
+      layout: article
+      category: John-Epistles-Viet
+      breadcrumbs:
+        - label: "Thơ Giăng"
+          url: /bible-studies-viet/Tho-Giang/
+
   # Pages
   - scope:
       path: _pages

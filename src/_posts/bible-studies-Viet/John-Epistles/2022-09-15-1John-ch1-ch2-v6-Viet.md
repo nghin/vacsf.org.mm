@@ -1,6 +1,6 @@
 ---
 title: "1 Giăng 1:1-2:6"
-excerpt: "Nếu chúng ta đi trong sự sáng. Biết Chúa là giữ các điều răn. Ở trong Chúa là noi gương Chúa y như chính Ngài đã sống."
+excerpt: "Đi trong sự sáng. Giữ các điều răn. Noi gương Chúa Giê-su."
 image:
   teaser: 1-Giang-teaser.jpg
 tags: [john-epistles, bible-studies]
@@ -15,6 +15,8 @@ comments_locked: false
 {% include toc.html %}
 {% include toc_spacer.html %}
 {% include bible-study/john-epistles-study-notes-viet %}
+{% include toc_spacer.html %}
+{% include bible-study/bible-studies-Viet %}
 
 {{ page.excerpt | markdownify }}
 
@@ -27,63 +29,60 @@ Giờ học đầu tiên theo thư Giăng thứ nhất đã đem lại nhiều t
 </p>
 </div>
 
-## NẾU CHÚNG TA ĐI TRONG SỰ SÁNG
+## ĐI TRONG SỰ SÁNG
 
 <span style="color: rgb(159, 29, 33);">
-*“<sup>7</sup>Nhưng, nếu chúng ta đi trong sự sáng cũng như chính mình Ngài ở trong sự sáng, thì chúng ta giao thông cùng nhau; và huyết của Ðức Chúa Jêsus, Con Ngài, làm sạch mọi tội chúng ta.”* (1 John 1:7)
+*“<sup>7</sup>Nhưng, nếu chúng ta <strong>đi trong sự sáng</strong> cũng như chính mình Ngài ở trong sự sáng, thì chúng ta giao thông cùng nhau; và huyết của Ðức Chúa Jêsus, Con Ngài, làm sạch mọi tội chúng ta.”* (1 John 1:7)
 </span>
 
-Các bạn hiểu như thế nào về ý nghĩa của *“đi trong sự sáng?”* Phải chăng ý nghĩa của nó là không phạm tội nữa? Có ai có thể làm được điều đó chăng?
 
-Về một phương diện khác, nếu đi trong sự sáng là sống trong niềm tin nơi Chúa Giê-su, tức là trở thành Cơ-đốc Nhân, thành tín đồ trong một hội thánh, thì tại sao Giăng lại viết những lời này cho họ? Đây sẽ là điều hợp lý nếu Giăng viết lời này cho một buổi truyền giảng cho những người chưa tin Chúa. Do đó, vấn đề đối với tôi là ông đã nhắm không đúng đối tượng.
+Câu *"đi trong sự sáng"* thường được dùng trong các văn phẩm chứng đạo để mời gọi những người chưa tin Chúa vào trong sự sáng qua Chúa Giê-su. Vì thế, nếu Giăng viết những lời này cho người chưa tin Chúa là điều hợp lý. Tuy nhiên, những điều Giăng viết tiếp theo cho thấy độc giả của ông là những người tin Chúa. Thí dụ như 1 John 3:10: *"Kẻ chẳng yêu anh em mình cũng vậy – là không thuộc về Ðức Chúa Trời."* Qua câu Kinh thánh đó chúng ta thấy rõ rằng Giăng đã nhắm vào những người đã tin Chúa.
 
-Một chi tiết quan trọng nữa, là chữ *“nếu”* trong *“nếu chúng ta đi trong sự sáng”* mang ý nghĩa của một điều kiện. Dưới đây là định nghĩa của chữ này trong tự điển tiếng Hy-lạp của Strong:
+Theo những bài giảng mà tôi đã nghe qua nhiều thập niên, chúng ta có *"bước đi trong sự sáng"* hay không là tùy theo từng giờ từng lúc chúng ta làm sự lành hay sự dữ. Khi bạn phạm tội, là khi bạn vào trong bóng tối. Thế thì, đã bao nhiêu lần bạn ở trong hay ngoài sự sáng, nếu đây là điều bạn tin là ý nghĩa của sự đi trong sự sáng?
 
-> <span style="color: rgb(0, 61, 152);">**G1437**
-ἐάν
-From G1487 and G302; a conditional particle; in case that, provided, etc.; often used in connection with other particles to denote indefiniteness or uncertainty.
-</span>
+Đi theo Chúa Giê-su, hay là đặt niềm tin nơi Ngài, là nhìn nhận tình trạng tội lỗi của mình và đặt niềm tin vào điều Chúa đã hoàn tất trên cây thập tự để cứu mình. Niềm tin này không tùy thuộc vào sự thành hay bại của mình đối với các điều răn.
 
-Như vậy, ý của Giăng trong câu 7 ở trên là nếu chúng ta không phạm tội nữa (*"ở trong sự sáng"*) thì tội chúng ta mới được rửa sạch. Trái lại, Phao-lô cho rằng điều kiện duy nhất để chúng ta được huyết Chúa rửa sạch là chúng ta tin nơi Ngài.
+> Vì chúng ta kể rằng người ta được xưng công bình <strong>bởi đức tin, chớ không bởi việc làm theo luật pháp</strong>. (Romans 3:28)
 
-## BIẾT CHÚA LÀ GIỮ CÁC ĐIỀU RĂN
+Vì thế sự theo Chúa Giê-su là một hành động của đức tin bất kể những gì liên hệ đến luật pháp. Đến đây chúng ta hãy đọc một định nghĩa của Chúa Giê-su về sự bước đi trong sự sáng:
+
+> Ðức Chúa Jêsus lại cất tiếng phán cùng chúng rằng: Ta là sự sáng của thế gian; người nào theo ta, chẳng đi trong nơi tối tăm, nhưng có ánh sáng của sự sống. (John 8:12)
+
+Do đó, chúng ta có thể kết luận là bước đi trong sự sáng không có nghĩa là ráng làm lành lánh dữ, nhưng là tin vào Đấng mà Đức Chúa Trời đã sai đến (John 6:29). Hay nói một cách khác, là tin vào Đấng Christ là Cứu Chúa. Vì thế, bước đi trong sự sáng là kết quả của niềm tin nơi Đấng Christ chứ không phải là điều kiện để được cứu. Ánh sáng từ Chúa chiếu rạng trên bạn. Bạn nhận được ơn phước từ nguồn sáng đó. Ánh sáng đó không khi mờ khi tỏ tùy theo khả năng của bạn để thỏa những đòi hỏi của luật pháp; nó cứ chiếu rạng mãi chỉ vì lời hứa của Chúa cho những người tin Ngài.
+
+Tôi mong rằng đây là điều Giăng muốn truyền đạt, nhưng không chắc lắm.
+
+## GIỮ CÁC ĐIỀU RĂN
 
 <span style="color: rgb(159, 29, 33);">
-*“<sup>3</sup>Nầy tại sao chúng ta biết mình đã biết Ngài, ấy là tại chúng ta giữ các điều răn của Ngài. <sup>4</sup>Kẻ nào nói: Ta biết Ngài, mà không giữ điều răn Ngài, là người nói dối, lẽ thật quyết không ở trong người.”* (1 John 2:3-4)
+*“<sup>3</sup>Nầy tại sao chúng ta biết mình đã biết Ngài, ấy là tại chúng ta <strong>giữ các điều răn</strong> của Ngài. <sup>4</sup>Kẻ nào nói: Ta biết Ngài, mà không giữ điều răn Ngài, là người nói dối, lẽ thật quyết không ở trong người.”* (1 John 2:3-4)
 </span>
 
 Theo Giăng 17:3, sự nhận biết Chúa cũng đồng nghĩa với sự sống đời đời hoặc được xưng công bình, tuy nhiên, theo ý Giăng trong đoạn Kinh thánh ở trên thì có một điều kiện: *"nếu chúng ta giữ các điều răn của Ngài,"* tức là phải sống dưới luật pháp. Sứ đồ Phao-lô hoàn toàn không đồng ý:
 
 > <span style="color: rgb(0, 61, 152);">*“Vì chẳng có một người nào bởi việc làm theo luật pháp mà sẽ được xưng công bình trước mặt Ngài, vì luật pháp cho người ta biết tội lỗi.”* (Romans 3:20)<br  />*“Vì chúng ta kể rằng người ta được xưng công bình bởi đức tin, chớ không bởi việc làm theo luật pháp.”* (Romans 3:28)<br  />*“Vả, bởi luật pháp, tôi đã chết về luật pháp, để sống cho Ðức Chúa Trời.”* (Galatians 2:19)</span>
 
-Do đó, chúng ta phải đi đến những kết luận dưới đây:
+Chúng ta hãy tương phản hai định nghĩa của sự cứu rỗi, giữa Giăng và Phao-lô. Theo Giăng, sự cứu rỗi thì tùy thuộc vào sự giữ các điều răn, trong khi Phao lô thì nói rằng sự cứu rỗi là bởi đức tin chứ không nhờ sự giữ các điều răn. Bạn cứ tùy nghi theo sự dạy dỗ của Giăng, nhưng hãy biết rằng có lời cảnh cáo dưới đây:
 
-a. Giăng vẫn còn ấu trĩ về chân lý *“người công bình sống bởi đức tin,”* hay ông vẫn chưa thoát khỏi ảnh hưởng của Do-thái giáo.<br />b. Chúa cho ghi lại trong Kinh thánh những xung đột trong hội thánh như chúng ta thấy trong sách Công Vụ về sự một số các lãnh đạo hội thánh buộc người ngoại phải giữ phép cắt bì hay luật pháp Môi-se. Điều này cho thấy sự ấu trĩ của một số sứ đồ về các chân lý nền tảng.
+> Anh em thảy đều muốn cậy luật pháp cho được xưng công bình, thì đã lìa khỏi Ðấng Christ, mất ân điển rồi. (Galatians 5:4)
 
-## Ở TRONG CHÚA TỨC LÀ SỐNG Y NHƯ NGÀI ĐÃ SỐNG
+## NOI GƯƠNG CHÚA GIÊ-SU
 
-<span style="color: rgb(159, 29, 33);">
-<sup>5</sup>Nhưng ai giữ lời phán Ngài, thì lòng kính mến Ðức Chúa Trời thật là trọn vẹn trong người ấy. Bởi đó, chúng ta biết mình ở trong Ngài. <sup>6</sup>Ai nói mình ở trong Ngài, thì cũng phải làm theo y như chính Ngài đã làm."* (1 John 2:5-6)
+<span style="color: rgb(159, 29, 33);"><i>
+<sup>5</sup>Nhưng <strong>ai giữ lời phán Ngài</strong>, thì lòng kính mến Ðức Chúa Trời thật là <strong>trọn vẹn</strong> trong người ấy. Bởi đó, chúng ta biết mình ở trong Ngài. <sup>6</sup>Ai nói mình ở trong Ngài, thì cũng phải <strong>làm theo y như chính Ngài đã làm</strong>."</i> (1 John 2:5-6)
 </span>
 
-Nếu bạn muốn *"làm theo như chính Ngài đã làm,"* thì bạn phải không phạm vào một điều răn nào. Vì sự thật là Chúa Giê-su chẳng hề phạm tội.
+Một người phải vâng lời Chúa đến mức độ nào để tình yêu Chúa trong họ được *"trọn vẹn"*? Tôi tin rằng để tình yêu Chúa được kể là trọn vẹn thì sự vâng lời cũng phải trọn vẹn. Nhưng nếu có ai có thể vâng lời trọn vẹn thì Đấng Christ đã không cần phải chết.
 
-Tôi còn nhớ trước kia đã từng đọc cuốn Noi Gương Chúa Giê-su của Thomas A Kempis khi vừa mới tin Chúa. Chắc ông đã được cảm động bởi sự dạy dỗ của Giăng trong câu 6 rằng mỗi tín hữu phải sống y như Chúa Giê-su đã sống. Bạn có thấy sự dạy dỗ này là một điều ngoài sức con người không? Lời Chúa trong 2 Corinthians 5:21 đã diễn tả về Chúa Giê-su như sau:
+Thực ra, Colossians 1:22 nói khác về làm sao chúng ta được trở nên trọn vẹn:
 
-*“Ðức Chúa Trời đã làm cho Ðấng vốn chẳng biết tội lỗi trở nên tội lỗi vì chúng ta.”*
+> ... nhưng bây giờ Ðức Chúa Trời đã <strong>nhờ sự chết của Con Ngài</strong> chịu lấy trong thân thể của xác thịt mà khiến anh em hòa thuận, đặng làm cho anh em đứng trước mặt Ngài cách <strong>thánh sạch không vết, không chỗ trách được</strong>; (Colossians 1:22).
 
-Vì Chúa Giê-su là Đấng vô tội, Ngài có đầy đủ khả năng để làm những việc công bình. Còn về phần chúng ta, tiên tri Ê-sai nói về việc làm của chúng ta như sau:
+Chúng ta hãy xem xét một lần nữa sự khác biệt giữa Giăng và Phao-lô về lẽ đạo cứu rỗi. Giăng lại một lần nữa nhấn mạnh về sự vâng lời, còn Phao-lô thì về đức tin. Một người thì nhờ vào nỗ lực của xác thịt để thỏa những đòi hỏi của luật pháp, còn người kia thì giúp chúng ta chú tâm vào Đấng khởi đầu và thành toàn của đức tin.
 
-*“… Mọi việc công bình của chúng tôi như áo nhớp."* (Isaiah 64:6)
+Đến đây, chúng ta hãy suy gẫm về một khía cạnh nữa của sự dạy dỗ của Giăng: *"làm theo y như chính Ngài đã làm."*
 
-Vì thế, Sứ đồ Giăng cũng như Thomas A. Kempis không thể nào sống như Chúa Giê-su đã sống.
-
-## KẾT LUẬN
-
-Trong chương 2, Giăng đã dạy rằng *"bước đi trong sự sáng"* nghĩa là *"giữ các điều răn Ngài,"* và ông cũng lấy đó làm điều kiện để được *"huyết của Chúa Giê-su làm sạch mọi tội chúng ta."* Sự dạy dỗ này thì mâu thuẫn với chân lý nền tảng rằng chỉ có huyết Chúa Giê-su mới làm sạch mọi tội lỗi. Sự vâng theo các điều răn không có quyền năng đó.
-
-Nếu chúng ta tin vào lời Chúa rằng *"ví bằng anh em nhờ Thánh Linh chỉ dẫn, thì
-chẳng hề ở dưới luật pháp"* (Galatians 5:18) thì chắc sứ đồ Giăng không nhờ Thánh Linh chỉ dẫn.
+Chúa Giê-su đã sống như thế nào? Ngài không hề phạm tội. Ngài đã khiến kẻ chết sống lại và chữa lành người mù, què, và câm điếc. Ngài chuộc tội lỗi của nhân loại. Ngài đã chết và sống lại. Ngài cũng chính là Đức Chúa Trời. Vì vậy tôi không biết làm sao tôi có thể theo bước chân Ngài. Tôi có thể tin rằng Ngài đã chết vì tội lỗi của mình, nhưng sống y như Ngài đã sống thì quả là một việc ngoài khả năng của bản chất hư mất của tôi.
 
 {% include bible-study/bible-study-footer %}
 

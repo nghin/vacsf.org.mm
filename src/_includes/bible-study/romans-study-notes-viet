@@ -1,0 +1,7 @@
+<nav class="js-toc toc" markdown="1">
+<h4 class="toc__title">Sách Rô-ma<br/></h4>
+<ul class="toc__menu" id="markdown-toc">
+  <li><a href="{{ site.url }}/romans-viet/Romans-01-v01-16-Viet/"><u>Rô-ma 1:1-16</u></a><span style="font-weight: normal; margin-left: 1em;">Phao-lô được gọi làm sứ đồ. Phúc âm Đức Chúa Trời đã hứa ban. Sự vâng phục của đức tin. Món nợ của Phao-lô. Không hổ thẹn về tin lành.</span></li>
+  <li><a href="{{ site.url }}/romans-viet/Romans-01-v17-32-Viet/"><u>Rô-ma 1:17-32</u></a><span style="font-weight: normal; margin-left: 1em;">Sống bởi đức tin. Cơn thịnh nộ của Đức Chúa Trời.</span></li>
+</ul>
+</nav>
