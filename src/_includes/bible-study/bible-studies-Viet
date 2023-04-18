@@ -1,0 +1,7 @@
+<nav class="js-toc toc" markdown="1">
+<!-- h4 class="toc__title">Học Kinh Thánh</h4 -->
+<h4 class="toc__title">
+    <a href="{{ site.url }}/bible-studies-viet"><u>Học Kinh Thánh</u></a>
+</h4>
+<a href="{{ site.url }}{% post_url bible-studies-Viet/2022-09-07-Co-lo-se %}"><u>Cơ-lô-se</u></a><a href="{{ site.url }}{% post_url bible-studies-Viet/2015-01-16-Ga-la-ti %}">&nbsp;&nbsp;<u>Ga-la-ti</u></a><a href="{{ site.url }}{% post_url bible-studies-Viet/2022-09-10-Phi-lip %}">&nbsp;&nbsp;<u>Phi-líp</u></a><a href="{{ site.url }}{% post_url bible-studies-Viet/2015-01-17-Ro-ma %}">&nbsp;&nbsp;<u>Rô-ma</u></a><br /><a href="{{ site.url }}{% post_url bible-studies-Viet/2022-09-15-Tho-Giang %}"><u>Thơ-Giăng</u></a><a href="{{ site.url }}{% post_url bible-studies-Viet/2015-01-15-Ngu-Ngon %}">&nbsp;&nbsp;<u>Parables</u></a><a href="{{ site.url }}{% post_url bible-studies-Viet/2015-01-14-Bap-tem %}">&nbsp;&nbsp;<u>Báp-têm</u></a>
+</nav>

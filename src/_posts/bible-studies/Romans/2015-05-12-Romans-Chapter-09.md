@@ -2,7 +2,7 @@
 title: "Romans Chapter 9"
 excerpt: "Israel, the chosen people. Born of flesh / Born of the promise. The sovereignty of God through Jacob and Esau. The sovereignty of God through Pharaoh. The sovereignty of God shown through the clay and the potter illustration. God's sovereign choice in wrath or mercy. Many are chosen but few are saved. God's righteousness is only available through faith."
 image: 
-  teaser: romans-chapter-teaser.png
+  teaser: Romans-teaser.png
 tags: [romans, bible-studies]
 featured: false
 modified:
@@ -24,7 +24,7 @@ comments_locked: false
 
 <div>
 <p>
-<img alt src="{{ site.url }}/assets/images/no-condemnation.jpg" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;">
+<img alt src="{{ site.url }}/assets/images/Romans-teaser.png" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;">
 Just like the pearl of great price in one of Jesus' parables as told in Matthew 13:45-46, which causes its finder to become so willing to let go of everything else in order to come into the possession of it. That pearl of great price must be the gospel of salvation that Paul found and is now trying to tell his own people. So strong is the desire that upon their unbelief, or that they believe but not to the point of fully understanding what they believe, Paul felt such pain and anguish that he wished he would be able to take their place of damnation so that they may be able to receive what he's been trying to convey to them. This was also the sentiment of Moses when he uttered the following words in Exodus 32:32: "But now, if you will forgive their sin..., but if not, wipe me out from your book that you have written." But of course, we should understand that this is just a way for Paul and Moses to express strongly their love for their countrymen, and more than such love is the treasure of what they knew were in store for the people but they rejected it nonetheless.
 </p>
 </div>

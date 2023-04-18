@@ -5,7 +5,7 @@ modified: 2020-04-23T21:00:45-07:00
 image:
   teaser: persistent-widow-teaser.jpg
 tags: [faith, prayer, parable, idol, persistence]
-featured: true
+featured: false
 comments: true
 teaser: "After telling this parable, Jesus pondered out loud whether He would find faith when He'd come again. Was he commending this widow for her faith which was demonstrated in her persistence? Or was he asking for a true knowledge of God? My question for you is: what kind of faith do you think this widow has?"
 

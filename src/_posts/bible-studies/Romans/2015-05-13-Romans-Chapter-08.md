@@ -2,7 +2,7 @@
 title: "Romans Chapter 8"
 excerpt: "No more condemnation. The new law sets us free from the old law. True meaning of walking after the flesh. Where is the focus of your faith? Who walks after the flesh? The spirit lives but the flesh is dead. The Spirit gives life. The debt of the flesh is fully paid. Do not rely on the flesh to achieve God's righteousness. Sealed by the Spirit. Peace in Christ. Suffering with Christ--the true meaning. Waiting for the day of deliverance from the bondage of decay. The Spirit prays for us. Those who are called by God. God's love is undefeatable."
 image: 
-  teaser: romans-chapter-teaser.png
+  teaser: Romans-teaser.png
 tags: [romans, bible-studies]
 featured: false
 modified:
@@ -22,7 +22,7 @@ comments_locked: false
 
 <div>
 <p>
-<img alt src="{{ site.url }}/assets/images/no-condemnation.jpg" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;">
+<img alt src="{{ site.url }}/assets/images/Romans-teaser.png" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;">
 The spiritual truths Paul presented in the preceding chapters lead to the conclusion that those who are in Christ are no longer condemned. There is no longer any threat to their relationship with God, because the only required condition is that they're in Christ, and we have established this fact based on preceding chapters: by faith, not by works, by being dead to the law through the body of Christ.
 </p>
 </div>

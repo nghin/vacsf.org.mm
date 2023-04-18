@@ -1,7 +1,7 @@
 ---
 title: "Giới Thiệu Loạt Bài Học Cơ-lô-se"
 excerpt: "Học từng câu/đoạn theo sách Cơ-lô-se"
-modified: 2020-06-08T21:00:45-07:00
+modified: 2022-09-08T21:00:45-07:00
 image:
   teaser: Colossians-teaser.jpg
 tags: [faith, law, grace, colossians]

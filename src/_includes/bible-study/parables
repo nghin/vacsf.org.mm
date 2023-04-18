@@ -1,6 +1,11 @@
-<ul class="side-nav" style="padding-top: 10px;">
-      <li><a href="{{ site.projectname }}/bible-topics/parables/sower/">Parable of the sower</a><p style="font-weight: normal;">Fruitful soil is who you can be</p></li>
-      <li><a href="{{ site.projectname }}/bible-topics/parables/talents/">Parable of the talents</a><p style="font-weight: normal;">Produce all the talents you need</p></li>
-      <li><a href="{{ site.projectname }}/bible-topics/parables/evil-steward/">Parable of the evil steward</a><p style="font-weight: normal;">Buy God's kingdom with <span class="red-letter">faith</span></p></li>
-      <li><a href="{{ site.projectname }}/bible-topics/parables/the-net/">Parable of the net</a><p style="font-weight: normal;">A new and living way</p></li>
+<nav class="js-toc toc" markdown="1">
+<h4 class="toc__title">Jesus' Parables<br /></h4>
+<ul class="toc__menu" id="markdown-toc">
+  <li><a href="{{ site.url }}/parable/Sower/"><u>Parable of the Sower</u></a><span style="font-weight: normal; margin-left: 1em;">To become fruitful for God is to understand the gospel</span></li>
+  <li><a href="{{ site.url }}/parable/Evil-Steward/"><u>Parable of the Evil Steward</u></a><span style="font-weight: normal; margin-left: 1em;">Illegal Debt Reduction</span></li>
+  <li><a href="{{ site.url }}/parable/The-Net/"><u>Parable of the Net</u></a><span style="font-weight: normal; margin-left: 1em;">The New Covenant between God and Man</span></li>
+  <li><a href="{{ site.url }}/parable/Parable-of-the-Unjust-Judge/"><u>Parable of the Unjust Judge</u></a><span style="font-weight: normal; margin-left: 1em;">This parable is NOT about pray without ceasing</span></li>
+  <li><a href="{{ site.url }}/parable/Parable-Ten-Virgins/"><u>Parable of the Ten Virgins</u></a><span style="font-weight: normal; margin-left: 1em;">They never had oil in their lamps</span></li>
+  <li><a href="{{ site.url }}/parable/Cloth-and-Wineskins/"><u>Parable of the Cloth and Wineskins</u></a><span style="font-weight: normal; margin-left: 1em;">Old vs. New Covenant</span></li>
 </ul>
+</nav>

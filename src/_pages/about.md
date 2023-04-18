@@ -38,6 +38,7 @@ Tel. 650-892-5270<br/>
 Pastor: Rev. Andrew Ông<br/>
 Tel. 650-892-5270, Email: vacsf1@gmail.com
 
+<!--
 ## Sunday Schedule
 
 * 12:30 - 2:00 PM: in-person service (bilingual Vietnamese & English), and on Zoom: Meeting ID: 558-560-3718 pw: 555413
@@ -48,6 +49,7 @@ Tel. 650-892-5270, Email: vacsf1@gmail.com
 * For seniors led by Mr. Nhon Le: Meeting ID: 780-485-9331, password: 099868, Saturday evenings: 8 pm - 9 pm
 * For adults led by Mr. Nghi Nguyen: Meeting ID: 891 5324 5907, password: httlvn@sf,  Sunday mornings: 10-11 am
 * For young adults and youth led by Janet Nguyen: Meeting ID: 233-426-8211, password: *VACsf13322, Friday evenings: 7 pm - 8 pm
+-->
 
 ## VACSF Calendar
 <p>

@@ -2,7 +2,7 @@
 title: "Romans Chapter 3"
 excerpt: "The Jews were entrusted with the oracles of God. God's righteousness abides even as those that call themselves by His name fail in every way. God's grace is unfathomable against the backdrop of man's wretchedness. All men are under condemnation. The law's purpose is to convict all men of sin. Preach grace and you'll be accused of promoting sins. No one can be justified by the works of the law. God's righteousness for all who believe. Justified freely. Since salvation is by grace and through faith, there can be no boasting. Preach faith and you will be accused of trying to nullify the law."
 image: 
-  teaser: romans-chapter-teaser.png
+  teaser: Romans-teaser.png
 tags: [romans, bible-studies]
 featured: false
 modified:
@@ -26,7 +26,7 @@ comments_locked: false
 
 <div>
 <p>
-<img alt src="{{ site.url }}/assets/images/no-condemnation.jpg" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;">
+<img alt src="{{ site.url }}/assets/images/Romans-teaser.png" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;">
 At the end of the previous chapter, Paul showed that a true Jew is not one who is only circumcised outwardly in the flesh, but one whose heart is circumcised by the Spirit (which can only be by faith). On the other hand, a Gentile who is not circumcised, but fulfilled the law (hypothetically, as no one can fulfill the law), is a true Jew indeed. This raised the question: what then is the advantage of being Jewish? There is an advantage, if they do take it, that through them God revealed his plan of salvation, of the coming Messiah, through the prophets.
 </p>
 </div>

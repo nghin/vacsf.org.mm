@@ -1,18 +1,15 @@
 <nav class="js-toc toc" markdown="1">
 <h4 class="toc__title">Sách Cơ-lô-se<br/></h4>
 <ul class="toc__menu" id="markdown-toc">
-  <li><a href="{{ site.url }}/colossians-viet/Co-lo-se-01-v01-06/"><u>Colossians 1:1-6</u></a><span style="font-weight: normal; margin-left: 1em;">Đức Tin, Sự Hy Vọng, và Tình Yêu Thương</span></li>
-{% comment %}
-  <li><a href="{{ site.url }}/romans/Romans-Chapter-02/"><u>Chapter 2</u></a><span style="font-weight: normal; margin-left: 1em;">True Repentance</span></li>
-  <li><a href="{{ site.url }}/romans/Romans-Chapter-03/"><u>Chapter 3</u></a><span style="font-weight: normal; margin-left: 1em;">God's Righteousness For All Who Believe</span></li>
-  <li><a href="{{ site.url }}/romans/Romans-Chapter-04/"><u>Chapter 4</u></a><span style="font-weight: normal; margin-left: 1em;">The Law Brings Wrath, Not Peace</span></li>
-  <li><a href="{{ site.url }}/romans/Romans-Chapter-05/"><u>Chapter 5</u></a><span style="font-weight: normal; margin-left: 1em;">The Gift Of Grace</span></li>
-  <li><a href="{{ site.url }}/romans/Romans-Chapter-06/"><u>Chapter 6</u></a><span style="font-weight: normal; margin-left: 1em;">Death Through Christ, Life Through Christ</span></li>
-  <li><a href="{{ site.url }}/romans/Romans-Chapter-07/"><u>Chapter 7</u></a><span style="font-weight: normal; margin-left: 1em;">To Bear Fruit To God, Die To The Law</span></li>
-  <li><a href="{{ site.url }}/romans/Romans-Chapter-08/"><u>Chapter 8</u></a><span style="font-weight: normal; margin-left: 1em;">No More Condemnation</span></li>
-  <li><a href="{{ site.url }}/romans/Romans-Chapter-09/"><u>Chapter 9</u></a><span style="font-weight: normal; margin-left: 1em;">God's Sovereignty</span></li>
-  <li><a href="{{ site.url }}/romans/Romans-Chapter-10/"><u>Chapter 10</u></a><span style="font-weight: normal; margin-left: 1em;">Do Not Seek Own Righteousness</span></li>
-  <li><a href="{{ site.url }}/romans/Romans-Chapter-11/"><u>Chapter 11</u></a><span style="font-weight: normal; margin-left: 1em;">Saved By Grace</span></li>
-{% endcomment %}
+  <li><a href="{{ site.url }}/colossians-viet/Co-lo-se-01-v01-06/"><u>Cơ-lô-se 1:1-6</u></a><span style="font-weight: normal; margin-left: 1em;">Đức Tin, Sự Hy Vọng, và Tình Yêu Thương</span></li>
+  <li><a href="{{ site.url }}/colossians-viet/Co-lo-se-01-v07-10/"><u>Cơ-lô-se 1:7-10</u></a><span style="font-weight: normal; margin-left: 1em;">Yêu thương trong Thánh Linh. Biết ý Chúa. Nẩy ra đủ các việc lành.</span></li>
+  <li><a href="{{ site.url }}/colossians-viet/Co-lo-se-01-v11-22/"><u>Cơ-lô-se 1:11-22</u></a><span style="font-weight: normal; margin-left: 1em;">Sức Chúa ban. Được cứu. Chúa Giê-su trên hết. Kẻ thù của Đức Chúa Trời. Được giảng hòa.</span></li>
+  <li><a href="{{ site.url }}/colossians-viet/Colossians-01-v22-23-Viet/"><u>Cơ-lô-se 1:22-23</u></a><span style="font-weight: normal; margin-left: 1em;">Mỗi ngày một nên thánh hơn. Đứng vững trong đức tin.</span></li>
+  <li><a href="{{ site.url }}/colossians-viet/Colossians-01-v24-26-Viet/"><u>Cơ-lô-se 1:24-26</u></a><span style="font-weight: normal; margin-left: 1em;">Vui mừng trong hoạn nạn. Giảng trọn lời Chúa. Sự mầu nhiệm giấu kín nay được tỏ ra.</span></li>
+  <li><a href="{{ site.url }}/colossians-viet/Colossians-01-v27-ch2-v4-Viet/"><u>Cơ-lô-se 1:27-2:4</u></a><span style="font-weight: normal; margin-left: 1em;">Sự trông cậy về vinh hiển. Trọn vẹn trong Đấng Christ. Vững tâm nhờ biết Chúa. Lời dỗ dành lừa dối.</span></li>
+  <li><a href="{{ site.url }}/colossians-viet/Colossians-02-v5-10-Viet/"><u>Cơ-lô-se 2:5-10</u></a><span style="font-weight: normal; margin-left: 1em;">Đức tin vững vàng. Đã tin Chúa thể nào thì hãy sống như vậy. Các lý thuyết lừa dối. Sự đầy dẫy của bổn tánh Đức Chúa Trời. Bạn đã được đầy dẫy mọi sự.</span></li>
+  <li><a href="{{ site.url }}/colossians-viet/Colossians-02-v5-10-Cont-Viet/"><u>Cơ-lô-se 2:5-10 - tiếp theo</u></a><span style="font-weight: normal; margin-left: 1em;">Chúng ta tiếp tục đào sâu hơn các ý chính đã học từ tuần trước.</span></li>
+  <li><a href="{{ site.url }}/colossians-viet/Colossians-02-v11-15-Viet/"><u>Cơ-lô-se 2:11-15</u></a><span style="font-weight: normal; margin-left: 1em;">Phép cắt bì của Đấng Christ. Được chôn và sống lại bởi đức tin. Tha thứ hết mọi tội. Phá hủy tờ khế. Chiến thắng bởi thập tự giá.</span></li>
+  <li><a href="{{ site.url }}/colossians-viet/Colossians-02-v16-23-Viet/"><u>Cơ-lô-se 2:16-23</u></a><span style="font-weight: normal; margin-left: 1em;">Bóng và hình. Giả đò khiêm nhượng và kiêu ngạo vô ích. Sự sơ học của thế gian.</span></li>
 </ul>
 </nav>

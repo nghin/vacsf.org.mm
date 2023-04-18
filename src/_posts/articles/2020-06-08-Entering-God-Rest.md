@@ -5,7 +5,7 @@ modified: 2020-06-08T21:00:45-07:00
 image:
   teaser: God-rest-teaser.jpg
 tags: [faith, rest, law, grace, sin, repentance]
-featured: true
+featured: false
 comments: true
 teaser: "What is God resting from? Many think that he rests from the 6-day labor of creation. Nothing is further from the truth as God cannot be tired. He does everything with a purpose. All things He did before Christ were shadows of things to come after him. Though he started with the rest from the work of creating man, he ended with the rest from the work of saving them. This rest began after Jesus uttered his last words on the cross: &#8220;It is finished.&#8221; It is this second rest that he wants you to enter with him, but you must first understand the meaning of this rest."
 
