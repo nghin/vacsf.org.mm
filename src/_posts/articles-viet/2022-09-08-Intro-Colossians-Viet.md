@@ -5,7 +5,7 @@ modified: 2022-09-08T21:00:45-07:00
 image:
   teaser: Colossians-teaser.jpg
 tags: [faith, law, grace, colossians]
-featured: true
+featured: false
 comments: true
 teaser: "Một loạt bài học mới theo từng câu hoặc đoạn trong sách Cơ-lô-se."
 
