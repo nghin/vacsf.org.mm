@@ -3,7 +3,6 @@
 <h4 class="toc__title">
     <a href="{{ site.url }}/bible-studies"><u>Bible Study Series</u></a>
 </h4>
-<<<<<<< HEAD
 <a href="{{ site.url }}{% post_url bible-studies/2022-09-07-Colossians %}"><u>Colossians</u></a>
 <a href="{{ site.url }}{% post_url bible-studies/2015-01-16-Galatians %}">&nbsp;&nbsp;<u>Galatians</u></a>
 <a href="{{ site.url }}{% post_url bible-studies/2022-09-10-Philippians %}">&nbsp;&nbsp;<u>Philippians</u></a><br />
@@ -12,7 +11,4 @@
 <a href="{{ site.url }}{% post_url bible-studies/2015-01-15-Parables %}">&nbsp;&nbsp;<u>Parables</u></a><br />
 <a href="{{ site.url }}{% post_url bible-studies/2015-01-14-Baptism %}"><u>Baptism</u></a>
 <a href="{{ site.url }}{% post_url bible-studies/2023-07-02-John %}">&nbsp;&nbsp;<u>John</u></a>
-=======
-<a href="{{ site.url }}{% post_url bible-studies/2022-09-07-Colossians %}"><u>Colossians</u></a><a href="{{ site.url }}{% post_url bible-studies/2015-01-16-Galatians %}">&nbsp;&nbsp;<u>Galatians</u></a><a href="{{ site.url }}{% post_url bible-studies/2022-09-10-Philippians %}">&nbsp;&nbsp;<u>Philippians</u></a><a href="{{ site.url }}{% post_url bible-studies/2015-01-17-Romans %}">&nbsp;&nbsp;<u>Romans</u></a><br /><a href="{{ site.url }}{% post_url bible-studies/2022-09-15-John-Epistles %}"><u>John Epistles</u></a><a href="{{ site.url }}{% post_url bible-studies/2015-01-15-Parables %}">&nbsp;&nbsp;<u>Parables</u></a><a href="{{ site.url }}{% post_url bible-studies/2015-01-14-Baptism %}">&nbsp;&nbsp;<u>Baptism</u></a>
->>>>>>> 3cf6fd72988c9ca74b33dc8f7e0dd8d742b5ef08
 </nav>
