@@ -5,7 +5,7 @@ modified: 2020-06-08T21:00:45-07:00
 image:
   teaser: God-rest-teaser.jpg
 tags: [đức-tin, an-nghỉ, luật-pháp, ân-điển, tội-lỗi, ăn-năn]
-featured: true
+featured: false
 comments: true
 ---
 {{ page.excerpt | markdownify }}

@@ -2,7 +2,7 @@
 title: "Romans Chapter 11"
 excerpt: "The remnant - God's way of selection. Saved by grace. The law ensnares those who rely on it."
 image: 
-  teaser: romans-chapter-teaser.png
+  teaser: Romans-teaser.png
 tags: [romans, bible-studies]
 featured: false
 modified:
@@ -26,7 +26,7 @@ comments_locked: false
 
 <div>
 <p>
-<img alt src="{{ site.url }}/assets/images/no-condemnation.jpg" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;">
+<img alt src="{{ site.url }}/assets/images/Romans-teaser.png" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;">
 Paul recalled the prophet Elijah when he thought that no one among God's people followed Him anymore, but God let him know that there is still a "remnant" among them who still believed in Him. Today, when Paul wrote this letter, there is still a remnant. In the time of Elijah, God chose those who did not kneel before Baal, today how does He make his choices? Verse 5 let us know that God chose the remnant according to grace.
 </p>
 </div>

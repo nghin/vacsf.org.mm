@@ -2,7 +2,7 @@
 title: "Romans Chapter 4"
 excerpt: "Boasting is the characteristic of those that rely on the law. Those that do not work, but believe in Christ is considered righteous. Rightousness is credited apart from works. God will never count the sins of those that believe ever again. Abraham was called righteous even before he was circumcised. Dead faith belongs to the one who relies on the law to get right with God. God's promise is only voided if you rely on the law to get right with Him. The law only brings wrath. In conclusion, righteousness is by grace through faith only."
 image: 
-  teaser: romans-chapter-teaser.png
+  teaser: Romans-teaser.png
 tags: [romans, bible-studies]
 featured: false
 modified:
@@ -26,7 +26,7 @@ comments_locked: false
 
 <div>
 <p>
-<img alt src="{{ site.url }}/assets/images/no-condemnation.jpg" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;">
+<img alt src="{{ site.url }}/assets/images/Romans-teaser.png" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;">
 
 Once again, Paul associates the reliance on the law with boasting. This makes lots of sense, because when one operates under the requirement of the law, there is much to prove, there are obligations to fulfill. In order for the lawkeeper to measure his level of performance, he has to look to others, to see where he fits on the bell-shaped curve. Insecurity finds its breeding ground in a law-based environment. And then there is comparison, and then there is boasting.
 </p>

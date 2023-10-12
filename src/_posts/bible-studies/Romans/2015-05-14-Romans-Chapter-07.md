@@ -2,7 +2,7 @@
 title: "Romans Chapter 7"
 excerpt: "The master/slave relationship with the law. Released from one to marry another. To bear fruit to God: die to the law. Law/death vs. Spirit/life. The law reveals sin. The commandment brought death, not life. Men's utter helplessness. We need WHO, not HOW."
 image: 
-  teaser: romans-chapter-teaser.png
+  teaser: Romans-teaser.png
 tags: [romans, bible-studies]
 featured: false
 modified:
@@ -24,7 +24,7 @@ The master/slave relationship with the law. Released from one to marry another. 
 
 <div>
 <p>
-<img alt src="{{ site.url }}/assets/images/no-condemnation.jpg" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;">
+<img alt src="{{ site.url }}/assets/images/Romans-teaser.png" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;">
 In Romans 6:14, Paul asserted that we're no longer under law, but under grace, and here in chapter 7, he began to show the reader the limitation of the law in a believer's life: the law continues to rule him, as long as, and only as long as, he lives. This also means that when that person dies, the law can no longer has power over him.
 </p>
 </div>

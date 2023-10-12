@@ -1,11 +1,11 @@
 ---
 title: "Introducing Colossians Study"
 excerpt: "Verse-by-verse study of Colossians"
-modified: 2020-06-08T21:00:45-07:00
+modified: 2022-09-08T21:00:45-07:00
 image:
   teaser: Colossians-teaser.jpg
 tags: [faith, law, grace, colossians]
-featured: true
+featured: false
 comments: true
 teaser: "A new series on a verse-by-verse study of the book of Colossians."
 

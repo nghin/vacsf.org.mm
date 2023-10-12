@@ -2,7 +2,7 @@
 title: "Romans Chapter 1"
 excerpt: "Obedience of faith is the willingness to base one's salvation entirely on Christ."
 image: 
-  teaser: romans-chapter-teaser.png
+  teaser: Romans-teaser.png
 tags: [romans, bible-studies]
 featured: false
 modified:
@@ -26,7 +26,7 @@ comments_locked: false
 
 <div>
 <p>
-<img alt src="{{ site.url }}/assets/images/no-condemnation.jpg" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;">
+<img alt src="{{ site.url }}/assets/images/Romans-teaser.png" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;">
 <p style="text-align: left;">Paul's salutation to the church<span style="text-align: justify;">&nbsp;at Rome</span>. Note that Paul addresses himself to be a slave of Christ in this NET Bible translation of the epistle, other translations use the term "servant" instead. The word "slave," or bondservant, does not bear the connotation of a free individual serving another.&nbsp;<span style="text-align: justify;">In John 15:15, Jesus says that he no longer calls us slaves (or servants), but friends because He's made known to us, through the indwelling Spirit, what He learned from the Father.</span></p>
 </p>
 </div>

@@ -4,17 +4,14 @@
 </h4>
 <ul class="toc__menu" id="markdown-toc">
   <li><a href="{{ site.url }}/colossians/Colossians-01-v01-06/"><u>Colossians 1:1-6</u></a><span style="font-weight: normal; margin-left: 1em;">Faith, Hope, and Love</span></li>
-{% comment %}
-  <li><a href="{{ site.url }}/romans/Romans-Chapter-02/"><u>Chapter 2</u></a><span style="font-weight: normal; margin-left: 1em;">True Repentance</span></li>
-  <li><a href="{{ site.url }}/romans/Romans-Chapter-03/"><u>Chapter 3</u></a><span style="font-weight: normal; margin-left: 1em;">God's Righteousness For All Who Believe</span></li>
-  <li><a href="{{ site.url }}/romans/Romans-Chapter-04/"><u>Chapter 4</u></a><span style="font-weight: normal; margin-left: 1em;">The Law Brings Wrath, Not Peace</span></li>
-  <li><a href="{{ site.url }}/romans/Romans-Chapter-05/"><u>Chapter 5</u></a><span style="font-weight: normal; margin-left: 1em;">The Gift Of Grace</span></li>
-  <li><a href="{{ site.url }}/romans/Romans-Chapter-06/"><u>Chapter 6</u></a><span style="font-weight: normal; margin-left: 1em;">Death Through Christ, Life Through Christ</span></li>
-  <li><a href="{{ site.url }}/romans/Romans-Chapter-07/"><u>Chapter 7</u></a><span style="font-weight: normal; margin-left: 1em;">To Bear Fruit To God, Die To The Law</span></li>
-  <li><a href="{{ site.url }}/romans/Romans-Chapter-08/"><u>Chapter 8</u></a><span style="font-weight: normal; margin-left: 1em;">No More Condemnation</span></li>
-  <li><a href="{{ site.url }}/romans/Romans-Chapter-09/"><u>Chapter 9</u></a><span style="font-weight: normal; margin-left: 1em;">God's Sovereignty</span></li>
-  <li><a href="{{ site.url }}/romans/Romans-Chapter-10/"><u>Chapter 10</u></a><span style="font-weight: normal; margin-left: 1em;">Do Not Seek Own Righteousness</span></li>
-  <li><a href="{{ site.url }}/romans/Romans-Chapter-11/"><u>Chapter 11</u></a><span style="font-weight: normal; margin-left: 1em;">Saved By Grace</span></li>
-{% endcomment %}
+  <li><a href="{{ site.url }}/colossians/Colossians-01-v07-10/"><u>Colossians 1:7-10</u></a><span style="font-weight: normal; margin-left: 1em;">Love in the Spirit. Knowledge of God's will. Bearing fruit in good deed.</span></li>
+  <li><a href="{{ site.url }}/colossians/Colossians-01-v11-22/"><u>Colossians 1:11-22</u></a><span style="font-weight: normal; margin-left: 1em;">Strength from God. Deliverance. The Preeminance of Christ. Enemies of God. Reconciled.</span></li>
+  <li><a href="{{ site.url }}/colossians/Colossians-01-v22-23/"><u>Colossians 1:22-23</u></a><span style="font-weight: normal; margin-left: 1em;">Progressive sanctification. Established and firm in the faith.</span></li>
+  <li><a href="{{ site.url }}/colossians/Colossians-01-v24-26/"><u>Colossians 1:24-26</u></a><span style="font-weight: normal; margin-left: 1em;">Rejoice in suffering. To complete the Word of God. The hidden mystery now revealed.</span></li>
+  <li><a href="{{ site.url }}/colossians/Colossians-01-v27-ch2-v4/"><u>Colossians 1:27-2:4</u></a><span style="font-weight: normal; margin-left: 1em;">The hope of glory. Perfection in Christ. Assurance from knowing Christ. Reasonable sounding deception.</span></li>
+  <li><a href="{{ site.url }}/colossians/Colossians-02-v5-10/"><u>Colossians 2:5-10</u></a><span style="font-weight: normal; margin-left: 1em;">The firmness of your faith in Christ. Just as you received Christ, live. Empty, deceiptful philosophy not according to Christ. The fullness of deity in bodily form: Christ. You have been filled in him.</span></li>
+  <li><a href="{{ site.url }}/colossians/Colossians-02-v5-10-Cont/"><u>Colossians 2:5-10 - part 2</u></a><span style="font-weight: normal; margin-left: 1em;">We dug deeper into the concept introduced in last week's study.</span></li>
+  <li><a href="{{ site.url }}/colossians/Colossians-02-v11-15/"><u>Colossians 2:11-15</u></a><span style="font-weight: normal; margin-left: 1em;">Circumcision done by Christ. Buried and raised with Christ by faith. All your transgressions forgiven. Certificate of indebtedness destroyed. Triumphant through the cross.</span></li>
+  <li><a href="{{ site.url }}/colossians/Colossians-02-v16-23/"><u>Colossians 2:16-23</u></a><span style="font-weight: normal; margin-left: 1em;">Shadow vs Reality. False humility and empty notions. Elemental spirits.</span></li>
 </ul>
 </nav>

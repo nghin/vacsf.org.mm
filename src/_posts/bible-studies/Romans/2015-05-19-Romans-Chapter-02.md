@@ -2,7 +2,7 @@
 title: "Romans Chapter 2"
 excerpt: "All men are under judgement. Lawkeepers are judgemental, and they will be judged by the very law they uphold. God's kindness that leads you to repentance. Unrepentance = not submitting to salvation through Christ. All will be judged according to the law or to grace. All Gentiles who live under the moral law in their hearts are condemned. All Jews under Mosaic Law are condemned."
 image: 
-  teaser: romans-chapter-teaser.png
+  teaser: Romans-teaser.png
 tags: [romans, bible-studies]
 featured: false
 modified:
@@ -26,7 +26,7 @@ comments_locked: false
 
 <div>
 <p>
-<img alt src="{{ site.url }}/assets/images/no-condemnation.jpg" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;">
+<img alt src="{{ site.url }}/assets/images/Romans-teaser.png" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;">
 <p style="text-align: left;">Who are these folks that Paul is writing about? Whoever they are, Paul is saying they will be judged according to the same standard on which they judge others; and all who judge others, are doing exactly the same thing.<br /> This is a sweeping condemnation of all men. No exception.</p>
 </p>
 </div>

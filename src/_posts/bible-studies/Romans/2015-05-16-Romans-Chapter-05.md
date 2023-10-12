@@ -2,7 +2,7 @@
 title: "Romans Chapter 5"
 excerpt: "Faith: access to God's grace and peace. Rejoice in sufferings. God demonstrates His love for us. Reconciliation with God. Saved by Christ's life. Death spreads to all. The Gift by the Grace of God. The reigns of sin vs. grace."
 image: 
-  teaser: romans-chapter-teaser.png
+  teaser: Romans-teaser.png
 tags: [romans, bible-studies]
 featured: false
 modified:
@@ -22,7 +22,7 @@ comments_locked: false
 
 <div>
 <p>
-<img alt src="{{ site.url }}/assets/images/no-condemnation.jpg" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;">
+<img alt src="{{ site.url }}/assets/images/Romans-teaser.png" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;">
 <p style="text-align: left;"><span style="text-align: left;">Having the sin nature inherited from Adam and Eve, all of us had fallen short of God's glory, therefore we became separated from God, and hence His enemy. But God had provided a way for us to be restored to our former glory so we may be reconciled to Him. The way of salvation has been opened to us when Jesus died on the cross, became a payment to restore us to the position that we had lost. Through faith in the great price that Christ had paid we may be reconciled to God. Now we stand firm in such gracious gift. We stand firm in believing in God who is faithful, not in our limitted human strength. If there is any reason for us to rejoice, or to boast, it is because of the hope in eternal life, not in the blessings of this physical life.</span></p>
 </p>
 </div>

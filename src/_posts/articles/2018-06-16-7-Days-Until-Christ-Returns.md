@@ -102,7 +102,7 @@ What rewards can match the wonderful parts of our inheritance in Christ? Conside
 
 Last but not least, exhortations such as 7-Days makes a normal Christian life abnormal, it replaces contentment with dissatisfaction, it takes away thanksgiving for what God has given and replace it with yearning for what seems to be greater blessings enjoyed by others.
 
-In the parable of the <a href="{{ site.url }}{% post_url articles/2017-02-09-Parable-Ten-Virgins %}"><em>Ten Virgins</em></a>, all ten virgins, both the wise and the foolish, fell asleep while waiting for the bridegroom who was a long time in coming. There was no indication of any difference in lifestyle, activities, or performance, between the wise and the foolish virgins, except one thing: the oil the virgins should take with them before they embark on their journey. That was the only thing that counts. That was how they should prepare to meet their Lord, for neither servanthood nor talents would get them the oil they needed.
+In the parable of the <a href="{{ site.url }}/parable/Parable-Ten-Virgins/"><em>Ten Virgins</em></a>, all ten virgins, both the wise and the foolish, fell asleep while waiting for the bridegroom who was a long time in coming. There was no indication of any difference in lifestyle, activities, or performance, between the wise and the foolish virgins, except one thing: the oil the virgins should take with them before they embark on their journey. That was the only thing that counts. That was how they should prepare to meet their Lord, for neither servanthood nor talents would get them the oil they needed.
 
 ### Notes
 

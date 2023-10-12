@@ -12,6 +12,8 @@ feature:
 ---
 
 {% include toc.html %}
+{% include toc_spacer.html %}
+{% include bible-study/ngu-ngon %}
 
 {{ page.excerpt | markdownify }}
 

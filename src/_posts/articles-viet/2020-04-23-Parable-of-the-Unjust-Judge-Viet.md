@@ -5,7 +5,7 @@ modified: 2020-04-23T21:00:45-07:00
 image:
   teaser: persistent-widow-teaser.jpg
 tags: [đức-tin, cầu-nguyện, ngụ-ngôn, thần-tượng, kiên-trì]
-featured: true
+featured: false
 comments: true
 teaser: "Sau khi kể xong ngụ ngôn, Chúa Giê-su thốt lên ý nghĩ trong lòng mình rằng một ngày kia, khi Ngài tái lâm, Ngài có sẽ thấy đức tin chân thật chăng. Phải chăng Ngài khen ngợi đức tin của người phụ nữ bày tỏ trong sự kiên trì của bà? Hoặc Ngài đang tìm kiếm người thực có sự nhận biết Đức Chúa Trời? Tôi có một câu hỏi cho các bạn là: Bạn có nhận xét gì về đức tin của người phụ nữ này?"
 

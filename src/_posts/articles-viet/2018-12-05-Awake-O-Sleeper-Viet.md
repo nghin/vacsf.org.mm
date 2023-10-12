@@ -5,7 +5,7 @@ modified: 2018-12-10T12:14:45-04:00
 image:
   teaser: awake-o-sleeper-teaser.jpg
 tags: [salvation, awakening, death, work, faith] 
-featured: true
+featured: false
 comments: true
 ---
 
@@ -61,7 +61,7 @@ Xin ghi nhận rằng sự nên thánh và không chỗ trách được của ch
 
 #### Lẽ tự nhiên
 
-Chắc các bạn biết ngụ ngôn <a href="{{ site.url }}{% post_url articles-viet/2017-02-09-Ngu-Ngon-Muoi-Nguoi-Nu-Dong-Trinh %}"><em>Mười người nữ đồng trinh</em></a> khi tất cả bọn họ, người dại cũng như người khôn, đều ngủ gật trong khi chờ đợi chàng rể? Trong ngụ ngôn này, Chúa cho chúng ta thấy vấn đề của các người nữ ngu dại không phải là ở chỗ họ ngủ gật, nhưng ở chỗ họ lên đường mà không đem theo yếu tố tối cần là dầu để thắp đèn. Sự ngủ gật của các nàng trinh nữ có thể ở dưới nhiều dạng thức khác nhau trong đời sống con người, và trên thực tế, qua những khó khăn và trở ngại trong cuộc sống mà Chúa chuẩn bị chúng ta cho cuộc sống vĩnh cửu. Có người có thể khuyên các bạn hãy tỉnh thức canh phòng, nhưng tôi tin rằng sự vào nơi an nghỉ Chúa lại là điều cần yếu hơn (Hebrews 4:11).
+Chắc các bạn biết ngụ ngôn <a href="{{ site.url }}/ngu-ngon/Ngu-Ngon-Muoi-Nguoi-Nu-Dong-Trinh/"><em>Mười người nữ đồng trinh</em></a> khi tất cả bọn họ, người dại cũng như người khôn, đều ngủ gật trong khi chờ đợi chàng rể? Trong ngụ ngôn này, Chúa cho chúng ta thấy vấn đề của các người nữ ngu dại không phải là ở chỗ họ ngủ gật, nhưng ở chỗ họ lên đường mà không đem theo yếu tố tối cần là dầu để thắp đèn. Sự ngủ gật của các nàng trinh nữ có thể ở dưới nhiều dạng thức khác nhau trong đời sống con người, và trên thực tế, qua những khó khăn và trở ngại trong cuộc sống mà Chúa chuẩn bị chúng ta cho cuộc sống vĩnh cửu. Có người có thể khuyên các bạn hãy tỉnh thức canh phòng, nhưng tôi tin rằng sự vào nơi an nghỉ Chúa lại là điều cần yếu hơn (Hebrews 4:11).
 
 ## Sự sống vĩnh cửu
 
